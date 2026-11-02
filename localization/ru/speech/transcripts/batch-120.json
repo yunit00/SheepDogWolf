@@ -1,0 +1,90 @@
+[
+  {
+    "file": "sc_02.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Come on, the crowd is with ya! Keep going!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "sc_03.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Listen, if you don't want to proceed we'll just find a new contestant. There's plenty who'd jump at the chance to work with me, I'll tell ya."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "txt_lvl0602.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "The good news is, you can approach a mine when the light wave disappears. The bad news is, you don't have much time before the next light wave appears. Don't forget that if you are hit by a light wave, the mine goes kablooey!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "txt_lvl0603.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Activating a mine is simple. It's deactivating it that's the tough stuff. You've got to remember the button sequence when the light is green and then redo it on your controller when the light is red. Try not to mess up, cause you have to press the right button at the right time. But on the bright side, you will get help from the little yellow lights and the sounds to make sure you press the buttons at the right time. See? It's simple!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "txt_lvl0604.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "When deactivated, you can use the mines as if they were standard objects. When you lay a mine, it will activate itself within 5 seconds."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_001.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Oh, that didn't work too well. Follow me, and I'll explain a few commands."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_0010.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Hey, how about a little race? You want to know how to win? When you cross the starting line, you'll get a limited amount of time to finish the race. To do this, press steadily on the run button to increase your speed. If you run fast enough, you'll be able to stay suspended in midair for a short period of time. This will come in handy to get over precipi-pi-pi-ces. Fancy word for cliffs."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_0011.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Come on, you can do better than that! Here's another chance."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  }
+]

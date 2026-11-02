@@ -1,0 +1,90 @@
+[
+  {
+    "file": "cin_lvl1401_gb.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "unknown",
+        "text": "You'll have to dance like us if you want to be accepted. Do what everyone else is doing, and just follow the rhythm of the music."
+      }
+    ]
+  },
+  {
+    "file": "cin_lvl1402_ja.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "unknown",
+        "text": "Start again and dance properly!"
+      }
+    ]
+  },
+  {
+    "file": "cin_lvl1403_gbb.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "unknown",
+        "text": "You have to keep up with the beat!"
+      }
+    ]
+  },
+  {
+    "file": "cin_lvl1404_ja.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "unknown",
+        "text": "Start again and dance properly! You have to keep up with the beat!"
+      }
+    ]
+  },
+  {
+    "file": "cin_lvl1601.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Attention! This train is about to reach the station. Please keep your wings and bills inside the car at all times. If you want to catch the train, press this button to turn the signal red. Then, the next time the train passes through, it will stop here, and you can get on. Keep an eye on this chronometer to learn when the train is going to arrive and how long it will stay. And whatever you do, don't go into any tunnels on foot, it's dangerous."
+      }
+    ]
+  },
+  {
+    "file": "cin_lvl1602.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "If you want to catch the train, press this button to turn the signal red. Then, the next time the train passes through, it will stop here, and you can get on. Keep an eye on this chronometer to learn when the train is going to arrive and how long it will stay. And whatever you do, don't go into any tunnels on foot, it's dangerous."
+      }
+    ]
+  },
+  {
+    "file": "cin_lvl_0101.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "I'm back! Listen, if you don't want to be seen by Sam Sheepdog, here's some free advice. First, when you see this icon appear, it means that you are close to Sam's area. The icon helps you see where Sam is looking. If it's in front of you, it means that Sam is looking in your direction. When the icon is green, it means that you are close to Sam's area, but the good news is, he can't see or hear you. When the icon is orange, it means that you're in Sam's area, so be quiet and everything will be okay. When the icon is red, it means you're in big trouble, pal, cuz Sam saw you, and you'd better get out! Your best bet is to press the stealth button. If you don't, Sam will hear you when you enter his area."
+      }
+    ]
+  },
+  {
+    "file": "cin_lvl_0102.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Don't forget the three colors. Green, you're close to Sam's area, keep a low profile. Orange, you're in Sam's area, clam up, and keep an eye on his head. If his head is facing you, it means that Sam is looking in your direction. Red, Sam saw you, so you'd better hightail it out of there. The good news is, if you press the stealth button, Sam can't hear you, and you can try to catch sheep when that big dopey dog isn't looking."
+      }
+    ]
+  }
+]

@@ -1,0 +1,466 @@
+type,kind,base,goes_with (helper of),implemented_in (main .cpp),also_implemented_in,header_line,header_lines,used_in_files,category,target_path,confidence,why
+Anvil,class,ScnBody,,objects/anvil.cpp,,940,15,2,boxes & containers,game/entities/props/containers/anvil,low,guess from the name; check the class
+AutomaticDoor,class,ScnBody,,objects/automaticdoor.cpp,,1051,17,1,doors & gates,game/entities/props/doors/automatic_door,medium,"role from the name, base ScnBody"
+balance,class,ScnBody,,objects/balance.cpp,,11335,15,2,platforms & moving ground,game/entities/props/platforms/balance,medium,"role from the name, base ScnBody"
+Bat,class,ScnBody,,objects/bat.cpp,,1082,29,1,enemies,game/entities/enemies/bat,medium,"role from the name, base ScnBody"
+Battery,class,ScnBody,,objects/battery.cpp,,1138,48,1,buttons & triggers,game/entities/props/switches/battery,low,guess from the name; check the class
+Bees,class,ScnBody,,objects/bees.cpp,,1187,48,1,enemies,game/entities/enemies/bees,medium,"role from the name, base ScnBody"
+Bell,class,ScnBody,,objects/bell.cpp,,1236,17,2,boxes & containers,game/entities/props/containers/bell,low,guess from the name; check the class
+BipbipLevel14,class,ScnBody,,objects/bipbiplevel14.cpp,,1274,36,1,story characters,game/entities/npcs/bipbip_level14,medium,"role from the name, base ScnBody"
+Bird,class,ScnBody,,objects/bird.cpp,,1311,32,1,ambient animals,game/entities/critters/bird,medium,"role from the name, base ScnBody"
+BlackHole,class,ScnBody,,objects/blackhole.cpp,,1355,17,2,hazards & traps,game/entities/hazards/black_hole,medium,"role from the name, base ScnBody"
+  └ BlackHoleFlagBits,struct,,BlackHole,,,1344,10,1,hazards & traps,game/entities/hazards/black_hole,high,helper of BlackHole: goes in BlackHole's header
+BonusManager,class,ScnBody,,objects/bonusmanager.cpp,,1406,32,1,level managers,game/logic/bonus_manager,medium,"role from the name, base ScnBody"
+bridge,class,ScnBody,,objects/bridge.cpp,,11394,31,2,platforms & moving ground,game/entities/props/platforms/bridge,medium,"role from the name, base ScnBody"
+Bush,class,ScnBody,,objects/bush.cpp,,1710,21,2,"trees, rocks & plants",game/entities/props/nature/bush,medium,"role from the name, base ScnBody"
+  └ BushFlagBits,struct,,Bush,,,1697,12,0,"trees, rocks & plants",game/entities/props/nature/bush,high,helper of Bush: goes in Bush's header
+Butterfly,class,ScnBody,,objects/butterfly.cpp,,1732,32,1,ambient animals,game/entities/critters/butterfly,medium,"role from the name, base ScnBody"
+Cactus,class,ScnBody,,objects/cactus.cpp,,1765,12,1,hazards & traps,game/entities/hazards/cactus,low,guess from the name; check the class
+CanonDummy,class,ScnBody,,objects/canondummy.cpp,,2306,19,1,vehicles & launchers,game/entities/props/vehicles/canon_dummy,medium,"role from the name, base ScnBody"
+CanonSheep,class,ScnBody,,objects/canonsheep.cpp,,2326,46,1,vehicles & launchers,game/entities/props/vehicles/canon_sheep,medium,"role from the name, base ScnBody"
+CanonSimple,class,ScnBody,,objects/canonsimple.cpp,,2373,45,2,vehicles & launchers,game/entities/props/vehicles/canon_simple,medium,"role from the name, base ScnBody"
+Case,class,ScnBody,,objects/case.cpp,,2419,11,3,boxes & containers,game/entities/props/containers/case,low,guess from the name; check the class
+Catapult,class,ScnBody,,objects/catapult.cpp,,2494,56,1,vehicles & launchers,game/entities/props/vehicles/catapult,medium,"role from the name, base ScnBody"
+  └ CatapultBits,struct,,Catapult,,,2431,15,0,vehicles & launchers,game/entities/props/vehicles/catapult,high,helper of Catapult: goes in Catapult's header
+Chronometer,class,ScnBody,,objects/chronometer.cpp,,2587,26,1,time machine,game/entities/props/time_machine/chronometer,medium,"role from the name, base ScnBody"
+Crane,class,ScnBody,,objects/crane.cpp,,3036,41,3,vehicles & launchers,game/entities/props/vehicles/crane,medium,"role from the name, base ScnBody"
+  └ DropMsgArg,struct,,Crane,,,3023,12,18,vehicles & launchers,game/entities/props/vehicles/crane,high,helper of Crane: goes in Crane's header
+CrocodileLevel11,class,ScnBody,,objects/crocodilelevel11.cpp,,3146,51,1,enemies,game/entities/enemies/crocodile_level11,medium,"role from the name, base ScnBody"
+Crowd,class,ScnBody,,objects/crowd.cpp,,3198,14,1,enemies,game/entities/enemies/crowd,low,guess from the name; check the class
+CrumblyGround,class,ScnBody,,objects/crumblyground.cpp,,3213,25,1,platforms & moving ground,game/entities/props/platforms/crumbly_ground,medium,"role from the name, base ScnBody"
+CrumblyPlat,class,ScnBody,,objects/crumblyplat.cpp,,3239,23,1,platforms & moving ground,game/entities/props/platforms/crumbly_plat,medium,"role from the name, base ScnBody"
+DancingGhost,class,ScnBody,,objects/dancingghost.cpp,objects/dancingghost_manager.cpp,3841,37,2,enemies,game/entities/enemies/dancing_ghost,medium,"role from the name, base ScnBody"
+  └ DanceStep,struct,,DancingGhost,,,3813,13,1,enemies,game/entities/enemies/dancing_ghost,high,helper of DancingGhost: goes in DancingGhost's header
+  └ DancingGhostFlagBits,struct,,DancingGhost,,,3827,13,0,enemies,game/entities/enemies/dancing_ghost,high,helper of DancingGhost: goes in DancingGhost's header
+Diamond,class,ScnBody,,objects/diamond.cpp,,4194,31,1,collectibles,game/entities/collectibles/diamond,low,guess from the name; check the class
+DoorLevel,class,ScnBody,,objects/doorlevel.cpp,,4226,20,1,doors & gates,game/entities/props/doors/door_level,medium,"role from the name, base ScnBody"
+DoorWorld,class,ScnBody,,objects/doorworld.cpp,,4261,20,1,doors & gates,game/entities/props/doors/door_world,medium,"role from the name, base ScnBody"
+elastic,class,ScnBody,,objects/elastic.cpp,,11473,84,4,inventory items,game/entities/items/elastic,high,registered as an inventory item (scn_register.cpp)
+FallingGate,class,ScnBody,,objects/fallinggate.cpp,,4564,31,2,doors & gates,game/entities/props/doors/falling_gate,medium,"role from the name, base ScnBody"
+FallingGate2,class,ScnBody,,objects/fallinggate2.cpp,,4596,31,1,doors & gates,game/entities/props/doors/falling_gate2,medium,"role from the name, base ScnBody"
+FallingRock,class,ScnBody,,objects/fallingrock.cpp,,4628,21,1,hazards & traps,game/entities/hazards/falling_rock,medium,"role from the name, base ScnBody"
+FireBall,class,ScnBody,,objects/fireball.cpp,,4701,20,2,hazards & traps,game/entities/hazards/fire_ball,medium,"role from the name, base ScnBody"
+Firefly,class,ScnBody,,objects/firefly.cpp,,4722,21,1,ambient animals,game/entities/critters/firefly,medium,"role from the name, base ScnBody"
+Fish,class,ScnBody,,objects/fish.cpp,,4744,22,1,ambient animals,game/entities/critters/fish,medium,"role from the name, base ScnBody"
+GeyserIn,class,ScnBody,,objects/geyserin.cpp,,5036,33,2,vehicles & launchers,game/entities/props/vehicles/geyser_in,medium,"role from the name, base ScnBody"
+GeyserOut,class,ScnBody,,objects/geyserout.cpp,,5086,29,1,vehicles & launchers,game/entities/props/vehicles/geyser_out,medium,"role from the name, base ScnBody"
+GhostCostume,class,ScnBody,,objects/ghostcostume.cpp,,5202,12,2,inventory items,game/entities/items/ghost_costume,high,registered as an inventory item (scn_register.cpp)
+GhostHalo,class,ScnBody,,objects/ghosthalo.cpp,,5215,11,1,enemies,game/entities/enemies/ghost_halo,low,guess from the name; check the class
+GoldenCoins,class,ScnBody,,objects/goldencoins.cpp,,5278,24,1,collectibles,game/entities/collectibles/golden_coins,medium,"role from the name, base ScnBody"
+GossamerOnde,class,ScnBody,,objects/gossameronde.cpp,,5303,24,1,enemies,game/entities/enemies/gossamer_onde,low,guess from the name; check the class
+HeapOfLeaf,class,ScnBody,,objects/heapofleaf.cpp,,5651,27,1,"trees, rocks & plants",game/entities/props/nature/heap_of_leaf,medium,"role from the name, base ScnBody"
+IceCube,class,ScnBody,,objects/icecube.cpp,,5849,22,2,platforms & moving ground,game/entities/props/platforms/ice_cube,medium,"role from the name, base ScnBody"
+IceGround,class,ScnBody,,objects/iceground.cpp,,5872,16,1,platforms & moving ground,game/entities/props/platforms/ice_ground,medium,"role from the name, base ScnBody"
+InstantHoover,class,ScnBody,,objects/instanthoover.cpp,,6137,46,2,inventory items,game/entities/items/instant_hoover,high,registered as an inventory item (scn_register.cpp)
+InstantSocket,class,ScnBody,,objects/instantsocket.cpp,,6230,13,1,buttons & triggers,game/entities/props/switches/instant_socket,low,guess from the name; check the class
+Jail,class,ScnBody,,objects/jail.cpp,,6262,31,3,doors & gates,game/entities/props/doors/jail,medium,"role from the name, base ScnBody"
+Laser,class,ScnBody,,objects/laser.cpp,,6342,27,2,hazards & traps,game/entities/hazards/laser,medium,"role from the name, base ScnBody"
+Lava,class,ScnBody,,objects/lava.cpp,,6370,13,1,hazards & traps,game/entities/hazards/lava,medium,"role from the name, base ScnBody"
+LazerRobot,class,ScnBody,,objects/lazerrobot.cpp,,6384,29,1,enemies,game/entities/enemies/lazer_robot,medium,"role from the name, base ScnBody"
+Leaf,class,ScnBody,,objects/leaf.cpp,,6414,15,1,"trees, rocks & plants",game/entities/props/nature/leaf,medium,"role from the name, base ScnBody"
+Mailbox,class,ScnBody,,objects/mailbox.cpp,,6559,31,2,signs & info,game/entities/props/signs/mailbox,low,guess from the name; check the class
+  └ MailboxFlagBits,struct,,Mailbox,,,6546,12,0,signs & info,game/entities/props/signs/mailbox,high,helper of Mailbox: goes in Mailbox's header
+MCardManager,class,ScnBody,,objects/mcardmanager.cpp,,6477,17,1,level managers,game/logic/m_card_manager,medium,"role from the name, base ScnBody"
+Monolithe,class,ScnBody,,objects/monolithe.cpp,,6989,30,1,platforms & moving ground,game/entities/props/platforms/monolithe,low,guess from the name; check the class
+  └ MonolitheRider,struct,,Monolithe,,,6976,12,0,platforms & moving ground,game/entities/props/platforms/monolithe,high,helper of Monolithe: goes in Monolithe's header
+Pipe,class,ScnBody,,objects/pipe.cpp,,7408,37,1,vehicles & launchers,game/entities/props/vehicles/pipe,medium,"role from the name, base ScnBody"
+Pipe2,class,ScnBody,,objects/pipe2.cpp,,7446,45,1,vehicles & launchers,game/entities/props/vehicles/pipe2,medium,"role from the name, base ScnBody"
+Piranhas,class,ScnBody,,objects/piranhas.cpp,,7504,28,1,enemies,game/entities/enemies/piranhas,medium,"role from the name, base ScnBody"
+PrayingGhost,class,ScnBody,,objects/prayingghost.cpp,,7634,83,1,enemies,game/entities/enemies/praying_ghost,medium,"role from the name, base ScnBody"
+RabbitCostume,class,ScnBody,,objects/rabbitcostume.cpp,,7854,12,1,inventory items,game/entities/items/rabbit_costume,high,registered as an inventory item (scn_register.cpp)
+Raft,class,ScnBody,,objects/raft.cpp,,7881,22,1,platforms & moving ground,game/entities/props/platforms/raft,medium,"role from the name, base ScnBody"
+  └ RaftFlagBits,struct,,Raft,,,7867,13,0,platforms & moving ground,game/entities/props/platforms/raft,high,helper of Raft: goes in Raft's header
+Resizer,class,ScnBody,,objects/resizer.cpp,,7922,31,1,vehicles & launchers,game/entities/props/vehicles/resizer,low,guess from the name; check the class
+Rocks,class,ScnBody,,objects/rocks.cpp,,8216,13,1,"trees, rocks & plants",game/entities/props/nature/rocks,medium,"role from the name, base ScnBody"
+RollingCarpet,class,ScnBody,,objects/rollingcarpet.cpp,,8242,35,2,platforms & moving ground,game/entities/props/platforms/rolling_carpet,medium,"role from the name, base ScnBody"
+  └ RollingCarpetFlagBits,struct,,RollingCarpet,,,8230,11,0,platforms & moving ground,game/entities/props/platforms/rolling_carpet,high,helper of RollingCarpet: goes in RollingCarpet's header
+Sail,class,ScnBody,,objects/sail.cpp,,8309,12,1,platforms & moving ground,game/entities/props/platforms/sail,low,guess from the name; check the class
+Scene_Wheel,class,ScnBody,,objects/scene_wheel.cpp,,8813,25,1,hub & level select,game/hub/scene_wheel,medium,"role from the name, base ScnBody"
+SceneSheepPanel,class,ScnBody,,objects/scenesheeppanel.cpp,,8791,21,1,hub & level select,game/hub/scene_sheep_panel,medium,"role from the name, base ScnBody"
+ScnMobile,class,ScnBody,,engine/scenaric.cpp,,1658,17,26,scene object model,engine/scene/scn_mobile,medium,"role from the name, base ScnBody"
+Seaweed,class,ScnBody,,objects/seaweed.cpp,,8901,13,2,"trees, rocks & plants",game/entities/props/nature/seaweed,medium,"role from the name, base ScnBody"
+Seed,class,ScnBody,,objects/seed.cpp,,8928,24,1,inventory items,game/entities/items/seed,high,registered as an inventory item (scn_register.cpp)
+seesaw,class,ScnBody,,objects/seesaw.cpp,,11558,57,2,platforms & moving ground,game/entities/props/platforms/seesaw,medium,"role from the name, base ScnBody"
+  └ SeesawBodyEntry,struct,,seesaw,,,8953,12,0,platforms & moving ground,game/entities/props/platforms/seesaw,high,helper of seesaw: goes in seesaw's header
+  └ SeesawPendingBits,struct,,seesaw,,,8966,12,0,platforms & moving ground,game/entities/props/platforms/seesaw,high,helper of seesaw: goes in seesaw's header
+  └ Trajectory3,struct,,seesaw,,,10190,11,1,platforms & moving ground,game/entities/props/platforms/seesaw,high,helper of seesaw: goes in seesaw's header
+SensibleButton,class,ScnBody,,objects/sensiblebutton.cpp,,8991,24,3,buttons & triggers,game/entities/props/switches/sensible_button,medium,"role from the name, base ScnBody"
+  └ SensibleButtonFlagBits,struct,,SensibleButton,,,8979,11,0,buttons & triggers,game/entities/props/switches/sensible_button,high,helper of SensibleButton: goes in SensibleButton's header
+SheepCostume,class,ScnBody,,objects/sheepcostume.cpp,,9252,12,2,inventory items,game/entities/items/sheep_costume,high,registered as an inventory item (scn_register.cpp)
+SignPostAnimated,class,ScnBody,,objects/signpost.cpp,,9289,18,1,signs & info,game/entities/props/signs/sign_post_animated,medium,"role from the name, base ScnBody"
+SignTips,class,ScnBody,,objects/signtips.cpp,,9328,25,1,signs & info,game/entities/props/signs/sign_tips,medium,"role from the name, base ScnBody"
+SlidingIceCube,class,ScnBody,,objects/slidingicecube.cpp,,9367,33,2,platforms & moving ground,game/entities/props/platforms/sliding_ice_cube,medium,"role from the name, base ScnBody"
+  └ SlidingIceCubeFlagBits,struct,,SlidingIceCube,,,9354,12,0,platforms & moving ground,game/entities/props/platforms/sliding_ice_cube,high,helper of SlidingIceCube: goes in SlidingIceCube's header
+SnowyGround,class,ScnBody,,objects/snowyground.cpp,,9505,14,1,platforms & moving ground,game/entities/props/platforms/snowy_ground,medium,"role from the name, base ScnBody"
+SwirlSign,class,ScnBody,,objects/swirlsign.cpp,,9768,15,3,signs & info,game/entities/props/signs/swirl_sign,medium,"role from the name, base ScnBody"
+TimeKeeper,class,ScnBody,,objects/timekeeper.cpp,,9890,17,2,time machine,game/entities/props/time_machine/time_keeper,medium,"role from the name, base ScnBody"
+TimeMachineSphere,class,ScnBody,,objects/timemachine.cpp,,9952,41,1,time machine,game/entities/props/time_machine/time_machine_sphere,medium,"role from the name, base ScnBody"
+  └ TimeMachinePair,struct,,TimeMachineSphere,,,9927,11,0,time machine,game/entities/props/time_machine/time_machine_sphere,high,helper of TimeMachineSphere: goes in TimeMachineSphere's header
+Torch,class,ScnBody,,objects/torch.cpp,,10023,14,1,"trees, rocks & plants",game/entities/props/nature/torch,low,guess from the name; check the class
+TrafficJams,class,ScnBody,,objects/trafficjams.cpp,,10038,33,1,hazards & traps,game/entities/hazards/traffic_jams,low,guess from the name; check the class
+Train,class,ScnBody,,objects/train.cpp,,10109,44,1,vehicles & launchers,game/entities/props/vehicles/train,medium,"role from the name, base ScnBody"
+  └ TrainCar,struct,,Train,,,10083,13,1,vehicles & launchers,game/entities/props/vehicles/train,high,helper of Train: goes in Train's header
+  └ TrainingHelpSlot,struct,,Train,,,3690,11,0,vehicles & launchers,game/entities/props/vehicles/train,high,helper of Train: goes in Train's header
+  └ TrainingLineBits,struct,,Train,,,3702,12,0,vehicles & launchers,game/entities/props/vehicles/train,high,helper of Train: goes in Train's header
+  └ TrainWaypoint,struct,,Train,,,10097,11,1,vehicles & launchers,game/entities/props/vehicles/train,high,helper of Train: goes in Train's header
+TrainCarBody,class,ScnBody,,objects/train.cpp,,10072,10,1,vehicles & launchers,game/entities/props/vehicles/train_car_body,medium,"role from the name, base ScnBody"
+TreeSection,class,ScnBody,,objects/treesection.cpp,,10220,16,1,"trees, rocks & plants",game/entities/props/nature/tree_section,medium,"role from the name, base ScnBody"
+Twig,class,ScnBody,,objects/twig.cpp,,10260,20,1,"trees, rocks & plants",game/entities/props/nature/twig,medium,"role from the name, base ScnBody"
+Volcano,class,ScnBody,,objects/volcano.cpp,,10491,43,1,hazards & traps,game/entities/hazards/volcano,medium,"role from the name, base ScnBody"
+Watch,class,ScnBody,,objects/watch.cpp,,10564,23,1,collectibles,game/entities/collectibles/watch,low,guess from the name; check the class
+WaterGeyser,class,ScnBody,,objects/watergeyser.cpp,,10588,25,1,vehicles & launchers,game/entities/props/vehicles/water_geyser,medium,"role from the name, base ScnBody"
+bipbip,class,ScnMobile,,objects/bipbip.cpp,,11351,24,2,story characters,game/entities/npcs/bipbip,medium,"role from the name, base ScnMobile"
+box,class,ScnMobile,,objects/box.cpp,,11376,17,95,boxes & containers,game/entities/props/containers/box,medium,"role from the name, base ScnMobile"
+bull,class,ScnMobile,,objects/bull.cpp,,11426,46,4,enemies,game/entities/enemies/bull,medium,"role from the name, base ScnMobile"
+Bullet,class,ScnMobile,,objects/bullet.cpp,,1676,20,2,hazards & traps,game/entities/hazards/bullet,medium,"role from the name, base ScnMobile"
+CannonBall,class,ScnMobile,,objects/cannonball.cpp,,2194,89,1,hazards & traps,game/entities/hazards/cannon_ball,medium,"role from the name, base ScnMobile"
+CannonBall2,class,ScnMobile,,objects/cannonball2.cpp,,2284,21,1,hazards & traps,game/entities/hazards/cannon_ball2,medium,"role from the name, base ScnMobile"
+  └ BallBits,struct,,CannonBall2,,,1069,12,0,hazards & traps,game/entities/hazards/cannon_ball2,high,helper of CannonBall2: goes in CannonBall2's header
+CrocodileLevel09,class,ScnMobile,,objects/crocodilelevel09.cpp,,3109,36,2,enemies,game/entities/enemies/crocodile_level09,medium,"role from the name, base ScnMobile"
+DaffyElf,class,ScnMobile,,objects/daffyelf.cpp,,3425,25,1,story characters,game/entities/npcs/daffy_elf,medium,"role from the name, base ScnMobile"
+DaffyLevel01,class,ScnMobile,,objects/daffylevel01.cpp,,3465,32,1,story characters,game/entities/npcs/daffy_level01,medium,"role from the name, base ScnMobile"
+  └ DaffyLevel01FlagBits,struct,,DaffyLevel01,,,3451,13,0,story characters,game/entities/npcs/daffy_level01,high,helper of DaffyLevel01: goes in DaffyLevel01's header
+DaffyLevel02,class,ScnMobile,,objects/daffylevel02.cpp,,3498,65,1,story characters,game/entities/npcs/daffy_level02,medium,"role from the name, base ScnMobile"
+DaffyLevel09,class,ScnMobile,,objects/daffylevel09.cpp,,3564,46,1,story characters,game/entities/npcs/daffy_level09,medium,"role from the name, base ScnMobile"
+DaffyMilitary,class,ScnMobile,,objects/daffymilitary.cpp,,3611,30,2,story characters,game/entities/npcs/daffy_military,medium,"role from the name, base ScnMobile"
+DaffyScene,class,ScnMobile,,objects/daffyscene.cpp,,3642,32,1,story characters,game/entities/npcs/daffy_scene,medium,"role from the name, base ScnMobile"
+DaffyTrainingLevel,class,ScnMobile,,objects/daffytraininglevel.cpp,,3715,77,1,story characters,game/entities/npcs/daffy_training_level,medium,"role from the name, base ScnMobile"
+  └ TextBox,struct,,DaffyTrainingLevel,,,3675,14,6,story characters,game/entities/npcs/daffy_training_level,high,helper of DaffyTrainingLevel: goes in DaffyTrainingLevel's header
+DaffyWheel,class,ScnMobile,,objects/daffywheel.cpp,,3793,19,1,story characters,game/entities/npcs/daffy_wheel,medium,"role from the name, base ScnMobile"
+DoorMechanism,class,ScnMobile,,objects/doormechanism.cpp,,4247,13,2,doors & gates,game/entities/props/doors/door_mechanism,medium,"role from the name, base ScnMobile"
+Dragon,class,ScnMobile,,objects/dragon.cpp,,4282,61,1,enemies,game/entities/enemies/dragon,medium,"role from the name, base ScnMobile"
+Dynamite,class,ScnMobile,,objects/dynamite.cpp,,4382,25,1,inventory items,game/entities/items/dynamite,high,registered as an inventory item (scn_register.cpp)
+  └ DynamiteFlagBits,struct,,Dynamite,,,4358,10,0,inventory items,game/entities/items/dynamite,high,helper of Dynamite: goes in Dynamite's header
+Elmer,class,ScnMobile,,objects/elmer.cpp,,4425,62,3,enemies,game/entities/enemies/elmer,medium,"role from the name, base ScnMobile"
+Fan,class,ScnMobile,,objects/fan.cpp,,4662,24,1,inventory items,game/entities/items/fan,high,registered as an inventory item (scn_register.cpp)
+  └ FanReport,struct,,Fan,,,4650,11,2,inventory items,game/entities/items/fan,high,helper of Fan: goes in Fan's header
+FishingRod,class,ScnMobile,,objects/fishingrod.cpp,,2953,23,1,inventory items,game/entities/items/fishing_rod,high,registered as an inventory item (scn_register.cpp)
+  └ RodFlagBits,struct,,FishingRod,,,2942,10,0,inventory items,game/entities/items/fishing_rod,high,helper of FishingRod: goes in FishingRod's header
+FloatingBox,class,ScnMobile,,objects/floatingbox.cpp,,4781,45,4,boxes & containers,game/entities/props/containers/floating_box,medium,"role from the name, base ScnMobile"
+Flute,class,ScnMobile,,objects/flute.cpp,,4841,21,1,inventory items,game/entities/items/flute,high,registered as an inventory item (scn_register.cpp)
+Ghost,class,ScnMobile,,objects/ghost.cpp,,5130,71,2,enemies,game/entities/enemies/ghost,medium,"role from the name, base ScnMobile"
+  └ GhostNode,struct,,Ghost,,,5227,15,1,enemies,game/entities/enemies/ghost,high,helper of Ghost: goes in Ghost's header
+  └ GhostTravel,struct,,Ghost,,,5116,13,1,enemies,game/entities/enemies/ghost,high,helper of Ghost: goes in Ghost's header
+Gossamer_Boss,class,ScnMobile,,objects/gossamer_boss.cpp,,5328,78,2,enemies,game/entities/enemies/gossamer_boss,medium,"role from the name, base ScnMobile"
+Gossamer_Lev08,class,ScnMobile,,objects/gossamer_lev08.cpp,,5443,71,1,enemies,game/entities/enemies/gossamer_lev08,medium,"role from the name, base ScnMobile"
+HairDryer,class,ScnMobile,,objects/hairdryer.cpp,,5571,19,1,inventory items,game/entities/items/hair_dryer,high,registered as an inventory item (scn_register.cpp)
+Hive,class,ScnMobile,,objects/hive.cpp,,5706,30,1,enemies,game/entities/enemies/hive,medium,"role from the name, base ScnMobile"
+HoneyPot,class,ScnMobile,,objects/honeypot.cpp,,5799,24,2,inventory items,game/entities/items/honey_pot,high,registered as an inventory item (scn_register.cpp)
+Hoover,class,ScnMobile,,objects/hoover.cpp,,5824,24,2,inventory items,game/entities/items/hoover,high,registered as an inventory item (scn_register.cpp)
+InflatableSheep,class,ScnMobile,,objects/inflatablesheep.cpp,,5915,33,2,inventory items,game/entities/items/inflatable_sheep,high,registered as an inventory item (scn_register.cpp)
+  └ InflatableFlagBits,struct,,InflatableSheep,,,5902,12,0,inventory items,game/entities/items/inflatable_sheep,high,helper of InflatableSheep: goes in InflatableSheep's header
+InstantMartian,class,ScnMobile,,objects/instantmartian.cpp,,6184,45,2,enemies,game/entities/enemies/instant_martian,low,guess from the name; check the class
+Key,class,ScnMobile,,objects/key.cpp,,6308,18,1,inventory items,game/entities/items/key,high,registered as an inventory item (scn_register.cpp)
+Magnet,class,ScnMobile,,objects/magnet.cpp,,6510,24,2,inventory items,game/entities/items/magnet,high,registered as an inventory item (scn_register.cpp)
+Marvin,class,ScnMobile,,objects/marvin.cpp,,6754,23,1,enemies,game/entities/enemies/marvin,low,guess from the name; check the class
+  └ MarvinFlagBits,struct,,Marvin,,,6739,14,1,enemies,game/entities/enemies/marvin,high,helper of Marvin: goes in Marvin's header
+Mine,class,ScnMobile,,objects/mine.cpp,,4117,22,2,hazards & traps,game/entities/hazards/mine,medium,"role from the name, base ScnMobile"
+  └ MineFlagBits,struct,,Mine,,,4106,10,0,hazards & traps,game/entities/hazards/mine,high,helper of Mine: goes in Mine's header
+MineDetector,class,ScnMobile,,objects/minedetector.cpp,,6874,27,1,inventory items,game/entities/items/mine_detector,high,registered as an inventory item (scn_register.cpp)
+Perfume,class,ScnMobile,,objects/perfume.cpp,,7382,25,1,inventory items,game/entities/items/perfume,high,registered as an inventory item (scn_register.cpp)
+  └ PerfumeFlagBits,struct,,Perfume,,,7358,11,0,inventory items,game/entities/items/perfume,high,helper of Perfume: goes in Perfume's header
+  └ PerfumeScentReport,struct,,Perfume,,,7370,11,1,inventory items,game/entities/items/perfume,high,helper of Perfume: goes in Perfume's header
+PorkyLevel01,class,ScnMobile,,objects/porkylevel01.cpp,,7585,48,1,story characters,game/entities/npcs/porky_level01,medium,"role from the name, base ScnMobile"
+RemoteControl,class,ScnMobile,,objects/remotecontrol.cpp,,7904,17,1,inventory items,game/entities/items/remote_control,high,registered as an inventory item (scn_register.cpp)
+Rocket,class,ScnMobile,,objects/rocket.cpp,,8187,28,2,inventory items,game/entities/items/rocket,high,registered as an inventory item (scn_register.cpp)
+Rook,class,ScnMobile,,objects/rook.cpp,,8278,30,1,enemies,game/entities/enemies/rook,low,guess from the name; check the class
+Salad,class,ScnMobile,,objects/salad.cpp,,8322,25,4,inventory items,game/entities/items/salad,high,registered as an inventory item (scn_register.cpp)
+Sam,class,ScnMobile,,objects/sam.cpp,,8498,203,9,enemies,game/entities/enemies/sam,medium,"role from the name, base ScnMobile"
+  └ NavSearch,struct,,Sam,,,7107,13,2,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+  └ SamBeachBits,struct,,Sam,,,8359,10,0,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+  └ SamCarryGoal,struct,,Sam,,,8370,12,1,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+  └ SamChaseBits,struct,,Sam,,,8383,10,0,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+  └ SamChaseSoundBits,struct,,Sam,,,8394,11,0,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+  └ SamContactInfo,struct,,Sam,,,8702,17,1,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+  └ SamEdgeNormal,struct,,Sam,,,7068,11,1,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+  └ SamFetchBits,struct,,Sam,,,8406,11,0,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+  └ SamFetchFlags,struct,,Sam,,,8418,13,0,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+  └ SamFetchGoal,struct,,Sam,,,8432,12,1,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+  └ SamFollowBits,struct,,Sam,,,8445,12,0,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+  └ SamPathHist,struct,,Sam,,,8458,15,1,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+  └ SamSheepBits,struct,,Sam,,,8474,10,0,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+  └ SamTracked,struct,,Sam,,,8485,12,0,enemies,game/entities/enemies/sam,high,helper of Sam: goes in Sam's header
+Sam_Pirate,class,ScnMobile,,objects/sam_pirate.cpp,,8720,70,1,enemies,game/entities/enemies/sam_pirate,medium,"role from the name, base ScnMobile"
+ScnControllable,class,ScnMobile,,game/scn_controllable.cpp,game/wolf_misc.cpp,7981,44,4,player,game/player/scn_controllable,medium,"role from the name, base ScnMobile"
+  └ IdleAnimEntry,struct,,ScnControllable,,,5889,12,3,player,game/player/scn_controllable,high,helper of ScnControllable: goes in ScnControllable's header
+Shark,class,ScnMobile,,objects/shark.cpp,,9055,65,1,enemies,game/entities/enemies/shark,medium,"role from the name, base ScnMobile"
+  └ SharkFxScratch,struct,,Shark,,,9135,12,2,enemies,game/entities/enemies/shark,high,helper of Shark: goes in Shark's header
+Sheep,class,ScnMobile,,objects/sheep.cpp,,9176,75,13,story characters,game/entities/npcs/sheep,medium,"role from the name, base ScnMobile"
+  └ FlockScentSource,struct,,Sheep,,,4827,13,1,story characters,game/entities/npcs/sheep,high,helper of Sheep: goes in Sheep's header
+SmallRock,class,ScnMobile,,objects/smallrock.cpp,,9428,35,2,"trees, rocks & plants",game/entities/props/nature/small_rock,medium,"role from the name, base ScnMobile"
+  └ SmallRockFlagBits,struct,,SmallRock,,,9401,14,0,"trees, rocks & plants",game/entities/props/nature/small_rock,high,helper of SmallRock: goes in SmallRock's header
+  └ SmallRockMoveBits,struct,,SmallRock,,,9416,11,0,"trees, rocks & plants",game/entities/props/nature/small_rock,high,helper of SmallRock: goes in SmallRock's header
+TimeMachineChrono,class,ScnMobile,,objects/timemachinechrono.cpp,,9908,18,1,inventory items,game/entities/items/time_machine_chrono,high,registered as an inventory item (scn_register.cpp)
+TriggedStone,class,ScnMobile,,objects/triggedstone.cpp,,10237,22,1,buttons & triggers,game/entities/props/switches/trigged_stone,medium,"role from the name, base ScnMobile"
+Umbrella,class,ScnMobile,,objects/umbrella.cpp,,10353,16,1,inventory items,game/entities/items/umbrella,high,registered as an inventory item (scn_register.cpp)
+  └ UmbrellaFlagBits,struct,,Umbrella,,,10341,11,0,inventory items,game/entities/items/umbrella,high,helper of Umbrella: goes in Umbrella's header
+WaterMine,class,ScnMobile,,objects/watermine.cpp,,10626,21,1,hazards & traps,game/entities/hazards/water_mine,medium,"role from the name, base ScnMobile"
+  └ WaterMineFlagBits,struct,,WaterMine,,,10614,11,0,hazards & traps,game/entities/hazards/water_mine,high,helper of WaterMine: goes in WaterMine's header
+WolfTrap,class,ScnMobile,,objects/wolftrap.cpp,,11225,24,1,hazards & traps,game/entities/hazards/wolf_trap,medium,"role from the name, base ScnMobile"
+AmbientSoundManager,class,ScnLogic,,objects/ambient_sound.cpp,,709,25,1,level managers,game/logic/ambient_sound_manager,medium,"role from the name, base ScnLogic"
+CameraManager,class,ScnLogic,,objects/cameramanager.cpp,,1989,18,1,level managers,game/logic/camera_manager,medium,"role from the name, base ScnLogic"
+  └ CamMgrEntry,struct,,CameraManager,,,1793,13,1,level managers,game/logic/camera_manager,high,helper of CameraManager: goes in CameraManager's header
+CameraManager2,class,ScnLogic,,objects/cameramanager2.cpp,,2008,17,1,level managers,game/logic/camera_manager2,medium,"role from the name, base ScnLogic"
+CameraRestriction,class,ScnLogic,,objects/camerarestriction.cpp,,2026,15,1,level managers,game/logic/camera_restriction,medium,"role from the name, base ScnLogic"
+CheckpointManager,class,ScnLogic,,objects/checkpointmanager.cpp,,2566,20,1,level managers,game/logic/checkpoint_manager,medium,"role from the name, base ScnLogic"
+  └ CheckpointEntry,struct,,CheckpointManager,,,2551,14,1,level managers,game/logic/checkpoint_manager,high,helper of CheckpointManager: goes in CheckpointManager's header
+CinematicsManager,class,ScnLogic,,objects/cinematicsmanager.cpp,,2840,17,2,level managers,game/logic/cinematics_manager,medium,"role from the name, base ScnLogic"
+CreditsManager,class,ScnLogic,,objects/creditsmanager.cpp,,3078,30,1,level managers,game/logic/credits_manager,medium,"role from the name, base ScnLogic"
+DancingGhostManager,class,ScnLogic,,objects/dancingghost_manager.cpp,objects/dancingghost_track.cpp,3901,110,2,level managers,game/logic/dancing_ghost_manager,medium,"role from the name, base ScnLogic"
+ElasticTree,class,ScnLogic,,objects/elastictree.cpp,,4408,16,1,"trees, rocks & plants",game/entities/props/nature/elastic_tree,medium,"role from the name, base ScnLogic"
+FacingCamera,class,ScnLogic,,objects/facingcamera.cpp,,4552,11,1,level managers,game/logic/facing_camera,low,guess from the name; check the class
+FogManager,class,ScnLogic,,objects/fogmanager.cpp,,4875,14,1,level managers,game/logic/fog_manager,medium,"role from the name, base ScnLogic"
+FrozenRiver,class,ScnLogic,,objects/frozenriver.cpp,,4931,38,2,platforms & moving ground,game/entities/props/platforms/frozen_river,medium,"role from the name, base ScnLogic"
+  └ RiverCargo,struct,,FrozenRiver,,,4915,15,1,platforms & moving ground,game/entities/props/platforms/frozen_river,high,helper of FrozenRiver: goes in FrozenRiver's header
+GeyserManger,class,ScnLogic,,objects/geysermanger.cpp,,5070,15,1,vehicles & launchers,game/entities/props/vehicles/geyser_manger,medium,"role from the name, base ScnLogic"
+Goal,class,ScnLogic,,objects/goal.cpp,,5257,20,1,buttons & triggers,game/entities/props/switches/goal,low,guess from the name; check the class
+  └ GoalFlagBits,struct,,Goal,,,5243,13,0,buttons & triggers,game/entities/props/switches/goal,high,helper of Goal: goes in Goal's header
+HiddenRocks,class,ScnLogic,,objects/hiddenrocks.cpp,,5679,12,1,"trees, rocks & plants",game/entities/props/nature/hidden_rocks,medium,"role from the name, base ScnLogic"
+HitSwitch,class,ScnLogic,,objects/hitswitch.cpp,,5692,13,1,buttons & triggers,game/entities/props/switches/hit_switch,medium,"role from the name, base ScnLogic"
+LightSpot,class,ScnLogic,,objects/lightspot.cpp,,6430,33,1,level managers,game/logic/light_spot,low,guess from the name; check the class
+MapLocation,class,ScnLogic,,objects/maplocation.cpp,,6721,17,2,hub & level select,game/hub/map_location,medium,"role from the name, base ScnLogic"
+MirrorManager,class,ScnLogic,,objects/mirrormanager.cpp,,6902,20,1,level managers,game/logic/mirror_manager,medium,"role from the name, base ScnLogic"
+ObjectManager,class,ScnLogic,,objects/objectmanager.cpp,,7149,19,1,level managers,game/logic/object_manager,medium,"role from the name, base ScnLogic"
+  └ ObjMgrEntry,struct,,ObjectManager,,,7136,12,0,level managers,game/logic/object_manager,high,helper of ObjectManager: goes in ObjectManager's header
+RCarpetMobile,class,ScnLogic,,objects/rcarpetmobile.cpp,,7824,29,2,platforms & moving ground,game/entities/props/platforms/r_carpet_mobile,medium,"role from the name, base ScnLogic"
+  └ RCarpetFlagBits,struct,,RCarpetMobile,,,7808,15,0,platforms & moving ground,game/entities/props/platforms/r_carpet_mobile,high,helper of RCarpetMobile: goes in RCarpetMobile's header
+ScnLogicShadowed,class,ScnLogic,,engine/scenaric.cpp,,8123,14,1,scene object model,engine/scene/scn_logic_shadowed,medium,"role from the name, base ScnLogic"
+SecretDoor,class,ScnLogic,,objects/secretdoor.cpp,,8915,12,1,doors & gates,game/entities/props/doors/secret_door,medium,"role from the name, base ScnLogic"
+SfxCineManager,class,ScnLogic,,objects/sfxcinemanager.cpp,,9016,23,1,level managers,game/logic/sfx_cine_manager,medium,"role from the name, base ScnLogic"
+SignPost,class,ScnLogic,,objects/signpost.cpp,,9265,23,2,signs & info,game/entities/props/signs/sign_post,medium,"role from the name, base ScnLogic"
+SignPostSimple,class,ScnLogic,,objects/signpost.cpp,,9308,19,1,signs & info,game/entities/props/signs/sign_post_simple,medium,"role from the name, base ScnLogic"
+SuperButton,class,ScnLogic,,objects/superbutton.cpp,,9743,24,2,buttons & triggers,game/entities/props/switches/super_button,medium,"role from the name, base ScnLogic"
+  └ SuperButtonInput,struct,,SuperButton,,,9731,11,0,buttons & triggers,game/entities/props/switches/super_button,high,helper of SuperButton: goes in SuperButton's header
+Telescope,class,ScnLogic,,objects/telescope.cpp,,9784,33,2,signs & info,game/entities/props/signs/telescope,low,guess from the name; check the class
+TrainStation,class,ScnLogic,,objects/trainstation.cpp,,10154,35,1,vehicles & launchers,game/entities/props/vehicles/train_station,medium,"role from the name, base ScnLogic"
+Tree,class,ScnLogic,,objects/seed.cpp,,10202,17,1,"trees, rocks & plants",game/entities/props/nature/tree,medium,"role from the name, base ScnLogic"
+VisibilityManager,class,ScnLogic,,objects/visibilitymanager.cpp,,10468,22,2,level managers,game/logic/visibility_manager,medium,"role from the name, base ScnLogic"
+Wheel,class,ScnLogic,,objects/wheel.cpp,,10734,48,5,hub & level select,game/hub/wheel,medium,"role from the name, base ScnLogic"
+WheelDummy,class,ScnLogic,,objects/wheeldummy.cpp,,10783,16,2,hub & level select,game/hub/wheel_dummy,medium,"role from the name, base ScnLogic"
+WoodenLift,class,ScnLogic,,objects/woodenlift.cpp,,11263,37,1,platforms & moving ground,game/entities/props/platforms/wooden_lift,medium,"role from the name, base ScnLogic"
+WoodenPlatForm,class,ScnLogic,,objects/woodenplatform.cpp,,11301,22,1,platforms & moving ground,game/entities/props/platforms/wooden_plat_form,medium,"role from the name, base ScnLogic"
+MagnetRod,class,CompositeRod,,objects/fishingrod.cpp,,6535,10,1,inventory items,game/entities/items/magnet_rod,high,registered as an inventory item (scn_register.cpp)
+SaladRod,class,CompositeRod,,objects/fishingrod.cpp,,8348,10,1,inventory items,game/entities/items/salad_rod,high,registered as an inventory item (scn_register.cpp)
+CompositeRod,class,FishingRod,,objects/fishingrod.cpp,,2991,17,1,inventory items,game/entities/items/composite_rod,high,registered as an inventory item (scn_register.cpp)
+  └ RodParts,class,,CompositeRod,,,2977,13,1,inventory items,game/entities/items/composite_rod,high,helper of CompositeRod: goes in CompositeRod's header
+Joystick,class,InputDevice,,app/joystick.cpp,,6294,13,2,input,engine/input/joystick,medium,"role from the name, base InputDevice"
+Keyboard,class,InputDevice,,app/keyboard.cpp,,6327,14,3,input,engine/input/keyboard,medium,"role from the name, base InputDevice"
+Mouse,class,InputDevice,,engine/mouse.cpp,,7020,12,2,input,engine/input/mouse,medium,"role from the name, base InputDevice"
+ScnObject,class,Instance,,engine/scenaric.cpp,compat/pure_slots.cpp; game/wolf_misc.cpp; objects/rcarpetmobile.cpp; objects/wheel.cpp; objects/blackhole.cpp; objects/hiddenrocks.cpp; objects/geyserin.cpp; objects/fallinggate2.cpp; objects/woodenplatform.cpp; objects/floatingbox.cpp; objects/daffylevel09.cpp; objects/bull.cpp; objects/gossamer_lev08.cpp; objects/catapult.cpp; objects/rollingcarpet.cpp; objects/smallrock.cpp; objects/sheep.cpp; objects/seesaw.cpp; objects/resizer.cpp; objects/snowball.cpp; objects/rock.cpp; objects/goal.cpp; objects/watergeyser.cpp; objects/woodenlift.cpp; objects/fan.cpp; objects/iceground.cpp; objects/sensiblebutton.cpp; objects/maplocation.cpp; game/scn_controllable.cpp; engine/scenaric_loop.cpp,587,104,204,scene object model,engine/scene/scn_object,medium,"role from the name, base Instance"
+Instance,class,InstanceBase,,,,562,24,138,scene object model,engine/scene/instance,medium,"role from the name, base InstanceBase"
+  └ InstanceBase,struct,,Instance,,,548,13,2,scene object model,engine/scene/instance_base,medium,"role from the name, base none"
+WorldObj,class,InstanceBase,,,,11324,10,6,scene object model,engine/scene/world_obj,medium,"role from the name, base InstanceBase"
+  └ Aabb,struct,,WorldObj,,,507,12,1,scene object model,engine/scene/world_obj,high,helper of WorldObj: goes in WorldObj's header
+AnimMesh,class,Mesh,,engine/anim_mesh.cpp,,808,34,2,rendering,engine/render/anim_mesh,medium,"role from the name, base Mesh"
+DefusableMine,class,Mine,,objects/mine.cpp,,4140,28,1,inventory items,game/entities/items/defusable_mine,high,registered as an inventory item (scn_register.cpp)
+  └ DefusableMineBits,struct,,DefusableMine,,,4079,13,0,inventory items,game/entities/items/defusable_mine,high,helper of DefusableMine: goes in DefusableMine's header
+GroundMine,class,Mine,,objects/mine.cpp,,5529,29,1,hazards & traps,game/entities/hazards/ground_mine,medium,role from the name
+  └ GroundMineFlagBits,struct,,GroundMine,,,5515,13,0,hazards & traps,game/entities/hazards/ground_mine,high,helper of GroundMine: goes in GroundMine's header
+BsPolyBlendFlat,class,PolyTri,,,,1539,12,5,rendering,engine/render/bs_poly_blend_flat,medium,"role from the name, base PolyTri"
+BsPolyBlendGouraud,class,PolyTri,,,,1552,12,5,rendering,engine/render/bs_poly_blend_gouraud,medium,"role from the name, base PolyTri"
+BsPolyFlat,class,PolyTri,,,,1565,11,5,rendering,engine/render/bs_poly_flat,medium,"role from the name, base PolyTri"
+BsPolyGouraud,class,PolyTri,,,,1577,11,5,rendering,engine/render/bs_poly_gouraud,medium,"role from the name, base PolyTri"
+BsPolyTexFlat,class,PolyTri,,,,1589,13,5,rendering,engine/render/bs_poly_tex_flat,medium,"role from the name, base PolyTri"
+BsPolyTexGouraud,class,PolyTri,,,,1603,13,5,rendering,engine/render/bs_poly_tex_gouraud,medium,"role from the name, base PolyTri"
+Robot,class,ScnControllable,,objects/robot.cpp,,8026,67,4,player,game/player/robot,medium,role from the name
+  └ RobotStateDesc,struct,,Robot,,,8094,11,1,player,game/player/robot,high,helper of Robot: goes in Robot's header
+Wolf,class,ScnControllable,,game/wolf_misc.cpp,game/wolf_move.cpp; game/wolf.cpp; game/scn_controllable.cpp,10828,215,120,player,game/player/wolf,medium,role from the name
+  └ DrawMsgArgs,struct,,Wolf,,,4344,13,2,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfArcScratch,struct,,Wolf,,,11044,16,1,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfClimbScratch,struct,,Wolf,,,11061,16,1,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfDanceMove,struct,,Wolf,,,11078,11,1,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfFloatScratch,struct,,Wolf,,,11090,17,1,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfHoldScratch,struct,,Wolf,,,11108,12,2,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfLaunchAxis,struct,,Wolf,,,10800,12,0,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfLaunchPath,class,,Wolf,,,10813,14,1,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfLineArg,struct,,Wolf,,,11121,12,1,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfMoveBank,struct,,Wolf,,,11134,18,3,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfMoveScratch,struct,,Wolf,,,11153,14,3,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfRespawnArg,struct,,Wolf,,,11168,11,2,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfSpotArg,struct,,Wolf,,,11180,11,6,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfStateDesc,struct,,Wolf,,,11192,15,3,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfSwimScratch,struct,,Wolf,,,11208,16,1,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+  └ WolfWalkToArg,struct,,Wolf,,,11250,12,1,player,game/player/wolf,high,helper of Wolf: goes in Wolf's header
+Rock,class,ScnLogicShadowed,,objects/rock.cpp,,8138,48,2,"trees, rocks & plants",game/entities/props/nature/rock,medium,role from the name
+  └ RockFlagBits,struct,,Rock,,,8106,16,0,"trees, rocks & plants",game/entities/props/nature/rock,high,helper of Rock: goes in Rock's header
+Snowball,class,ScnLogicShadowed,,objects/snowball.cpp,,9477,27,2,"trees, rocks & plants",game/entities/props/nature/snowball,medium,role from the name
+ScnBody,class,ScnObject,,engine/scenaric.cpp,compat/pure_slots.cpp,910,29,81,scene object model,engine/scene/scn_body,medium,"role from the name, base ScnObject"
+ScnLogic,class,ScnObject,,engine/scenaric.cpp,,692,16,14,scene object model,engine/scene/scn_logic,medium,"role from the name, base ScnObject"
+StaticSound,class,Sound,,engine/static_sound.cpp,,9553,24,5,audio,engine/audio/static_sound,medium,"role from the name, base Sound"
+StreamSound,class,Sound,,engine/stream_sound.cpp,,9649,44,6,audio,engine/audio/stream_sound,medium,"role from the name, base Sound"
+ActionHit,struct,,,,,520,11,1,scene object model,engine/scene/action_hit,low,guess from the name; check the class
+AltModel,class,,,,,532,15,1,rendering,engine/render/alt_model,medium,"role from the name, base none"
+AnimatedWorldObj,struct,,,,,898,11,2,animation,engine/animation/animated_world_obj,medium,"role from the name, base none"
+Animator,struct,,,,,876,21,139,animation,engine/animation/animator,medium,"role from the name, base none"
+  └ AnimJointPose,struct,,Animator,,,748,14,5,animation,engine/animation/animator,high,helper of Animator: goes in Animator's header
+AnimHeader,struct,,,,,735,12,2,animation,engine/animation/anim_header,medium,"role from the name, base none"
+  └ AnimKey,struct,,AnimHeader,,,763,14,1,animation,engine/animation/anim_header,high,helper of AnimHeader: goes in AnimHeader's header
+AnimSprite,class,,,engine/interface.cpp,,856,19,2,menus & HUD,ui/anim_sprite,medium,role from the name
+AttachLink,struct,,,,,1011,21,4,animation,engine/animation/attach_link,medium,"role from the name, base none"
+  └ AttachLinkBits,struct,,AttachLink,,,956,16,0,animation,engine/animation/attach_link,high,helper of AttachLink: goes in AttachLink's header
+BonusEntry,struct,,,,,1373,12,1,game state & progress,game/state/bonus_entry,medium,role from the name
+Box6i,struct,,,,,1439,11,3,math,engine/math/box6i,medium,"role from the name, base none"
+BoxCrate,struct,,,,,1451,14,0,boxes & containers,game/entities/props/containers/box_crate,low,guess from the name; check the class
+BsFile,class,,,engine/bs_file.cpp,,1466,59,7,files & resources,engine/io/bs_file,medium,"role from the name, base none"
+  └ Vdx7,class,,BsFile,,,10370,13,2,files & resources,engine/io/vdx7,medium,"role from the name, base none"
+    └ Vdx7Record,struct,,Vdx7,,,10384,14,2,files & resources,engine/io/vdx7_record,medium,"role from the name, base none"
+BsStream,class,,,engine/bs_stream.cpp,,1617,19,3,files & resources,engine/io/bs_stream,medium,"role from the name, base none"
+Camera,class,,,,,1969,19,116,camera,engine/camera/camera,medium,"role from the name, base none"
+CamFlagBits,struct,,,,,1778,14,1,camera,engine/camera/cam_flag_bits,medium,"role from the name, base none"
+CamModeParams,struct,,,,,1807,17,1,camera,engine/camera/cam_mode_params,medium,"role from the name, base none"
+CamPitchAdjBits,struct,,,,,1825,11,1,camera,engine/camera/cam_pitch_adj_bits,medium,"role from the name, base none"
+CamProbeFrame,struct,,,,,1837,11,1,camera,engine/camera/cam_probe_frame,medium,"role from the name, base none"
+CamRequestBits,struct,,,,,1849,15,1,camera,engine/camera/cam_request_bits,medium,"role from the name, base none"
+CamRestrict,struct,,,,,1883,26,1,camera,engine/camera/cam_restrict,medium,"role from the name, base none"
+  └ CamRestrictBits,struct,,CamRestrict,,,1865,17,0,camera,engine/camera/cam_restrict,high,helper of CamRestrict: goes in CamRestrict's header
+CamSamPush,struct,,,,,1910,10,1,camera,engine/camera/cam_sam_push,medium,"role from the name, base none"
+CamSetup,struct,,,,,1921,13,12,camera,engine/camera/cam_setup,medium,"role from the name, base none"
+CamShot,class,,,objects/seesaw.cpp,,1935,18,1,camera,engine/camera/cam_shot,medium,"role from the name, base none"
+Cine,class,,,engine/cine2.cpp,engine/cine1.cpp; engine/cine_update.cpp; engine/cine.cpp,2673,108,6,cinematics & video,engine/cinematics/cine,medium,"role from the name, base none"
+  └ CineActorMsg,struct,,Cine,,,2782,12,1,cinematics & video,engine/cinematics/cine,high,helper of Cine: goes in Cine's header
+  └ CineActorSave,struct,,Cine,,,2614,16,1,cinematics & video,engine/cinematics/cine,high,helper of Cine: goes in Cine's header
+  └ CineActorSlot,struct,,Cine,,,2631,11,1,cinematics & video,engine/cinematics/cine,high,helper of Cine: goes in Cine's header
+  └ CineAttach,struct,,Cine,,,2643,15,0,cinematics & video,engine/cinematics/cine,high,helper of Cine: goes in Cine's header
+  └ CineDialogue,struct,,Cine,,,2659,13,2,cinematics & video,engine/cinematics/cine,high,helper of Cine: goes in Cine's header
+  └ CineRecord,struct,,Cine,,,2795,12,4,cinematics & video,engine/cinematics/cine,high,helper of Cine: goes in Cine's header
+  └ CineTrack,struct,,Cine,,,2808,13,2,cinematics & video,engine/cinematics/cine,high,helper of Cine: goes in Cine's header
+  └ CineTrigger,struct,,Cine,,,2822,17,0,cinematics & video,engine/cinematics/cine,high,helper of Cine: goes in Cine's header
+CollBox,class,,,objects/goal.cpp,engine/scn_tools.cpp,2447,13,79,collision,engine/collision/coll_box,medium,"role from the name, base none"
+CollCell,struct,,,,,2858,11,1,collision,engine/collision/coll_cell,medium,"role from the name, base none"
+CollContact,struct,,,,,2870,13,12,collision,engine/collision/coll_contact,medium,"role from the name, base none"
+CollMapHeader,struct,,,,,2884,15,0,collision,engine/collision/coll_map_header,medium,"role from the name, base none"
+CollRay,struct,,,,,2900,13,2,collision,engine/collision/coll_ray,medium,"role from the name, base none"
+CollRayHit,struct,,,,,2914,11,1,collision,engine/collision/coll_ray_hit,medium,"role from the name, base none"
+CollTri,struct,,,,,2926,15,4,collision,engine/collision/coll_tri,medium,"role from the name, base none"
+ContactInfo,struct,,,,,2042,16,30,collision,engine/collision/contact_info,medium,"role from the name, base none"
+D3DApp,class,,,app/d3dapp.cpp,engine/mesh.cpp; engine/interface.cpp; engine/transition.cpp; engine/draw2d.cpp; app/app_main.cpp; objects/fireball.cpp; objects/fishingrod.cpp; objects/lightspot.cpp; engine/shadow.cpp; engine/text.cpp; engine/scenaric_loop.cpp; engine/game_level.cpp,3298,53,33,application,app/d3_d_app,medium,role from the name
+  └ D3DDeviceInfo,struct,,D3DApp,,,3263,22,1,application,app/d3_d_app,high,helper of D3DApp: goes in D3DApp's header
+  └ DIJoystickInfo,struct,,D3DApp,,,3286,11,1,application,app/d3_d_app,high,helper of D3DApp: goes in D3DApp's header
+DialogBox,struct,,,,,3405,19,4,menus & HUD,ui/dialog_box,medium,role from the name
+DialogueShownFlags,struct,,,,,4180,13,1,game state & progress,game/state/dialogue_shown_flags,medium,role from the name
+  └ DialogueShownBits,struct,,DialogueShownFlags,,,4169,10,0,game state & progress,game/state/dialogue_shown_flags,high,helper of DialogueShownFlags: goes in DialogueShownFlags's header
+EmitterColumnParams,struct,,,,,4488,15,3,particles & effects,engine/fx/emitter_column_params,medium,"role from the name, base none"
+EmitterDriftParams,struct,,,,,2059,16,5,particles & effects,engine/fx/emitter_drift_params,medium,"role from the name, base none"
+EmitterFadeParams,struct,,,,,4504,15,6,particles & effects,engine/fx/emitter_fade_params,medium,"role from the name, base none"
+EmitterRiseParams,struct,,,,,2076,15,4,particles & effects,engine/fx/emitter_rise_params,medium,"role from the name, base none"
+FileHandle,struct,,,,,4687,13,4,files & resources,engine/io/file_handle,medium,"role from the name, base none"
+FmvList,struct,,,,,4863,11,4,cinematics & video,engine/cinematics/fmv_list,medium,"role from the name, base none"
+Font,struct,,,,,4890,24,2,menus & HUD,ui/font,low,guess from the name; check the class
+Frustrum,class,,,engine/frustrum.cpp,,4970,45,6,rendering,engine/render/frustrum,medium,"role from the name, base none"
+GameState,class,,,engine/game_state.cpp,,5016,19,7,game state & progress,game/state/game_state,medium,role from the name
+  └ Dav,struct,,GameState,,,4037,13,5,files & resources,engine/io/dav,medium,"role from the name, base none"
+    └ DavHeader,struct,,Dav,,,4066,12,11,files & resources,engine/io/dav_header,medium,"role from the name, base none"
+    └ WarFile,struct,,Dav,,,4024,12,2,files & resources,engine/io/war_file,medium,"role from the name, base none"
+      └ WarHeader,struct,,WarFile,,,10535,15,1,files & resources,engine/io/war_header,medium,"role from the name, base none"
+GroundQuery,struct,,,,,5559,11,20,collision,engine/collision/ground_query,medium,"role from the name, base none"
+Heap,class,,,engine/heap.cpp,,5591,46,3,scene object model,engine/scene/heap,medium,"role from the name, base none"
+  └ HeapBlock,struct,,Heap,,,5638,12,1,scene object model,engine/scene/heap,high,helper of Heap: goes in Heap's header
+HoleFX,class,,,fx/holefx.cpp,,5759,39,2,particles & effects,engine/fx/hole_fx,medium,"role from the name, base none"
+InlineEmitter1,class,,,objects/mine.cpp,,4093,12,1,particles & effects,engine/fx/inline_emitter1,medium,"role from the name, base none"
+InlineEmitter10,class,,,objects/piranhas.cpp,,5949,12,1,particles & effects,engine/fx/inline_emitter10,medium,"role from the name, base none"
+InlineEmitter16,class,,,objects/bull.cpp,objects/heapofleaf.cpp; objects/sheep.cpp; objects/dragon.cpp; objects/sam_pirate.cpp; objects/flute.cpp; objects/cannonball.cpp,2166,12,7,particles & effects,engine/fx/inline_emitter16,medium,"role from the name, base none"
+InlineEmitter3,class,,,objects/mine.cpp,objects/dynamite.cpp,4369,12,3,particles & effects,engine/fx/inline_emitter3,medium,"role from the name, base none"
+InlineEmitter32,class,,,objects/perfume.cpp,,5962,12,1,particles & effects,engine/fx/inline_emitter32,medium,"role from the name, base none"
+InlineEmitter4,class,,,objects/floatingbox.cpp,objects/inflatablesheep.cpp; objects/mine.cpp,4767,13,3,particles & effects,engine/fx/inline_emitter4,medium,"role from the name, base none"
+InlineEmitter6,class,,,objects/piranhas.cpp,,5975,12,1,particles & effects,engine/fx/inline_emitter6,medium,"role from the name, base none"
+InlineEmitter8,class,,,objects/raft.cpp,objects/shark.cpp,5988,13,2,particles & effects,engine/fx/inline_emitter8,medium,"role from the name, base none"
+InputDevice,class,,,app/input_device.cpp,app/keyboard.cpp,6026,44,5,input,engine/input/input_device,medium,"role from the name, base none"
+InputMgr,class,,,engine/input_mgr.cpp,,6071,65,3,input,engine/input/input_mgr,medium,"role from the name, base none"
+  └ InputBinding,struct,,InputMgr,,,6002,11,1,input,engine/input/input_mgr,high,helper of InputMgr: goes in InputMgr's header
+  └ InputBindingIdx,struct,,InputMgr,,,6014,11,2,input,engine/input/input_mgr,high,helper of InputMgr: goes in InputMgr's header
+InteractScan,struct,,,,,6244,17,1,scene object model,engine/scene/interact_scan,low,guess from the name; check the class
+LaunchArc,class,,,objects/volcano.cpp,objects/rock.cpp,2476,17,4,movement & paths,engine/navigation/launch_arc,low,guess from the name; check the class
+  └ LaunchArcFlagBits,struct,,LaunchArc,,,2461,14,0,movement & paths,engine/navigation/launch_arc,high,helper of LaunchArc: goes in LaunchArc's header
+ListNode,struct,,,,,6464,12,7,scene object model,engine/scene/list_node,medium,"role from the name, base none"
+Map,class,,,engine/map.cpp,,6629,78,3,menus & HUD,ui/map,low,guess from the name; check the class
+  └ MapLocSlot,struct,,Map,,,6708,12,0,menus & HUD,ui/map,high,helper of Map: goes in Map's header
+  └ MapMarker,struct,,Map,,,6591,13,0,menus & HUD,ui/map,high,helper of Map: goes in Map's header
+Mat34s,struct,,,,,1954,14,17,math,engine/math/mat34s,medium,"role from the name, base none"
+Mat44,class,,,engine/mat44.cpp,,973,37,39,math,engine/math/mat44,medium,"role from the name, base none"
+Menu,struct,,,,,3352,17,7,menus & HUD,ui/menu,medium,role from the name
+MenuBox,struct,,,,,3370,16,5,menus & HUD,ui/menu_box,medium,role from the name
+MenuPage,struct,,,,,3387,17,10,menus & HUD,ui/menu_page,medium,role from the name
+MenuState,struct,,,,,6778,24,1,menus & HUD,ui/menu_state,medium,role from the name
+Mesh,class,,,engine/mesh.cpp,,778,29,10,rendering,engine/render/mesh,medium,"role from the name, base none"
+  └ MeshAnimFrame,class,,Mesh,,,6803,12,3,rendering,engine/render/mesh,high,helper of Mesh: goes in Mesh's header
+  └ MeshAnimSeq,class,,Mesh,,,6816,13,3,rendering,engine/render/mesh,high,helper of Mesh: goes in Mesh's header
+MeshPart,class,,,engine/mesh_part.cpp,,6830,29,3,rendering,engine/render/mesh_part,medium,"role from the name, base none"
+  └ MeshPartPose,class,,MeshPart,,,6860,13,4,rendering,engine/render/mesh_part,high,helper of MeshPart: goes in MeshPart's header
+MltHeader,struct,,,,,6923,12,1,files & resources,engine/io/mlt_header,medium,"role from the name, base none"
+Model,struct,,,,,6936,14,9,rendering,engine/render/model,medium,"role from the name, base none"
+  └ ModelBoxList,struct,,Model,,,6951,11,26,rendering,engine/render/model,high,helper of Model: goes in Model's header
+  └ ModelJoint,struct,,Model,,,6963,12,2,rendering,engine/render/model,high,helper of Model: goes in Model's header
+MoveModifyArg,struct,,,,,7033,15,7,movement & paths,engine/navigation/move_modify_arg,medium,"role from the name, base none"
+MoveRecord,struct,,,,,7049,18,4,movement & paths,engine/navigation/move_record,medium,"role from the name, base none"
+NavNode,struct,,,,,7080,26,2,movement & paths,engine/navigation/nav_node,medium,"role from the name, base none"
+ObjGridHeader,struct,,,,,7121,14,0,scene object model,engine/scene/obj_grid_header,medium,"role from the name, base none"
+PackJpeg,class,,,objects/pack_jpeg.cpp,,7169,28,2,files & resources,engine/io/pack_jpeg,medium,"role from the name, base none"
+  └ PackJpegEntry,struct,,PackJpeg,,,7198,12,1,files & resources,engine/io/pack_jpeg,high,helper of PackJpeg: goes in PackJpeg's header
+  └ PackJpegImage,struct,,PackJpeg,,,7211,14,1,files & resources,engine/io/pack_jpeg,high,helper of PackJpeg: goes in PackJpeg's header
+Pad,class,,,engine/input.cpp,,7268,47,10,input,engine/input/pad,medium,"role from the name, base none"
+  └ PadFrame,struct,,Pad,,,7238,16,2,input,engine/input/pad,high,helper of Pad: goes in Pad's header
+  └ PadRecHeader,struct,,Pad,,,7316,15,1,input,engine/input/pad,high,helper of Pad: goes in Pad's header
+  └ PadRepeat,struct,,Pad,,,7255,12,1,input,engine/input/pad,high,helper of Pad: goes in Pad's header
+  └ PadTypeLen,struct,,Pad,,,7226,11,1,input,engine/input/pad,high,helper of Pad: goes in Pad's header
+Particle,struct,,,,,2092,15,1,particles & effects,engine/fx/particle,medium,"role from the name, base none"
+ParticleEmitter,class,,,engine/emitter.cpp,game/wolf.cpp,2119,33,6,particles & effects,engine/fx/particle_emitter,medium,"role from the name, base none"
+  └ EmitterFlagBits,struct,,ParticleEmitter,,,2108,10,0,particles & effects,engine/fx/particle_emitter,high,helper of ParticleEmitter: goes in ParticleEmitter's header
+  └ EmitterPerfumeParams,struct,,ParticleEmitter,,,4520,17,2,particles & effects,engine/fx/particle_emitter,high,helper of ParticleEmitter: goes in ParticleEmitter's header
+  └ EmitterTrailParams,struct,,ParticleEmitter,,,4538,13,3,particles & effects,engine/fx/particle_emitter,high,helper of ParticleEmitter: goes in ParticleEmitter's header
+PathFollower,class,,,engine/approach.cpp,,7332,25,1,movement & paths,engine/navigation/path_follower,medium,"role from the name, base none"
+PolyBatcher,class,,,engine/polybatcher.cpp,engine/mesh.cpp; engine/weather_fx.cpp; engine/debug_draw.cpp; objects/lightspot.cpp; engine/text.cpp; engine/draw2d.cpp; engine/shadow.cpp; engine/emitter.cpp; engine/interface.cpp,7533,51,16,rendering,engine/render/poly_batcher,medium,"role from the name, base none"
+Progress,class,,,engine/progress.cpp,objects/mcard.cpp; objects/timekeeper.cpp; engine/pause_menu.cpp,7748,59,11,game state & progress,game/state/progress,medium,role from the name
+  └ ControlConfig,struct,,Progress,,,3009,13,1,game state & progress,game/state/progress,high,helper of Progress: goes in Progress's header
+  └ ProgressOptionBits,struct,,Progress,,,7718,12,1,game state & progress,game/state/progress,high,helper of Progress: goes in Progress's header
+  └ ProgressRuntimeFlagBits,struct,,Progress,,,7731,16,0,game state & progress,game/state/progress,high,helper of Progress: goes in Progress's header
+RenderPoly,class,,,engine/render_poly.cpp,,5737,21,19,rendering,engine/render/render_poly,medium,"role from the name, base none"
+  └ PolyTri,class,,RenderPoly,,,1526,12,9,rendering,engine/render/poly_tri,medium,"role from the name, base none"
+ResolveScratch,struct,,,,,7967,13,1,collision,engine/collision/resolve_scratch,medium,"role from the name, base none"
+ScnClassRegEntry,struct,,,,,8839,13,2,scene object model,engine/scene/scn_class_reg_entry,medium,"role from the name, base none"
+ScnRecordSynth,struct,,,,,2179,14,6,scene object model,engine/scene/scn_record_synth,medium,"role from the name, base none"
+Screen,class,,,engine/screen.cpp,,8853,32,4,rendering,engine/render/screen,medium,"role from the name, base none"
+ScrollText,class,,,engine/interface.cpp,,1386,19,4,menus & HUD,ui/scroll_text,medium,role from the name
+  └ ScrollTextFlagBits,struct,,ScrollText,,,8886,14,0,menus & HUD,ui/scroll_text,high,helper of ScrollText: goes in ScrollText's header
+Shadow,class,,,engine/shadow.cpp,,1637,20,6,rendering,engine/render/shadow,medium,"role from the name, base none"
+  └ ShadowScratch,struct,,Shadow,,,9040,14,1,rendering,engine/render/shadow,high,helper of Shadow: goes in Shadow's header
+SndBankEntry,struct,,,,,9464,12,1,audio,engine/audio/snd_bank_entry,medium,"role from the name, base none"
+Sound,class,,,compat/pure_slots.cpp,,9520,32,4,audio,engine/audio/sound,medium,"role from the name, base none"
+  └ SoundChannel,struct,,Sound,,,9578,22,1,audio,engine/audio/sound,high,helper of Sound: goes in Sound's header
+SoundDevice,class,,,engine/sound_device.cpp,,9613,35,8,audio,engine/audio/sound_device,medium,"role from the name, base none"
+  └ SoundDeviceEntry,struct,,SoundDevice,,,9601,11,1,audio,engine/audio/sound_device,high,helper of SoundDevice: goes in SoundDevice's header
+Sprite,class,,,engine/interface.cpp,,3879,21,6,menus & HUD,ui/sprite,medium,role from the name
+  └ SpriteFrame,struct,,Sprite,,,843,12,3,menus & HUD,ui/sprite,high,helper of Sprite: goes in Sprite's header
+StreamPlayer,class,,,engine/stream_player.cpp,,9694,36,2,audio,engine/audio/stream_player,medium,"role from the name, base none"
+StringBank,struct,,,,,4012,11,3,files & resources,engine/io/string_bank,medium,"role from the name, base none"
+TextResBank,class,,,objects/textresbank.cpp,,9840,15,2,files & resources,engine/io/text_res_bank,medium,"role from the name, base none"
+  └ TextResEntry,struct,,TextResBank,,,9856,12,1,files & resources,engine/io/text_res_bank,high,helper of TextResBank: goes in TextResBank's header
+Texture,class,,,engine/texture.cpp,,9869,20,21,rendering,engine/render/texture,medium,"role from the name, base none"
+  └ TexScroll,struct,,Texture,,,9818,21,2,rendering,engine/render/texture,high,helper of Texture: goes in Texture's header
+Timer,class,,,engine/timer.cpp,,9994,28,5,scene object model,engine/scene/timer,medium,"role from the name, base none"
+TimeTravelArg,struct,,,,,9939,12,2,game state & progress,game/state/time_travel_arg,medium,role from the name
+TrailEmitter,class,,,objects/gossamer_lev08.cpp,objects/bipbip.cpp; objects/shark.cpp; objects/train.cpp; game/wolf.cpp,5407,12,7,particles & effects,engine/fx/trail_emitter,medium,"role from the name, base none"
+Trajectory,struct,,,,,7492,11,21,movement & paths,engine/navigation/trajectory,medium,"role from the name, base none"
+TrajFollower,class,,,,,1254,19,4,movement & paths,engine/navigation/traj_follower,medium,"role from the name, base none"
+TrajPatrol,class,,,,,5420,22,1,movement & paths,engine/navigation/traj_patrol,medium,"role from the name, base none"
+UiCursor,class,,,engine/interface.cpp,,10297,29,2,menus & HUD,ui/ui_cursor,medium,role from the name
+  └ UiCursorFrame,struct,,UiCursor,,,10281,15,0,menus & HUD,ui/ui_cursor,high,helper of UiCursor: goes in UiCursor's header
+UiFrame,struct,,,,,10327,13,2,menus & HUD,ui/ui_frame,medium,role from the name
+UiIcon,class,,,engine/interface.cpp,,6605,23,3,menus & HUD,ui/ui_icon,medium,role from the name
+UiQuad,class,,,engine/interface.cpp,,1112,25,3,menus & HUD,ui/ui_quad,medium,role from the name
+Vec2s,struct,,,,,10399,11,2,math,engine/math/vec2s,medium,"role from the name, base none"
+Vec3f,class,,,,,2153,12,18,math,engine/math/vec3f,medium,"role from the name, base none"
+Vec3i,struct,,,,,7954,12,27,math,engine/math/vec3i,medium,"role from the name, base none"
+Vec4i,struct,,,,,10411,13,16,math,engine/math/vec4i,medium,"role from the name, base none"
+Vec4s,struct,,,,,9121,13,7,math,engine/math/vec4s,medium,"role from the name, base none"
+Video,class,,,objects/video.cpp,,10425,25,2,cinematics & video,engine/cinematics/video,medium,"role from the name, base none"
+VideoPlayer,class,,,objects/video_player.cpp,,10451,16,3,cinematics & video,engine/cinematics/video_player,medium,"role from the name, base none"
+WallAvoid,class,,,objects/wallavoid.cpp,objects/sheep.cpp,9161,14,2,movement & paths,engine/navigation/wall_avoid,low,guess from the name; check the class
+  └ WallAvoidFlagBits,struct,,WallAvoid,,,9148,12,0,movement & paths,engine/navigation/wall_avoid,high,helper of WallAvoid: goes in WallAvoid's header
+WarLevelHeader,struct,,,,,10551,12,2,files & resources,engine/io/war_level_header,medium,"role from the name, base none"
+WaveFile,class,,,engine/wave_file.cpp,,10648,20,7,audio,engine/audio/wave_file,medium,"role from the name, base none"
+  └ MMCKINFO,struct,,WaveFile,,,6495,14,2,audio,engine/audio/wave_file,high,helper of WaveFile: goes in WaveFile's header
+Weather,class,,,engine/weather_fx.cpp,,10703,30,2,particles & effects,engine/fx/weather,medium,"role from the name, base none"
+  └ WeatherParticle,struct,,Weather,,,10669,15,0,particles & effects,engine/fx/weather,high,helper of Weather: goes in Weather's header
+  └ WeatherTex,struct,,Weather,,,10685,17,1,particles & effects,engine/fx/weather,high,helper of Weather: goes in Weather's header
+    └ DavBitmapRec,struct,,WeatherTex,,,4051,14,15,files & resources,engine/io/dav_bitmap_rec,medium,"role from the name, base none"
+ZoneList,class,,,objects/automaticdoor.cpp,objects/train.cpp,1033,17,14,collision,engine/collision/zone_list,medium,"role from the name, base none"

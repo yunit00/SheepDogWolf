@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Cin_int_niv_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Hello, and welcome to the Sheep, Dog 'n' Wolf Show, or as I like to call it, Who Wants to Be a Sheep Stealer?"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_02.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Listen, bub. All you got to do is relax and play the game. I got to use this gig to catapult me to superstardom!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_03b.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Now, the aim of our game is simple: to steal sheep."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_04.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "You will go through a series of levels. At each of those levels, you will have to steal a sheep from Sam Sheepdog and put it in the goal."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_05.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "If you succeed, you may proceed to the next challenge, and so on, until you finally steal the entire flock!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_06.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "But, and this is a big \"but\", the sheep must be intact at the end of each level. You'll be disqualified if any of the sheep are missing so much as a thread of wool."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_07.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Have I made myself perfectly clear? Mmm?"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_09b.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "What?"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  }
+]

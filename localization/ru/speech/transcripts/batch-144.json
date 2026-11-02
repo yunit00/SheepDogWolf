@@ -1,0 +1,24 @@
+[
+  {
+    "file": "txtel_lvl1101.wav",
+    "segments": [
+      {
+        "speaker": "Elmer Fudd",
+        "text": "Shh. Be vewy, vewy quiet. I'm hunting wabbits. Huh-huh-huh-huh."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "txtel_lvl1102.wav",
+    "segments": [
+      {
+        "speaker": "Elmer Fudd",
+        "text": "Shh. Be vewy, vewy quiet. I'm duck hunting. Huh-huh-huh-huh."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  }
+]

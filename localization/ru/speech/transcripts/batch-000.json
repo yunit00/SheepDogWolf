@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Cin02_sc_reL001.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "And now, looking more ready than ever to steal sheep, here is our contestant! Welcome to the Sheep, Dog 'n' Wolf Show! Applause!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin02_sc_reL002.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "You'll see the place to which you must bring back the sheep you have stolen. The counter will also indicate the number of sheep you still have to steal."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin02_sc_reL003.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "The counter will also indicate the number of sheep you still have to steal."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin02_sc_reL004.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "By climbing onto this stand, you can save the game by following the instructions given."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin02_sc_reL005.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "If you're exceptionally bright, like yours truly, you'll discover a time clock in each level. Activate it and win a bonus point! Then you can come here and buy stuff, depending on the number of bonus points you've collected, of course."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin02_sc_reL006.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "And that's where you can choose levels. All you have to do is activate a door to enter the corresponding level. It's up to you now!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin03_sc_reL161.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Fantastic! The last sheep! You did it! You are an exceptional contestant. Unfortunately, our show is nearly over. Thanks to all my fans out there for staying with us through to the end. See you soon!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin03_sc_reL162.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Uh! What's this? What's Marvin the Martian doing here? This wasn't in the script!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  }
+]

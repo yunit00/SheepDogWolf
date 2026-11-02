@@ -1,0 +1,94 @@
+[
+  {
+    "file": "Cin_int_niv_10.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Well, sort of. Yes, rehearsals take place over here."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_11.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Yes! Oh, one last thing, if you want to configure some game settings, press pause and look at the menu. Good luck!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_12.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Another way to configure some game settings is to press the start button."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "Mars_2sec.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Fantastic! The last sheep! You did it! You are an exceptional contestant. Unfortunately, our show is nearly over. Thanks to all my fans out there for staying with us through to the end. See you soon! Huh? What's this? What's Marvin the Martian doing here? This wasn't in the script!"
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "text": "That insignificant little Earthling. It looks like that ridiculous creature reached my planet because of a blunder you made, is that right? Mmm. Well, let me tell you how your friend got here. I was just getting ready to test my latest weapon, the PR-200, a very practical tool which reduces any living species to one-tenth of its normal size. For the experiment, I enlisted the help of a devoted member of my army. I was just about ready to test my invention, when suddenly an invader smashed into my water tank at full speed, and the whole tank collapsed all over my army. The accursed invader looked like a black sheep. It was utter chaos, but after a super Martian effort and the help of my fantastic PR-200, I managed to get back most of my army. Isn't that delightful? Wait, I haven't finished yet. My army is still incomplete. A somewhat rebellious unit has gotten themselves into a sticky situation, and it's risky to get them out. I, Marvin the Martian, don't plan on taking any unnecessary risks. It's up to you to repair the damage now, by returning to me my lost Instant Martians. Come, K-9! Sit, boy."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "be_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Who's responsible for this?"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "be_02.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Somebody get my agent on the phone! I can't work under these conditions!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "be_03.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "All right. Who's the wise guy that replaced my microphone with this shaver?"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "be_04.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Etcetera."
+      }
+    ],
+    "non_speech": "hysterical laughter",
+    "notes": null
+  }
+]

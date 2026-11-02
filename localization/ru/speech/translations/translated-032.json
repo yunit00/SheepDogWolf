@@ -1,0 +1,193 @@
+[
+  {
+    "file": "cin_03_sc_rel_03b.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "I was just getting ready to test my latest weapon, the PR-200. A very practical tool which reduces any living species to one-tenth of its normal size. For the experiment, I enlisted the help of a devoted member of my army. I was just about ready to test my invention, when suddenly an invader smashed into my water tank at full speed, and the whole tank collapsed all over my army.",
+        "ru": "Я как раз готовился испытать своё новейшее оружие — «ПР-200». Очень практичное устройство, уменьшающее любое живое существо до одной десятой обычного размера. Для эксперимента я привлёк преданного бойца моей армии. Я уже был готов опробовать изобретение, как вдруг какой-то захватчик на полной скорости врезался в мой бак с водой, и весь бак рухнул прямо на мою армию."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_03_sc_rel_03bis.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Drat! An invader smashed into my water tank at full speed, and the tank spilled on my entire army.",
+        "ru": "Проклятье! Какой-то захватчик на полной скорости врезался в мой бак с водой, и вода залила всю мою армию."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_03_sc_rel_03ter.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "The accursed invader looked like a black sheep.",
+        "ru": "Этот треклятый захватчик выглядел как чёрная овца."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_03_sc_rel_04.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Wait, I haven't finished yet. My army is still incomplete. A somewhat rebellious unit has gotten themselves into a sticky situation and it's risky to get them out. I, Marvin the Martian, don't plan on taking any unnecessary risks.",
+        "ru": "Постой, я ещё не закончил. Моя армия всё ещё не в полном составе. Один мятежный отряд угодил в щекотливую ситуацию, и спасать его рискованно. А я, Марвин Марсианин, не намерен идти на неоправданный риск."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_03_sc_rel_04_4.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "It was utter chaos, but after a super Martian effort, and the help of my fantastic PR-200, I managed to get back most of my army. Isn't that delightful?",
+        "ru": "Это был сущий хаос! Но ценой сверхмарсианских усилий и с помощью моего фантастического «ПР-200» мне удалось вернуть большую часть армии. Разве это не прелестно?"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_03_sc_rel_05.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "It's up to you to repair the damage now, by returning to me my lost instant Martians.",
+        "ru": "Теперь тебе предстоит всё исправить и вернуть мне моих пропавших марсиан."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_03_sc_rel_06.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Come, K-9. Sit, boy.",
+        "ru": "Ко мне, К-9. Сидеть."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_04_sc_ret_01.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Well done. As promised, I'm going to take you back to Earth.",
+        "ru": "Молодец. Как и обещал, я верну тебя на Землю."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_04_sc_ret_02.wav",
+    "segments": [
+      {
+        "speaker": "Yosemite Sam",
+        "en": "Are all systems go for the attack plan?",
+        "ru": "Все системы готовы к плану атаки?"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_04_sc_ret_03.wav",
+    "segments": [
+      {
+        "speaker": "Yosemite Sam",
+        "en": "Okay then, let's go invade that miserable planet!",
+        "ru": "Тогда вперёд, захватим эту жалкую планету!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_goal_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oof! Dealing with this kind of stuff definitely wasn't in my contract.",
+        "ru": "Уф! Разбираться с подобными вещами точно не входило в мой контракт."
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Can an uninformed duck get some help around here?",
+        "ru": "Может кто-нибудь помочь неосведомлённой утке?"
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "So, what do we do now? Is it okay this way, or not? Technically, the sheep has been put inside the goal, and it is inside the goal, so it should be taken into account, shouldn't it? And one more victory for our contestant!",
+        "ru": "Итак, что же нам делать? Так сойдёт или нет? Чисто технически овцу доставили на финиш, и она находится на финише, так что это должно засчитываться, верно? И ещё одна победа нашего участника!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_int_niv_08.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Okay, don't panic! I, as the consummate professional, know how important it is to rehearse. This is your big chance, and you don't wanna blow it! Besides, I'm the one who explained this game to you, and if you don't do well, how's that gonna make me look? Not so good, that's how! So go ahead, practice!",
+        "ru": "Спокойно, без паники! Я, как законченный профессионал, знаю, как важны репетиции. Это твой звёздный час, и ты ведь не хочешь всё испортить! К тому же это я объяснял тебе игру, и если ты напортачишь, как я буду выглядеть? Не лучшим образом, вот как! Так что давай, тренируйся!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_lvl0601.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hello, I am one cold duck. Brrr!",
+        "ru": "Эй, кто-нибудь! Я тут совсем окоченел. Бр-р!"
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You there, soldier! You gotta deactivate this mine. It's simple: first, observe the light wave rhythm. When it disappears, approach the mine and press the action button, which will bring up the control panel. Watch for the green light, then observe in which order the buttons light up. Be careful, 'cause when the light is red, you then have to light the buttons in the same order and at the right time. If you succeed, the mine is deactivated. If you make a mistake by using the wrong button or press at the wrong moment, boom! Don't let me down, soldier. Good luck. You'll need it.",
+        "ru": "Солдат! Нужно обезвредить эту мину. Всё просто: сначала проследи за световой волной. Когда она исчезнет, подойди к мине и нажми кнопку действия, чтобы открыть пульт. Дождись зелёного сигнала и запомни порядок вспышек кнопок. Будь внимателен: когда загорится красный, тебе нужно будет нажать кнопки в том же порядке и в нужный момент. Получится — мина обезврежена. Но если перепутаешь кнопку или нажмёшь не вовремя — бабах! Не подведи меня, солдат. Удачи. Она тебе понадобится."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_lvl0701.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "You know, there's nothing a pro skier like myself enjoys more than a good race. Go down the slope, and the one who bumps the other one first gets the sheep! The first one to get to his camp with the sheep wins! So, you ready to go?",
+        "ru": "Знаешь, профессиональному лыжнику вроде меня ничто не доставляет такого удовольствия, как хорошая гонка. Спускайся по склону, и тот, кто первым толкнёт соперника, получает овцу! Кто первым доберётся с овцой до своего лагеря — победил! Ну что, готов?"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_lvl0702b.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "3 2 1 go!",
+        "ru": "Три, два, один, вперёд!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_lvl0703.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "This slope is closed, Bub. Come back later, when you know how to slalom.",
+        "ru": "Трасса закрыта, приятель. Приходи позже, когда научишься слалому."
+      }
+    ],
+    "notes": null
+  }
+]

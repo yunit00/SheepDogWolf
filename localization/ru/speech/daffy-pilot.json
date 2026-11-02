@@ -1,0 +1,40 @@
+{
+  "speaker": "Daffy Duck",
+  "voice": "Puck",
+  "clips": [
+    {
+      "file": "Cin02_sc_reL001.wav",
+      "segments": [
+        {
+          "speaker": "Daffy Duck",
+          "en": "And now, looking more ready than ever to steal sheep, here is our contestant! Welcome to the Sheep, Dog 'n' Wolf Show! Applause!",
+          "ru": "А теперь, готовый как никогда воровать овец, встречайте нашего участника! Добро пожаловать на шоу «Овца, Собака и Волк»! Аплодисменты!"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "file": "Cin02_sc_reL002.wav",
+      "segments": [
+        {
+          "speaker": "Daffy Duck",
+          "en": "You'll see the place to which you must bring back the sheep you have stolen. The counter will also indicate the number of sheep you still have to steal.",
+          "ru": "Здесь ты увидишь место, куда нужно приводить украденных овец. А счётчик покажет, сколько овец ещё предстоит украсть."
+        }
+      ],
+      "notes": null
+    },
+    {
+      "file": "Cin02_sc_reL003.wav",
+      "segments": [
+        {
+          "speaker": "Daffy Duck",
+          "en": "The counter will also indicate the number of sheep you still have to steal.",
+          "ru": "А счётчик покажет, сколько овец ещё предстоит украсть."
+        }
+      ],
+      "notes": null
+    }
+  ],
+  "prompt": "Perform Russian dubbing for an animated duck game-show host. Voice: male, bright medium-high nasal quacky timbre, energetic theatrical comic confidence, clearly audible natural lateral lisp on с, з, ш, ж sounds (slightly wet whistling consonants), but every Russian word must remain intelligible. Consistent character voice throughout. Not a calm audiobook narrator. Speak at a brisk but clear conversational pace. No music or effects. Read only the Russian lines below, in order. Between numbered entries say the neutral marker КОНЕЦ РЕПЛИКИ, then pause for three seconds, before resuming the SAME duck voice. Do not read the numbers. The markers will be removed by the editor. Complete every sentence.\n\n1. А теперь, готовый как никогда воровать овец, встречайте нашего участника! Добро пожаловать на шоу «Овца, Собака и Волк»! Аплодисменты!\n\n2. Здесь ты увидишь место, куда нужно приводить украденных овец. А счётчик покажет, сколько овец ещё предстоит украсть.\n\n3. А счётчик покажет, сколько овец ещё предстоит украсть."
+}

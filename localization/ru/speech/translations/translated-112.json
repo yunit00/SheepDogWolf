@@ -1,0 +1,178 @@
+[
+  {
+    "file": "re_niv_04ge.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "You're unstoppable!",
+        "ru": "Тебя не остановить!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "re_niv_05qu.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Come on, don't be a quitter.",
+        "ru": "Давай, не сдавайся!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "ret_lvl_00.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "What are you doing here? Don't tell me you wanna give up before the show has even started. Wh- you're still in rehearsals.",
+        "ru": "Что ты здесь делаешь? Не говори, что хочешь сдаться ещё до начала шоу! Ведь... это же только репетиция!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "ret_niv_00a.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Well done! Our contestant is stupendous!",
+        "ru": "Браво! Наш участник просто великолепен!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "ret_niv_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "And one more victory!",
+        "ru": "И ещё одна победа!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "ret_niv_02ge.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Fantastic! Oops, shh, our contestant needs quiet. Quiet!",
+        "ru": "Фантастика! Ой, тс-с! Нашему участнику нужна тишина. Тишина!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "ret_niv_03ge.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Wonderful. Don't forget to find all the time clocks.",
+        "ru": "Замечательно. Не забудь найти все табельные часы."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "sc_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Please, let's give our contestant a little support, huh?",
+        "ru": "Прошу вас, давайте поддержим нашего участника, а?"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "sc_02.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Come on, the crowd is with ya! Keep going!",
+        "ru": "Давай же, публика за тебя! Не останавливайся!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "sc_03.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Listen, if you don't want to proceed we'll just find a new contestant. There's plenty who'd jump at the chance to work with me, I'll tell ya.",
+        "ru": "Послушай, если не хочешь продолжать, мы просто найдём другого участника. Полно тех, кто ухватится за шанс поработать со мной, уж поверь!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl0602.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "The good news is, you can approach a mine when the light wave disappears. The bad news is, you don't have much time before the next light wave appears. Don't forget that if you are hit by a light wave, the mine goes kablooey!",
+        "ru": "Хорошая новость: к мине можно подойти, когда световая волна исчезнет. Плохая новость: времени до следующей волны у тебя совсем немного. И не забывай: если волна тебя заденет, мина сделает бабах!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl0603.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Activating a mine is simple. It's deactivating it that's the tough stuff. You've got to remember the button sequence when the light is green and then redo it on your controller when the light is red. Try not to mess up, cause you have to press the right button at the right time. But on the bright side, you will get help from the little yellow lights and the sounds to make sure you press the buttons at the right time. See? It's simple!",
+        "ru": "Активировать мину просто. А вот обезвредить её — задачка посложнее. Тебе нужно запомнить комбинацию кнопок, пока горит зелёный, а затем повторить её на своём контроллере, когда загорится красный. Постарайся не ошибиться, ведь нужно нажать нужную кнопку в нужный момент. Но есть и хорошая новость: жёлтые огоньки и звуковые сигналы помогут тебе нажимать кнопки вовремя. Видишь? Всё просто!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl0604.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "When deactivated, you can use the mines as if they were standard objects. When you lay a mine, it will activate itself within 5 seconds.",
+        "ru": "Обезвреженную мину можно использовать как обычный предмет. Когда ты положишь мину, она активируется через пять секунд."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_001.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oh, that didn't work too well. Follow me, and I'll explain a few commands.",
+        "ru": "Ой, не очень-то получилось. Иди за мной, я покажу тебе пару приёмов."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_0010.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hey, how about a little race? You want to know how to win? When you cross the starting line, you'll get a limited amount of time to finish the race. To do this, press steadily on the run button to increase your speed. If you run fast enough, you'll be able to stay suspended in midair for a short period of time. This will come in handy to get over precipi-pi-pi-ces. Fancy word for cliffs.",
+        "ru": "Эй, как насчёт небольшой гонки? Хочешь знать, как победить? Когда пересечёшь линию старта, у тебя будет ограниченное время, чтобы закончить забег. Для этого удерживай кнопку бега, чтобы набрать скорость. Если побежишь достаточно быстро, то сможешь ненадолго зависнуть в воздухе. Это пригодится, чтобы перемахнуть через про-про-пропасти. Умное словечко для обрывов."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_0011.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Come on, you can do better than that! Here's another chance.",
+        "ru": "Да ладно тебе, ты способен на большее! Вот ещё один шанс."
+      }
+    ],
+    "notes": null
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "file": "re_niv_04ge.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "You're unstoppable!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "re_niv_05qu.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Come on, don't be a quitter."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "ret_lvl_00.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "What are you doing here? Don't tell me you wanna give up before the show has even started. Wh- you're still in rehearsals."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "ret_niv_00a.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Well done! Our contestant is stupendous!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "ret_niv_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "And one more victory!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "ret_niv_02ge.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Fantastic! Oops, shh, our contestant needs quiet. Quiet!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "ret_niv_03ge.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Wonderful. Don't forget to find all the time clocks."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "sc_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Please, let's give our contestant a little support, huh?"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  }
+]

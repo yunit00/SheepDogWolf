@@ -1,0 +1,125 @@
+[
+  {
+    "file": "cintxtex_lvl_0106.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Ehh, that's not funny."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "fin1_2sec.wav",
+    "segments": [
+      {
+        "speaker": "unknown",
+        "text": "Oh!"
+      },
+      {
+        "speaker": "unknown",
+        "text": "What?"
+      },
+      {
+        "speaker": "unknown",
+        "text": "Yeah!"
+      },
+      {
+        "speaker": "unknown",
+        "text": "Hm?"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "fin2_2sec.wav",
+    "segments": [],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "intro_2sec.wav",
+    "segments": [
+      {
+        "speaker": "Ralph Wolf",
+        "text": "Yeah!"
+      },
+      {
+        "speaker": "Daffy Duck",
+        "text": "Hello, and welcome to the Sheep, Dog 'n' Wolf Show, or as I like to call it, Who Wants to Be a Sheep Stealer?"
+      },
+      {
+        "speaker": "Daffy Duck",
+        "text": "Listen bub, all you got to do is relax and play the game. I got to use this gig to catapult me to superstardom."
+      },
+      {
+        "speaker": "Daffy Duck",
+        "text": "Now, the aim of our game is simple, to steal sheep."
+      },
+      {
+        "speaker": "Daffy Duck",
+        "text": "You will go through a series of levels. At each of those levels, you will have to steal a sheep from Sam Sheepdog and put it in the goal. If you succeed, you may proceed to the next challenge, and so on until you finally steal the entire flock."
+      },
+      {
+        "speaker": "Daffy Duck",
+        "text": "But, and this is a big but, the sheep must be intact at the end of each level. You'll be disqualified if any of these sheep are missing so much as a thread of wool. Have I made myself perfectly clear?"
+      },
+      {
+        "speaker": "Ralph Wolf",
+        "text": "Mmm."
+      },
+      {
+        "speaker": "Daffy Duck",
+        "text": "Okay, don't panic. I, as a consummate professional, know how important it is to rehearse. This is your big chance, and you don't want to blow it. Besides, I'm the one who explained this game to you. And if you don't do well, how's that going to make me look? Not so good, that's how. So, go ahead, practice!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "lvl09_tps_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Dear viewers, something inexplicable has just occurred. Our contestant, by using a strange object called a chronometer, has fallen into a parallel dimension, and is now time traveling. Will this strange phenomenon allow our contestant to succeed in this new challenge? We'll just have to wait and see."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "plade_lvl_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Psst, come here! Have you heard of the Sheep, Dog 'n' Wolf game? No? Well, let's see how I can describe it now. It's not really an action game, um, or a spy game, or a strategy game. Well, there's certainly nothing nasty in it. No, of course not. I mean, would I be associated with something like that? Me, the star, the professional, the best-loved duck in the biz?"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "plade_lvl_02.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Listen, because I'm a nice guy, I'll give you a sneak preview of this Sheep, Dog 'n' Wolf game, and it's really all about me, the duck! Anyway, all you got to do is catch a sheep and take it to the goal. Ready? Okay, here you go!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "re_lvl_12_fan01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "And one more sheep for our contestant! Whoop, wait a minute, let me see that sheep. Mhm, that doesn't count. Go back and steal some real sheep!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  }
+]

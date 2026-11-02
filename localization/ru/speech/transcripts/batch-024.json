@@ -1,0 +1,102 @@
+[
+  {
+    "file": "be_05a.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "unknown",
+        "text": "How of all the"
+      },
+      {
+        "speaker": "unknown",
+        "text": "sheep,"
+      },
+      {
+        "speaker": "unknown",
+        "text": "whatever happens to him,"
+      },
+      {
+        "speaker": "unknown",
+        "text": "sheep dogs."
+      }
+    ]
+  },
+  {
+    "file": "ci_lvl13_comb_01.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Get a load of this. You can hang an object onto the end of the fishing line using the combine feature in your inventory. Just select the fishing rod, then press combine, and choose the object you want to string onto the end of the hook. If you want to unhook the object, select fishing rod, then press dissociate."
+      }
+    ]
+  },
+  {
+    "file": "ci_lvl_11_lap01b.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Oh, this is just great. Duck hunting season again. Good thing I'm wearing this Robin Hood disguise, so those pesky hunters won't find me."
+      }
+    ]
+  },
+  {
+    "file": "ci_lvl_11_lap02.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Oh, sure. Wherever I am, the rabbit has to show up. Well, so long as Bugs is here, I might as well have some fun. I hereby declare it to be rabbit season! Let the hunt begin!"
+      }
+    ]
+  },
+  {
+    "file": "ci_lvl_13_cro01.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "What gives here, bub? This awful beast won't let me pass. You've got to do something. Tell you what, if you free me, I'll teach you a nifty trick. Use the cannon to knock him out."
+      }
+    ]
+  },
+  {
+    "file": "ci_lvl_13_cro02.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Put a sock in it, crocky."
+      }
+    ]
+  },
+  {
+    "file": "cin_03_sc_rel_01.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "text": "That insignificant little earthling? It looks like that ridiculous creature reached my planet because of a blunder you made, is that right, hmm?"
+      }
+    ]
+  },
+  {
+    "file": "cin_03_sc_rel_02.wav",
+    "non_speech": null,
+    "notes": "",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "text": "Well, let me tell you how your friend got here."
+      }
+    ]
+  }
+]

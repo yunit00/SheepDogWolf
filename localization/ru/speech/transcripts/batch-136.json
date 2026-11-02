@@ -1,0 +1,90 @@
+[
+  {
+    "file": "txt_lvl_005.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Now, I'll hide up here. If you want to find me, keep the inside view button pressed down."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_006.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "If you want to follow me, and who wouldn't, use the jump button and just do what I'm doing."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_007.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "If you want to jump higher, press the button a second time when you're at the highest point of your jump. Works like a charm."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_008.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Might I also suggest you use the jump button to take a flying leap?"
+      }
+    ],
+    "non_speech": "[laughter]",
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_009.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Oh, oh I do crack myself up. Seriously though, if you want to be good at this game, you'll have to use the old noggin. Come on, follow me up to the road."
+      }
+    ],
+    "non_speech": "[laughter]",
+    "notes": null
+  },
+  {
+    "file": "txt_rob_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "If you want to hang an object onto the end of the fishing line, use the combine feature in your inventory, why don't you?"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "txt_rob_02.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "If you want to unhook an object from the end of the fishing line, use the dissociate feature in your inventory."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "txt_rob_03.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Get this! You can hang several different objects onto the end of the fishing line. If you don't believe me, look in the user guide at the object list."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  }
+]

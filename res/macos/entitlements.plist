@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- The signed app's hardened-runtime exceptions (.github/workflows/build.yml signs Rewooled.app with them).
+     disable-library-validation: SDL loads the Vulkan loader / MoltenVK at run time from wherever the player installed it
+     (the Vulkan SDK, Homebrew), signed by someone else; the hardened runtime would refuse it. Metal needs nothing. -->
+<plist version="1.0">
+<dict>
+    <key>com.apple.security.cs.disable-library-validation</key>
+    <true/>
+</dict>
+</plist>

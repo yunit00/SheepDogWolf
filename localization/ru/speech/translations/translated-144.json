@@ -1,0 +1,24 @@
+[
+  {
+    "file": "txtel_lvl1101.wav",
+    "segments": [
+      {
+        "speaker": "Elmer Fudd",
+        "en": "Shh. Be vewy, vewy quiet. I'm hunting wabbits. Huh-huh-huh-huh.",
+        "ru": "Тс-с. Тихо-тихо. Я охочусь на къоликов. Хе-хе-хе-хе."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txtel_lvl1102.wav",
+    "segments": [
+      {
+        "speaker": "Elmer Fudd",
+        "en": "Shh. Be vewy, vewy quiet. I'm duck hunting. Huh-huh-huh-huh.",
+        "ru": "Тс-с. Тихо-тихо. Я охочусь на уток. Хе-хе-хе-хе."
+      }
+    ],
+    "notes": null
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "file": "cin_lvl_0310.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Pick up the object you want to store in your inventory. You can use it right away by keeping the inventory button pressed. A menu will appear with your objects. Use the right and left arrows to select the one you want, release the button, and it's yours. It's simple, Simon.",
+        "ru": "Подбери предмет, чтобы убрать его в инвентарь. Ты можешь использовать его сразу, если будешь удерживать кнопку инвентаря. Появится меню твоих предметов. Стрелками вправо и влево выбери нужный, отпусти кнопку — и он у тебя! Проще простого!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0311.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "To start, come close on one side of this rock, behind the white line.",
+        "ru": "Для начала подойди к камню сбоку, за белой линией."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_17_ob01.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "These X objects will be of great use in getting back my instant Martians. If you manage to return them all to me, I shall take you back to Earth, if that's really where you want to go.",
+        "ru": "Эти предметы «Икс» очень помогут вернуть моих марсиан. Если тебе удастся вернуть мне их всех, я доставлю тебя обратно на Землю — если ты действительно этого хочешь."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_17_ob02a.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "There are still some missing.",
+        "ru": "Ещё не все на месте."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_17_ob03a.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "I must have all of my instant Martians.",
+        "ru": "Мне нужны все мои марсиане."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_17_ob03b.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "I must have all of my instant Martians.",
+        "ru": "Мне нужны все мои марсиане."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_17_ob04a.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Good job! We can board now.",
+        "ru": "Отлично! Теперь можно на борт."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_ob04b.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Good job! We can board now.",
+        "ru": "Отлично! Теперь можно на борт."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_mar_01.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "To capture my instant Martians, you'll have to use this vacuum compressor. When an instant Martian comes anywhere near it, activate the compressor with your remote control. The instant Martian will be compressed and sucked in, then sent to me through this pipe. Won't that be lovely?",
+        "ru": "Чтобы поймать моих марсиан, тебе понадобится этот вакуумный компрессор. Когда марсианин окажется поблизости, включи компрессор пультом управления. Марсианина сожмёт и засосёт внутрь, а затем отправит ко мне по этой трубе. Разве не прелестно?"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cinfe_lvl_0101.wav",
+    "segments": [
+      {
+        "speaker": "Porky Pig",
+        "en": "Hi! I'm, uh, f- Farmer Porky. I hear you're trying to st- steal Sam's sh-sh-sh- flock. G- good luck! I grow all kinds of v- vegetables, and I know Sam's sheep w- well. F- for instance, I know you can l- lead a sheep if you show it some l- lettuce. If you do this, y- you won't have to c- carry them. C- come back with your sheep, and I'll show you how to use l-l-l- leafy vegetables.",
+        "ru": "Привет! Я, э-э, ф-фермер Порки. Слыхал, ты пытаешься ук-украсть стадо у Сэма. У-удачи! Я выращиваю всякие о-овощи и х-хорошо знаю овец Сэма. Н-например, я знаю, что овцу можно в-вести за собой, если показать ей с-салат. Если так сделаешь, т-тебе не придётся их т-таскать. В-возвращайся с овцой, и я покажу тебе, как обращаться с л-л-листовыми овощами."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cinfe_lvl_0102.wav",
+    "segments": [
+      {
+        "speaker": "Porky Pig",
+        "en": "Y- you managed to take a sheep from the f- flock. W- well done! And now, I'll show you how to use the l- lettuce intelligently. Sam's sheep l- love it. All you have to do is l- leave some next to a sheep. It'll go toward it all on its own to eat it. B- but be careful not to place your l- lettuce too far away, or it won't be able to s- see it. To know whether you're close enough before p- putting the lettuce down, ch- check whether this icon is d- displayed. You can also place b- bits of lettuce all along the path. The sheep will move from a bit to a bit. B- but don't place them too far apart, otherwise the sheep may s- stop on the way. So, don't forget to check for this icon before p- placing any l- lettuce. It'll tell you whether it's close enough. D- does any of that make sense? Are you f- following me? D- do you get it, 'cause I d- don't!",
+        "ru": "Т-тебе удалось увести овцу из с-стада. М-молодец! А теперь я покажу тебе, как с умом использовать с-салат. Овцы Сэма его о-обожают. Всё, что нужно — о-оставить немного рядом с овцой. Она сама пойдёт к нему, чтобы съесть. Н-но смотри, не клади с-салат слишком далеко, а то она не с-сможет его у-увидеть. Чтобы знать, достаточно ли близко ты стоишь, перед тем как п-положить салат, п-проверь, виден ли этот значок. Ещё можно разложить к-кусочки салата вдоль тропинки. Овца будет переходить от кусочка к кусочку. Н-но не клади их слишком далеко друг от друга, иначе овца может о-остановиться по дороге. Так что не забывай проверять значок, прежде чем п-положить с-салат. Он подскажет, достаточно ли близко. В-всё понятно? Ты с-следишь за мыслью? П-понимаешь? Потому что я — н-нет!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cinfl_lvl0401.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oof! Ouch! Ta-da! 'Tis I, the enchanting forest elf! I can play spellbinding music on my magic flute! Just listen to that sweet melody!",
+        "ru": "Уф! Ой! Та-дам! Это я, пленительный лесной эльф! Я играю чарующую музыку на волшебной флейте! Только послушай эту нежную мелодию!"
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Say, if you want to hypnotize a character just like I did, you, too, can play this song with a magic flute! But you'd better check the magic flute guide to find out which characters you can hypnotize!",
+        "ru": "Слушай, если хочешь загипнотизировать кого-нибудь, как я, ты тоже можешь сыграть эту мелодию на волшебной флейте! Но лучше загляни в инструкцию к флейте, чтобы узнать, кого именно можно загипнотизировать!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cinfl_lvl0402.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "The magic flute is stupendous! With it, you can hypnotize a character and take him wherever you want! I think I might try it out on my agent.",
+        "ru": "Волшебная флейта просто потрясающа! С ней можно загипнотизировать кого угодно и увести за собой куда захочешь! Пожалуй, надо опробовать её на своём агенте."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cingr_lvl0801.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hey! Can't you see I'm working? As a matter of fact, I'm harvesting weirdsicles! It's pure genius! What I did, see, was throw a whole bunch of really weird-looking stuff into this freezing cold water! Now, it's all frozen into ice cubes, which I'm gonna store right here!",
+        "ru": "Эй! Не видишь, я работаю? Между прочим, собираю чудные льдышки! Чистая гениальность! Я, понимаешь ли, набросал кучу всяких странных штук в эту ледяную воду! Теперь всё это вмёрзло в ледяные кубы, которые я буду складывать прямо здесь!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cingr_lvl0802.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "No time for chitchat, I've got work to do! I've got to pull these ice cubes from the river and store them here on this bank!",
+        "ru": "Некогда болтать, у меня полно работы! Нужно вытащить эти ледяные кубы из реки и сложить здесь, на этом берегу!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cinsa_lvl1501.wav",
+    "segments": [
+      {
+        "speaker": "Yosemite Sam",
+        "en": "Hey, you rascally idjit varmint! Get away from my boat! Nobody touches my boat! I may have lost my gold, but I still got my boat! About the only thing I'd let come near my boat is some walking, talking gold coins! But since there's no such thing, scram!",
+        "ru": "Эй, ты, мерзкий безмозглый паразит! А ну отойди от моей лодки! Никому не трогать мою лодку! Пусть я потерял золото, но лодка-то у меня осталась! Единственное, что я подпущу к своей лодке — это ходячие, говорящие золотые монеты! А раз таких не водится — проваливай!"
+      }
+    ],
+    "notes": null
+  }
+]

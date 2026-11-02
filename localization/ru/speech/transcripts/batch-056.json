@@ -1,0 +1,90 @@
+[
+  {
+    "file": "cin_lvl_0103.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "If you get lost, use your map. It'll tell you what objects you're missing. Then have a look at the user guide to see what you can do with that stuff. If it's explanations you're looking for, the characters you can talk to are indicated by a question mark."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0104.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Say, check out that familiar-looking farmer on the other side of the bridge! I bet he can help you find lettuce."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0105.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Ha ha, it is to laugh. There's nothing funny about blown-up duck. By your laughter, I can tell that you disagree. Well, let's see if you think this is funny! I will stop you from playing for about 1 minute while you consider the error of your ways. Did we learn our lesson, hmm? That little time-out should teach you to blow me up! But never say I hold a grudge. Back to the game!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0201.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Want to learn something new? Well, here's something. If you want to cross Sam's area without being noticed, hide inside a bush. It's easy! This way you can cross Sam's area, and if he sees you, he won't see you at all! He'll see a bush! It's pure genius! Tell you what. I can teach you how to use the bush, and you can practice. Oh, and if you get hungry, don't eat the bush."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0202.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Okay, listen up. I'll stand watch while you use this bush to try and cross the line without me seeing you. Good luck, bub."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0203.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Oh, brother. You're about as quiet as firecrackers in a hospital zone. To walk quietly, use the stealth button. Now go back behind the line if you want to try again."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0204.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Hold still! Don't move when Sam's head is looking your way, or you're a dead duck. Eh, bad choice of words. Anyway, go behind the line if you want to start again."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0205.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Peekaboo, I see you! If you want to stay hidden, keep the stealth button pressed. Go back behind the line if you want to start again. Oh, brother, are you lucky to have me around! Woo-hoo!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  }
+]

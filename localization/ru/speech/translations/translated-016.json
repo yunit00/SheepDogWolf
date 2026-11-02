@@ -1,0 +1,198 @@
+[
+  {
+    "file": "Cin_int_niv_10.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Well, sort of. Yes, rehearsals take place over here.",
+        "ru": "Ну, вроде того. Да, репетиции проходят здесь."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_11.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Yes! Oh, one last thing, if you want to configure some game settings, press pause and look at the menu. Good luck!",
+        "ru": "Да! О, и последнее: если захочешь изменить настройки игры, нажми паузу и загляни в меню. Удачи!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_12.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Another way to configure some game settings is to press the start button.",
+        "ru": "Ещё один способ изменить настройки игры — нажать кнопку «Старт»."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Mars_2sec.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Fantastic! The last sheep! You did it! You are an exceptional contestant. Unfortunately, our show is nearly over. Thanks to all my fans out there for staying with us through to the end. See you soon! Huh? What's this? What's Marvin the Martian doing here? This wasn't in the script!",
+        "ru": "Фантастика! Последняя овечка! У тебя получилось! Ты просто потрясающий участник. К сожалению, наше шоу подходит к концу. Спасибо всем моим поклонникам за то, что были с нами до самого конца! До скорых встреч! А? Это ещё что такое? Что здесь делает Марвин? Этого не было в сценарии!"
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "That insignificant little Earthling. It looks like that ridiculous creature reached my planet because of a blunder you made, is that right? Mmm. Well, let me tell you how your friend got here. I was just getting ready to test my latest weapon, the PR-200, a very practical tool which reduces any living species to one-tenth of its normal size. For the experiment, I enlisted the help of a devoted member of my army. I was just about ready to test my invention, when suddenly an invader smashed into my water tank at full speed, and the whole tank collapsed all over my army. The accursed invader looked like a black sheep. It was utter chaos, but after a super Martian effort and the help of my fantastic PR-200, I managed to get back most of my army. Isn't that delightful? Wait, I haven't finished yet. My army is still incomplete. A somewhat rebellious unit has gotten themselves into a sticky situation, and it's risky to get them out. I, Marvin the Martian, don't plan on taking any unnecessary risks. It's up to you to repair the damage now, by returning to me my lost Instant Martians. Come, K-9! Sit, boy.",
+        "ru": "Этот ничтожный мелкий землянин... Похоже, это нелепое создание попало на мою планету из-за твоей оплошности, так ведь? М-м. Что ж, позволь рассказать, как твой друг очутился здесь. Я как раз готовился испытать своё новейшее оружие, PR-200 — весьма практичную штуку, которая уменьшает любое живое существо до одной десятой нормального размера. Для эксперимента я привлёк верного бойца моей армии. Я уже был готов опробовать изобретение, как вдруг какой-то захватчик на полной скорости врезался в мой резервуар с водой, и вся цистерна рухнула прямо на мою армию. Проклятый захватчик был похож на чёрную овцу. Это был сущий хаос, но благодаря сверхмарсианским усилиям и помощи моего фантастического PR-200 мне удалось вернуть большую часть моей армии. Разве не прелестно? Погоди, я ещё не закончил. Моя армия всё ещё не в полном сборе. Одно непокорное подразделение влипло в неприятную историю, и вызволять их слишком рискованно. А я, Марвин, не намерен идти на ненужный риск. Теперь тебе придётся загладить вину и вернуть мне моих потерянных марсиан. Ко мне, Кей-9! Сидеть, дружок."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "be_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Who's responsible for this?",
+        "ru": "Кто за это отвечает?!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "be_02.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Somebody get my agent on the phone! I can't work under these conditions!",
+        "ru": "Кто-нибудь, позвоните моему агенту! Я не могу работать в таких условиях!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "be_03.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "All right. Who's the wise guy that replaced my microphone with this shaver?",
+        "ru": "Так, ладно. Какой умник заменил мой микрофон этой бритвой?!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "be_04.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Etcetera.",
+        "ru": "И так далее."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "be_05a.wav",
+    "segments": [
+      {
+        "speaker": "unknown",
+        "en": "How of all the",
+        "ru": "Как из всех..."
+      },
+      {
+        "speaker": "unknown",
+        "en": "sheep,",
+        "ru": "овец..."
+      },
+      {
+        "speaker": "unknown",
+        "en": "whatever happens to him,",
+        "ru": "что бы с ним ни случилось..."
+      },
+      {
+        "speaker": "unknown",
+        "en": "sheep dogs.",
+        "ru": "овчарок."
+      }
+    ],
+    "notes": "Audio contains fragmented blooper takes/cuts without complete grammatical sentences."
+  },
+  {
+    "file": "ci_lvl13_comb_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Get a load of this. You can hang an object onto the end of the fishing line using the combine feature in your inventory. Just select the fishing rod, then press combine, and choose the object you want to string onto the end of the hook. If you want to unhook the object, select fishing rod, then press dissociate.",
+        "ru": "Смотри, что можно сделать! Предмет можно прицепить на конец лески с помощью функции соединения в инвентаре. Просто выбери удочку, нажми кнопку соединения и выбери предмет, который хочешь насадить на крючок. Чтобы снять предмет, выбери удочку и нажми кнопку разделения."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "ci_lvl_11_lap01b.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oh, this is just great. Duck hunting season again. Good thing I'm wearing this Robin Hood disguise, so those pesky hunters won't find me.",
+        "ru": "О, просто великолепно! Опять сезон охоты на уток. Хорошо, что я переоделся Робин Гудом, так что этим назойливым охотникам меня не найти."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "ci_lvl_11_lap02.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oh, sure. Wherever I am, the rabbit has to show up. Well, so long as Bugs is here, I might as well have some fun. I hereby declare it to be rabbit season! Let the hunt begin!",
+        "ru": "Ну конечно! Куда ни приду — всюду этот кролик! Что ж, раз Багз здесь, можно и повеселиться. Настоящим объявляю: сезон охоты на кроликов открыт! Да начнётся охота!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "ci_lvl_13_cro01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "What gives here, bub? This awful beast won't let me pass. You've got to do something. Tell you what, if you free me, I'll teach you a nifty trick. Use the cannon to knock him out.",
+        "ru": "Что за дела, приятель? Этот ужасный зверь не даёт мне пройти! Сделай что-нибудь! Слушай, если освободишь меня, я научу тебя классному трюку. Оглуши его из пушки."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "ci_lvl_13_cro02.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Put a sock in it, crocky.",
+        "ru": "Захлопни пасть, зубастик!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_03_sc_rel_01.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "That insignificant little earthling? It looks like that ridiculous creature reached my planet because of a blunder you made, is that right, hmm?",
+        "ru": "Этот ничтожный мелкий землянин? Похоже, это нелепое создание попало на мою планету из-за твоей оплошности, так ведь, хм?"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "cin_03_sc_rel_02.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Well, let me tell you how your friend got here.",
+        "ru": "Что ж, позволь рассказать, как твой друг очутился здесь."
+      }
+    ],
+    "notes": null
+  }
+]

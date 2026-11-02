@@ -1,0 +1,90 @@
+[
+  {
+    "file": "cin_lvl_0302.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Listen. I'll watch over the rocks while you hide yourself behind this one. After you cross the white line, I'll watch carefully to see if you can reach this square without me noticing you. It's up to you now."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0303.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Shh! Pipe down, would ya? Use the stealth button! Go behind the line if you want to start again."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0304.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Nothing can get past this duck's steely eye. I saw you move. You got to stay hidden when Sam is looking your way. Go behind the line if you want to start again."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0305.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "I can still see you. Keep the stealth button pressed to hide. Go back behind the line if you want to try again."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0306.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "No, no, no! Use the rock to hide! Go behind the line if you want to start again."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0307.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Great! You're ready to take on the sheep dog. If you want some more advice, just come back to me."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0308.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "You can hide behind rocks by keeping the stealth button pressed."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0309.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "You don't want to be in the dark, do ya? Or do ya? Well, if you want to see what's going on around you, use the camera buttons. You can also use your objects."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  }
+]

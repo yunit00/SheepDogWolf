@@ -1,0 +1,178 @@
+[
+  {
+    "file": "txt_lvl_0012.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "I knew you could do it. You'll probably be able to challenge Road Runner later in the game, if you're up for it.",
+        "ru": "Я знал, что ты справишься! Позже сможешь потягаться с Дорожным Бегуном, если хватит духу!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_0013.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "To help you steal sheep from Sam Sheepdog, you will be given several objects. But wait! There's more. You've also got to know how to use objects in the background. To open the gate, the red button has to be pressed. Just jump on the first seesaw and the big rock will throw you to the other side. Then jump on the second seesaw to launch the little rock towards the button so that the gate remains open. Confused yet? Me too. Woo-hoo! Woo-hoo! Woo-hoo! Woo-woo-hoo! Woo-hoo-hoo-hoo!",
+        "ru": "Чтобы красть овец у Сэма, тебе дадут разные предметы. Но погоди! Это ещё не всё. Нужно ещё уметь использовать предметы на уровне. Чтобы открыть ворота, надо нажать красную кнопку. Просто прыгни на первые качели, и большой камень перебросит тебя на ту сторону. Затем прыгни на вторые качели, чтобы запустить маленький камень в кнопку, и ворота останутся открытыми. Уже запутался? Я тоже! У-ху! У-ху! У-ху! У-у-ху! У-ху-ху-ху!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_0014.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Listen, if you want to get sheep and make a plan, you have to use your inventory. First, press the inventory button, which will show you the level's map and the objects available to you. To get an object, you have to order it by opening a letterbox. If you want to know in which letterbox you have to order a specific object, select it in your inventory, and a red circle will appear around the letterbox, which means it's yours. The objects drawn in white are the ones you can find in the level. The colored objects are those you already collected and can use. And if that's not enough, you can also look at the object's user guide for instructions on how to use it. So come on! Try out your inventory and order an object from a letterbox today! Batteries not included.",
+        "ru": "Послушай: чтобы красть овец по плану, пользуйся инвентарём. Сначала нажми кнопку инвентаря — откроется карта уровня и доступные предметы. Чтобы получить предмет, закажи его, открыв почтовый ящик. Хочешь узнать, в каком ящике забирать нужную вещь? Выбери её в инвентаре, и нужный ящик обведётся красным — значит, посылка там! Белым нарисованы предметы, которые можно найти на уровне. Цветные — те, что ты уже забрал и можешь использовать. А если и этого мало, загляни в инструкцию к предмету, там описано, как им пользоваться. Так что давай! Открой инвентарь и закажи что-нибудь из ящика прямо сегодня! Батарейки в комплект не входят."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_0015.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hey, what's the matter with you? Pick up that object and store it in your inventory. Then you can use it right away by keeping the inventory button pressed down. Here's another thing: A menu will appear with your objects. Just select the one you want with the right and left arrows, then release the button, and it's done. If you want to store your object, just press once on this button. Now get back and use the rocket to fly to the goal!",
+        "ru": "Эй, чего застыл? Подбери предмет и спрячь в инвентарь. Потом сможешь быстро достать его, удерживая кнопку инвентаря. И вот ещё что: появится меню с твоими вещами. Просто выбери нужную стрелками вправо и влево, отпусти кнопку — готово! А если хочешь убрать предмет, просто нажми эту кнопку один раз. А теперь возвращайся и лети на ракете к финишу!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_0016.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hehehe, good for you! Don't forget that to finish each level you must be in the goal with the sheep. In fact, you have to both be in the goal or the challenge doesn't count. And that would be despicable!",
+        "ru": "Хе-хе-хе, молодец! Не забывай: чтобы завершить уровень, вы с овцой должны быть на финише. Точнее, вы оба должны стоять на финише, иначе испытание не зачтётся. А это было бы просто возмутительно!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_002.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "First things first: How to use the camera.",
+        "ru": "Первым делом: как управлять камерой."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_003.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Psst, I'm right behind you. Just use the camera buttons to move the camera.",
+        "ru": "Пс-с, я прямо за тобой. Поворачивай камеру кнопками обзора."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_004.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Nice going, bub. These commands will come in handy if you want to look around.",
+        "ru": "Отлично, приятель. Это управление пригодится, когда захочешь осмотреться."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_005.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Now, I'll hide up here. If you want to find me, keep the inside view button pressed down.",
+        "ru": "А теперь я спрячусь наверху. Чтобы меня найти, удерживай кнопку вида от первого лица."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_006.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to follow me, and who wouldn't, use the jump button and just do what I'm doing.",
+        "ru": "Хочешь пойти за мной — а кто бы не хотел? — жми кнопку прыжка и просто повторяй за мной!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_007.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to jump higher, press the button a second time when you're at the highest point of your jump. Works like a charm.",
+        "ru": "Хочешь прыгнуть повыше? Нажми кнопку второй раз в самой верхней точке прыжка. Работает как часы!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_008.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Might I also suggest you use the jump button to take a flying leap?",
+        "ru": "Хе-хе! Могу также посоветовать нажать кнопку прыжка, чтобы сигануть с разбега."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_lvl_009.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oh, oh I do crack myself up. Seriously though, if you want to be good at this game, you'll have to use the old noggin. Come on, follow me up to the road.",
+        "ru": "Ох, ну и насмешил же я себя! А если серьёзно, хочешь преуспеть в игре — шевели мозгами. Давай, за мной, на дорогу!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_rob_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to hang an object onto the end of the fishing line, use the combine feature in your inventory, why don't you?",
+        "ru": "Чтобы подвесить предмет на конец лески, выбери «Соединить» в инвентаре. Почему бы и нет?"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_rob_02.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to unhook an object from the end of the fishing line, use the dissociate feature in your inventory.",
+        "ru": "Если хочешь снять предмет с конца лески, выбери «Разобрать» в инвентаре."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "txt_rob_03.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Get this! You can hang several different objects onto the end of the fishing line. If you don't believe me, look in the user guide at the object list.",
+        "ru": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию в списке предметов."
+      }
+    ],
+    "notes": null
+  }
+]

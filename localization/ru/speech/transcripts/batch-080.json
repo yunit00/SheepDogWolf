@@ -1,0 +1,90 @@
+[
+  {
+    "file": "cin_lvl_0310.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Pick up the object you want to store in your inventory. You can use it right away by keeping the inventory button pressed. A menu will appear with your objects. Use the right and left arrows to select the one you want, release the button, and it's yours. It's simple, Simon."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0311.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "To start, come close on one side of this rock, behind the white line."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_17_ob01.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "text": "These X objects will be of great use in getting back my instant Martians. If you manage to return them all to me, I shall take you back to Earth, if that's really where you want to go."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_17_ob02a.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "text": "There are still some missing."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_17_ob03a.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "text": "I must have all of my instant Martians."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_17_ob03b.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "text": "I must have all of my instant Martians."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_17_ob04a.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "text": "Good job! We can board now."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_ob04b.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "text": "Good job! We can board now."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  }
+]

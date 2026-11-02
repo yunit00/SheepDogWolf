@@ -1,0 +1,272 @@
+# Builds the game and the launcher for Linux, Windows and macOS (Release) on every pull request and when run by hand,
+# and uploads a zip per platform as a build artifact (as it is: downloaded from the run's page it is that zip, not a
+# zip around it), Rewooled-<Platform>-<version>.zip, the version the version job picks (see there; the game shows it
+# too).
+# Releases are only ever made by hand: Actions > Build > Run workflow on the default branch, with a tag (v1.2.3), builds
+# that commit and publishes the three zips as the GitHub Release of that tag. Run without a tag, it only builds.
+#
+# The zips hold SheepD3D and SheepLauncher only (on macOS the app bundle Rewooled.app, which holds both): the game's data comes from your own copy (BUILDING.md section 3).
+name: Build
+
+on:
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Release tag, e.g. v1.2.3 (a new one, the next after the latest release); empty: build only'
+        required: false
+        type: string
+        default: ''
+
+permissions:
+  contents: read
+
+jobs:
+  # the version every build is made as, decided before the builds (it is compiled into the game, SDW_VERSION):
+  #   run by hand with the tag v1.2.3        -> version 1.2.3, shown v1.2.3, released as v1.2.3
+  #   a pull request #14 (its last commit)   -> pr14-3fa9c1e
+  #   run by hand without a tag              -> the commit, f42df14
+  # A release tag must be new, look like v1.2.3, and the run must be on the default branch: anything else stops the run
+  # here, before building.
+  version:
+    name: Version
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: read
+    outputs:
+      version: ${{ steps.pick.outputs.version }}
+      display: ${{ steps.pick.outputs.display }}
+      tag: ${{ steps.pick.outputs.tag }}
+    steps:
+      - name: Pick the version
+        id: pick
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DEFAULT_REF: ${{ format('refs/heads/{0}', github.event.repository.default_branch) }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_HEAD: ${{ github.event.pull_request.head.sha }}
+          TAG_INPUT: ${{ github.event_name == 'workflow_dispatch' && inputs.tag || '' }}
+        run: |
+          tag=$(printf '%s' "$TAG_INPUT" | tr -d '[:space:]')
+          if [ -n "$tag" ]; then
+            if ! [[ "$tag" =~ ^v[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+              echo "::error::the tag '$tag' is not of the form v1.2.3"
+              exit 1
+            fi
+            if [ "$GITHUB_REF" != "$DEFAULT_REF" ]; then
+              echo "::error::releases are made from the default branch, not $GITHUB_REF"
+              exit 1
+            fi
+            if gh api "repos/$GITHUB_REPOSITORY/git/ref/tags/$tag" --silent 2>/dev/null; then
+              echo "::error::the tag $tag exists already"
+              exit 1
+            fi
+            latest=$(gh api --paginate "repos/$GITHUB_REPOSITORY/git/matching-refs/tags/v" --jq '.[].ref' \
+              | sed 's|^refs/tags/||' | grep -E '^v[0-9]+\.[0-9]+\.[0-9]+$' | sort -V | tail -n1 || true)
+            if [ -n "$latest" ] && [ "$(printf '%s\n%s\n' "$latest" "$tag" | sort -V | tail -n1)" != "$tag" ]; then
+              echo "::error::the tag $tag is not after the latest release, $latest"
+              exit 1
+            fi
+            echo "latest release: ${latest:-none}"
+            version="${tag#v}"
+            display="$tag"
+          elif [ -n "$PR_NUMBER" ]; then
+            version="pr$PR_NUMBER-${PR_HEAD::7}"
+            display="$version"
+          else
+            version="${GITHUB_SHA::7}"
+            display="$version"
+          fi
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+          echo "display=$display" >> "$GITHUB_OUTPUT"
+          echo "tag=$tag" >> "$GITHUB_OUTPUT"
+          if [ -n "$tag" ]; then
+            echo "version $version, shown as $display, released as $tag"
+          else
+            echo "version $version, shown as $display, not released"
+          fi
+
+  build:
+    name: ${{ matrix.name }}
+    needs: version
+    runs-on: ${{ matrix.os }}
+    env:
+      # whether the macOS signing / notarization secrets are set (a step's own env is not visible to its `if`)
+      HAS_MACOS_CERT: ${{ secrets.MACOS_CERT_P12 != '' }}
+      HAS_NOTARY_KEY: ${{ secrets.NOTARY_KEY_P8 != '' }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: linux-x86_64
+            label: Linux-x86_64
+            os: ubuntu-24.04
+          - name: windows-x64
+            label: Windows-x64
+            os: windows-2022
+          - name: macos-arm64
+            label: macOS-arm64
+            os: macos-14
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install dependencies (Linux)
+        if: runner.os == 'Linux'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            clang cmake ninja-build python3 pkg-config zip \
+            libx11-dev libxext-dev libxrandr-dev libxcursor-dev libxi-dev libxss-dev libxtst-dev \
+            libwayland-dev libxkbcommon-dev wayland-protocols libegl-dev libgl-dev \
+            libasound2-dev libpulse-dev libudev-dev libdbus-1-dev libvulkan-dev
+
+      - name: Install Ninja (macOS)
+        if: runner.os == 'macOS'
+        run: brew install ninja
+
+      - name: Configure (Linux)
+        if: runner.os == 'Linux'
+        run: >-
+          cmake -S . -B build -G Ninja -DCMAKE_BUILD_TYPE=Release -DCMAKE_C_COMPILER=clang -DCMAKE_CXX_COMPILER=clang++
+          -DSDW_VERSION="${{ needs.version.outputs.display }}" -DSDW_REPOSITORY="${{ github.repository }}"
+
+      - name: Configure (macOS)
+        if: runner.os == 'macOS'
+        run: >-
+          cmake -S . -B build -G Ninja -DCMAKE_BUILD_TYPE=Release
+          -DSDW_VERSION="${{ needs.version.outputs.display }}" -DSDW_REPOSITORY="${{ github.repository }}"
+
+      - name: Configure (Windows)
+        if: runner.os == 'Windows'
+        run: >-
+          cmake -S . -B build -G "Visual Studio 17 2022" -A x64
+          -DSDW_VERSION="${{ needs.version.outputs.display }}" -DSDW_REPOSITORY="${{ github.repository }}"
+
+      - name: Build
+        run: cmake --build build --config Release --parallel
+
+      # macOS: sign Rewooled.app with the Developer ID certificate, then notarize it and staple the ticket, so Gatekeeper
+      # opens it without warnings. Each part runs only when its secrets are set (never on forks / pull requests):
+      #   MACOS_CERT_P12, MACOS_CERT_PASSWORD      the certificate (tools/macos_signing_secrets.sh sets them)
+      #   NOTARY_KEY_P8, NOTARY_KEY_ID, NOTARY_ISSUER_ID   an App Store Connect API key (same script, --notary)
+      - name: Sign (macOS)
+        if: runner.os == 'macOS' && env.HAS_MACOS_CERT == 'true'
+        env:
+          MACOS_CERT_P12: ${{ secrets.MACOS_CERT_P12 }}
+          MACOS_CERT_PASSWORD: ${{ secrets.MACOS_CERT_PASSWORD }}
+        run: |
+          # a throwaway keychain holding only the certificate
+          KEYCHAIN="$RUNNER_TEMP/sign.keychain-db"
+          KEYCHAIN_PW="$(uuidgen)"
+          echo "$MACOS_CERT_P12" | base64 --decode > "$RUNNER_TEMP/cert.p12"
+          security create-keychain -p "$KEYCHAIN_PW" "$KEYCHAIN"
+          security set-keychain-settings -lut 21600 "$KEYCHAIN"
+          security unlock-keychain -p "$KEYCHAIN_PW" "$KEYCHAIN"
+          security import "$RUNNER_TEMP/cert.p12" -k "$KEYCHAIN" -P "$MACOS_CERT_PASSWORD" -T /usr/bin/codesign
+          security set-key-partition-list -S apple-tool:,apple: -k "$KEYCHAIN_PW" "$KEYCHAIN" > /dev/null
+          security list-keychains -d user -s "$KEYCHAIN" $(security list-keychains -d user | tr -d '"')
+          rm "$RUNNER_TEMP/cert.p12"
+
+          # inside out: the game in the bundle, then the bundle (the launcher); the keychain holds one identity, so its
+          # name's start is enough
+          APP=build/Rewooled.app
+          for target in "$APP/Contents/MacOS/SheepD3D" "$APP"; do
+            codesign --force --options runtime --timestamp --entitlements res/macos/entitlements.plist \
+              --keychain "$KEYCHAIN" --sign "Developer ID Application" "$target"
+          done
+          codesign --verify --strict --verbose=2 "$APP"
+
+      - name: Notarize (macOS)
+        if: runner.os == 'macOS' && env.HAS_MACOS_CERT == 'true' && env.HAS_NOTARY_KEY == 'true'
+        env:
+          NOTARY_KEY_P8: ${{ secrets.NOTARY_KEY_P8 }}
+          NOTARY_KEY_ID: ${{ secrets.NOTARY_KEY_ID }}
+          NOTARY_ISSUER_ID: ${{ secrets.NOTARY_ISSUER_ID }}
+        run: |
+          APP=build/Rewooled.app
+          echo "$NOTARY_KEY_P8" | base64 --decode > "$RUNNER_TEMP/notary.p8"
+          ditto -c -k --keepParent "$APP" "$RUNNER_TEMP/notarize.zip"
+          xcrun notarytool submit "$RUNNER_TEMP/notarize.zip" \
+            --key "$RUNNER_TEMP/notary.p8" --key-id "$NOTARY_KEY_ID" --issuer "$NOTARY_ISSUER_ID" --wait
+          rm "$RUNNER_TEMP/notary.p8"
+          xcrun stapler staple "$APP"
+          spctl --assess --type execute --verbose "$APP"
+
+      # zipped here, on the build machine: an artifact upload drops the executable bit of the Linux and macOS binaries
+      # Rewooled-<Platform>-<version>.zip, the version the version job picked
+      - name: Package
+        id: package
+        shell: bash
+        run: |
+          mkdir -p dist
+          zipname="Rewooled-${{ matrix.label }}-${{ needs.version.outputs.version }}.zip"
+          echo "zipname=$zipname" >> "$GITHUB_OUTPUT"
+          if [ "$RUNNER_OS" = "Windows" ]; then
+            (cd build/Release && 7z a "../../dist/$zipname" SheepD3D.exe SheepLauncher.exe)
+          elif [ "$RUNNER_OS" = "macOS" ]; then
+            # the app bundle: the launcher, with the game inside it (Contents/MacOS)
+            # ditto: Apple's zip, which keeps the signature and the stapled ticket intact
+            (cd build && ditto -c -k --keepParent Rewooled.app "../dist/$zipname")
+          else
+            (cd build && zip -9 "../dist/$zipname" SheepD3D SheepLauncher)
+          fi
+          ls -l dist
+
+      # the zip as it is (archive: false), not wrapped in the artifact's own zip; the artifact is named after the file
+      - name: Upload
+        uses: actions/upload-artifact@v7
+        with:
+          path: dist/${{ steps.package.outputs.zipname }}
+          archive: false
+          if-no-files-found: error
+
+  release:
+    name: Release
+    needs: [version, build]
+    # a run by hand with a tag; the build must have passed
+    if: >-
+      !cancelled() && needs.build.result == 'success' && needs.version.outputs.tag != ''
+    runs-on: ubuntu-24.04
+    # one release at a time
+    concurrency: release
+    permissions:
+      contents: write
+
+    steps:
+      - name: Download the zips
+        uses: actions/download-artifact@v8
+        with:
+          pattern: Rewooled-*.zip
+          path: dist
+          merge-multiple: true
+          # the artifacts are zips uploaded as they are: without this the action unpacks them into dist
+          skip-decompress: true
+
+      - name: Publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ needs.version.outputs.tag }}
+        run: |
+          ls -lR dist
+          # each downloaded zip, Rewooled-<Platform>-<version>.zip (with however many .zip the download gave it), into
+          # release/
+          mkdir -p release
+          find dist -type f -name 'Rewooled-*' | while read -r f; do
+            base=$(basename "$f")
+            while [ "${base%.zip}" != "$base" ]; do base=${base%.zip}; done
+            mv "$f" "release/$base.zip"
+          done
+          ls -l release
+          # the three platform zips, each a zip with the files in it (not a zip around a zip, nor unpacked)
+          [ "$(find release -name '*.zip' | wc -l)" -eq 3 ] || { echo "expected 3 zips in release"; exit 1; }
+          for z in release/*.zip; do
+            unzip -Z1 "$z" | grep -qv '\.zip$' || { echo "$z: not the platform zip"; exit 1; }
+          done
+          # creates the tag on the commit that was built
+          gh release create "$TAG" release/*.zip \
+            --repo "$GITHUB_REPOSITORY" \
+            --target "$GITHUB_SHA" \
+            --title "$TAG" \
+            --generate-notes

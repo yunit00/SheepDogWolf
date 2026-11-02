@@ -1,0 +1,90 @@
+[
+  {
+    "file": "txt_lvl_0012.wav",
+    "non_speech": null,
+    "notes": null,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "I knew you could do it. You'll probably be able to challenge Road Runner later in the game, if you're up for it."
+      }
+    ]
+  },
+  {
+    "file": "txt_lvl_0013.wav",
+    "non_speech": null,
+    "notes": null,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "To help you steal sheep from Sam Sheepdog, you will be given several objects. But wait! There's more. You've also got to know how to use objects in the background. To open the gate, the red button has to be pressed. Just jump on the first seesaw and the big rock will throw you to the other side. Then jump on the second seesaw to launch the little rock towards the button so that the gate remains open. Confused yet? Me too. Woo-hoo! Woo-hoo! Woo-hoo! Woo-woo-hoo! Woo-hoo-hoo-hoo!"
+      }
+    ]
+  },
+  {
+    "file": "txt_lvl_0014.wav",
+    "non_speech": null,
+    "notes": null,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Listen, if you want to get sheep and make a plan, you have to use your inventory. First, press the inventory button, which will show you the level's map and the objects available to you. To get an object, you have to order it by opening a letterbox. If you want to know in which letterbox you have to order a specific object, select it in your inventory, and a red circle will appear around the letterbox, which means it's yours. The objects drawn in white are the ones you can find in the level. The colored objects are those you already collected and can use. And if that's not enough, you can also look at the object's user guide for instructions on how to use it. So come on! Try out your inventory and order an object from a letterbox today! Batteries not included."
+      }
+    ]
+  },
+  {
+    "file": "txt_lvl_0015.wav",
+    "non_speech": null,
+    "notes": null,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Hey, what's the matter with you? Pick up that object and store it in your inventory. Then you can use it right away by keeping the inventory button pressed down. Here's another thing: A menu will appear with your objects. Just select the one you want with the right and left arrows, then release the button, and it's done. If you want to store your object, just press once on this button. Now get back and use the rocket to fly to the goal!"
+      }
+    ]
+  },
+  {
+    "file": "txt_lvl_0016.wav",
+    "non_speech": null,
+    "notes": null,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Hehehe, good for you! Don't forget that to finish each level you must be in the goal with the sheep. In fact, you have to both be in the goal or the challenge doesn't count. And that would be despicable!"
+      }
+    ]
+  },
+  {
+    "file": "txt_lvl_002.wav",
+    "non_speech": null,
+    "notes": null,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "First things first: How to use the camera."
+      }
+    ]
+  },
+  {
+    "file": "txt_lvl_003.wav",
+    "non_speech": null,
+    "notes": null,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Psst, I'm right behind you. Just use the camera buttons to move the camera."
+      }
+    ]
+  },
+  {
+    "file": "txt_lvl_004.wav",
+    "non_speech": null,
+    "notes": null,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Nice going, bub. These commands will come in handy if you want to look around."
+      }
+    ]
+  }
+]

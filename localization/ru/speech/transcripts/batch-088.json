@@ -1,0 +1,94 @@
+[
+  {
+    "file": "cin_mar_01.wav",
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "text": "To capture my instant Martians, you'll have to use this vacuum compressor. When an instant Martian comes anywhere near it, activate the compressor with your remote control. The instant Martian will be compressed and sucked in, then sent to me through this pipe. Won't that be lovely?"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cinfe_lvl_0101.wav",
+    "segments": [
+      {
+        "speaker": "Porky Pig",
+        "text": "Hi! I'm, uh, f- Farmer Porky. I hear you're trying to st- steal Sam's sh-sh-sh- flock. G- good luck! I grow all kinds of v- vegetables, and I know Sam's sheep w- well. F- for instance, I know you can l- lead a sheep if you show it some l- lettuce. If you do this, y- you won't have to c- carry them. C- come back with your sheep, and I'll show you how to use l-l-l- leafy vegetables."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cinfe_lvl_0102.wav",
+    "segments": [
+      {
+        "speaker": "Porky Pig",
+        "text": "Y- you managed to take a sheep from the f- flock. W- well done! And now, I'll show you how to use the l- lettuce intelligently. Sam's sheep l- love it. All you have to do is l- leave some next to a sheep. It'll go toward it all on its own to eat it. B- but be careful not to place your l- lettuce too far away, or it won't be able to s- see it. To know whether you're close enough before p- putting the lettuce down, ch- check whether this icon is d- displayed. You can also place b- bits of lettuce all along the path. The sheep will move from a bit to a bit. B- but don't place them too far apart, otherwise the sheep may s- stop on the way. So, don't forget to check for this icon before p- placing any l- lettuce. It'll tell you whether it's close enough. D- does any of that make sense? Are you f- following me? D- do you get it, 'cause I d- don't!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cinfl_lvl0401.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Oof! Ouch! Ta-da! 'Tis I, the enchanting forest elf! I can play spellbinding music on my magic flute! Just listen to that sweet melody!"
+      },
+      {
+        "speaker": "Daffy Duck",
+        "text": "Say, if you want to hypnotize a character just like I did, you, too, can play this song with a magic flute! But you'd better check the magic flute guide to find out which characters you can hypnotize!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cinfl_lvl0402.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "The magic flute is stupendous! With it, you can hypnotize a character and take him wherever you want! I think I might try it out on my agent."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cingr_lvl0801.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Hey! Can't you see I'm working? As a matter of fact, I'm harvesting weirdsicles! It's pure genius! What I did, see, was throw a whole bunch of really weird-looking stuff into this freezing cold water! Now, it's all frozen into ice cubes, which I'm gonna store right here!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cingr_lvl0802.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "No time for chitchat, I've got work to do! I've got to pull these ice cubes from the river and store them here on this bank!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cinsa_lvl1501.wav",
+    "segments": [
+      {
+        "speaker": "Yosemite Sam",
+        "text": "Hey, you rascally idjit varmint! Get away from my boat! Nobody touches my boat! I may have lost my gold, but I still got my boat! About the only thing I'd let come near my boat is some walking, talking gold coins! But since there's no such thing, scram!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "file": "cin_04_sc_ret_02.wav",
+    "segments": [
+      {
+        "speaker": "Yosemite Sam",
+        "text": "Are all systems go for the attack plan?"
+      }
+    ],
+    "non_speech": [],
+    "notes": ""
+  },
+  {
+    "file": "cin_04_sc_ret_03.wav",
+    "segments": [
+      {
+        "speaker": "Yosemite Sam",
+        "text": "Okay then, let's go invade that miserable planet!"
+      }
+    ],
+    "non_speech": [],
+    "notes": ""
+  },
+  {
+    "file": "cin_goal_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Oof! Dealing with this kind of stuff definitely wasn't in my contract."
+      },
+      {
+        "speaker": "Daffy Duck",
+        "text": "Can an uninformed duck get some help around here?"
+      },
+      {
+        "speaker": "Daffy Duck",
+        "text": "So, what do we do now? Is it okay this way, or not? Technically, the sheep has been put inside the goal, and it is inside the goal, so it should be taken into account, shouldn't it? And one more victory for our contestant!"
+      }
+    ],
+    "non_speech": [],
+    "notes": ""
+  },
+  {
+    "file": "cin_int_niv_08.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Okay, don't panic! I, as the consummate professional, know how important it is to rehearse. This is your big chance, and you don't wanna blow it! Besides, I'm the one who explained this game to you, and if you don't do well, how's that gonna make me look? Not so good, that's how! So go ahead, practice!"
+      }
+    ],
+    "non_speech": [],
+    "notes": ""
+  },
+  {
+    "file": "cin_lvl0601.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Hello, I am one cold duck. Brrr!"
+      },
+      {
+        "speaker": "Daffy Duck",
+        "text": "You there, soldier! You gotta deactivate this mine. It's simple: first, observe the light wave rhythm. When it disappears, approach the mine and press the action button, which will bring up the control panel. Watch for the green light, then observe in which order the buttons light up. Be careful, 'cause when the light is red, you then have to light the buttons in the same order and at the right time. If you succeed, the mine is deactivated. If you make a mistake by using the wrong button or press at the wrong moment, boom! Don't let me down, soldier. Good luck. You'll need it."
+      }
+    ],
+    "non_speech": [],
+    "notes": ""
+  },
+  {
+    "file": "cin_lvl0701.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "You know, there's nothing a pro skier like myself enjoys more than a good race. Go down the slope, and the one who bumps the other one first gets the sheep! The first one to get to his camp with the sheep wins! So, you ready to go?"
+      }
+    ],
+    "non_speech": [],
+    "notes": ""
+  },
+  {
+    "file": "cin_lvl0702b.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "3 2 1 go!"
+      }
+    ],
+    "non_speech": [],
+    "notes": ""
+  },
+  {
+    "file": "cin_lvl0703.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "This slope is closed, Bub. Come back later, when you know how to slalom."
+      }
+    ],
+    "non_speech": [],
+    "notes": ""
+  }
+]

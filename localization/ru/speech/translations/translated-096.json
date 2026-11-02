@@ -1,0 +1,222 @@
+[
+  {
+    "file": "cinsa_lvl1502.wav",
+    "segments": [
+      {
+        "speaker": "Yosemite Sam",
+        "en": "Well now, you're not round and you're not-a made of gold. So scram! I said I didn't want to see anyone on my boat and that means you, you sneaking weasel!",
+        "ru": "Так-так, ты не круглый и сделан не из золота! А ну проваливай! Я сказал, что не хочу никого видеть на своей лодке, и тебя это тоже касается, скользкий хорёк!"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "cinsa_lvl1503.wav",
+    "segments": [
+      {
+        "speaker": "Yosemite Sam",
+        "en": "Thought you could trick old Sam, did you? Well now you're going to pay for it!",
+        "ru": "Думал провести старину Сэма, а?! Ну, теперь ты за это поплатишься!"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "cintxt_lvl1603.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "When the signal is red, it means that the train will stop next time. If you want to change the color of the signal, press the button next to the signal.",
+        "ru": "Красный сигнал означает, что в следующий раз поезд остановится. Если хочешь сменить цвет сигнала, нажми кнопку рядом с ним."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "cintxt_lvl1604.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "The green light on the train makes it restart before it comes to a complete stop. You can also use it to make the train leave faster.",
+        "ru": "Зелёный свет на поезде заставляет его снова тронуться ещё до полной остановки. А ещё с его помощью можно заставить поезд уехать быстрее."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "cintxt_lvl1605.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "The blue chronometer gives you the time remaining before the train reaches the station, and the red chronometer gives you the time remaining before the train leaves. And my chronometer gives me nothing but trouble. I gotta get this thing fixed. Hello?",
+        "ru": "Синий хронометр показывает, сколько времени осталось до прибытия поезда на станцию, а красный — сколько осталось до отправления. А от моего хронометра одни неприятности... Надо бы его починить. Алло, кто-нибудь?"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "cintxt_lvl_0103.wav",
+    "segments": [
+      {
+        "speaker": "Porky Pig",
+        "en": "S- Sam's sheep, th- they love eating lettuce. If you leave some n- n- near a sheep, they'll come along and eat them, o- one after the other. Th- th- those sheep are p- p- pigs!",
+        "ru": "О-овцы Сэма, о-они обожают есть салат. Если положить немного р-р-рядом с овцой, она подойдёт и съест его, к-кочан за кочаном. Э-эти овцы просто п-п-поросята!"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "cintxt_lvl_0104.wav",
+    "segments": [
+      {
+        "speaker": "Porky Pig",
+        "en": "T- to lay a path of of lettuce, p- put one head of it down. Th- then, b- before placing the n- next one, ch- check whether their icons are p- properly displayed t- to be sure that you're not p- putting them too far away from each other. If they're too s- s- spaced out, th- the sheep may stop m- moving midway down the p- path. Th- that wouldn't be g- g- that wouldn't be g- g- th- that would be bad.",
+        "ru": "Ч-чтобы выложить дорожку из салата, п-положи один кочан. З-затем, п-перед тем как класть с-следующий, п-проверь, видны ли значки, ч-чтобы убедиться, что ты не к-кладёшь их слишком далеко друг от друга. Если расстояние будет с-слишком большим, о-овца может о-остановиться посреди д-дорожки. А э-это не хо-хо... э-это не хо-хо... э-это будет плохо!"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "cintxt_lvl_0105.wav",
+    "segments": [
+      {
+        "speaker": "Porky Pig",
+        "en": "In the f- following levels, y- you may find lettuce in places other than g- gardens. But d- don't worry, they'll always be sh- shown on your m- map.",
+        "ru": "Н-на следующих уровнях т-ты сможешь найти салат не только на о-огородах. Но н-не б-беспокойся, он всегда будет п-показан на твоей к-карте."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "cintxtex_lvl_0106.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Ehh, that's not funny.",
+        "ru": "Э-э, это совсем не смешно."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "fin1_2sec.wav",
+    "segments": [
+      {
+        "speaker": "unknown",
+        "en": "Oh!",
+        "ru": "Ой!"
+      },
+      {
+        "speaker": "unknown",
+        "en": "What?",
+        "ru": "Что?"
+      },
+      {
+        "speaker": "unknown",
+        "en": "Yeah!",
+        "ru": "Да!"
+      },
+      {
+        "speaker": "unknown",
+        "en": "Hm?",
+        "ru": "Хм?"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "fin2_2sec.wav",
+    "segments": [],
+    "notes": ""
+  },
+  {
+    "file": "intro_2sec.wav",
+    "segments": [
+      {
+        "speaker": "Ralph Wolf",
+        "en": "Yeah!",
+        "ru": "Да!"
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hello, and welcome to the Sheep, Dog 'n' Wolf Show, or as I like to call it, Who Wants to Be a Sheep Stealer?",
+        "ru": "Привет и добро пожаловать на «Шоу Овца, Собака и Волк», или, как мне больше нравится, «Кто хочет стать похитителем овец?»!"
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Listen bub, all you got to do is relax and play the game. I got to use this gig to catapult me to superstardom.",
+        "ru": "Слушай, приятель, всё, что тебе нужно — расслабиться и играть. А я использую эту работёнку, чтобы взлететь на вершину суперславы!"
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Now, the aim of our game is simple, to steal sheep.",
+        "ru": "Итак, цель нашей игры проста: воровать овец."
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You will go through a series of levels. At each of those levels, you will have to steal a sheep from Sam Sheepdog and put it in the goal. If you succeed, you may proceed to the next challenge, and so on until you finally steal the entire flock.",
+        "ru": "Ты пройдёшь через серию уровней. На каждом из них тебе придётся украсть овцу у овчарки Сэма и доставить её на финиш. Если справишься, сможешь перейти к следующему испытанию, и так далее, пока наконец не утащишь всю отару."
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "But, and this is a big but, the sheep must be intact at the end of each level. You'll be disqualified if any of these sheep are missing so much as a thread of wool. Have I made myself perfectly clear?",
+        "ru": "Но — и это очень важное «но» — в конце каждого уровня овца должна быть цела и невредима. Тебя дисквалифицируют, если овца потеряет хотя бы ниточку шерсти. Я предельно ясно выразился?"
+      },
+      {
+        "speaker": "Ralph Wolf",
+        "en": "Mmm.",
+        "ru": "М-м-м."
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Okay, don't panic. I, as a consummate professional, know how important it is to rehearse. This is your big chance, and you don't want to blow it. Besides, I'm the one who explained this game to you. And if you don't do well, how's that going to make me look? Not so good, that's how. So, go ahead, practice!",
+        "ru": "Ладно, без паники. Я, как совершенный профессионал, знаю, как важны репетиции. Это твой звёздный час, и ты ведь не хочешь всё запороть. К тому же, это я объяснил тебе правила игры. И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как! Так что давай, тренируйся!"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "lvl09_tps_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Dear viewers, something inexplicable has just occurred. Our contestant, by using a strange object called a chronometer, has fallen into a parallel dimension, and is now time traveling. Will this strange phenomenon allow our contestant to succeed in this new challenge? We'll just have to wait and see.",
+        "ru": "Дорогие телезрители, только что произошло нечто необъяснимое! Наш участник, воспользовавшись странным предметом под названием хронометр, провалился в параллельное измерение и теперь путешествует во времени! Позволит ли этот удивительный феномен нашему участнику справиться с новым испытанием? Поживём — увидим!"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "plade_lvl_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Psst, come here! Have you heard of the Sheep, Dog 'n' Wolf game? No? Well, let's see how I can describe it now. It's not really an action game, um, or a spy game, or a strategy game. Well, there's certainly nothing nasty in it. No, of course not. I mean, would I be associated with something like that? Me, the star, the professional, the best-loved duck in the biz?",
+        "ru": "Тс-с, иди сюда! Ты слышал про игру «Овца, Собака и Волк»? Нет? Ну, как бы её описать... Это не совсем боевик, эм, и не шпионская игра, и не стратегия. Ну, в ней точно нет ничего гадкого. Нет, конечно же нет! Стал бы я связываться с чем-то подобным? Я, суперзвезда, профессионал, самая любимая утка в шоу-бизнесе?"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "plade_lvl_02.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Listen, because I'm a nice guy, I'll give you a sneak preview of this Sheep, Dog 'n' Wolf game, and it's really all about me, the duck! Anyway, all you got to do is catch a sheep and take it to the goal. Ready? Okay, here you go!",
+        "ru": "Слушай, по доброте душевной я покажу тебе кусочек игры «Овца, Собака и Волк», которая вообще-то вся крутится вокруг меня, любимого селезня! Короче, всё, что нужно сделать — поймать овцу и доставить её на финиш. Готов? Ну, поехали!"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "file": "re_lvl_12_fan01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "And one more sheep for our contestant! Whoop, wait a minute, let me see that sheep. Mhm, that doesn't count. Go back and steal some real sheep!",
+        "ru": "И ещё одна овца на счету нашего участника! Опа, секундочку, дай-ка я взгляну на неё... Хм-м, не считается! Возвращайся и укради настоящую овцу!"
+      }
+    ],
+    "notes": ""
+  }
+]

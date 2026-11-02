@@ -1,0 +1,90 @@
+[
+  {
+    "file": "cin_lvl_0206.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Don't forget, shrubs are a smart disguise. So use the bush to hide yourself. Go behind the line if you want to start again."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0207.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Great! You're finally ready for Sam's area. If you have any more questions, you can come back to me. I'm not sure if I'll be able to answer them, but you'll have the pleasure of my company."
+      }
+    ],
+    "non_speech": "[laughter]",
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0208.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "To start, stay close to the bush behind the white line."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0209.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Okay! Start when you want."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0210.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "If you have to cross Sam's area, be careful! If he sees you, you're dog food!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0211b.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Don't forget to use your inventory, that's what it's there for! You can look at the level's map and the user guides to find out about different objects. Sure comes in handy, I'll tell you."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0212.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "If you don't want to be noticed by Sam, do like I do. Duck behind that bush!"
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  },
+  {
+    "file": "cin_lvl_0301.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "text": "Okay, time to learn something new! Bushes aren't the only thing that can help you hide. You can use rocks, too! Look at the size of those rocks. Hey, if I were you, I'd hide behind them. Come close on one side of this rock, and press the stealth button to camouflage yourself. Tell you what, you can practice with me."
+      }
+    ],
+    "non_speech": null,
+    "notes": null
+  }
+]

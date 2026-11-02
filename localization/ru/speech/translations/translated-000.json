@@ -1,0 +1,178 @@
+[
+  {
+    "file": "Cin02_sc_reL001.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "And now, looking more ready than ever to steal sheep, here is our contestant! Welcome to the Sheep, Dog 'n' Wolf Show! Applause!",
+        "ru": "А теперь, готовый как никогда воровать овец, встречайте нашего участника! Добро пожаловать на шоу «Овца, Собака и Волк»! Аплодисменты!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin02_sc_reL002.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "You'll see the place to which you must bring back the sheep you have stolen. The counter will also indicate the number of sheep you still have to steal.",
+        "ru": "Здесь ты увидишь место, куда нужно приводить украденных овец. А счётчик покажет, сколько овец ещё предстоит украсть."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin02_sc_reL003.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "The counter will also indicate the number of sheep you still have to steal.",
+        "ru": "А счётчик покажет, сколько овец ещё предстоит украсть."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin02_sc_reL004.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "By climbing onto this stand, you can save the game by following the instructions given.",
+        "ru": "Заберись на эту подставку, чтобы сохранить игру, следуя инструкциям на экране."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin02_sc_reL005.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you're exceptionally bright, like yours truly, you'll discover a time clock in each level. Activate it and win a bonus point! Then you can come here and buy stuff, depending on the number of bonus points you've collected, of course.",
+        "ru": "Если ты исключительно умён, как я, то найдёшь табельные часы на каждом уровне. Отметься в них и получи бонусное очко! Потом приходи сюда за покупками — ассортимент зависит от числа набранных очков, разумеется."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin02_sc_reL006.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "And that's where you can choose levels. All you have to do is activate a door to enter the corresponding level. It's up to you now!",
+        "ru": "А здесь можно выбирать уровни. Просто активируй дверь, чтобы попасть на нужный уровень. Дальше действуй сам!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin03_sc_reL161.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Fantastic! The last sheep! You did it! You are an exceptional contestant. Unfortunately, our show is nearly over. Thanks to all my fans out there for staying with us through to the end. See you soon!",
+        "ru": "Потрясающе! Последняя овца! Ты сделал это! Ты исключительный участник. К сожалению, наше шоу подходит к концу. Спасибо всем моим фанатам за то, что были с нами до самого финала. До скорого!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin03_sc_reL162.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Uh! What's this? What's Marvin the Martian doing here? This wasn't in the script!",
+        "ru": "А! Это ещё что? Что здесь делает марсианин Марвин? Этого не было в сценарии!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_01.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hello, and welcome to the Sheep, Dog 'n' Wolf Show, or as I like to call it, Who Wants to Be a Sheep Stealer?",
+        "ru": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_02.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Listen, bub. All you got to do is relax and play the game. I got to use this gig to catapult me to superstardom!",
+        "ru": "Слушай сюда, приятель. Просто расслабься и играй. Это шоу должно катапультировать меня прямо в суперзвёзды!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_03b.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Now, the aim of our game is simple: to steal sheep.",
+        "ru": "Итак, цель нашей игры проста: воровать овец."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_04.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "You will go through a series of levels. At each of those levels, you will have to steal a sheep from Sam Sheepdog and put it in the goal.",
+        "ru": "Тебе предстоит пройти череду уровней. На каждом из них нужно украсть овцу у Сэма и доставить её на финиш."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_05.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you succeed, you may proceed to the next challenge, and so on, until you finally steal the entire flock!",
+        "ru": "Справишься — перейдёшь к следующему испытанию, и так далее, пока наконец не утащишь всю отару!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_06.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "But, and this is a big \"but\", the sheep must be intact at the end of each level. You'll be disqualified if any of the sheep are missing so much as a thread of wool.",
+        "ru": "Но — и это огромное «но» — в конце каждого уровня овца должна быть цела и невредима. Тебя дисквалифицируют, если с неё упадёт хоть клочок шерсти!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_07.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Have I made myself perfectly clear? Mmm?",
+        "ru": "Я предельно ясно выразился? А-а?"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "file": "Cin_int_niv_09b.wav",
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "What?",
+        "ru": "Что?"
+      }
+    ],
+    "notes": null
+  }
+]
