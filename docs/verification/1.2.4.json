@@ -1,0 +1,71 @@
+{
+  "version": "1.2.4",
+  "date": "2026-11-03",
+  "platform": "arm64 macOS 13+ Metal/CoreAudio",
+  "dmg": {
+    "file": "SheepDogWolf-macOS-arm64-1.2.4.dmg",
+    "bytes": 528058782,
+    "sha256": "1b8f22bc434a53a36f067cde3a5c4067ef463dd7f761c5ddd129a4333a6240ae"
+  },
+  "ad_hoc_signature_verified": true,
+  "notarized": false,
+  "clamav": {
+    "scanned_files": 902,
+    "infected_files": 0
+  },
+  "smoke": [
+    {
+      "level": -1,
+      "alive_at_deadline": true,
+      "exit": 0,
+      "drew_120_frames": true,
+      "loaded": true,
+      "log": "scene--1.log",
+      "pass": true
+    },
+    {
+      "level": -3,
+      "alive_at_deadline": true,
+      "exit": 0,
+      "drew_120_frames": true,
+      "loaded": true,
+      "log": "scene--3.log",
+      "pass": true
+    },
+    {
+      "level": 0,
+      "alive_at_deadline": true,
+      "exit": 0,
+      "drew_120_frames": true,
+      "loaded": true,
+      "log": "scene-0.log",
+      "pass": true
+    },
+    {
+      "level": 1,
+      "alive_at_deadline": true,
+      "exit": 0,
+      "drew_120_frames": true,
+      "loaded": true,
+      "log": "scene-1.log",
+      "pass": true
+    }
+  ],
+  "tests": {
+    "camera_zones": "128 production follow/directed combinations with isolated renderer/collision adapters, plus area-shot eligibility; UBSan passed",
+    "input_save": "Production input/cursor/tutorial/save fixtures passed UBSan"
+  },
+  "changes": [
+    "Manual yaw/pitch survive authored zone rotation bans, trajectories and angle clamps",
+    "Directed gameplay states use the collision-aware orbit with persistent angles",
+    "CameraManager and CameraManager2 area shots yield during mouse-controlled walking, but remain active in cinematics and frozen NPC lessons",
+    "Legacy controller-only, rocket, chase, fixed-look and other scripted modes remain authored"
+  ],
+  "limitations": [
+    "Exact user-reported corridor/ledge not identified or reproduced",
+    "Full campaign and every camera zone not played through",
+    "Collision test uses an adapter; unchanged production world probing retained",
+    "Daffy lisp artistry, full item combinations, all save/load scenarios, another clean Mac remain open"
+  ],
+  "desktop_shortcut_target": "SheepDogWolf-1.2.4.app"
+}

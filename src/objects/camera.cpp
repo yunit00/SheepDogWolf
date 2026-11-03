@@ -83,6 +83,10 @@ struct CamResetPositions { /* the positions Camera_ResetMotion / Camera_Reset se
 /* ---- other objects' data ---- */
 #include "../app/app_main.h"
 #include "../engine/game_state.h"
+#include "../engine/cine.h"
+#define SDW_INLINE_CINE_ISACTIVE 1
+#include "../engine/cine_inlines.h"
+#undef SDW_INLINE_CINE_ISACTIVE
 #include "../engine/draw2d.h"
 #include "../engine/maths.h"
 #include "../engine/screen.h"
@@ -250,7 +254,27 @@ static s16 s_mouseOrbitYaw = 0;
 
 static bool Camera_IsMouseOrbitMode(u8 mode)
 {
-    return mode == CAM_FOLLOW || mode == CAM_FOLLOW_RUN || mode == CAM_ROBOT;
+    return mode == CAM_FOLLOW || mode == CAM_FOLLOW_RUN || mode == CAM_ROBOT || mode == CAM_DIRECTED;
+}
+
+// Preserve manual angles through gameplay zones and directed movement states.
+// Scripted shots, frozen actions without look permission, death and non-orbit
+// modes retain their authored camera. Focus loss must not reset the chosen view.
+static bool Camera_PlayerOwnsOrbit()
+{
+    return s_mouseOrbitActive && Camera_IsMouseOrbitMode(g_camMode) &&
+           !g_cinePlayer.IsActive() && g_pWolf && (g_pWolf->CanControl() || g_pWolf->CanLook());
+}
+
+// Area camera managers also use scripted shots during ordinary walking.
+// Only bypass their zones while the player has movement control; NPC lessons
+// and cinematics retain ownership. A keyboard user can leave an already active
+// zone shot after a cinematic ends, before the orbit has been reinitialized.
+bool Camera_UseManualZoneView()
+{
+    return !g_cinePlayer.IsActive() && g_pWolf && g_pWolf->CanControl() &&
+           (s_mouseOrbitActive ||
+            (Platform_MouseCameraCaptured() && g_pad.cur.typeLen.type != PADTYPE_ANALOG));
 }
 
 /* Each half of the slider is linear, with the original value exactly at its centre. */
@@ -2143,11 +2167,11 @@ void Camera_UpdateFollow(Camera *camera, Pad *pad)
     w.restrictEnabled = w.restriction &&
                         (((g_camMode == CAM_FOLLOW || g_camMode == CAM_SAM_CHASE) && w.restriction->flags.modeFollow) ||
                          (g_camMode == CAM_ROBOT && w.restriction->flags.modeRobot) ||
-                         (g_camMode == CAM_FOLLOW_RUN && w.restriction->flags.modeRun));
-    w.trajectory = w.restrictEnabled && w.restriction->trajectory;
-    w.forbidPad = (w.restrictEnabled && w.restriction->flags.forbidPad) || w.trajectory;
-    w.mouseOrbit = s_mouseOrbitActive && Camera_IsMouseOrbitMode(g_camMode) &&
-                   !w.forbidPad && !g_camReqFlags.useYaw && !g_camReqFlags.usePitch;
+                         (g_camMode == CAM_FOLLOW_RUN && w.restriction->flags.modeRun) ||
+                         (g_camMode == CAM_DIRECTED && g_camReqFlags.restriction));
+    w.mouseOrbit = Camera_PlayerOwnsOrbit();
+    w.trajectory = w.restrictEnabled && w.restriction->trajectory && !w.mouseOrbit;
+    w.forbidPad = !w.mouseOrbit && ((w.restrictEnabled && w.restriction->flags.forbidPad) || w.trajectory);
     w.mirror = w.restrictEnabled && w.restriction->flags.mirrorYaw;
     w.snap = g_camReqFlags.snapYaw || (w.restrictEnabled && w.restriction->flags.snapYaw);
     w.smooth = g_camFlags.smooth;
@@ -2281,6 +2305,12 @@ void Camera_UpdateFollow(Camera *camera, Pad *pad)
         w.aim.x += w.restriction->aimOffset.x;
         w.aim.y += w.restriction->aimOffset.y;
         w.aim.z += w.restriction->aimOffset.z;
+    }
+    if (w.mouseOrbit) {
+        // Zone distance/focal/aim settings remain useful, but yaw/pitch clamps
+        // must not undo the mouse every frame. Collision still shortens the arm.
+        w.angles.x = s_mouseOrbitPitch;
+        w.angles.y = s_mouseOrbitYaw;
     }
     if (w.snap) {
         w.angleDelta = w.angles.y;
@@ -2539,6 +2569,10 @@ void Camera_UpdateScriptedHold(Camera *camera)
 }
 void Camera_UpdateDirected(Camera *camera, Pad *pad)
 {
+    if (Camera_PlayerOwnsOrbit()) {
+        Camera_UpdateFollow(camera, pad);
+        return;
+    }
     struct Work {
         s32 side;
         CamModeParams *params;
@@ -3018,14 +3052,13 @@ void Camera_Update(Camera *camera, u8 mode, Pad *pad, Pad *mouse)
     g_camFlags2.all &= ~CAMF2_OVERHEAD;
     extern float g_cameraMouseDX, g_cameraMouseDY;
     if (!s_mouseOrbitActive && Camera_IsMouseOrbitMode(g_camMode) &&
-        Platform_MouseCameraCaptured() && pad->cur.typeLen.type != PADTYPE_ANALOG) {
+        Platform_MouseCameraCaptured() && !g_cinePlayer.IsActive() && pad->cur.typeLen.type != PADTYPE_ANALOG) {
         s_mouseOrbitActive = true;
         s_mouseOrbitPitch = camera->rot.x;
         s_mouseOrbitYaw = camera->rot.y;
     }
-    if ((g_camMode == CAM_FOLLOW || g_camMode == CAM_FOLLOW_RUN || g_camMode == CAM_LOOK || g_camMode == CAM_ROBOT) &&
-        !(g_gameFlags & GF_PAUSED) && !g_camReqFlags.useYaw && !g_camReqFlags.usePitch &&
-        (!g_camRestriction || (!g_camRestriction->flags.forbidPad && !g_camRestriction->trajectory))) {
+    if ((Camera_IsMouseOrbitMode(g_camMode) || g_camMode == CAM_LOOK) &&
+        !(g_gameFlags & GF_PAUSED) && !g_cinePlayer.IsActive() && Platform_MouseCameraCaptured()) {
         s32 yaw = (s32)(g_cameraMouseDX * 2.5f);
         s32 pitch = (s32)(g_cameraMouseDY * 2.0f);
         if (yaw || pitch) {

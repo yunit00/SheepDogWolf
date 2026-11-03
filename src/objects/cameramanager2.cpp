@@ -45,6 +45,14 @@ inline u32 PropId(void *record, u32 offset)
 }
 void CameraManager2::Update()
 {
+    if (Camera_UseManualZoneView()) {
+        if (scriptActive) {
+            Camera_ReleaseScripted(this);
+            scriptActive = 0;
+        }
+        return;
+    }
+
     struct Work {
         u32 resumeFlags;
         u16 resumeFocal, resumeZ, resumeY, resumeX;

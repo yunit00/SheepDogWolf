@@ -43,8 +43,8 @@ old_exe = contents / "MacOS" / info["CFBundleExecutable"]
 new_exe = old_exe.with_name("SheepDogWolf")
 old_exe.rename(new_exe)
 info.update(CFBundleExecutable="SheepDogWolf", CFBundleName="SheepDogWolf",
-            CFBundleDisplayName="SheepDogWolf", CFBundleShortVersionString="1.2.3",
-            CFBundleVersion="1.2.3.1", LSMinimumSystemVersion="13.0",
+            CFBundleDisplayName="SheepDogWolf", CFBundleShortVersionString="1.2.4",
+            CFBundleVersion="1.2.4.1", LSMinimumSystemVersion="13.0",
             CFBundleIdentifier="io.github.yunit00.sheepdogwolf")
 with (contents / "Info.plist").open("wb") as f:
     plistlib.dump(info, f)

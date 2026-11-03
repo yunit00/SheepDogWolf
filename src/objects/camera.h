@@ -58,6 +58,7 @@ void Camera_StopShake();
 u16 Camera_SweepEyeBox(const Vec3s *, const s16 *, Vec3s *, const Vec3s *, Vec3s *);
 void Camera_Update(Camera *cam, u8 debugMode, Pad *pad, Pad *pad2);
 void Camera_UpdateDebugFreeCam(Camera *, Pad *, Pad *);
+bool Camera_UseManualZoneView();
 void Camera_UpdateDirected(Camera *, Pad *);
 void Camera_UpdateFollow(Camera *, Pad *);
 void Camera_UpdateLedgeLook(Camera *);

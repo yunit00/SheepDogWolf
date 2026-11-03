@@ -63,6 +63,14 @@ void CameraManager::PostLoadInit()
 }
 void CameraManager::Update()
 {
+    if (Camera_UseManualZoneView()) {
+        if (scriptActive) {
+            Camera_ReleaseScripted(this);
+            scriptActive = 0;
+        }
+        return;
+    }
+
     Vec3s a = g_pWolf->pos;
     s32 b;
     CamSetup *c;
