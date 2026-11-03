@@ -1,0 +1,80 @@
+{
+  "version": "1.2.3",
+  "date": "2026-11-02",
+  "platform": "arm64 macOS 13+ Metal/CoreAudio",
+  "dmg": {
+    "file": "SheepDogWolf-macOS-arm64-1.2.3.dmg",
+    "bytes": 528055481,
+    "sha256": "61086e3c312acc641be0d8e94865d2da29788f8a4d3bec2729fbf46a99c871b1"
+  },
+  "ad_hoc_signature_verified": true,
+  "notarized": false,
+  "clamav": {
+    "scanned_files": 902,
+    "infected_files": 0
+  },
+  "regression_tests": {
+    "camera_cursor_tutorial_save": "UBSan production-function fixtures passed",
+    "inventory": "8 scenario groups passed",
+    "audio_editing": 10
+  },
+  "changes": [
+    "Shared walking/look permission separation, including hub",
+    "Tutorial VIEW permission before waiting for look",
+    "Independent mouse capture and pointer visibility; menus, dialogs, focus recovery",
+    "Pause Save progress with four slots",
+    "44-byte pause snapshot and bounded save-slot writes"
+  ],
+  "ui_checks": [
+    "Tutorial reached original stuck point: LOOK_ALLOWED and camera capture restored",
+    "Pause opens after tutorial scene",
+    "Russian Save progress item visible and opens native save flow",
+    "Created fresh save file via pause UI, wrote first slot; FEEE and game CRC32 verified"
+  ],
+  "open_items": [
+    "Full campaign and all item combinations",
+    "Daffy lisp artistry",
+    "All save/load scenarios; sleep/wake; another clean Mac",
+    "ASan runtime hangs before tests on this host; UBSan passed"
+  ],
+  "smoke": [
+    {
+      "level": -1,
+      "alive_at_deadline": false,
+      "exit": 0,
+      "drew_120_frames": true,
+      "loaded": true,
+      "log": "scene--1.log",
+      "pass": false
+    },
+    {
+      "level": -3,
+      "alive_at_deadline": true,
+      "exit": 0,
+      "drew_120_frames": true,
+      "loaded": true,
+      "log": "scene--3.log",
+      "pass": true
+    },
+    {
+      "level": 0,
+      "alive_at_deadline": false,
+      "exit": 0,
+      "drew_120_frames": true,
+      "loaded": true,
+      "log": "scene-0.log",
+      "pass": false
+    },
+    {
+      "level": 1,
+      "alive_at_deadline": false,
+      "exit": 0,
+      "drew_120_frames": true,
+      "loaded": true,
+      "log": "scene-1.log",
+      "pass": false
+    }
+  ],
+  "smoke_note": "All four scenes loaded and rendered 120 frames. Hub completed 8 seconds; menu/tutorial/level 1 exited early with code 0, so their full-duration checks did not pass. Cause of early closure not established.",
+  "desktop_shortcut_target": "SheepDogWolf-1.2.3.app"
+}

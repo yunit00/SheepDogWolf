@@ -68,6 +68,7 @@ static u8 g_cineOpStride_57ecd4[9] = {0, 8, 8, 4, 2, 2, 4, 2, 2}; /* Cine.h copy
 #include "../platform/platform.h"
 #include "progress.h"
 float g_cameraMouseDX, g_cameraMouseDY;
+extern "C" char *getenv(const char *);
 extern u8 g_sharedScratch[]; /* scratch shared with the collision code (u8[0x200], as the game declares it) */
 #define g_sharedScratch ((s32 *)g_sharedScratch)
 extern void (*g_worldObjDrawFns[5])(WorldObj *obj, Camera *cam); /* indexed by WorldObj.inst_kind */
@@ -255,10 +256,6 @@ void Game_RenderStaticWorld()
  * cullDisabled is set. TexScroll_UpdateAll is a tail call. */
 void Game_Frame()
 {
-    bool mouseEnabled = g_pProgress && g_pProgress->currentLevel >= 0 &&
-        (g_gameFlags & GF_UPDATE_OBJECTS) && !(g_gameFlags & (GF_PAUSED | GF_ITEM_WHEEL_OPEN | GF_FADE_EXIT)) &&
-        !Map_IsOpen() && !g_cinePlayer.IsActive() && g_pWolf && g_pWolf->CanControl();
-    Platform_MouseCameraFrame(mouseEnabled, &g_cameraMouseDX, &g_cameraMouseDY);
     if (g_gameFlags & GF_UPDATE_OBJECTS) {
         switch (g_weatherType) {
             case WEATHER_RAIN:
@@ -307,6 +304,15 @@ void Game_Frame()
  * sound mixer. */
 void Game_Frame_2()
 {
+    static unsigned inputTraceFrame;
+    if (getenv("SDW_INPUT_TRACE") && (++inputTraceFrame % 60) == 0)
+        Platform_Log("[input] active=%d capture=%d flags=%x cine=%d ready=%d id=%u letterbox=%d stream=%d wolf=%d wf=%x pad=%x prev=%x connected=%d keyActive=%d prompt=%d\n",
+            Platform_IsActive(), Platform_MouseCameraCaptured(), g_gameFlags,
+            g_cinePlayer.IsActive(), g_cinePlayer.IsWolfReady(), g_cinePlayer.cineId,
+            g_letterboxState, g_pStreamPlayer->state, g_pWolf ? g_pWolf->state : -1,
+            g_pWolf ? g_pWolf->flags : 0, g_pad.cur.buttons, g_pad.prev.buttons,
+            g_pad.IsConnected(), g_inputMgr.current ? g_inputMgr.current->allowHeld : -1, g_promptActive);
+
     if (g_pad.IsConnected() && Pad_MenuPressed((u16)~PAD_SELECT) && !g_cinePlayer.IsActive() &&
         !g_pStreamPlayer->IsBusy() && GAME_STATE->Game_CanOpenMenu() && !Game_IsPaused()) {
         if (SelectMenu_GetState() == SEL_CLOSED)
@@ -326,6 +332,16 @@ void Game_Frame_2()
         g_gameFlags ^= GF_PAUSE_TOGGLE;
         PausedMenu_Open();
     }
+    // A script may lock walking while allowing a look lesson. Pointer visibility is
+    // independent: cinematic/frozen gameplay does not need a desktop cursor.
+    bool inGame = g_pProgress && g_pProgress->currentLevel != SCENE_WHEEL;
+    bool pointerVisible = !inGame || Game_IsPaused() || Map_IsOpen() ||
+        (g_gameFlags & GF_ITEM_WHEEL_OPEN);
+    bool mouseEnabled = inGame && (g_gameFlags & GF_UPDATE_OBJECTS) &&
+        !(g_gameFlags & (GF_PAUSED | GF_ITEM_WHEEL_OPEN | GF_FADE_EXIT | GF_FADE_RESTART)) &&
+        !Map_IsOpen() && !g_cinePlayer.IsActive() && g_pWolf &&
+        (g_pWolf->CanControl() || g_pWolf->CanLook());
+    Platform_MouseCameraFrame(mouseEnabled, pointerVisible, &g_cameraMouseDX, &g_cameraMouseDY);
     if (SelectMenu_GetState() >= SEL_OPEN_HOLD && SelectMenu_GetState() <= SEL_CLOSE_WIPE) {
         Map_Update();
     } else {

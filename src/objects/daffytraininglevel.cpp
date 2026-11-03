@@ -205,6 +205,9 @@ void DaffyTrainingLevel::ParseTextTags()
 {
     lockTag = EatTextTag(DTL_TAG_LOCK);
     viewTag = EatTextTag(DTL_TAG_VIEW);
+    // Grant look before waiting for the player to find Daffy, even when LOCK freezes walking.
+    if (viewTag && g_pWolf)
+        g_pWolf->HandleMessage(this, MSG_WOLF_ALLOW_LOOK, (void *)1);
     if (EatTextTag(DTL_TAG_STOP))
         stopTag = 1;
     else

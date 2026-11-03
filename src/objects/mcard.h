@@ -23,6 +23,7 @@ u8 MCard_PromptConfirm(char *, char *);
 s8 MCard_PromptYesNo(char *, char *, char *);
 void MCard_ResetCursor();
 void MCard_SetMode(u8);
+void MCard_BeginSave();
 u8 MCard_ShowMessage(char *);
 u8 MCard_SlotChooser(char *, char *, char *);
 u8 MCard_SlotChooserConfirmSave();

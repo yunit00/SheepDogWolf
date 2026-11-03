@@ -502,6 +502,13 @@ void MCard_SetMode(u8 mode)
     }
 }
 
+void MCard_BeginSave()
+{
+    g_mcardActiveMode = MCARD_MODE_NONE;
+    g_mcardFade = 15;
+    MCard_SetMode(MCARD_MODE_SAVE);
+}
+
 /* Slot4 requests image validation without loading a record. */
 s32 Card_Access(s32 slot)
 {
@@ -535,6 +542,8 @@ s32 Card_Access(s32 slot)
 
 s32 Card_CommitBlock(s32 slot, s32 overwrite)
 {
+    if (slot < 0 || slot > 4)
+        return CARD_CORRUPT;
     s32 result = Card_Access(4);
     if (!overwrite)
         g_mcardImageCached = 2;
@@ -542,8 +551,7 @@ s32 Card_CommitBlock(s32 slot, s32 overwrite)
         g_mcardImageCached = 3;
     if (result == CARD_CORRUPT)
         return CARD_CORRUPT;
-    g_pProgress->CopyRecord(g_cardBlocks[slot]);
-    if (!overwrite && g_cardBlockState[slot] == 'F')
+    if (slot < 4 && !overwrite && g_cardBlockState[slot] == 'F')
         result = CARD_SLOT_FULL;
     else {
         if (result == CARD_READ_OK) {
@@ -551,8 +559,10 @@ s32 Card_CommitBlock(s32 slot, s32 overwrite)
             if (result != CARD_PREWRITE_OK)
                 return result;
         }
-        if (slot < 4)
+        if (slot < 4) {
+            g_pProgress->CopyRecord(g_cardBlocks[slot]);
             g_cardBlockState[slot] = 'F';
+        }
         g_saveImageTimestamp = g_rawTime;
         g_pProgress->SetSaveTimestamp(g_saveImageTimestamp);
         g_saveImageStatus = CARD_IMAGE_STATUS;

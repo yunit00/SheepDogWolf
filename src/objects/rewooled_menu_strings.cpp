@@ -7,7 +7,8 @@
 #define REWOOLED_MENU_ENGLISH                                                                                          \
     {"Rewooled Settings", "Object Outlines", "Camera Speed", "Camera Acceleration", "Invert Camera Joystick",          \
      "Text Language", "Voice Language", "Same as text",                                                                \
-     "Configuration saved!\nThe new text language\nstarts at the next level."}
+     "Configuration saved!\nThe new text language\nstarts at the next level.", "Save progress", \
+     "Completed levels and bonuses.\nPosition within a level is not saved."}
 
 static const char *const s_strings[7][RWMENU_COUNT] = {
     REWOOLED_MENU_ENGLISH, /* English */

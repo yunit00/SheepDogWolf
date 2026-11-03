@@ -8621,6 +8621,7 @@ public:
     void RunTapCheck(s32 playStartSound);
     s32 CanUseInventory();
     s32 CanControl();
+    s32 CanLook();
     void FilterInput(Pad *pad, u32 inputMask);
     void ClearEffects();
     void UpdateTrailFx();

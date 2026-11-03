@@ -40,6 +40,7 @@ typedef void (*MenuHandler)(u8 msg, MenuPage *self);
 #include "input.h"
 #include "screen.h"
 #include "../objects/menu.h"
+#include "../objects/mcard.h"
 #include "../objects/camera.h"
 #include "prompt.h"
 #include "sound_mgr.h"
@@ -104,8 +105,8 @@ char *g_uiString1B = 0;
 UiCursor g_menuCursors[6] = {0};      /* slider cursors: 0..2 volumes, 3 fog, 4 camera speed, 5 camera acceleration */
 s16 g_pauseBoxRect[4] = {0};          /* {x, y, w, h} of the pause box on the 512 x 240 screen */
 s16 g_pauseTextRect[4] = {0};         /* the title / footer text window PauseMenu_Update sets */
-u8 g_progressPauseCopy[0x2a] = {
-    0}; /* the saved progress record, snapshotted on open; 0x2c bytes with the next two (see the header) */
+u8 g_progressPauseCopy[0x2c] = {0}; // Complete serialized record; never rely on adjacent globals.
+static bool s_pauseSaving = false;
 u8 g_pauseViewDistance = 0;          /* view distance to restore when the display page is left */
 static u8 g_pauseMeshOutlines = 1;   /* accepted outline setting; Done keeps the preview */
 /* Rewooled Settings' languages while the page is open (langpack.h): saved by Done, dropped otherwise */
@@ -364,6 +365,7 @@ void PauseMenu_ReturnToRoot()
  * 0x4001), makes the pause menu current at its root. */
 void PauseMenu_Open()
 {
+    s_pauseSaving = false;
     g_pProgress->CopyRecord(g_progressPauseCopy);
     Sound_PauseAll();
     g_pad.SetActuator(0);
@@ -518,6 +520,23 @@ void PauseMenu_ItemResume(u8 msg, MenuPage *self)
             break;
         case MENU_MSG_CONFIRM:
             GAME_STATE->Game_SetFlags(GF_PAUSE_TOGGLE, 0);
+            break;
+    }
+}
+
+static void PauseMenu_ItemSaveProgress(u8 msg, MenuPage *self)
+{
+    switch (msg) {
+        case MENU_MSG_DRAW_SELECTED:
+            g_uiFooterText = (char *)PauseMenu_RewooledText(RWMENU_SAVE_SCOPE);
+            break;
+        case MENU_MSG_DRAW:
+            Menu_Printf(self, TEXTALIGN_CENTER, "%s", PauseMenu_RewooledText(RWMENU_SAVE_PROGRESS));
+            break;
+        case MENU_MSG_CONFIRM:
+            MCard_BeginSave();
+            s_pauseSaving = true;
+            g_inputMgr.ResetEdges();
             break;
     }
 }
@@ -749,6 +768,8 @@ void PauseMenu_Build()
     /* a menu lists its entries in the order they are added: Resume first, then Options and Rewooled Settings, then
      * the rest */
     g_pauseResumeIndex = Menu_AddItems(root, PauseMenu_ItemResume, MENU_END);
+    if (Progress_InLevel() || Progress_Level() == SCENE_HUB)
+        Menu_AddItems(root, PauseMenu_ItemSaveProgress, MENU_END);
     optMenu = Menu_AddPage(root, (void *)PauseMenu_PageOptions, 1);
     sounds = Menu_AddPage(optMenu, (void *)PauseMenu_PageSoundOptions, 1);
     padPage = Menu_AddPage(optMenu, (void *)PauseMenu_PageControllerSetting, 1);
@@ -1593,6 +1614,20 @@ void PauseMenu_Update()
 {
     u32 result;
 
+    if (s_pauseSaving) {
+        g_pPolyBin->Flush();
+        PauseMenu_DrawNoiseOverlay();
+        if (Card_StateMachine() != MCARD_RUNNING) {
+            s_pauseSaving = false;
+            MCard_SetMode(MCARD_MODE_NONE);
+            g_pProgress->CopyRecord(g_progressPauseCopy);
+            g_inputMgr.SetActiveFlags(0);
+            g_inputMgr.ResetEdges();
+            g_gameFlags |= GF_PAUSE_TOGGLE;
+            PauseMenu_ReturnToRoot();
+        }
+        return;
+    }
     if (g_pad.IsConnected() && !(g_gameFlags & GF_PAUSE_TOGGLE)) {
         PauseMenu_Exit();
     } else {

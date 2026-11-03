@@ -365,6 +365,14 @@ s32 Wolf::CanControl()
            !(g_gameFlags & (GF_BIT0 | GF_FADE_RESTART | GF_FADE_EXIT)) && !Map_IsOpen() && !g_camDebugMode;
 }
 
+/* Scripted look lessons may freeze movement while explicitly allowing the camera. */
+s32 Wolf::CanLook()
+{
+    return (g_wolfMoveBank0[mode].states[state].flags & WSF_LOOK_MODE_OK) &&
+           !(flags & (WOLF_FB_NO_LOOK | WOLF_FB_DEAD | WOLF_FB_WON)) &&
+           ((flags & WOLF_FB_LOOK_ALLOWED) || CanControl());
+}
+
 /* read the pad into the stick and action bits, then mask them: no run (4) in a RESTRICTIONBOX with flag
  * 0x40000000, nor with flags 0x40000; in the rabbit costume neither run nor 0x10; no action (0x40) once after a
  * release (flags 0x20000000). */
@@ -848,8 +856,7 @@ void Wolf::UpdateCamera(Pad *pad)
         go = 1;
     if (go && !g_camDebugMode) {
         stateD = &g_wolfMoveBank0[mode].states[state];
-        allowLook = (stateD->flags & WSF_LOOK_MODE_OK) && !(flags & WOLF_FB_NO_LOOK) &&
-                    ((flags & WOLF_FB_LOOK_ALLOWED) || CanControl());
+        allowLook = CanLook();
         g_camReqTarget = pos;
         g_camReqAimOffset = boundCenter;
         g_camReqVel = velocity;

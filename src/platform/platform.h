@@ -76,7 +76,7 @@ void Platform_ReadMouse(int *dx, int *dy, int *wheel, unsigned char buttons[4]);
 int Platform_MenuPointer(float *x, float *y); // normalized window coordinates, only when uncaptured
 int Platform_OpenChannel(); // fixed Telegram destination, HTTPS fallback
 int Platform_MouseCameraCaptured();
-void Platform_MouseCameraFrame(int capture, float *dx, float *dy);
+void Platform_MouseCameraFrame(int capture, int showPointer, float *dx, float *dy);
 
 /* Controllers: SDL's gamepads (its standard layout), in SDL's order. Platform_ReadJoystick: the left stick as the X and
  * Y axes in -65535..65535 (DirectInput's range as the game set it; Z is 0), the right stick as axes 3 and 4 (same

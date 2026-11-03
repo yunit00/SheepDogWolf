@@ -16,7 +16,9 @@ enum RewooledMenuString {
     RWMENU_VOICE_LANGUAGE,
     RWMENU_SAME_AS_TEXT,
     RWMENU_TEXT_LANGUAGE_SAVED,
-    RWMENU_COUNT = RWMENU_TEXT_LANGUAGE_SAVED /* the last index */
+    RWMENU_SAVE_PROGRESS,
+    RWMENU_SAVE_SCOPE,
+    RWMENU_COUNT = RWMENU_SAVE_SCOPE /* the last index */
 };
 
 /* string `index` (1..RWMENU_COUNT) of the game's language with GREET_txt.BSM language bit `langMask` (LANGMASK_*), in

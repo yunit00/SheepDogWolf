@@ -400,8 +400,13 @@ int Platform_MouseCameraCaptured()
     return s_mouseCaptured && Platform_IsActive();
 }
 
+// UI hit-testing requests pointer ownership for the following frame.
+static bool s_menuPointerRequested = false;
+
 int Platform_MenuPointer(float *x, float *y)
 {
+    s_menuPointerRequested = true;
+    if (!s_mouseCaptured && Platform_IsActive()) SDL_ShowCursor();
     if (!s_window || s_mouseCaptured || !Platform_IsActive()) return 0;
     int w, h;
     SDL_GetWindowSize(s_window, &w, &h);
@@ -418,14 +423,19 @@ int Platform_OpenChannel()
     return SDL_OpenURL("https://t.me/TochkiNadAI") ? 1 : 0;
 }
 
-void Platform_MouseCameraFrame(int capture, float *dx, float *dy)
+void Platform_MouseCameraFrame(int capture, int showPointer, float *dx, float *dy)
 {
-    bool wanted = capture && Platform_IsActive();
+    showPointer = showPointer || s_menuPointerRequested;
+    s_menuPointerRequested = false;
+    bool wanted = capture && !showPointer && Platform_IsActive();
     if (wanted != s_mouseCaptured) {
         SDL_SetWindowRelativeMouseMode(s_window, wanted);
-        if (wanted) SDL_HideCursor(); else SDL_ShowCursor();
         s_mouseCaptured = wanted;
         s_cameraMouseX = s_cameraMouseY = 0;
+    }
+    bool visible = !Platform_IsActive() || (showPointer && !wanted);
+    if (visible != SDL_CursorVisible()) {
+        if (visible) SDL_ShowCursor(); else SDL_HideCursor();
     }
     *dx = wanted ? s_cameraMouseX : 0;
     *dy = wanted ? s_cameraMouseY : 0;
