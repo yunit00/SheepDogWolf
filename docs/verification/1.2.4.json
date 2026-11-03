@@ -62,10 +62,21 @@
     "Legacy controller-only, rocket, chase, fixed-look and other scripted modes remain authored"
   ],
   "limitations": [
-    "Exact user-reported corridor/ledge not identified or reproduced",
+    "User identified tutorial corridor before the race and wooden seesaw with round stone; resource camera definitions inspected, but these locations have not been replayed after the fix",
     "Full campaign and every camera zone not played through",
     "Collision test uses an adapter; unchanged production world probing retained",
     "Daffy lisp artistry, full item combinations, all save/load scenarios, another clean Mac remain open"
   ],
-  "desktop_shortcut_target": "SheepDogWolf-1.2.4.app"
+  "desktop_shortcut_target": "SheepDogWolf-1.2.4.app",
+  "targeted_followup": {
+    "date": "2026-11-03",
+    "method": "Read-only Lvl-00 resource inspection and production code review; not a gameplay replay",
+    "training_resource_objects": {
+      "CameraRestriction": 12,
+      "CameraManager": 1,
+      "seesaw": 2
+    },
+    "seesaw_launch_shots": "Authored CamShot sequences remain active; they can freeze the player during launch and are separate from ordinary area camera restrictions",
+    "save_test_policy": "Back up user .dat files first; run game tests with isolated SDW_SAVE_DIR; never reset or replace live progress"
+  }
 }
