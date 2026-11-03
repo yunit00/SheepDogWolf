@@ -1,0 +1,160 @@
+[
+  {
+    "file": "Cin02_sc_reL001.wav",
+    "music": false,
+    "effects": true,
+    "speech_over_music": false,
+    "notes": "Audience applause sound effect after speech. Greeting condensed for scene timing; full game title is spoken in the main introduction.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "And now, looking more ready than ever to steal sheep, here is our contestant!",
+        "ru": "А теперь, готовый как никогда воровать овец, встречайте нашего участника!",
+        "start": 0.08,
+        "end": 7.5
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Welcome to the Sheep, Dog 'n' Wolf Show!",
+        "ru": "Добро пожаловать на наше шоу!",
+        "start": 7.6,
+        "end": 10.3,
+        "previous_ru": "Добро пожаловать на шоу «Овца, Собака и Волк»!"
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Applause!",
+        "ru": "Аплодисменты!",
+        "start": 10.35,
+        "end": 11.22
+      }
+    ],
+    "source_seconds": 14.346375
+  },
+  {
+    "file": "Cin02_sc_reL002.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "You'll see the place to which you must bring back the sheep you have stolen.",
+        "ru": "Здесь ты увидишь место, куда нужно приводить украденных овец.",
+        "start": 0.1,
+        "end": 4.5
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "The counter will also indicate the number of sheep you still have to steal.",
+        "ru": "А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+        "start": 4.9,
+        "end": 9.6
+      }
+    ],
+    "source_seconds": 9.5584375
+  },
+  {
+    "file": "Cin02_sc_reL003.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "The counter will also indicate the number of sheep you still have to steal.",
+        "ru": "А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+        "start": 0.12,
+        "end": 4.85
+      }
+    ],
+    "source_seconds": 4.945875
+  },
+  {
+    "file": "Cin02_sc_reL004.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "By climbing onto this stand, you can save the game by following the instructions given.",
+        "ru": "Забравшись на эту подставку, ты сможешь сохранить игру, следуя указанным инструкциям.",
+        "start": 0.1,
+        "end": 5.7
+      }
+    ],
+    "source_seconds": 6.6344375
+  },
+  {
+    "file": "Cin02_sc_reL005.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you're exceptionally bright, like yours truly, you'll discover a time clock in each level.",
+        "ru": "Если ты исключительно умён, прямо как я, то найдёшь табельные часы на каждом уровне.",
+        "start": 0.08,
+        "end": 6.65
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Activate it and win a bonus point!",
+        "ru": "Активируй их и заработай бонусное очко!",
+        "start": 6.9,
+        "end": 9.65
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Then you can come here and buy stuff, depending on the number of bonus points you've collected, of course.",
+        "ru": "Потом можешь прийти сюда за покупками — в зависимости от числа набранных бонусных очков, разумеется.",
+        "start": 9.95,
+        "end": 15.55
+      }
+    ],
+    "source_seconds": 18.45725
+  },
+  {
+    "file": "Cin02_sc_reL006.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "And that's where you can choose levels.",
+        "ru": "А здесь можно выбирать уровни.",
+        "start": 0.1,
+        "end": 2.9
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "All you have to do is activate a door to enter the corresponding level.",
+        "ru": "Тебе нужно всего лишь активировать дверь, чтобы попасть на соответствующий уровень.",
+        "start": 3.2,
+        "end": 8.1
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "It's up to you now!",
+        "ru": "Дальше действуй сам!",
+        "start": 8.35,
+        "end": 9.8
+      }
+    ],
+    "source_seconds": 10.4020625
+  }
+]

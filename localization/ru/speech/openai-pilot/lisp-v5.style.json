@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "file": "lisp-v5.wav",
+      "lisp": "clear",
+      "description": "High-pitched, raspy, and highly energetic cartoon duck voice. Features a prominent, wet lateral lisp on sibilants while maintaining good intelligibility.",
+      "issues": [
+        "clipping on loud exclamations",
+        "minor digital distortion"
+      ]
+    }
+  ],
+  "consistent_speaker": true,
+  "notes": "The audio features a single, consistent speaker with high cartoon energy. The requested duck-like lisp is clearly present and well-executed on sibilants. Intelligibility is surprisingly high for this type of voice, though there are some harsh audio artifacts and clipping towards the end.",
+  "inputs": {
+    "lisp-v5.wav": "a457db0aaca8a0ffb4a2f6740cc5d8c6a310795d679e2bd240030278672ab38e"
+  },
+  "model": "gemini-3.1-pro-preview"
+}

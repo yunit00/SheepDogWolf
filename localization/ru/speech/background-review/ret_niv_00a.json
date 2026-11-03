@@ -1,0 +1,11 @@
+{
+  "intelligible_speech": false,
+  "residuals": [],
+  "music_quality": "good",
+  "artifacts": [
+    "cartoon character vocal laughter/giggling"
+  ],
+  "acceptable_under_dubbing": true,
+  "sha256": "2ce7356dd28262bc66988ea4a27c682f6aa868f8eaee33a438305439c73cf611",
+  "file": "ret_niv_00a"
+}

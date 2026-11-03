@@ -1517,6 +1517,7 @@ u8 MCard_ChooseOption(char *title, char *left, char *right)
     titleRect[3] = 70;
     slot = g_mcardState & MCARD_CUR_SLOT_MASK;
     selection = g_mcardState & (u8)~MCARD_CUR_SLOT_MASK;
+    selection = Ui_MouseChoice(g_rectChoiceLeft, g_rectChoiceRight, selection);
     Text_SetColor(0x4bccff);
     Ui_DrawTextInRect(titleRect, TEXTALIGN_CENTER, 0, title);
     Card_DrawScreen();
@@ -1563,6 +1564,9 @@ u8 MCard_SlotChooser(char *title, char *left, char *right)
         Text_SetColor(0x4bccff);
         Ui_DrawTextInRect(w.titleRect, TEXTALIGN_CENTER, 0, title);
     } else {
+        u8 pointed = Ui_MouseChoice(g_mcardRectChoiceLeft, g_mcardRectChoiceRight, g_mcardState);
+        if (!(pointed == MCARD_CUR_LEFT && g_mcardMode == MCARD_MODE_LOAD && !Card_AnyBlockUsed()))
+            g_mcardState = pointed;
         if (g_mcardMode == MCARD_MODE_LOAD && !Card_AnyBlockUsed())
             savedColor = 0x808080;
         else

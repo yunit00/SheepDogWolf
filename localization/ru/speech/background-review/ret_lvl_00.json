@@ -1,0 +1,32 @@
+{
+  "intelligible_speech": true,
+  "residuals": [
+    {
+      "start": 1.2,
+      "end": 3.4,
+      "words": "what happened before",
+      "confidence": 0.65
+    },
+    {
+      "start": 3.6,
+      "end": 5.4,
+      "words": "sorry I am so sorry",
+      "confidence": 0.75
+    },
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "words": "I am so sorry",
+      "confidence": 0.7
+    }
+  ],
+  "music_quality": "poor",
+  "artifacts": [
+    "heavy dialogue leakage",
+    "residual speech bleed",
+    "phase cancellation artifacts"
+  ],
+  "acceptable_under_dubbing": false,
+  "sha256": "0be5ecad7d566636065565cb49147f8c7179d31ab64e3d3835fa237c09b5f9d3",
+  "file": "ret_lvl_00"
+}

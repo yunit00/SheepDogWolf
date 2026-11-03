@@ -1,0 +1,107 @@
+{
+  "files": [
+    {
+      "file": "cin_lvl1601.wav",
+      "transcript": "Внимание! Поезд подходит к станции. Пожалуйста, всё время держите крылья и клювы внутри вагона. Хочешь сесть на поезд — нажми эту кнопку, чтобы включить красный сигнал. Тогда в следующий раз поезд остановится здесь, и ты сможешь сесть. Следи за этим хронометром, чтобы знать, когда прибудет поезд и сколько он простоит. И что бы ты ни делал, не ходи в тоннели пешком — это опасно!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl1602.wav",
+      "transcript": "Хочешь сесть на поезд — нажми эту кнопку, чтобы включить красный сигнал. Тогда в следующий раз поезд остановится здесь, и ты сможешь сесть. Следи за этим хронометром, чтобы знать, когда прибудет поезд и сколько он простоит. И что бы ты ни делал, не ходи в тоннели пешком — это опасно!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_rob_03.wav",
+      "transcript": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "fin1_2sec__00.wav",
+      "transcript": "Ой!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "fin1_2sec__01.wav",
+      "transcript": "Что?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "fin1_2sec__02.wav",
+      "transcript": "Да!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "fin1_2sec__03.wav",
+      "transcript": "Хм?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__00.wav",
+      "transcript": "Да!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cinsa_lvl1501.wav",
+      "transcript": "Эй, ты, мерзкий безмозглый паразит! А ну отойди от моей лодки! Никому не трогать мою лодку! Пусть я потерял золото, но лодка-то у меня осталась! Единственное, что я подпущу к своей лодке — это ходячие, говорящие золотые монеты! А раз таких не водится — проваливай!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "cin_lvl1601.wav": "f0dca8ccd47e4dec677d08ce229c436806b03976df9b6932898f351104f3e2d3",
+    "cin_lvl1602.wav": "c5866812a0d352eb17369839f41873c84a9a91fb7b9b150fb9af6781e633f899",
+    "txt_rob_03.wav": "d4b4b5eda96a5aabc1d2c07e58d2461db014873fdd2768e3cf437cbab96e3a20",
+    "fin1_2sec__00.wav": "e0ece2b2db3cba61177f3205c8221044bbf8be48d24348c063b964fe9eb3d873",
+    "fin1_2sec__01.wav": "5d4e569c73600780c1a0feeb05d7d97eab94ca620e6914fa7dda6e7ffba61646",
+    "fin1_2sec__02.wav": "5b7064eafcbdaa6cf5f57616a8a8bdf62d37fa8fa8e82a4243acfda308459bbb",
+    "fin1_2sec__03.wav": "d1ba7d5e0b3c15fd20e20e39d21fd4becf88116842dda58f085422c3a138ed63",
+    "intro_2sec__00.wav": "674fbee012f7e02c51b61545a37f72134ef5713036e4992f93adc2e05e8ccd81",
+    "cinsa_lvl1501.wav": "f5c27aa4340c245592f7280739c5e3300f65a9a96409ff77d977f31f2e5022e4"
+  },
+  "references": {
+    "cin_lvl1601.wav": "Внимание! Поезд подходит к станции. Пожалуйста, всё время держите крылья и клювы внутри вагона. Хочешь сесть на поезд — нажми эту кнопку, чтобы включить красный сигнал. Тогда в следующий раз поезд остановится здесь, и ты сможешь сесть. Следи за этим хронометром, чтобы знать, когда прибудет поезд и сколько он простоит. И что бы ты ни делал, не ходи в тоннели пешком — это опасно!",
+    "cin_lvl1602.wav": "Хочешь сесть на поезд — нажми эту кнопку, чтобы включить красный сигнал. Тогда в следующий раз поезд остановится здесь, и ты сможешь сесть. Следи за этим хронометром, чтобы знать, когда прибудет поезд и сколько он простоит. И что бы ты ни делал, не ходи в тоннели пешком — это опасно!",
+    "txt_rob_03.wav": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов.",
+    "fin1_2sec__00.wav": "Ой!",
+    "fin1_2sec__01.wav": "Что?",
+    "fin1_2sec__02.wav": "Да!",
+    "fin1_2sec__03.wav": "Хм?",
+    "intro_2sec__00.wav": "Да!",
+    "cinsa_lvl1501.wav": "Эй, ты, мерзкий безмозглый паразит! А ну отойди от моей лодки! Никому не трогать мою лодку! Пусть я потерял золото, но лодка-то у меня осталась! Единственное, что я подпущу к своей лодке — это ходячие, говорящие золотые монеты! А раз таких не водится — проваливай!"
+  }
+}

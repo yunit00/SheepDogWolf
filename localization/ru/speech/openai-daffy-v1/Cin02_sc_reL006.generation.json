@@ -1,0 +1,30 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 12.386708333333333,
+  "request_id": "req_2486bdd20c764c77b440255b9eea8d25",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 9.7 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "А здесь можно выбирать уровни. Тебе нужно всего лишь активировать дверь, чтобы попасть на соответствующий уровень. Дальше действуй сам!",
+    "unit": {
+      "file": "Cin02_sc_reL006.wav",
+      "source_file": "Cin02_sc_reL006.wav",
+      "speaker": "Daffy Duck",
+      "text": "А здесь можно выбирать уровни. Тебе нужно всего лишь активировать дверь, чтобы попасть на соответствующий уровень. Дальше действуй сам!",
+      "start": 0.1,
+      "end": 9.8,
+      "source_seconds": 10.4020625,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    }
+  },
+  "sha256": "64bdde113e497bc1b64b18c06dd0f7338173651ce522e29327df115d296f707c",
+  "status": "unreviewed"
+}

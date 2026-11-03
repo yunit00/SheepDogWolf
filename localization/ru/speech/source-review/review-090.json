@@ -1,0 +1,306 @@
+[
+  {
+    "file": "cinfe_lvl_0102.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Porky Pig",
+        "en": "Y- you managed to take a sheep from the f- flock. W- well done!",
+        "ru": "Т-тебе удалось увести овцу из с-стада. М-молодец!",
+        "start": 0.16,
+        "end": 4.28
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "And now, I'll show you how to use the l- lettuce intelligently.",
+        "ru": "А теперь я покажу тебе, как с умом использовать с-салат.",
+        "start": 4.38,
+        "end": 8.7
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "Sam's sheep l- love it.",
+        "ru": "Овцы Сэма его о-обожают.",
+        "start": 8.84,
+        "end": 11.2
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "All you have to do is l- leave some next to a sheep. It'll go toward it all on its own to eat it.",
+        "ru": "Всё, что нужно — о-оставить немного рядом с овцой. Она сама пойдёт к нему, чтобы съесть.",
+        "start": 11.45,
+        "end": 16.2
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "B- but be careful not to place your l- lettuce too far away, or it won't be able to s- see it.",
+        "ru": "Н-но смотри, не клади с-салат слишком далеко, а то она не с-сможет его у-увидеть.",
+        "start": 16.4,
+        "end": 22.1
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "To know whether you're close enough before p- putting the lettuce down, ch- check whether this icon is d- displayed.",
+        "ru": "Чтобы знать, достаточно ли близко ты стоишь, перед тем как п-положить салат, п-проверь, виден ли этот значок.",
+        "start": 22.25,
+        "end": 29.8
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "You can also place b- bits of lettuce all along the path. The sheep will move from a bit to a bit.",
+        "ru": "Ещё можно разложить к-кусочки салата вдоль тропинки. Овца будет переходить от кусочка к кусочку.",
+        "start": 30.0,
+        "end": 37.6
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "B- but don't place them too far apart, otherwise the sheep may s- stop on the way.",
+        "ru": "Н-но не клади их слишком далеко друг от друга, иначе овца может о-остановиться по дороге.",
+        "start": 37.75,
+        "end": 43.8
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "So, don't forget to check for this icon before p- placing any l- lettuce. It'll tell you whether it's close enough.",
+        "ru": "Так что не забывай проверять значок, прежде чем п-положить с-салат. Он подскажет, достаточно ли близко.",
+        "start": 44.1,
+        "end": 52.6
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "D- does any of that make sense? Are you f- following me? D- do you get it, 'cause I d- don't!",
+        "ru": "В-всё понятно? Ты с-следишь за мыслью? П-понимаешь? Потому что я — н-нет!",
+        "start": 53.15,
+        "end": 60.15
+      }
+    ],
+    "source_seconds": 61.3724375
+  },
+  {
+    "file": "cinfl_lvl0401.wav",
+    "music": true,
+    "effects": true,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Nonverbal",
+        "en": "groan",
+        "ru": "",
+        "start": 15.6,
+        "end": 16.8
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Ouch!",
+        "ru": "Ой!",
+        "start": 17.65,
+        "end": 18.7
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Ta-da!",
+        "ru": "Та-дам!",
+        "start": 21.05,
+        "end": 22.45
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "'Tis I, the enchanting forest elf!",
+        "ru": "Это я, пленительный лесной эльф!",
+        "start": 23.2,
+        "end": 25.75
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "I can play spellbinding music on my magic flute!",
+        "ru": "Я играю чарующую музыку на волшебной флейте!",
+        "start": 26.35,
+        "end": 30.7
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Just listen to that sweet melody!",
+        "ru": "Только послушай эту нежную мелодию!",
+        "start": 31.05,
+        "end": 33.6
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Say, if you want to hypnotize a character just like I did, you, too, can play this song with a magic flute!",
+        "ru": "Слушай, если хочешь загипнотизировать кого-нибудь, как я, ты тоже можешь сыграть эту мелодию на волшебной флейте!",
+        "start": 45.2,
+        "end": 53.8
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "But you'd better check the magic flute guide to find out which characters you can hypnotize!",
+        "ru": "Но лучше загляни в инструкцию к флейте, чтобы узнать, кого именно можно загипнотизировать!",
+        "start": 54.2,
+        "end": 60.75
+      }
+    ],
+    "source_seconds": 63.4819375
+  },
+  {
+    "file": "cinfl_lvl0402.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "The magic flute is stupendous!",
+        "ru": "Волшебная флейта просто потрясающа!",
+        "start": 0.0,
+        "end": 2.7
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "With it, you can hypnotize a character and take him wherever you want!",
+        "ru": "С ней можно загипнотизировать кого угодно и увести за собой куда захочешь!",
+        "start": 3.2,
+        "end": 8.5
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "I think I might try it out on my agent.",
+        "ru": "Пожалуй, надо опробовать её на своём агенте.",
+        "start": 8.9,
+        "end": 11.4
+      }
+    ],
+    "source_seconds": 11.9886875
+  },
+  {
+    "file": "cingr_lvl0801.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hey! Can't you see I'm working?",
+        "ru": "Эй! Не видишь, я работаю?",
+        "start": 0.08,
+        "end": 2.85
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "As a matter of fact, I'm harvesting weirdsicles!",
+        "ru": "Между прочим, собираю чудные льдышки!",
+        "start": 3.34,
+        "end": 7.37
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "It's pure genius!",
+        "ru": "Чистая гениальность!",
+        "start": 7.67,
+        "end": 9.6
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "What I did, see, was throw a whole bunch of really weird-looking stuff into this freezing cold water!",
+        "ru": "Я, понимаешь ли, набросал кучу всяких странных штук в эту ледяную воду!",
+        "start": 9.85,
+        "end": 16.75
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Now, it's all frozen into ice cubes, which I'm gonna store right here!",
+        "ru": "Теперь всё это вмёрзло в ледяные кубы, которые я буду складывать прямо здесь!",
+        "start": 16.95,
+        "end": 23.1
+      }
+    ],
+    "source_seconds": 24.5203125
+  },
+  {
+    "file": "cingr_lvl0802.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "No time for chitchat, I've got work to do!",
+        "ru": "Некогда болтать, у меня полно работы!",
+        "start": 0.07,
+        "end": 3.12
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "I've got to pull these ice cubes from the river and store them here on this bank!",
+        "ru": "Нужно вытащить эти ледяные кубы из реки и сложить здесь, на этом берегу!",
+        "start": 3.26,
+        "end": 8.27
+      }
+    ],
+    "source_seconds": 9.199375
+  },
+  {
+    "file": "cinsa_lvl1501.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Yosemite Sam",
+        "en": "Hey, you rascally idjit varmint!",
+        "ru": "Эй, ты, мерзкий безмозглый паразит!",
+        "start": 0.05,
+        "end": 2.05
+      },
+      {
+        "speaker": "Yosemite Sam",
+        "en": "Get away from my boat!",
+        "ru": "А ну отойди от моей лодки!",
+        "start": 2.08,
+        "end": 4.25
+      },
+      {
+        "speaker": "Yosemite Sam",
+        "en": "Nobody touches my boat!",
+        "ru": "Никому не трогать мою лодку!",
+        "start": 4.4,
+        "end": 6.75
+      },
+      {
+        "speaker": "Yosemite Sam",
+        "en": "I may have lost my gold, but I still got my boat!",
+        "ru": "Пусть я потерял золото, но лодка-то у меня осталась!",
+        "start": 7.1,
+        "end": 11.2
+      },
+      {
+        "speaker": "Yosemite Sam",
+        "en": "About the only thing I'd let come near my boat is some walking, talking gold coins!",
+        "ru": "Единственное, что я подпущу к своей лодке — это ходячие, говорящие золотые монеты!",
+        "start": 11.55,
+        "end": 16.4
+      },
+      {
+        "speaker": "Yosemite Sam",
+        "en": "But since there's no such thing, scram!",
+        "ru": "А раз таких не водится — проваливай!",
+        "start": 16.75,
+        "end": 20.9
+      }
+    ],
+    "source_seconds": 20.87525
+  }
+]

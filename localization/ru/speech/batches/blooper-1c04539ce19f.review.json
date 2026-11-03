@@ -1,0 +1,29 @@
+{
+  "transcript": "Из всех этих овец овчарок",
+  "character_voice": "Глубокий, хриплый, зловещий демонический мужской голос с тяжёлым дыханием.",
+  "lisp": "absent",
+  "issues": [],
+  "clips": [
+    {
+      "file": "be_05a__00.wav",
+      "start": 0.08,
+      "end": 1.35,
+      "transcript": "Из всех этих",
+      "complete": true
+    },
+    {
+      "file": "be_05a__01.wav",
+      "start": 2.03,
+      "end": 2.82,
+      "transcript": "овец",
+      "complete": true
+    },
+    {
+      "file": "be_05a__03.wav",
+      "start": 3.98,
+      "end": 4.96,
+      "transcript": "овчарок",
+      "complete": true
+    }
+  ]
+}

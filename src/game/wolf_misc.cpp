@@ -340,8 +340,7 @@ void Wolf::Die(u8 deathState, u32 dropFlags, s32 extraDelay)
     }
 }
 
-/* the run tap: a second run press within bank params[5]..params[6] ticks of the first sets flags 4 (run),
- * an earlier one clears it; the timer restarts either way, and past params[6] the run is dropped. */
+/* Hold the run action (Shift by default); release returns to the normal pace. */
 void Wolf::RunTapCheck(s32 playStartSound)
 {
     if (padBits & WOLF_ACT_RUN_HELD) flags |= WOLF_FB_RUN;

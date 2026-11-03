@@ -1,0 +1,21 @@
+{
+  "speaker": "Marvin the Martian",
+  "voice": "Charon",
+  "clips": [
+    {
+      "file": "cin_03_sc_rel_06.wav",
+      "source_file": "cin_03_sc_rel_06.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Ко мне, Кей-найн. Сидеть, мальчик.",
+      "start": 0.22,
+      "end": 3.08,
+      "source_seconds": 3.081375,
+      "segments": [
+        0,
+        1
+      ]
+    }
+  ],
+  "replacement_reason": "Speech did not fit 2.84 seconds",
+  "prompt": "Russian dialogue for a fictional family cartoon game. Original character interpretation, not a real actor imitation. Male small Martian villain: soft nasal slightly metallic timbre, precise pedantic diction, dry comic menace, restrained theatricality. Calm but fairly brisk, no digital effects. Natural clear brisk delivery, finish the words in about 2.9 seconds. Speak every written word once and fully; no added words, laughs, introduction, conclusion or numbering. Preserve only stutters explicitly written in the text. No music or effects. Leave 0.4 seconds of silence before the first word and after the last word. Do not clip the first or last consonants. VERY brisk command: all six words in 2.5 seconds, one continuous breath, no pause between commands.\n\nКо мне, Кей-найн. Сидеть, мальчик."
+}

@@ -1,0 +1,21 @@
+{
+  "speaker": "Yosemite Sam",
+  "voice": "Algenib",
+  "clips": [
+    {
+      "file": "cinsa_lvl1502.wav",
+      "source_file": "cinsa_lvl1502.wav",
+      "speaker": "Yosemite Sam",
+      "text": "Так-так, ты не круглый и сделан не из золота! А ну проваливай! Я сказал, что не хочу никого видеть на своей лодке, и тебя это тоже касается, скользкий хорёк!",
+      "start": 0.0,
+      "end": 12.78,
+      "source_seconds": 14.34625,
+      "segments": [
+        0,
+        1
+      ]
+    }
+  ],
+  "prompt": "Russian dialogue recording for a fictional family cartoon game. Original cartoon interpretation, not a real actor imitation. Gruff short-tempered male cartoon cowboy, low-mid gravelly raspy booming voice, lively comic bravado. Russian speech clear, not screaming or clipping. Say EXACTLY the text below, every word once, no added words, no laugh, no introduction, no numbering, no repeated syllables except stutters explicitly written. Quick natural clear delivery, complete text in approximately 12.8 seconds, no dramatic internal pauses. No sound effects or music. Preserve the same character voice.\n\nТак-так, ты не круглый и сделан не из золота! А ну проваливай! Я сказал, что не хочу никого видеть на своей лодке, и тебя это тоже касается, скользкий хорёк!",
+  "replacement_reason": "Rejected prior take: extra word/laugh or too slow for scene."
+}

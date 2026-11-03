@@ -1,0 +1,31 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 14.0955,
+  "request_id": "req_4362b6628e654a488cdb159e63e07b62",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 12.6 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "От зоркого глаза этой утки ничто не скроется! Я видел, как ты шевельнулся. Ты должен прятаться, когда Сэм смотрит в твою сторону. Отойди за линию, если хочешь начать заново.",
+    "unit": {
+      "file": "cin_lvl_0304.wav",
+      "source_file": "cin_lvl_0304.wav",
+      "speaker": "Daffy Duck",
+      "text": "От зоркого глаза этой утки ничто не скроется! Я видел, как ты шевельнулся. Ты должен прятаться, когда Сэм смотрит в твою сторону. Отойди за линию, если хочешь начать заново.",
+      "start": 0.0,
+      "end": 12.6,
+      "source_seconds": 12.88875,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "sha256": "fb9989a847ecaf40a42b5e37aa9c3936e75167809d86ec4f39124caff439dc57",
+  "status": "unreviewed"
+}

@@ -1,0 +1,27 @@
+{
+  "intelligible_speech": true,
+  "residuals": [
+    {
+      "start": 36.5,
+      "end": 44.8,
+      "words": "is deactivated. It can make a fool player use the wrong button or press it the wrong way",
+      "confidence": 0.8
+    },
+    {
+      "start": 46.2,
+      "end": 50.1,
+      "words": "hang on focus",
+      "confidence": 0.65
+    }
+  ],
+  "music_quality": "poor",
+  "artifacts": [
+    "ghostly speech remnants",
+    "phase cancellation artifacts",
+    "vocal bleed throughout track",
+    "swishing/flanging from vocal suppression"
+  ],
+  "acceptable_under_dubbing": false,
+  "sha256": "09d1b7e2f362b248ebef30b7e32118b1c01a8648d7668cfecac87d15d384943e",
+  "file": "cin_lvl0601"
+}

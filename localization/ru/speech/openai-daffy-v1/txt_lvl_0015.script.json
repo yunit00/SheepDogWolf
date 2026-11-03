@@ -1,0 +1,22 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 33.5 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Эй, чего застыл? Подбери предмет и спрячь в инвентарь. Потом сможешь быстро достать его, удерживая кнопку инвентаря. И вот ещё что: появится меню с твоими предметами. Просто выбери нужный стрелками вправо и влево, отпусти кнопку — и готово! А если хочешь убрать предмет, просто нажми эту кнопку один раз. А теперь возвращайся и лети на ракете к финишу!",
+  "unit": {
+    "file": "txt_lvl_0015.wav",
+    "source_file": "txt_lvl_0015.wav",
+    "speaker": "Daffy Duck",
+    "text": "Эй, чего застыл? Подбери предмет и спрячь в инвентарь. Потом сможешь быстро достать его, удерживая кнопку инвентаря. И вот ещё что: появится меню с твоими предметами. Просто выбери нужный стрелками вправо и влево, отпусти кнопку — и готово! А если хочешь убрать предмет, просто нажми эту кнопку один раз. А теперь возвращайся и лети на ракете к финишу!",
+    "start": 0.5,
+    "end": 34.0,
+    "source_seconds": 35.72975,
+    "segments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

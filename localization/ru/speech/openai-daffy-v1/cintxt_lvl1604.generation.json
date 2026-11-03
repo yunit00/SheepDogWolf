@@ -1,0 +1,29 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 13.474583333333333,
+  "request_id": "req_1c0a2134086640be9d6c556460e765df",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 9.0 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "Зелёный свет на поезде заставляет его снова тронуться ещё до полной остановки. А ещё с его помощью можно заставить поезд уехать быстрее.",
+    "unit": {
+      "file": "cintxt_lvl1604.wav",
+      "source_file": "cintxt_lvl1604.wav",
+      "speaker": "Daffy Duck",
+      "text": "Зелёный свет на поезде заставляет его снова тронуться ещё до полной остановки. А ещё с его помощью можно заставить поезд уехать быстрее.",
+      "start": 0.16,
+      "end": 9.17,
+      "source_seconds": 11.517125,
+      "segments": [
+        0,
+        1
+      ]
+    }
+  },
+  "sha256": "04d49e5e6177eedbfdcbfabbb4f271e7a41cfd13226ffb7510ee8c02f5d68e79",
+  "status": "unreviewed"
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "file": "Cin03_sc_reL161.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": null,
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Fantastic! The last sheep! You did it! You are an exceptional contestant.",
+        "ru": "Потрясающе! Последняя овца! Ты сделал это! Ты исключительный участник.",
+        "start": 0.0,
+        "end": 7.1
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Unfortunately, our show is nearly over.",
+        "ru": "К сожалению, наше шоу подходит к концу.",
+        "start": 7.5,
+        "end": 10.3
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Thanks to all my fans out there for staying with us through to the end. See you soon!",
+        "ru": "Спасибо всем моим фанатам за то, что были с нами до самого финала. До скорого!",
+        "start": 10.6,
+        "end": 16.5
+      }
+    ],
+    "source_seconds": 17.278375
+  },
+  {
+    "file": "Cin03_sc_reL162.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": null,
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Uh! What's this? What's Marvin the Martian doing here? This wasn't in the script!",
+        "ru": "А! Это ещё что? Что здесь делает марсианин Марвин? Этого не было в сценарии!",
+        "start": 0.0,
+        "end": 6.6
+      }
+    ],
+    "source_seconds": 7.71275
+  },
+  {
+    "file": "Cin_int_niv_01.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": null,
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hello, and welcome to the Sheep, Dog 'n' Wolf Show, or as I like to call it, Who Wants to Be a Sheep Stealer?",
+        "ru": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+        "start": 0.0,
+        "end": 7.7
+      }
+    ],
+    "source_seconds": 8.812
+  },
+  {
+    "file": "Cin_int_niv_02.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": null,
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Listen, bub. All you got to do is relax and play the game.",
+        "ru": "Слушай сюда, приятель. Просто расслабься и играй.",
+        "start": 0.0,
+        "end": 3.9
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "I got to use this gig to catapult me to superstardom!",
+        "ru": "Это шоу должно катапультировать меня прямо в суперзвёзды!",
+        "start": 4.2,
+        "end": 8.1
+      }
+    ],
+    "source_seconds": 8.613625
+  },
+  {
+    "file": "Cin_int_niv_03b.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": null,
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Now, the aim of our game is simple: to steal sheep.",
+        "ru": "Итак, цель нашей игры проста: воровать овец.",
+        "start": 0.0,
+        "end": 5.1
+      }
+    ],
+    "source_seconds": 5.580625
+  },
+  {
+    "file": "Cin_int_niv_04.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": null,
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "You will go through a series of levels.",
+        "ru": "Тебе предстоит пройти череду уровней.",
+        "start": 0.0,
+        "end": 3.2
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "At each of those levels, you will have to steal a sheep from Sam Sheepdog and put it in the goal.",
+        "ru": "На каждом из них нужно украсть овцу у овчарки Сэма и доставить её на финиш.",
+        "start": 3.4,
+        "end": 10.4
+      }
+    ],
+    "source_seconds": 13.310875
+  }
+]

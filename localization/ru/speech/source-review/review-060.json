@@ -1,0 +1,222 @@
+[
+  {
+    "file": "cin_lvl_0202.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Okay, listen up.",
+        "ru": "Так, слушай сюда.",
+        "start": 0.17,
+        "end": 1.48
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "I'll stand watch while you use this bush to try and cross the line without me seeing you.",
+        "ru": "Я буду караулить, а ты с помощью этого куста попробуй пересечь черту так, чтобы я тебя не заметил.",
+        "start": 1.8,
+        "end": 8.64
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Good luck, bub.",
+        "ru": "Удачи, приятель.",
+        "start": 8.95,
+        "end": 10.45
+      }
+    ],
+    "source_seconds": 10.779625
+  },
+  {
+    "file": "cin_lvl_0203.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oh, brother.",
+        "ru": "Ну и ну.",
+        "start": 0.35,
+        "end": 1.55
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You're about as quiet as firecrackers in a hospital zone.",
+        "ru": "От тебя столько же тишины, сколько от петард в больничной зоне.",
+        "start": 1.77,
+        "end": 5.76
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "To walk quietly, use the stealth button.",
+        "ru": "Чтобы красться тихо, используй кнопку скрытности.",
+        "start": 6.25,
+        "end": 10.15
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Now go back behind the line if you want to try again.",
+        "ru": "А теперь отойди за черту, если хочешь попробовать снова.",
+        "start": 10.6,
+        "end": 14.0
+      }
+    ],
+    "source_seconds": 15.975375
+  },
+  {
+    "file": "cin_lvl_0204.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hold still!",
+        "ru": "Замри!",
+        "start": 0.26,
+        "end": 1.1
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Don't move when Sam's head is looking your way, or you're a dead duck.",
+        "ru": "Не шевелись, когда голова Сэма повернута в твою сторону, иначе ты дохлая утка.",
+        "start": 1.55,
+        "end": 6.84
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Eh, bad choice of words.",
+        "ru": "Э-э, неудачное выражение.",
+        "start": 7.18,
+        "end": 8.78
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Anyway, go behind the line if you want to start again.",
+        "ru": "В общем, отойди за черту, если хочешь начать снова.",
+        "start": 9.27,
+        "end": 12.38
+      }
+    ],
+    "source_seconds": 15.0971875
+  },
+  {
+    "file": "cin_lvl_0205.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Peekaboo, I see you!",
+        "ru": "Ку-ку, я тебя вижу!",
+        "start": 0.16,
+        "end": 2.05
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to stay hidden, keep the stealth button pressed.",
+        "ru": "Если хочешь оставаться незамеченным, держи кнопку скрытности нажатой.",
+        "start": 2.68,
+        "end": 6.38
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Go back behind the line if you want to start again.",
+        "ru": "Вернись за черту, если хочешь попробовать снова.",
+        "start": 6.78,
+        "end": 9.87
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oh, brother, are you lucky to have me around! Woo-hoo!",
+        "ru": "Ну и ну, как же тебе повезло, что я рядом! У-ху!",
+        "start": 10.0,
+        "end": 13.5
+      }
+    ],
+    "source_seconds": 14.158375
+  },
+  {
+    "file": "cin_lvl_0206.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Don't forget, shrubs are a smart disguise.",
+        "ru": "Не забывай, кусты — отличная маскировка.",
+        "start": 0.19,
+        "end": 3.73
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "So use the bush to hide yourself.",
+        "ru": "Так что используй куст, чтобы спрятаться.",
+        "start": 4.25,
+        "end": 7.0
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Go behind the line if you want to start again.",
+        "ru": "Отойди за черту, если хочешь начать сначала.",
+        "start": 7.38,
+        "end": 10.45
+      }
+    ],
+    "source_seconds": 10.828625
+  },
+  {
+    "file": "cin_lvl_0207.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Great! You're finally ready for Sam's area.",
+        "ru": "Отлично! Наконец-то ты готов к участку Сэма.",
+        "start": 0.16,
+        "end": 3.42
+      },
+      {
+        "speaker": "Nonverbal",
+        "en": "[cackles]",
+        "ru": "",
+        "start": 3.45,
+        "end": 4.9
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you have any more questions, you can come back to me.",
+        "ru": "Если будут ещё вопросы, можешь вернуться ко мне.",
+        "start": 5.14,
+        "end": 8.04
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "I'm not sure if I'll be able to answer them, but you'll have the pleasure of my company.",
+        "ru": "Не уверен, что смогу на них ответить, но приятную компанию я тебе гарантирую.",
+        "start": 8.42,
+        "end": 13.56
+      }
+    ],
+    "source_seconds": 15.96525
+  }
+]

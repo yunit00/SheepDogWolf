@@ -1,0 +1,36 @@
+{
+  "files": [
+    {
+      "file": "Cin02_sc_reL001.wav",
+      "lisp": "absent",
+      "description": "High-pitched, energetic cartoon voice. Intelligibility is excellent. The voice sounds like a standard pitched-up character with no noticeable harsh artifacts.",
+      "issues": [
+        "Lacks the requested duck-like lisp on sibilants"
+      ]
+    },
+    {
+      "file": "txt_rob_03.wav",
+      "lisp": "absent",
+      "description": "Consistent high-pitched cartoon voice with good energy and clear intelligibility. Sibilants are pronounced normally.",
+      "issues": [
+        "Lacks the requested duck-like lisp on sibilants"
+      ]
+    },
+    {
+      "file": "cin_goal_01.wav",
+      "lisp": "absent",
+      "description": "Same energetic, pitched-up voice. Clear intelligibility and good cartoon delivery, but again, sibilants are standard.",
+      "issues": [
+        "Lacks the requested duck-like lisp on sibilants"
+      ]
+    }
+  ],
+  "consistent_speaker": true,
+  "notes": "The speaker is highly consistent across all three files, delivering a clear, energetic, and intelligible high-pitched cartoon voice. However, the requested duck-like lisp is completely absent; all sibilants are pronounced normally, just at a higher pitch. There are no significant harsh artifacts.",
+  "inputs": {
+    "Cin02_sc_reL001.wav": "6bd639018c450ffeec29c77da7727b20bb09c036f5d3efcf87df47ffeda39978",
+    "txt_rob_03.wav": "4a0cbaa81b6596cf7bbcbf3fff7dd4fd74e23dd9a14f7cccf0edd2f02548bf84",
+    "cin_goal_01.wav": "509f1e476a0028f9e8127da926b207beb1a023272833242a4adf92f98302d196"
+  },
+  "model": "gemini-3.1-pro-preview"
+}

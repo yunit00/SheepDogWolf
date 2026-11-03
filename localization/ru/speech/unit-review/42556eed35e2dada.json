@@ -1,0 +1,118 @@
+{
+  "files": [
+    {
+      "file": "cin_lvl1402_ja.wav",
+      "transcript": "Начни заново и танцуй как следует!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl1404_ja.wav",
+      "transcript": "Начни заново и танцуй как следует! Нужно попадать в ритм!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl1401_gb.wav",
+      "transcript": "Чтобы стать своим, придётся танцевать как мы. Делай то же, что и остальные, и просто следуй ритму музыки.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl1403_gbb.wav",
+      "transcript": "Нужно попадать в ритм!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_17_ob01.wav",
+      "transcript": "Эти предметы «Икс» очень помогут вернуть моих растворимых марсиан. Если тебе удастся вернуть мне их всех, я доставлю тебя обратно на Землю — если ты действительно этого хочешь.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_17_ob02a.wav",
+      "transcript": "Некоторых всё ещё не хватает.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_17_ob03a.wav",
+      "transcript": "Мне нужны все мои быстрорастворимые марсиане.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_17_ob03b.wav",
+      "transcript": "Мне нужны все мои быстрорастворимые марсиане.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_17_ob04a.wav",
+      "transcript": "Отличная работа! Теперь можно на борт.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_ob04b.wav",
+      "transcript": "Отличная работа! Теперь можно на борт.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "cin_lvl1402_ja.wav": "afa9a349d5b869d7426d9124fbdec2fc44b5df97f58abeb8d8b5c700ec720925",
+    "cin_lvl1404_ja.wav": "caeb5137c4583044c184fc3f37560cf84feb9abd3d53dfbb8432c7fe21f51254",
+    "cin_lvl1401_gb.wav": "a9fd714f6b4ee9a92ae6c1bf82ff837fbc20fc374650900f206602616ed3ae52",
+    "cin_lvl1403_gbb.wav": "cf96056ba577ee0bf2e250da262844c6c48ec3b7b2a4647686fe22d869291b7b",
+    "cin_lvl_17_ob01.wav": "b44aecf7bbcd78fe360551dc430c506ee8345afa482c12ea8af22aedb80b88c4",
+    "cin_lvl_17_ob02a.wav": "4774889accad64c2a569312e90a526f881d68492fa0aee1b4e9e1345545209b2",
+    "cin_lvl_17_ob03a.wav": "83ae4c5a3abf27c0d462934810f2c1e48790945777988bf4e5e7d17631b603f1",
+    "cin_lvl_17_ob03b.wav": "5612e87ef93300fcd65144bb879d8b77483dd3958352f1f544a93c8922fcf19d",
+    "cin_lvl_17_ob04a.wav": "29fea4c72d5d02536151c5dbdbb36143cbbcba2aade5c18ffc07fa89c9ebdd91",
+    "cin_lvl_ob04b.wav": "3c6dd4053facc41170be71ccc58fe7d6ba3599062efd8961e606c303b56b47e2"
+  },
+  "references": {
+    "cin_lvl1402_ja.wav": "Начни заново и танцуй как следует!",
+    "cin_lvl1404_ja.wav": "Начни заново и танцуй как следует! Нужно попадать в ритм!",
+    "cin_lvl1401_gb.wav": "Чтобы стать своим, придётся танцевать как мы. Делай то же, что и остальные, и просто следуй ритму музыки.",
+    "cin_lvl1403_gbb.wav": "Нужно попадать в ритм!",
+    "cin_lvl_17_ob01.wav": "Эти предметы «Икс» очень помогут вернуть моих растворимых марсиан. Если тебе удастся вернуть мне их всех, я доставлю тебя обратно на Землю — если ты действительно этого хочешь.",
+    "cin_lvl_17_ob02a.wav": "Некоторых всё ещё не хватает.",
+    "cin_lvl_17_ob03a.wav": "Мне нужны все мои быстрорастворимые марсиане.",
+    "cin_lvl_17_ob03b.wav": "Мне нужны все мои быстрорастворимые марсиане.",
+    "cin_lvl_17_ob04a.wav": "Отличная работа! Теперь можно на борт.",
+    "cin_lvl_ob04b.wav": "Отличная работа! Теперь можно на борт."
+  }
+}

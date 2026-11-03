@@ -24,6 +24,7 @@ void Ui_PlayConfirmSound();
 void Ui_PlayMoveSound();
 u8 Ui_PromptConfirm(char *, char *);
 s8 Ui_PromptYesNo(char *, char *, char *, u8 *);
+u8 Ui_MouseChoice(const s16 *, const s16 *, u8);
 
 /* The functions and globals prompt.cpp defines, declared once for every file that uses them. */
 

@@ -1,0 +1,15 @@
+{
+  "transcript": "Тс. Ведите себя очень, очень тихо. Я охочусь на кроликов. Хи-хи-хи-хи.",
+  "character_voice": "High-pitched, quirky cartoon voice imitating Elmer Fudd with characteristic comedic intonation.",
+  "lisp": "mild",
+  "issues": [],
+  "clips": [
+    {
+      "file": "txtel_lvl1101.wav",
+      "start": 0.42,
+      "end": 7.55,
+      "transcript": "Тс. Ведите себя очень, очень тихо. Я охочусь на кроликов. Хи-хи-хи-хи.",
+      "complete": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "file": "cinsa_lvl1503.wav",
+      "transcript": "Думал провести старину Сэма, а? Ну, теперь ты за это поплатишься!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "cinsa_lvl1503.wav": "3293af851802c2ba079bf11440407c7d832124df87f1420c8f814ca57269357d"
+  },
+  "references": {
+    "cinsa_lvl1503.wav": "Думал провести старину Сэма, а?! Ну, теперь ты за это поплатишься!"
+  }
+}

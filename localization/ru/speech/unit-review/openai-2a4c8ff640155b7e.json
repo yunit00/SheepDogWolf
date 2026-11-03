@@ -1,0 +1,118 @@
+{
+  "files": [
+    {
+      "file": "cin_goal_01__00.wav",
+      "transcript": "Уф! Разбираться с подобными вещами точно не входило в мой контракт.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_goal_01__01.wav",
+      "transcript": "Может кто-нибудь помочь неосведомлённой утке?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_goal_01__02.wav",
+      "transcript": "Итак, что же нам делать? Так сойдёт или нет? Чисто технически овцу доставили на финиш, и она находится на финише, так что это должно засчитываться, верно?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_goal_01__03.wav",
+      "transcript": "И ещё одна победа нашего участника!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_int_niv_08.wav",
+      "transcript": "Спокойно, без паники! Я как законченный профессионал знаю, как важно репетировать. Это твой звёздный час, и ты ведь не хочешь всё упустить! К тому же это я объяснял тебе эту игру, и если ты напортачишь, как я буду выглядеть? Не лучшим образом, вот как! Так что давай, тренируйся!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl0601__00.wav",
+      "transcript": "Эй, кто-нибудь! Я тут совсем окоченел. Бр-р!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl0601__01.wav",
+      "transcript": "Эй ты, солдат! Ты должен обезвредить эту мину.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl0601__02.wav",
+      "transcript": "Всё просто: сначала проследи за ритмом световой волны. Когда она исчезнет, подойди к мине и нажми кнопку действия, чтобы открыть пульт.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl0601__03.wav",
+      "transcript": "Дождись зелёного сигнала и запомни порядок вспышек кнопок. Будь внимателен: когда загорится красный, тебе нужно будет нажать кнопки в том же порядке и в нужный момент.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl0601__04.wav",
+      "transcript": "Получится — мина обезврежена. Но если перепутаешь кнопку или нажмёшь не вовремя — бабах!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "cin_goal_01__00.wav": "76217c6e6575070e6bb85bb8c62d05b94881251b371775e8a211ca89db2797d3",
+    "cin_goal_01__01.wav": "0344b5f02b493c029c3e4f8fe5858fe1d15ce6c077eba57d8b732eb7494a18c6",
+    "cin_goal_01__02.wav": "b11782996114ee072d6f4d4cc7370dde13f10eb17bc2d49a866c623a7ca9f0ec",
+    "cin_goal_01__03.wav": "c77e13cafec8703c41dedfed7584a3a153b7496b2e0f16bcdbefe90d297d617f",
+    "cin_int_niv_08.wav": "fd78858544a6f1044397eb679ab22843c21bfcf51894a973cc08d5a3831ab51a",
+    "cin_lvl0601__00.wav": "a3b38b9395b438db37e0b62757772cecd04534da15d3b2b8e1cd3632f8781330",
+    "cin_lvl0601__01.wav": "d07318b9df32892335c71c278c7c0879430178f1050b3b35522631a848310cb0",
+    "cin_lvl0601__02.wav": "0d5864982f0385069ea9a5441fcb76286b05c739c0d6a6a6585e812fa4fc7b56",
+    "cin_lvl0601__03.wav": "600adaa5f67d9242a3ece5e14d91b25874e499c21397db72d7ccf93803d9e37e",
+    "cin_lvl0601__04.wav": "efe01ee167219d554fc364ed4aaec034669a93ca9a2bd54aff9d04fb1084cb05"
+  },
+  "references": {
+    "cin_goal_01__00.wav": "Уф! Разбираться с подобными вещами точно не входило в мой контракт.",
+    "cin_goal_01__01.wav": "Может кто-нибудь помочь неосведомлённой утке?",
+    "cin_goal_01__02.wav": "Итак, что же нам делать? Так сойдёт или нет? Чисто технически овцу доставили на финиш, и она находится на финише, так что это должно засчитываться, верно?",
+    "cin_goal_01__03.wav": "И ещё одна победа нашего участника!",
+    "cin_int_niv_08.wav": "Спокойно, без паники! Я как законченный профессионал знаю, как важно репетировать. Это твой звёздный час, и ты ведь не хочешь всё упустить! К тому же это я объяснял тебе эту игру, и если ты напортачишь, как я буду выглядеть? Не лучшим образом, вот как! Так что давай, тренируйся!",
+    "cin_lvl0601__00.wav": "Эй, кто-нибудь! Я тут совсем окоченел. Бр-р!",
+    "cin_lvl0601__01.wav": "Эй ты, солдат! Ты должен обезвредить эту мину.",
+    "cin_lvl0601__02.wav": "Всё просто: сначала проследи за ритмом световой волны. Когда она исчезнет, подойди к мине и нажми кнопку действия, чтобы открыть пульт.",
+    "cin_lvl0601__03.wav": "Дождись зелёного сигнала и запомни порядок вспышек кнопок. Будь внимателен: когда загорится красный, тебе нужно будет нажать кнопки в том же порядке и в нужный момент.",
+    "cin_lvl0601__04.wav": "Получится — мина обезврежена. Но если перепутаешь кнопку или нажмёшь не вовремя — бабах!"
+  }
+}

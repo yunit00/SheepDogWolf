@@ -1,0 +1,131 @@
+[
+  {
+    "file": "Cin_int_niv_05.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you succeed, you may proceed to the next challenge, and so on, until you finally steal the entire flock!",
+        "ru": "Справишься — перейдёшь к следующему испытанию, и так далее, пока наконец не утащишь всю отару!",
+        "start": 0.08,
+        "end": 8.68
+      }
+    ],
+    "source_seconds": 8.928
+  },
+  {
+    "file": "Cin_int_niv_06.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "But, and this is a big \"but\", the sheep must be intact at the end of each level.",
+        "ru": "Но — и это огромное «но» — в конце каждого уровня овца должна быть цела и невредима.",
+        "start": 0.15,
+        "end": 5.7
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You'll be disqualified if any of the sheep are missing so much as a thread of wool.",
+        "ru": "Тебя дисквалифицируют, если с неё упадёт хоть клочок шерсти!",
+        "start": 5.9,
+        "end": 11.83
+      }
+    ],
+    "source_seconds": 12.6208125
+  },
+  {
+    "file": "Cin_int_niv_07.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Have I made myself perfectly clear? Mmm?",
+        "ru": "Я предельно ясно выразился? М-м-м?",
+        "start": 0.14,
+        "end": 3.95
+      }
+    ],
+    "source_seconds": 5.0365625
+  },
+  {
+    "file": "Cin_int_niv_09b.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "What?",
+        "ru": "Что?",
+        "start": 0.12,
+        "end": 0.82
+      }
+    ],
+    "source_seconds": 1.358625
+  },
+  {
+    "file": "Cin_int_niv_10.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Well, sort of. Yes, rehearsals take place over here.",
+        "ru": "Ну, вроде того. Да, репетиции проходят здесь.",
+        "start": 0.15,
+        "end": 4.38
+      }
+    ],
+    "source_seconds": 4.8213125
+  },
+  {
+    "file": "Cin_int_niv_11.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Yes!",
+        "ru": "Да!",
+        "start": 0.1,
+        "end": 0.75
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oh, one last thing, if you want to configure some game settings, press pause and look at the menu.",
+        "ru": "О, и последнее: если захочешь изменить настройки игры, нажми паузу и загляни в меню.",
+        "start": 0.85,
+        "end": 6.92
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Good luck!",
+        "ru": "Удачи!",
+        "start": 7.15,
+        "end": 8.35
+      }
+    ],
+    "source_seconds": 9.842625
+  }
+]

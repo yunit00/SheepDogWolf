@@ -22,6 +22,7 @@ static unsigned s_flags;
 static int s_wheel; /* the mouse wheel since the last Platform_ReadMouse */
 static float s_cameraMouseX, s_cameraMouseY;
 static bool s_mouseCaptured;
+static SDL_MouseButtonFlags s_mousePresses, s_mouseFrameButtons;
 static SDL_Gamepad *s_gamepad; /* the controller the game reads (Platform_ReadJoystick) */
 
 /* SDL's log, also written to SheepD3D.log in the save folder (save_store.h), started afresh every run: on Windows the
@@ -154,11 +155,17 @@ unsigned Platform_PollEvents()
                     s_cameraMouseY += e.motion.yrel;
                 }
                 break;
+            case SDL_EVENT_MOUSE_BUTTON_DOWN:
+                // Preserve a complete click occurring between two game polls.
+                // Reading only the current button state can miss short clicks.
+                s_mousePresses |= SDL_BUTTON_MASK(e.button.button);
+                break;
             case SDL_EVENT_WINDOW_FOCUS_LOST:
                 SDL_SetWindowRelativeMouseMode(s_window, false);
                 SDL_ShowCursor();
                 s_mouseCaptured = false;
                 s_cameraMouseX = s_cameraMouseY = 0;
+                s_mousePresses = s_mouseFrameButtons = 0;
                 break;
             case SDL_EVENT_KEY_DOWN:
                 /* full screen, for a window the renderer scales into (Direct3D 7 has its own display modes) */
@@ -180,6 +187,7 @@ int Platform_IsActive()
 {
     return s_window && (SDL_GetWindowFlags(s_window) & SDL_WINDOW_INPUT_FOCUS) != 0;
 }
+
 
 void Platform_RequestQuit()
 {
@@ -385,9 +393,11 @@ void Platform_ReadKeyboard(unsigned char down[256])
     for (i = 0; i < SDL_arraysize(s_keyMap); i++)
         if ((int)s_keyMap[i].sdl < count && state[s_keyMap[i].sdl])
             down[s_keyMap[i].dik] = 1;
-    SDL_MouseButtonFlags buttons = SDL_GetMouseState(nullptr, nullptr);
-    if (buttons & SDL_BUTTON_LMASK) down[0x12] = 1; // E: interact / confirm
-    if (s_mouseCaptured && (buttons & SDL_BUTTON_RMASK)) down[0x21] = 1; // F: look
+}
+
+int Platform_MouseCameraCaptured()
+{
+    return s_mouseCaptured && Platform_IsActive();
 }
 
 int Platform_MenuPointer(float *x, float *y)
@@ -398,7 +408,7 @@ int Platform_MenuPointer(float *x, float *y)
     if (w <= 0 || h <= 0) return 0;
     SDL_MouseButtonFlags buttons = SDL_GetMouseState(x, y);
     *x /= w; *y /= h;
-    return (buttons & SDL_BUTTON_LMASK) ? 2 : 1;
+    return ((buttons | s_mouseFrameButtons) & SDL_BUTTON_LMASK) ? 2 : 1;
 }
 
 int Platform_OpenChannel()
@@ -455,7 +465,10 @@ void Platform_ReadMouse(int *dx, int *dy, int *wheel, unsigned char buttons[4])
 {
     float x = 0, y = 0;
     SDL_MouseButtonFlags b = SDL_GetRelativeMouseState(&x, &y);
+    b |= s_mousePresses;
+    s_mousePresses = 0;
     int focused = Platform_IsActive();
+    s_mouseFrameButtons = focused ? b : 0;
     *dx = focused ? (int)x : 0;
     *dy = focused ? (int)y : 0;
     *wheel = focused ? s_wheel : 0;

@@ -1,0 +1,16 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 14.769041666666666,
+  "request_id": "req_e9147e55b4b7445a81de5813ba401e31",
+  "script": {
+    "voice": "ballad",
+    "text": "Привет и добро пожаловать на шоу «Овца, Собака и Волк»! Слушай, приятель: твоя задача — украсть овцу у Сэма и доставить её на финиш. Только не потеряй ни шерстинки!",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects.",
+    "speed": 1.05
+  },
+  "sha256": "d6452c4a292460e6c5fddb3a08931e24952d532b58058d6d2c64e00023cc93ac",
+  "status": "unreviewed"
+}

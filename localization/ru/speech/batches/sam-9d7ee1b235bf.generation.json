@@ -1,0 +1,46 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "seconds": 9.52,
+  "script": {
+    "speaker": "Sam Sheepdog",
+    "voice": "Charon",
+    "clips": [
+      {
+        "file": "be_05a.wav",
+        "source_file": "be_05a.wav",
+        "speaker": "Sam Sheepdog",
+        "text": "Как из всех... овец... что бы с ним ни случилось... овчарок.",
+        "start": 0.0,
+        "end": 5.6,
+        "source_seconds": 7.9080625,
+        "segments": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "prompt": "Russian dubbing for a classic cartoon game. Low warm deadpan male cartoon sheepdog, stoic and unhurried but concise, clear Russian, preserve the written blooper fragments. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Как из всех... овец... что бы с ним ни случилось... овчарок."
+  },
+  "usage": {
+    "promptTokenCount": 153,
+    "candidatesTokenCount": 238,
+    "totalTokenCount": 391,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 153
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 238
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

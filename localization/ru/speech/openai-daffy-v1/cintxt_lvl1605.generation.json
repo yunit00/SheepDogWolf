@@ -1,0 +1,32 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 16.053291666666667,
+  "request_id": "req_4f9b7d8b7cac4fc59d6aecbf5ecee4e3",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 15.2 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "Синий хронометр показывает, сколько времени осталось до прибытия поезда на станцию, а красный — сколько осталось до отправления поезда. А от моего хронометра одни неприятности. Надо бы эту штуку починить. Алло?",
+    "unit": {
+      "file": "cintxt_lvl1605.wav",
+      "source_file": "cintxt_lvl1605.wav",
+      "speaker": "Daffy Duck",
+      "text": "Синий хронометр показывает, сколько времени осталось до прибытия поезда на станцию, а красный — сколько осталось до отправления поезда. А от моего хронометра одни неприятности. Надо бы эту штуку починить. Алло?",
+      "start": 0.22,
+      "end": 15.38,
+      "source_seconds": 15.8443125,
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  "sha256": "a09842ecc426bac4eb8074f8cf29c32f8c01e082644e7caf0e8093c49f0207fa",
+  "status": "unreviewed"
+}

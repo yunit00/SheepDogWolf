@@ -1,0 +1,27 @@
+{
+  "intelligible_speech": true,
+  "residuals": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "words": "oh no no no",
+      "confidence": 0.75
+    },
+    {
+      "start": 3.4,
+      "end": 4.6,
+      "words": "are you sure",
+      "confidence": 0.55
+    }
+  ],
+  "music_quality": "poor",
+  "artifacts": [
+    "vocal cancellation artifacts",
+    "phase smearing",
+    "watery spectral distortion",
+    "ghostly speech remnants"
+  ],
+  "acceptable_under_dubbing": false,
+  "sha256": "3183e2fd85e2771fe1d8ac373ce7838aeead37bf3922bf2bb4896df41975a8d4",
+  "file": "ret_niv_03ge"
+}

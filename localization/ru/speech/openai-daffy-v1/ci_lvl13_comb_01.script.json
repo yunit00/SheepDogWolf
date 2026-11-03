@@ -1,0 +1,21 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 21.8 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Смотри, что можно сделать! Предмет можно прицепить на конец лески с помощью функции соединения в инвентаре. Просто выбери удочку, затем нажми «Соединить» и выбери предмет, который хочешь насадить на крючок. Если захочешь снять предмет, выбери удочку и нажми «Разделить».",
+  "unit": {
+    "file": "ci_lvl13_comb_01.wav",
+    "source_file": "ci_lvl13_comb_01.wav",
+    "speaker": "Daffy Duck",
+    "text": "Смотри, что можно сделать! Предмет можно прицепить на конец лески с помощью функции соединения в инвентаре. Просто выбери удочку, затем нажми «Соединить» и выбери предмет, который хочешь насадить на крючок. Если захочешь снять предмет, выбери удочку и нажми «Разделить».",
+    "start": 0.08,
+    "end": 21.85,
+    "source_seconds": 22.5378125,
+    "segments": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+}

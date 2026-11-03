@@ -1,4 +1,5 @@
 #include "sdw_types.h"
+extern "C" char *getenv(const char *);
 
 #include "sdw_enums.h"
 #include "scenaric_props.h"
@@ -6,6 +7,7 @@
 #include "sdw_global_views.h"
 #include "camera.h"
 #include "../platform/save_store.h"
+#include "../platform/platform.h"
 
 /* ---- local bit views and scratch records ---- */
 struct CameraStateBits {
@@ -240,6 +242,16 @@ u8 g_camAccelerationSetting = CAMERA_CONTROL_CENTRE;
 u8 g_camInvertJoystick = 0;
 static u8 s_camManualYaw = 0;     /* set by Camera_OnManualRotate, consumed by the next Camera_SmoothToDesired */
 static u8 s_camManualPitch = 0;
+/* Mouse orbit owns both angles until a scripted camera takes over. The
+ * collision solver may shorten its arm, but must not steer against the user. */
+static bool s_mouseOrbitActive = false;
+static s16 s_mouseOrbitPitch = 0;
+static s16 s_mouseOrbitYaw = 0;
+
+static bool Camera_IsMouseOrbitMode(u8 mode)
+{
+    return mode == CAM_FOLLOW || mode == CAM_FOLLOW_RUN || mode == CAM_ROBOT;
+}
 
 /* Each half of the slider is linear, with the original value exactly at its centre. */
 static s32 Camera_ScaleControl(s32 value, u8 setting, s32 maxScale)
@@ -2062,6 +2074,38 @@ void Camera_UpdateSamChase(Camera *camera, Pad *pad)
         g_camLedgeLookState = LEDGE_NONE;
     }
 }
+// Test a continuous arm at fixed angles. Unlike the legacy search, stop at
+// the first occupied box and test the exact endpoint (no distance rounding).
+static s16 Camera_OrbitClearDistance(const Vec3s *target, const Vec3s *angles, s16 distance)
+{
+    if (distance <= 0) return 0;
+    s32 step = (g_camEyeBoxMax.x - g_camEyeBoxMin.x) >> 2;
+    if (step < 1) step = 1;
+    Vec3i previous = { target->x, target->y, target->z };
+    s16 clear = 0;
+    for (s32 travel = step; ; travel += step) {
+        if (travel > distance) travel = distance;
+        Vec3s eye;
+        Vec3s_OffsetAlongAngles(&eye, angles, travel, target);
+        Vec3i current = { eye.x, eye.y, eye.z };
+        CollBox box;
+        box.flags = 0;
+        box.min.x = eye.x + g_camEyeBoxMin.x;
+        box.min.y = eye.y + g_camEyeBoxMin.y;
+        box.min.z = eye.z + g_camEyeBoxMin.z;
+        box.max.x = eye.x + g_camEyeBoxMax.x;
+        box.max.y = eye.y + g_camEyeBoxMax.y;
+        box.max.z = eye.z + g_camEyeBoxMax.z;
+        s32 ground;
+        if (Collide_SegmentClearStatic(&current.x, &previous.x, 0) < 0x7fffffff ||
+            Coll_BoxGroundQuery(&box, &ground, 0, CQ_STATIC | CQ_STATIC_EXT, 0))
+            return clear;
+        clear = travel;
+        if (travel == distance) return clear;
+        previous = current;
+    }
+}
+
 void Camera_UpdateFollow(Camera *camera, Pad *pad)
 {
     struct Work {
@@ -2078,6 +2122,7 @@ void Camera_UpdateFollow(Camera *camera, Pad *pad)
         CamRestrict *restriction;
         s16 distance, focal;
         s32 restrictEnabled, vertical, forbidPad, smooth;
+        bool mouseOrbit;
         Vec3s angles;
         u16 unused1a;
         Vec3s aim;
@@ -2101,6 +2146,8 @@ void Camera_UpdateFollow(Camera *camera, Pad *pad)
                          (g_camMode == CAM_FOLLOW_RUN && w.restriction->flags.modeRun));
     w.trajectory = w.restrictEnabled && w.restriction->trajectory;
     w.forbidPad = (w.restrictEnabled && w.restriction->flags.forbidPad) || w.trajectory;
+    w.mouseOrbit = s_mouseOrbitActive && Camera_IsMouseOrbitMode(g_camMode) &&
+                   !w.forbidPad && !g_camReqFlags.useYaw && !g_camReqFlags.usePitch;
     w.mirror = w.restrictEnabled && w.restriction->flags.mirrorYaw;
     w.snap = g_camReqFlags.snapYaw || (w.restrictEnabled && w.restriction->flags.snapYaw);
     w.smooth = g_camFlags.smooth;
@@ -2132,7 +2179,8 @@ void Camera_UpdateFollow(Camera *camera, Pad *pad)
             w.side = 0;
         w.side = Camera_ManualTurnStep(w.side, w.speeds.y, 2);
     }
-    w.side += (g_camAutoYawRate * 256 * g_dt) >> 20;
+    if (!w.mouseOrbit)
+        w.side += (g_camAutoYawRate * 256 * g_dt) >> 20;
     if (g_camReqDist)
         w.distance = g_camReqDist;
     else {
@@ -2221,6 +2269,13 @@ void Camera_UpdateFollow(Camera *camera, Pad *pad)
         w.speeds.y = w.angleDelta * g_camAutoYawGain >> 12;
         w.speeds.y = w.speeds.y * g_camReqSpeedFactor >> 12;
     }
+    if (w.mouseOrbit) {
+        s_mouseOrbitYaw = (s_mouseOrbitYaw + w.side) & 0xfff;
+        w.angles.y = s_mouseOrbitYaw;
+        w.angles.x = s_mouseOrbitPitch;
+        w.snap = 0;
+        s_camManualPitch = s_camManualYaw = 1;
+    }
     if (w.restrictEnabled) {
         Camera_ApplyRestriction(&w.angles, &w.speeds.x, &w.distance, &w.focal, w.restriction);
         w.aim.x += w.restriction->aimOffset.x;
@@ -2245,13 +2300,45 @@ void Camera_UpdateFollow(Camera *camera, Pad *pad)
         g_camTrajectory = 0;
         g_camTrajSegment = 0;
     }
+    // Angular inertia must not continue after the mouse stops. Keep the
+    // existing distance/focal smoothing, with its angular inputs at rest.
+    if (w.mouseOrbit) {
+        camera->rot.x = w.angles.x;
+        camera->rot.y = w.angles.y;
+        g_camPitchVel = g_camYawVel = 0;
+    }
     Camera_SmoothToDesired(camera, &w.angles, &w.speeds.x, &w.distance, w.focal, &w.aim, w.trajectory);
     if (w.restrictEnabled)
         w.maxVert = w.restriction->eyeVertMax;
     else
         w.maxVert = 32000;
-    Camera_SolveCollision(camera, &w.angles, w.distance, !g_camFlags.snap && w.smooth && !w.trajectory, w.maxVert);
-    if ((g_camSettings & CAMSET_LEDGE_LOOK) && !w.trajectory)
+    if (w.mouseOrbit) {
+        Vec3s target = { (s16)(g_camReqTarget.x + g_camAimOffset.x),
+                         (s16)(g_camReqTarget.y + g_camAimOffset.y),
+                         (s16)(g_camReqTarget.z + g_camAimOffset.z) };
+        Vec3s eye;
+        // Probe the whole arm, including the endpoint. Shortening along the
+        // same ray preserves the chosen orientation at walls and during jumps.
+        if (g_camSettings & CAMSET_COLLISION) {
+            s16 clear = Camera_OrbitClearDistance(&target, &w.angles, w.distance);
+            if (clear < w.distance) w.distance = clear;
+        }
+        Vec3s_OffsetAlongAngles(&eye, &w.angles, w.distance, &target);
+        if (eye.y > w.maxVert && eye.y > target.y) {
+            s32 height = w.maxVert - target.y;
+            w.distance = height > 0 ? w.distance * height / (eye.y - target.y) : 0;
+        }
+        Camera_OnManualRotate(0);
+        Camera_SolveCollision(camera, &w.angles, w.distance, 0, 32000);
+        static const bool traceOrbit = getenv("SDW_CAMERA_TRACE") != nullptr;
+        static unsigned traceFrames = 0;
+        if (traceOrbit && (++traceFrames % 15) == 0)
+            Platform_Log("[orbit] mode=%u desired=%d,%d actual=%d,%d target=%d,%d,%d distance=%d wolfState=%d",
+                   g_camMode, s_mouseOrbitPitch, s_mouseOrbitYaw, camera->rot.x, camera->rot.y,
+                   target.x, target.y, target.z, camera->dist, g_pWolf ? g_pWolf->state : -1);
+    } else
+        Camera_SolveCollision(camera, &w.angles, w.distance, !g_camFlags.snap && w.smooth && !w.trajectory, w.maxVert);
+    if (!w.mouseOrbit && (g_camSettings & CAMSET_LEDGE_LOOK) && !w.trajectory)
         Camera_UpdateLedgeLook(camera);
     else
         g_camLedgeLookState = LEDGE_NONE;
@@ -2338,6 +2425,15 @@ void Camera_UpdateLook(Camera *camera, Pad *pad)
             w.angles.x = 0xd56;
     } else if (w.angles.x > 0x2aa)
         w.angles.x = 0x2aa;
+    if (s_mouseOrbitActive) {
+        // Keep the selected direction through F entry/exit and remove residual
+        // angular velocity. Only the camera arm moves towards the eyes.
+        s_mouseOrbitPitch = w.angles.x;
+        s_mouseOrbitYaw = w.angles.y;
+        camera->rot.x = w.angles.x;
+        camera->rot.y = w.angles.y;
+        g_camPitchVel = g_camYawVel = 0;
+    }
     Camera_SmoothToDesired(camera, &w.angles, &w.params->pitchSpeed, &w.distance, w.params->focal, &g_camReqAimOffset,
                            0);
     Camera_SolveCollision(camera, &w.angles, w.distance, 0, 32000);
@@ -2346,6 +2442,12 @@ void Camera_UpdateLook(Camera *camera, Pad *pad)
     w.target.z = g_camReqTarget.z + g_camAimOffset.z;
     g_camStateFlags.bits.lookExitBlocked = Camera_IsEyeClear(camera, &w.target) == 0;
     g_camLookTime = g_gameTime;
+    static const bool traceLook = getenv("SDW_CAMERA_TRACE") != nullptr;
+    static unsigned lookFrames = 0;
+    if (traceLook && (++lookFrames % 15) == 0)
+        Platform_Log("[look] angles=%d,%d distance=%d position=%d,%d,%d",
+                     camera->rot.x, camera->rot.y, camera->dist,
+                     camera->pos.x, camera->pos.y, camera->pos.z);
 }
 s16 Camera_IsEyeClear(const Camera *camera, const Vec3s *target)
 {
@@ -2742,6 +2844,9 @@ void Camera_ResetMotion()
 }
 void Camera_SetMode(u8 mode, u8 smooth)
 {
+    if (mode != g_camMode && !((Camera_IsMouseOrbitMode(mode) || mode == CAM_LOOK) &&
+                              (Camera_IsMouseOrbitMode(g_camMode) || g_camMode == CAM_LOOK)))
+        s_mouseOrbitActive = false;
     g_camFlags.manual = 0;
     g_camLosClearTime = g_gameTime;
     if (g_camUnused43fc < 3000)
@@ -2783,6 +2888,11 @@ void Camera_SetMode(u8 mode, u8 smooth)
             g_camMode = mode;
             break;
         case CAM_LOOK:
+            Camera_ResetMotion();
+            g_camFlags.manual = s_mouseOrbitActive;
+            g_camLedgeLookState = LEDGE_NONE;
+            g_camMode = mode;
+            break;
         case CAM_DIRECTED:
             g_camLedgeLookState = LEDGE_NONE;
             g_camMode = mode;
@@ -2798,6 +2908,7 @@ void Camera_SetMode(u8 mode, u8 smooth)
 }
 void Camera_Reset()
 {
+    s_mouseOrbitActive = false;
     g_camera.pos.x = 0;
     g_camera.pos.y = -400;
     g_camera.pos.z = 0;
@@ -2906,6 +3017,12 @@ void Camera_Update(Camera *camera, u8 mode, Pad *pad, Pad *mouse)
     g_camStateFlags.all &= ~CAMS_ROT_POS;
     g_camFlags2.all &= ~CAMF2_OVERHEAD;
     extern float g_cameraMouseDX, g_cameraMouseDY;
+    if (!s_mouseOrbitActive && Camera_IsMouseOrbitMode(g_camMode) &&
+        Platform_MouseCameraCaptured() && pad->cur.typeLen.type != PADTYPE_ANALOG) {
+        s_mouseOrbitActive = true;
+        s_mouseOrbitPitch = camera->rot.x;
+        s_mouseOrbitYaw = camera->rot.y;
+    }
     if ((g_camMode == CAM_FOLLOW || g_camMode == CAM_FOLLOW_RUN || g_camMode == CAM_LOOK || g_camMode == CAM_ROBOT) &&
         !(g_gameFlags & GF_PAUSED) && !g_camReqFlags.useYaw && !g_camReqFlags.usePitch &&
         (!g_camRestriction || (!g_camRestriction->flags.forbidPad && !g_camRestriction->trajectory))) {
@@ -2913,11 +3030,30 @@ void Camera_Update(Camera *camera, u8 mode, Pad *pad, Pad *mouse)
         s32 pitch = (s32)(g_cameraMouseDY * 2.0f);
         if (yaw || pitch) {
             Camera_OnManualRotate(yaw);
-            camera->rot.y = (camera->rot.y - yaw) & 0xfff;
-            s32 angle = (s16)((camera->rot.x + 0x800) & 0xfff) - 0x800;
-            angle += pitch;
-            s32 low = g_camMode == CAM_LOOK ? -700 : g_camMinPitch;
-            camera->rot.x = angle < low ? low : angle > 700 ? 700 : angle;
+            if (Camera_IsMouseOrbitMode(g_camMode)) {
+                if (!s_mouseOrbitActive) {
+                    s_mouseOrbitPitch = camera->rot.x;
+                    s_mouseOrbitYaw = camera->rot.y;
+                    s_mouseOrbitActive = true;
+                }
+                s_mouseOrbitYaw = (s_mouseOrbitYaw - yaw) & 0xfff;
+                camera->rot.y = s_mouseOrbitYaw;
+            } else
+                camera->rot.y = (camera->rot.y - yaw) & 0xfff;
+            if (pitch) {
+                s32 current = s_mouseOrbitActive && Camera_IsMouseOrbitMode(g_camMode)
+                                  ? s_mouseOrbitPitch : camera->rot.x;
+                s32 angle = ((current + 0x800) & 0xfff) - 0x800 + pitch;
+                angle = angle < -700 ? -700 : angle > 700 ? 700 : angle;
+                if (Camera_IsMouseOrbitMode(g_camMode)) {
+                    s_mouseOrbitPitch = angle & 0xfff;
+                    s_mouseOrbitActive = true;
+                } else
+                    camera->rot.x = angle & 0xfff;
+                s_camManualPitch = 1;
+            }
+            if (g_camMode == CAM_LOOK)
+                g_camFlags.manual = 1;
         }
     }
     g_cameraMouseDX = g_cameraMouseDY = 0;

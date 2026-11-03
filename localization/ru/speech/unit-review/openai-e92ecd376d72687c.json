@@ -1,0 +1,64 @@
+{
+  "files": [
+    {
+      "file": "cin_lvl_0301.wav",
+      "transcript": "Ладно, пора научиться новенькому! Кусты — не единственное, что поможет тебе спрятаться. Камни тоже сойдут! Посмотри на размер этих камней. Эй, будь я на твоём месте, я бы спрятался за ними. Подойди вплотную сбоку к этому камню и нажми кнопку скрытности, чтобы замаскироваться. Знаешь что, можешь потренироваться со мной.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cinfl_lvl0401__01.wav",
+      "transcript": "Ой!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__11.wav",
+      "transcript": "Это твой звёздный час, и ты ведь не хочешь всё запороть.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__13.wav",
+      "transcript": "И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_02ge__00.wav",
+      "transcript": "Фантастика!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "cin_lvl_0301.wav": "6c154ff6d4213a7b4a29ce6106824c9854850efa84eb0bee94b9126cd0eab05c",
+    "cinfl_lvl0401__01.wav": "c3cadd339bc7efc89785a47da5f17d986538f2fe1ef7e38e7437643fdc2b1fd0",
+    "intro_2sec__11.wav": "c77f68258328b58e84acf507e6e8197874783fae8a56a8db3182fa469c5d10d0",
+    "intro_2sec__13.wav": "c6cd8c372b57a68ac59692e7f0be4db4734d8d5fb72ad356a399063ae92876b5",
+    "ret_niv_02ge__00.wav": "0b49207bad559e3b3c113af718dc22e8971927d0e4990c809233ba521633d73c"
+  },
+  "references": {
+    "cin_lvl_0301.wav": "Ладно, пора научиться новенькому! Кусты — не единственное, что поможет тебе спрятаться. Камни тоже сойдут! Посмотри на размер этих камней. Эй, будь я на твоём месте, я бы спрятался за ними. Подойди вплотную сбоку к этому камню и нажми кнопку скрытности, чтобы замаскироваться. Знаешь что, можешь потренироваться со мной.",
+    "cinfl_lvl0401__01.wav": "Ой!",
+    "intro_2sec__11.wav": "Это твой звёздный час, и ты ведь не хочешь всё запороть.",
+    "intro_2sec__13.wav": "И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как!",
+    "ret_niv_02ge__00.wav": "Фантастика!"
+  },
+  "snapshot_version": 1
+}

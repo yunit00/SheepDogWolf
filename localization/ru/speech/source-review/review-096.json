@@ -1,0 +1,180 @@
+[
+  {
+    "file": "cinsa_lvl1502.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Yosemite Sam",
+        "en": "Well now, you're not round and you're not-a made of gold. So scram!",
+        "ru": "Так-так, ты не круглый и сделан не из золота! А ну проваливай!",
+        "start": 0.0,
+        "end": 5.41
+      },
+      {
+        "speaker": "Yosemite Sam",
+        "en": "I said I didn't want to see anyone on my boat and that means you, you sneaking weasel!",
+        "ru": "Я сказал, что не хочу никого видеть на своей лодке, и тебя это тоже касается, скользкий хорёк!",
+        "start": 6.13,
+        "end": 12.78
+      }
+    ],
+    "source_seconds": 14.34625
+  },
+  {
+    "file": "cinsa_lvl1503.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Yosemite Sam",
+        "en": "Thought you could trick old Sam, did you?",
+        "ru": "Думал провести старину Сэма, а?!",
+        "start": 0.08,
+        "end": 2.76
+      },
+      {
+        "speaker": "Yosemite Sam",
+        "en": "Well now you're going to pay for it!",
+        "ru": "Ну, теперь ты за это поплатишься!",
+        "start": 3.25,
+        "end": 5.56
+      }
+    ],
+    "source_seconds": 6.4710625
+  },
+  {
+    "file": "cintxt_lvl1603.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "When the signal is red, it means that the train will stop next time.",
+        "ru": "Красный сигнал означает, что в следующий раз поезд остановится.",
+        "start": 0.17,
+        "end": 4.95
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to change the color of the signal, press the button next to the signal.",
+        "ru": "Если хочешь сменить цвет сигнала, нажми кнопку рядом с ним.",
+        "start": 5.25,
+        "end": 10.87
+      }
+    ],
+    "source_seconds": 12.24625
+  },
+  {
+    "file": "cintxt_lvl1604.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "The green light on the train makes it restart before it comes to a complete stop.",
+        "ru": "Зелёный свет на поезде заставляет его снова тронуться ещё до полной остановки.",
+        "start": 0.16,
+        "end": 5.48
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You can also use it to make the train leave faster.",
+        "ru": "А ещё с его помощью можно заставить поезд уехать быстрее.",
+        "start": 5.75,
+        "end": 9.17
+      }
+    ],
+    "source_seconds": 11.517125
+  },
+  {
+    "file": "cintxt_lvl1605.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "The blue chronometer gives you the time remaining before the train reaches the station,",
+        "ru": "Синий хронометр показывает, сколько времени осталось до прибытия поезда на станцию,",
+        "start": 0.22,
+        "end": 4.86
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "and the red chronometer gives you the time remaining before the train leaves.",
+        "ru": "а красный — сколько осталось до отправления поезда.",
+        "start": 5.23,
+        "end": 9.47
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "And my chronometer gives me nothing but trouble.",
+        "ru": "А от моего хронометра одни неприятности.",
+        "start": 9.94,
+        "end": 12.59
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "I gotta get this thing fixed.",
+        "ru": "Надо бы эту штуку починить.",
+        "start": 12.87,
+        "end": 14.3
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hello?",
+        "ru": "Алло?",
+        "start": 14.38,
+        "end": 15.38
+      }
+    ],
+    "source_seconds": 15.8443125
+  },
+  {
+    "file": "cintxt_lvl_0103.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Porky Pig",
+        "en": "S- Sam's sheep, th- they love eating lettuce.",
+        "ru": "О-овцы Сэма, о-они обожают есть салат.",
+        "start": 0.0,
+        "end": 2.37
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "If you leave some n- n- near a sheep, they'll come along and eat them, o- one after the other.",
+        "ru": "Если положить немного р-р-рядом с овцой, они подойдут и съедят всё, о-один за другим.",
+        "start": 2.51,
+        "end": 7.72
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "Th- th- those sheep are p- p- pigs!",
+        "ru": "Э-эти овцы просто п-п-поросята!",
+        "start": 7.97,
+        "end": 10.97
+      }
+    ],
+    "source_seconds": 11.9886875
+  }
+]

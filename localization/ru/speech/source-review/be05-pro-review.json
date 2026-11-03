@@ -1,0 +1,28 @@
+{
+  "speaker": "Unknown",
+  "confidence": "Low",
+  "segments": [
+    {
+      "en": "Out of all the [unintelligible] sheep.",
+      "ru": "Из всех [неразборчиво] овец.",
+      "start": 0.0,
+      "end": 1.6
+    },
+    {
+      "en": "[unintelligible] sheep dogs.",
+      "ru": "[неразборчиво] пастушьих собак.",
+      "start": 1.6,
+      "end": 3.4
+    },
+    {
+      "en": "[unintelligible]",
+      "ru": "[неразборчиво]",
+      "start": 3.4,
+      "end": 5.0
+    }
+  ],
+  "uncertain_words": [
+    "Out"
+  ],
+  "notes": "The voice actor sounds very similar to Richard Steven Horvitz (known for characters like Kaos from Skylanders or Invader Zim). The recording consists of intelligible phrases broken up by comedic, gibberish muttering."
+}

@@ -1,0 +1,28 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 14.292625,
+  "request_id": "req_73beee2f03c34f84ac034e332ec164e3",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 12.2 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "Дождись зелёного сигнала и запомни порядок вспышек кнопок. Будь внимателен: когда загорится красный, тебе нужно будет нажать кнопки в том же порядке и в нужный момент.",
+    "unit": {
+      "file": "cin_lvl0601__03.wav",
+      "source_file": "cin_lvl0601.wav",
+      "speaker": "Daffy Duck",
+      "text": "Дождись зелёного сигнала и запомни порядок вспышек кнопок. Будь внимателен: когда загорится красный, тебе нужно будет нажать кнопки в том же порядке и в нужный момент.",
+      "start": 23.1,
+      "end": 35.3,
+      "source_seconds": 52.1298125,
+      "segments": [
+        3
+      ]
+    }
+  },
+  "sha256": "600adaa5f67d9242a3ece5e14d91b25874e499c21397db72d7ccf93803d9e37e",
+  "status": "unreviewed"
+}

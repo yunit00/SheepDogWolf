@@ -1,0 +1,35 @@
+{
+  "speaker": "Unknown",
+  "confidence": 0.3,
+  "segments": [
+    {
+      "en": "Hell, of all the...",
+      "ru": "Чёрт, из всех...",
+      "start": 0.0,
+      "end": 1.4
+    },
+    {
+      "en": "...sheep...",
+      "ru": "...овец...",
+      "start": 1.5,
+      "end": 3.0
+    },
+    {
+      "en": "...sheepdog...",
+      "ru": "...овчарка...",
+      "start": 3.5,
+      "end": 5.4
+    },
+    {
+      "en": "[mumbling / sputtering]",
+      "ru": "[неразборчивое бормотание]",
+      "start": 5.5,
+      "end": 7.5
+    }
+  ],
+  "notes": "Studio outtake / blooper delivered in a deep, raspy cartoon character voice (reminiscent of Disney's Pete voiced by Jim Cummings, or a classic Looney Tunes bulldog/sheepdog character). Much of the line devolves into muttered gibberish.",
+  "uncertain_words": [
+    "Hell",
+    "How"
+  ]
+}

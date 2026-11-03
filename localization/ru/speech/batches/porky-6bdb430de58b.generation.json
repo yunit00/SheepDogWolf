@@ -1,0 +1,63 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Achird",
+  "seconds": 41.36,
+  "script": {
+    "speaker": "Porky Pig",
+    "voice": "Achird",
+    "clips": [
+      {
+        "file": "cinfe_lvl_0101.wav",
+        "source_file": "cinfe_lvl_0101.wav",
+        "speaker": "Porky Pig",
+        "text": "Привет! Я, э-э, ф-фермер Порки. Слыхал, ты пытаешься ук-украсть стадо у Сэма. У-удачи! Я выращиваю всякие о-овощи и х-хорошо знаю овец Сэма. Н-например, я знаю, что овцу можно в-вести за собой, если показать ей с-салат. Если так сделаешь, т-тебе не придётся их т-таскать. В-возвращайся с овцой, и я покажу тебе, как обращаться с л-л-листовыми овощами.",
+        "start": 0.16,
+        "end": 29.35,
+        "source_seconds": 30.0896875,
+        "segments": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "file": "cintxt_lvl_0103.wav",
+        "source_file": "cintxt_lvl_0103.wav",
+        "speaker": "Porky Pig",
+        "text": "О-овцы Сэма, о-они обожают есть салат. Если положить немного р-р-рядом с овцой, они подойдут и съедят всё, о-один за другим. Э-эти овцы просто п-п-поросята!",
+        "start": 0.0,
+        "end": 10.97,
+        "source_seconds": 11.9886875,
+        "segments": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "prompt": "Russian dubbing for a classic cartoon game. Friendly youthful male cartoon pig, rounded warm slightly nasal high-mid voice. Keep only the short stutters written in the text, do not add excessive stuttering. Helpful, expressive and clear. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Привет! Я, э-э, ф-фермер Порки. Слыхал, ты пытаешься ук-украсть стадо у Сэма. У-удачи! Я выращиваю всякие о-овощи и х-хорошо знаю овец Сэма. Н-например, я знаю, что овцу можно в-вести за собой, если показать ей с-салат. Если так сделаешь, т-тебе не придётся их т-таскать. В-возвращайся с овцой, и я покажу тебе, как обращаться с л-л-листовыми овощами.\n\n2. О-овцы Сэма, о-они обожают есть салат. Если положить немного р-р-рядом с овцой, они подойдут и съедят всё, о-один за другим. Э-эти овцы просто п-п-поросята!"
+  },
+  "usage": {
+    "promptTokenCount": 354,
+    "candidatesTokenCount": 1034,
+    "totalTokenCount": 1388,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 354
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 1034
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

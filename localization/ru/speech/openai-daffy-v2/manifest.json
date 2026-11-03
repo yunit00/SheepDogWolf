@@ -1,0 +1,758 @@
+[
+  {
+    "file": "Cin02_sc_reL001__01.wav",
+    "source_file": "Cin02_sc_reL001.wav",
+    "speaker": "Daffy Duck",
+    "text": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+    "start": 7.6,
+    "end": 10.3,
+    "source_seconds": 14.346375,
+    "segments": [
+      1
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 3.95675,
+    "audio_sha256": "9dbfd0dfb15741a78f84fea0b0bbbc542b53030196a8054bcaaa9d1b5901a875",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "Cin_int_niv_01.wav",
+    "source_file": "Cin_int_niv_01.wav",
+    "speaker": "Daffy Duck",
+    "text": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+    "start": 0.0,
+    "end": 7.7,
+    "source_seconds": 8.812,
+    "segments": [
+      0
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 12.293125,
+    "audio_sha256": "56e0641dd98e6ad3be4fd08247993e8937673e9ef44649343a55f857308d94f5",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "Cin_int_niv_02.wav",
+    "source_file": "Cin_int_niv_02.wav",
+    "speaker": "Daffy Duck",
+    "text": "Слушай сюда, приятель. Просто расслабься и играй. Это шоу должно катапультировать меня прямо в суперзвёзды!",
+    "start": 0.0,
+    "end": 8.1,
+    "source_seconds": 8.613625,
+    "segments": [
+      0,
+      1
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 8.29225,
+    "audio_sha256": "a62c9075cdb4dda97d7a699c2264a29719aa51e75591ef7c35964c7e240287be",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "Cin_int_niv_09b.wav",
+    "source_file": "Cin_int_niv_09b.wav",
+    "speaker": "Daffy Duck",
+    "text": "Что?",
+    "start": 0.12,
+    "end": 0.82,
+    "source_seconds": 1.358625,
+    "segments": [
+      0
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 0.9592083333333333,
+    "audio_sha256": "87eb36cdf8a6c9d916d89b7c71e9c05906b6d57731f6b4bd3bbf5e3a57695790",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "Cin_int_niv_12.wav",
+    "source_file": "Cin_int_niv_12.wav",
+    "speaker": "Daffy Duck",
+    "text": "Ещё один способ изменить настройки игры — нажать кнопку «Старт».",
+    "start": 0.08,
+    "end": 4.85,
+    "source_seconds": 5.610875,
+    "segments": [
+      0
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 6.582833333333333,
+    "audio_sha256": "477d067879b98570c99e31c6546520e9110b8eed4acad83355851d69de0903ed",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "Mars_2sec__00.wav",
+    "source_file": "Mars_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "Фантастика!",
+    "start": 14.35,
+    "end": 15.8,
+    "source_seconds": 208.7134375,
+    "segments": [
+      0
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 1.7034583333333333,
+    "audio_sha256": "74cda73650fb72d2ef67e61d625e3ea6e5dc2211ab2a281bf4a4bace00e9c25f",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "Mars_2sec__01.wav",
+    "source_file": "Mars_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "Последняя овечка!",
+    "start": 15.85,
+    "end": 17.35,
+    "source_seconds": 208.7134375,
+    "segments": [
+      1
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 2.4579166666666667,
+    "audio_sha256": "be833ffb043e8ce27f840aca4ecd6b37179b064d69cf80df0bf0b65c22ad3bf5",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "Mars_2sec__02.wav",
+    "source_file": "Mars_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "У тебя получилось!",
+    "start": 17.4,
+    "end": 18.5,
+    "source_seconds": 208.7134375,
+    "segments": [
+      2
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 4.042625,
+    "audio_sha256": "1b515b6175da63be7a536c397190f81de76307e4e8dd19a20398195cf834e487",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "Mars_2sec__04.wav",
+    "source_file": "Mars_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "К сожалению, наше шоу почти закончилось.",
+    "start": 21.5,
+    "end": 24.45,
+    "source_seconds": 208.7134375,
+    "segments": [
+      4
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 3.2888333333333333,
+    "audio_sha256": "0428e5d45b21918e0b1ef7cefa395b802869d8193bbcd916a52096caec18454b",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "Mars_2sec__05.wav",
+    "source_file": "Mars_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "Спасибо всем моим поклонникам за то, что были с нами до самого конца.",
+    "start": 24.75,
+    "end": 29.15,
+    "source_seconds": 208.7134375,
+    "segments": [
+      5
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 5.17,
+    "audio_sha256": "68e581eebf4dc60a7a6e6c1eceb1b6418f297f8e5e903ba213643ccfd95f2494",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "Mars_2sec__07.wav",
+    "source_file": "Mars_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "А? Это ещё что такое?",
+    "start": 31.4,
+    "end": 33.15,
+    "source_seconds": 208.7134375,
+    "segments": [
+      7
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 7.289666666666666,
+    "audio_sha256": "c037f233a643c1adb971a0e13e14e5355f7e8cb3308b81482d2a692873352c15",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "Mars_2sec__08.wav",
+    "source_file": "Mars_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "Что здесь делает марсианин Марвин?",
+    "start": 33.35,
+    "end": 36.05,
+    "source_seconds": 208.7134375,
+    "segments": [
+      8
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 4.166666666666667,
+    "audio_sha256": "9e8c52b1cdc372f7e91c0feb8f5ae2ab05ab06dfd8323af35f930fa79e4dd33f",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "be_02.wav",
+    "source_file": "be_02.wav",
+    "speaker": "Daffy Duck",
+    "text": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!",
+    "start": 0.1,
+    "end": 4.28,
+    "source_seconds": 5.0536875,
+    "segments": [
+      0
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 6.869666666666666,
+    "audio_sha256": "449a6af0e6028507f613e3c077f14302e18b10ff997d9509f1d4badab7d6256b",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "be_04__01.wav",
+    "source_file": "be_04.wav",
+    "speaker": "Daffy Duck",
+    "text": "И так далее.",
+    "start": 17.4,
+    "end": 18.55,
+    "source_seconds": 19.092,
+    "segments": [
+      1
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 6.038291666666667,
+    "audio_sha256": "23964434642d2848671fe2e47fc2d39cb95900abcc222ea58ad8b7b6f6cee305",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "ci_lvl_11_lap01b.wav",
+    "source_file": "ci_lvl_11_lap01b.wav",
+    "speaker": "Daffy Duck",
+    "text": "О, просто великолепно! Опять сезон охоты на уток. Хорошо, что я надел этот костюм Робин Гуда, так что этим назойливым охотникам меня не найти.",
+    "start": 0.12,
+    "end": 9.5,
+    "source_seconds": 10.3564375,
+    "segments": [
+      0,
+      1
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 10.125,
+    "audio_sha256": "5eb20e1314dd7edf8bdcfb8d95533292e7f6689099ee9d88dc46c4a1ff3369f5",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "cin_goal_01__03.wav",
+    "source_file": "cin_goal_01.wav",
+    "speaker": "Daffy Duck",
+    "text": "И ещё одна победа нашего участника!",
+    "start": 30.2,
+    "end": 33.3,
+    "source_seconds": 33.942625,
+    "segments": [
+      3
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 7.289666666666666,
+    "audio_sha256": "37c9b316680d21fca42e9b8d148c5b5663fb42c506216a0d6e177e76d40635ea",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "cin_lvl_0207__02.wav",
+    "source_file": "cin_lvl_0207.wav",
+    "speaker": "Daffy Duck",
+    "text": "Если будут ещё вопросы, можешь вернуться ко мне.",
+    "start": 5.14,
+    "end": 8.04,
+    "source_seconds": 15.96525,
+    "segments": [
+      2
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 6.582833333333333,
+    "audio_sha256": "85ab596dabef4df8a9d747ee1cb2f13f8ef3e93c22da470f736fd513b84fa4d0",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "cin_lvl_0209.wav",
+    "source_file": "cin_lvl_0209.wav",
+    "speaker": "Daffy Duck",
+    "text": "Хорошо! Начинай, когда захочешь.",
+    "start": 0.18,
+    "end": 2.25,
+    "source_seconds": 3.0718125,
+    "segments": [
+      0
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 3.7945416666666665,
+    "audio_sha256": "04c9933c709fdbd0893bf5d19ce20f2eb1a35452cf7e975806d0d932c1e94419",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "cin_lvl_0306.wav",
+    "source_file": "cin_lvl_0306.wav",
+    "speaker": "Daffy Duck",
+    "text": "Нет, нет, нет! Прячься за камнем! Отойди за линию, если хочешь начать заново.",
+    "start": 0.0,
+    "end": 7.6,
+    "source_seconds": 8.1346875,
+    "segments": [
+      0,
+      1,
+      2
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 7.203791666666667,
+    "audio_sha256": "9d7bc4f01b9af1ad090d1dd9d288adfc119d1d9a86cfbe68bce67a065b969e2f",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "cin_lvl_0308.wav",
+    "source_file": "cin_lvl_0308.wav",
+    "speaker": "Daffy Duck",
+    "text": "За камнями можно прятаться, удерживая кнопку скрытности.",
+    "start": 0.08,
+    "end": 4.54,
+    "source_seconds": 5.423875,
+    "segments": [
+      0
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 4.749458333333333,
+    "audio_sha256": "38947da37be765624eb207fda4e3b16358c6b9094ee2029ba2e960b8067e24c9",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "cin_lvl_0309.wav",
+    "source_file": "cin_lvl_0309.wav",
+    "speaker": "Daffy Duck",
+    "text": "Не хочешь оставаться в неведении, а? Или хочешь? Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры. А ещё можно использовать предметы.",
+    "start": 0.08,
+    "end": 10.16,
+    "source_seconds": 10.9046875,
+    "segments": [
+      0,
+      1,
+      2
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 12.7895,
+    "audio_sha256": "bcbca307e373aac17c1ff22502d9ea876d3da61cfd0ba023f7f188db50e88aab",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "cinfl_lvl0401__01.wav",
+    "source_file": "cinfl_lvl0401.wav",
+    "speaker": "Daffy Duck",
+    "text": "Ой!",
+    "start": 17.65,
+    "end": 18.7,
+    "source_seconds": 63.4819375,
+    "segments": [
+      1
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 3.49875,
+    "audio_sha256": "553a34995c54ca22add62140f9e6bcb27001f0586694fb02ba3f833da5de06ff",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "cinfl_lvl0401__02.wav",
+    "source_file": "cinfl_lvl0401.wav",
+    "speaker": "Daffy Duck",
+    "text": "Та-дам!",
+    "start": 21.05,
+    "end": 22.45,
+    "source_seconds": 63.4819375,
+    "segments": [
+      2
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 1.913375,
+    "audio_sha256": "4511305424aa2653e19b92888fbf861e0a54b26c1f23b028a64777cad29362b3",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "cinfl_lvl0401__03.wav",
+    "source_file": "cinfl_lvl0401.wav",
+    "speaker": "Daffy Duck",
+    "text": "Это я, пленительный лесной эльф!",
+    "start": 23.2,
+    "end": 25.75,
+    "source_seconds": 63.4819375,
+    "segments": [
+      3
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 3.1647916666666664,
+    "audio_sha256": "af7b4150f965f22f2943b350a09ed99a35740379bfb509a9e0eefe020b4d0b3c",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "cinfl_lvl0402.wav",
+    "source_file": "cinfl_lvl0402.wav",
+    "speaker": "Daffy Duck",
+    "text": "Волшебная флейта просто потрясающа! С ней можно загипнотизировать кого угодно и увести за собой куда захочешь! Пожалуй, надо опробовать её на своём агенте.",
+    "start": 0.0,
+    "end": 11.4,
+    "source_seconds": 11.9886875,
+    "segments": [
+      0,
+      1,
+      2
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 12.503041666666666,
+    "audio_sha256": "579d2a109ca372f7572c66f48325bc75503626ecefb7e5213738c5cbd45b4768",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "intro_2sec__02.wav",
+    "source_file": "intro_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "Слушай, приятель, всё, что тебе нужно — расслабиться и играть. А я использую эту работёнку, чтобы взлететь на вершину суперславы!",
+    "start": 99.9,
+    "end": 107.8,
+    "source_seconds": 191.9705,
+    "segments": [
+      2
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 9.667,
+    "audio_sha256": "7245357a95f9969b42ca2ddc06676969e3a6a113b7631fe898836677ad2f1d8f",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "intro_2sec__03.wav",
+    "source_file": "intro_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "Итак, цель нашей игры проста: воровать овец.",
+    "start": 108.3,
+    "end": 113.0,
+    "source_seconds": 191.9705,
+    "segments": [
+      3
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 6.372916666666667,
+    "audio_sha256": "53436ea339fdcfd1121d4d47a96cd5545ac761eb317646cd79d785dc6377304c",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "intro_2sec__08.wav",
+    "source_file": "intro_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "Я предельно ясно выразился?",
+    "start": 161.2,
+    "end": 164.2,
+    "source_seconds": 191.9705,
+    "segments": [
+      8
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 3.7468333333333335,
+    "audio_sha256": "4ef324ea1cb816073d1aa9a504afd858b11939b74fb3e311c8bcadcc51a243c8",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "intro_2sec__11.wav",
+    "source_file": "intro_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "Это твой звёздный час, и ты ведь не хочешь всё запороть.",
+    "start": 176.2,
+    "end": 180.0,
+    "source_seconds": 191.9705,
+    "segments": [
+      11
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 5.790208333333333,
+    "audio_sha256": "4575c89148600bf0e8ed767a0f891eb2139d66c18747fec760541f82c297d5ec",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "intro_2sec__12.wav",
+    "source_file": "intro_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "К тому же, это я объяснил тебе правила игры.",
+    "start": 180.0,
+    "end": 183.0,
+    "source_seconds": 191.9705,
+    "segments": [
+      12
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 4.501333333333333,
+    "audio_sha256": "71998af4a298b5dcc64b3c3115f29538eefb9bd099e14ab627a1b1643ea5c5e4",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "intro_2sec__13.wav",
+    "source_file": "intro_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как!",
+    "start": 183.1,
+    "end": 188.3,
+    "source_seconds": 191.9705,
+    "segments": [
+      13
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 8.874875,
+    "audio_sha256": "922bc7db055f3c4a40993ff9b6319cc91f46bf7a9d32bf6610115f4225fd095c",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "re_niv_05qu.wav",
+    "source_file": "re_niv_05qu.wav",
+    "speaker": "Daffy Duck",
+    "text": "Давай, не сдавайся!",
+    "start": 0.08,
+    "end": 2.4,
+    "source_seconds": 2.981125,
+    "segments": [
+      0
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 2.3720416666666666,
+    "audio_sha256": "a291b5680a72dcd3f2ed68c5e3fd9f630a665d43211facfcedd5d3397223151c",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "ret_lvl_00__01.wav",
+    "source_file": "ret_lvl_00.wav",
+    "speaker": "Daffy Duck",
+    "text": "Не говори мне, что хочешь сдаться ещё до начала шоу.",
+    "start": 1.78,
+    "end": 4.95,
+    "source_seconds": 8.3204375,
+    "segments": [
+      1
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 4.377291666666666,
+    "audio_sha256": "00f266e27268a93c88452d788547249f8df215616f7a0364337ce5b3bbe7d71f",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "ret_niv_00a__00.wav",
+    "source_file": "ret_niv_00a.wav",
+    "speaker": "Daffy Duck",
+    "text": "Браво!",
+    "start": 0.17,
+    "end": 1.12,
+    "source_seconds": 5.3333125,
+    "segments": [
+      0
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 0.9115,
+    "audio_sha256": "33b10f185766a5fd7979570407c1c37a6b735fb681ccbbfcf45eda4d36b9d535",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "ret_niv_02ge__00.wav",
+    "source_file": "ret_niv_02ge.wav",
+    "speaker": "Daffy Duck",
+    "text": "Фантастика!",
+    "start": 0.16,
+    "end": 1.25,
+    "source_seconds": 7.565875,
+    "segments": [
+      0
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 2.0374166666666667,
+    "audio_sha256": "1d5fc7b4d9dfcd3a7a6f4f2053c6dd5d1602053d1a0dd8fd2d2ad80a3616c787",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "ret_niv_02ge__01.wav",
+    "source_file": "ret_niv_02ge.wav",
+    "speaker": "Daffy Duck",
+    "text": "Ой, тс-с, нашему участнику нужна тишина.",
+    "start": 1.5,
+    "end": 4.5,
+    "source_seconds": 7.565875,
+    "segments": [
+      1
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 3.870875,
+    "audio_sha256": "2d17ef121e512709dc3bcfa8cfd2c37f2fe85d135e20d5593cabee737b802884",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "ret_niv_03ge__01.wav",
+    "source_file": "ret_niv_03ge.wav",
+    "speaker": "Daffy Duck",
+    "text": "Не забудь найти все табельные часы.",
+    "start": 1.34,
+    "end": 3.78,
+    "source_seconds": 5.3690625,
+    "segments": [
+      1
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 3.9185833333333333,
+    "audio_sha256": "dfc9b5c6d474b7a023f43d9640fbb967aef240645654900b9184793969021e59",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "txt_lvl_0014.wav",
+    "source_file": "txt_lvl_0014.wav",
+    "speaker": "Daffy Duck",
+    "text": "Послушай: если хочешь красть овец и строить планы, тебе понадобится инвентарь. Сначала нажми кнопку инвентаря — откроется карта уровня и доступные предметы. Чтобы получить предмет, закажи его через почтовый ящик. Хочешь узнать, в каком ящике нужно заказывать конкретный предмет? Выбери его в инвентаре, и нужный ящик обведётся красным — значит, посылка там! Белым нарисованы предметы, которые можно найти на уровне. Цветные — те, что ты уже забрал и можешь использовать. А если и этого мало, загляни в инструкцию к предмету, там описано, как им пользоваться. Так что давай! Опробуй инвентарь и закажи предмет из почтового ящика прямо сегодня! Батарейки в комплект не входят.",
+    "start": 0.3,
+    "end": 56.5,
+    "source_seconds": 57.0655625,
+    "segments": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 53.909166666666664,
+    "audio_sha256": "34e149365e0a4ebf79e5bcff5b04eff0f13a929000b8aef711a0bffb3b8f72f7",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "txt_lvl_003.wav",
+    "source_file": "txt_lvl_003.wav",
+    "speaker": "Daffy Duck",
+    "text": "Пс-с, я прямо за тобой. Просто используй кнопки камеры, чтобы двигать её.",
+    "start": 0.07,
+    "end": 7.38,
+    "source_seconds": 8.94475,
+    "segments": [
+      0,
+      1
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 7.000916666666667,
+    "audio_sha256": "a8749a4c6c97db05414f647677d76eb36e0304db71dea94baa25951cedfb5ebd",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "txt_lvl_005.wav",
+    "source_file": "txt_lvl_005.wav",
+    "speaker": "Daffy Duck",
+    "text": "А теперь я спрячусь наверху. Если хочешь найти меня, удерживай кнопку вида от первого лица.",
+    "start": 0.12,
+    "end": 6.83,
+    "source_seconds": 7.39425,
+    "segments": [
+      0,
+      1
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 7.7095,
+    "audio_sha256": "2d9082c3177f135787756109d9e26ec69aa99547a0d2737522a8710b6ee8c694",
+    "qa": "requires independent file QA"
+  },
+  {
+    "file": "txt_rob_03.wav",
+    "source_file": "txt_rob_03.wav",
+    "speaker": "Daffy Duck",
+    "text": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов.",
+    "start": 0.0,
+    "end": 8.42,
+    "source_seconds": 9.703375,
+    "segments": [
+      0,
+      1
+    ],
+    "provider": "OpenAI",
+    "voice": "ballad",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "seconds": 8.625666666666667,
+    "audio_sha256": "55f8a63ff01744806810f2537740e05f5215cbf948854bd0a3a3b57bb4f41bb8",
+    "qa": "requires independent file QA"
+  }
+]

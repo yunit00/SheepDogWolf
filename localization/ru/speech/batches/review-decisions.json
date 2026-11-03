@@ -1,0 +1,8 @@
+{
+  "porky-retake-ccbf7b81de32": {
+    "accepted_issues": [
+      "Word 'б-беспокойся' was spoken without stutter as 'беспокойся', and 'н-не' was reduced to 'не'."
+    ],
+    "reason": "All lexical words are complete. Two onset-consonant stutters omitted; natural variation in Porky stammer is acceptable and avoids excessive/artificial repetition. Independent extracted-file QA still required."
+  }
+}

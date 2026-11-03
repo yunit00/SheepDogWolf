@@ -1,0 +1,118 @@
+{
+  "files": [
+    {
+      "file": "Cin_int_niv_06.wav",
+      "transcript": "Но — и это огромное «но» — в конце каждого уровня овца должна быть цела и невредима. Тебя дисквалифицируют, если с неё упадёт хоть клочок шерсти!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_07.wav",
+      "transcript": "Я предельно ясно выразился? М-гу?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_10.wav",
+      "transcript": "Ну, вроде того. Да, репетиции проходят здесь.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_11.wav",
+      "transcript": "Да! О, и последнее: если захочешь изменить настройки игры, нажми паузу и загляни в меню. Удачи!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_01.wav",
+      "transcript": "Кто за это отвечает?!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_03.wav",
+      "transcript": "Так, ладно. Какой умник заменил мой микрофон этой бритвой?!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ci_lvl13_comb_01.wav",
+      "transcript": "Смотри, что можно сделать! Предмет можно прицепить на конец лески с помощью функции соединения в инвентаре. Просто выбери удочку, затем нажми «Соединить» и выбери предмет, который хочешь насадить на крючок. Если захочешь снять предмет, выбери удочку и нажми «Разделить».",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ci_lvl_11_lap02.wav",
+      "transcript": "Ну конечно! Куда ни приду — всюду этот кролик! Что ж, раз Багз здесь, можно и повеселиться. Сим объявляю: сезон охоты на кроликов! Да начнётся охота!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ci_lvl_13_cro01.wav",
+      "transcript": "Что за дела, приятель? Этот ужасный зверь не даёт мне пройти! Сделай же что-нибудь! Вот что: если освободишь меня, я научу тебя классному трюку. Оглуши его из пушки.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ci_lvl_13_cro02.wav",
+      "transcript": "Захлопни пасть, зубастик!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Cin_int_niv_06.wav": "9faff3b7c2a25af30f1be5d8f36e14377ea38af4af80540e42a23fed1b2afd88",
+    "Cin_int_niv_07.wav": "76ee68bad2e5f53b5682966029da64d20abd9ae997575308742712ca64801d1f",
+    "Cin_int_niv_10.wav": "4416d2c04bb7fbd9e7a52783ff3ea741720e3e644e1c3313617a14562f62d4e2",
+    "Cin_int_niv_11.wav": "313d670380d4babe25ec8d2447a258e9fb2099795fbdf5e4d99626a4da0fef41",
+    "be_01.wav": "2e717c951e89457f5e10b07fc0323df5d65290b277b18a9fdd30a6903093592b",
+    "be_03.wav": "070acd4b30426810d4822c4854efd2339c302b05c1060aae759028663ccc72f2",
+    "ci_lvl13_comb_01.wav": "871f7d81e1a94c6a77767ce442800af49228a4e9bec557afa22037a3db9a3bdc",
+    "ci_lvl_11_lap02.wav": "c5838f45782e543b1597d83b39a237875291f0e613377a8186a13cf7819976f1",
+    "ci_lvl_13_cro01.wav": "9842a8fa46b134092f2f250543738b600cfb31cc6c1a3ceb917e4dc53c1c8d9f",
+    "ci_lvl_13_cro02.wav": "e3cc629e883d028ec1fdedb4838989dfd25d3454db24a4598a3d1a7c74dc4cf8"
+  },
+  "references": {
+    "Cin_int_niv_06.wav": "Но — и это огромное «но» — в конце каждого уровня овца должна быть цела и невредима. Тебя дисквалифицируют, если с неё упадёт хоть клочок шерсти!",
+    "Cin_int_niv_07.wav": "Я предельно ясно выразился? М-м-м?",
+    "Cin_int_niv_10.wav": "Ну, вроде того. Да, репетиции проходят здесь.",
+    "Cin_int_niv_11.wav": "Да! О, и последнее: если захочешь изменить настройки игры, нажми паузу и загляни в меню. Удачи!",
+    "be_01.wav": "Кто за это отвечает?!",
+    "be_03.wav": "Так, ладно. Какой умник заменил мой микрофон этой бритвой?!",
+    "ci_lvl13_comb_01.wav": "Смотри, что можно сделать! Предмет можно прицепить на конец лески с помощью функции соединения в инвентаре. Просто выбери удочку, затем нажми «Соединить» и выбери предмет, который хочешь насадить на крючок. Если захочешь снять предмет, выбери удочку и нажми «Разделить».",
+    "ci_lvl_11_lap02.wav": "Ну конечно! Куда ни приду — всюду этот кролик! Что ж, раз Багз здесь, можно и повеселиться. Сим объявляю: сезон охоты на кроликов! Да начнётся охота!",
+    "ci_lvl_13_cro01.wav": "Что за дела, приятель? Этот ужасный зверь не даёт мне пройти! Сделай же что-нибудь! Вот что: если освободишь меня, я научу тебя классному трюку. Оглуши его из пушки.",
+    "ci_lvl_13_cro02.wav": "Захлопни пасть, зубастик!"
+  }
+}

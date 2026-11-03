@@ -1,0 +1,118 @@
+{
+  "files": [
+    {
+      "file": "Cin02_sc_reL001__00.wav",
+      "transcript": "А теперь, готовый как никогда воровать овец, встречайте нашего участника!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL001__01.wav",
+      "transcript": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL001__02.wav",
+      "transcript": "Аплодисменты!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL002.wav",
+      "transcript": "Здесь ты увидишь место, куда нужно приводить украденных овец. А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL003.wav",
+      "transcript": "А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL004.wav",
+      "transcript": "Забравшись на эту подставку, ты сможешь сохранить игру, следуя указанным инструкциям.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL005.wav",
+      "transcript": "Если ты исключительно умён, прямо как я, то найдёшь табельные часы на каждом уровне. Активируй их и заработай бонусное очко! Потом можешь прийти сюда за покупками — в зависимости от числа набранных бонусных очков, разумеется.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL006.wav",
+      "transcript": "А здесь можно выбирать уровни. Тебе нужно всего лишь активировать дверь, чтобы попасть на соответствующий уровень. Дальше действуй сам!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin03_sc_reL161.wav",
+      "transcript": "Потрясающе! Последняя овца! Ты сделал это! Ты исключительный участник. К сожалению, наше шоу подходит к концу. Спасибо всем моим фанатам за то, что были с нами до самого финала. До скорого!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin03_sc_reL162.wav",
+      "transcript": "А! Это ещё что? Что здесь делает марсианин Марвин? Этого не было в сценарии!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Cin02_sc_reL001__00.wav": "220c606f5b926496bfd4e67607a419cc0d11dc69cb8fee88f52bec1000b4078e",
+    "Cin02_sc_reL001__01.wav": "575c96c71d808378297c669d754a26a9a1d2648645358de3845184054c0b7b07",
+    "Cin02_sc_reL001__02.wav": "66f041bd4163f20c2975e76bd3684ad7fb69c273b0e0c75bdc5b5cc4c32cd2ad",
+    "Cin02_sc_reL002.wav": "d7fc87bc5e85effd34f79fce5f6fc1f7207a26a9f20ffac4101cba2bce57a231",
+    "Cin02_sc_reL003.wav": "8c7805330bacedd601149719ddc7a93ab419fbf2122336f36ea1bfc99a12c947",
+    "Cin02_sc_reL004.wav": "688bbfa1e947e5d62d8abae30cfc88b221f4f455505a6b3dfc49f9b829781887",
+    "Cin02_sc_reL005.wav": "c043948f790663acf257455be15d52dfab09c4f2c6eb32e653a12e7d41ec5fb7",
+    "Cin02_sc_reL006.wav": "64bdde113e497bc1b64b18c06dd0f7338173651ce522e29327df115d296f707c",
+    "Cin03_sc_reL161.wav": "0d39e935ff4fcaa3ec6b30be5912a6a9c8ccb8ecc54f391b4ce99c2fda77f4a5",
+    "Cin03_sc_reL162.wav": "f5606f99c70b90d3b52360c836b0814803033ff7d712fbfdc826fffb56bc8a68"
+  },
+  "references": {
+    "Cin02_sc_reL001__00.wav": "А теперь, готовый как никогда воровать овец, встречайте нашего участника!",
+    "Cin02_sc_reL001__01.wav": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+    "Cin02_sc_reL001__02.wav": "Аплодисменты!",
+    "Cin02_sc_reL002.wav": "Здесь ты увидишь место, куда нужно приводить украденных овец. А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+    "Cin02_sc_reL003.wav": "А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+    "Cin02_sc_reL004.wav": "Забравшись на эту подставку, ты сможешь сохранить игру, следуя указанным инструкциям.",
+    "Cin02_sc_reL005.wav": "Если ты исключительно умён, прямо как я, то найдёшь табельные часы на каждом уровне. Активируй их и заработай бонусное очко! Потом можешь прийти сюда за покупками — в зависимости от числа набранных бонусных очков, разумеется.",
+    "Cin02_sc_reL006.wav": "А здесь можно выбирать уровни. Тебе нужно всего лишь активировать дверь, чтобы попасть на соответствующий уровень. Дальше действуй сам!",
+    "Cin03_sc_reL161.wav": "Потрясающе! Последняя овца! Ты сделал это! Ты исключительный участник. К сожалению, наше шоу подходит к концу. Спасибо всем моим фанатам за то, что были с нами до самого финала. До скорого!",
+    "Cin03_sc_reL162.wav": "А! Это ещё что? Что здесь делает марсианин Марвин? Этого не было в сценарии!"
+  }
+}

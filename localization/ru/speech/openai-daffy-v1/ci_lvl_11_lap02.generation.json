@@ -1,0 +1,31 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 14.054,
+  "request_id": "req_9dc0a7680f0c403f89c87002d26c1ce5",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 14.8 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "Ну конечно! Куда ни приду — всюду этот кролик! Что ж, раз Багз здесь, можно и повеселиться. Сим объявляю: сезон охоты на кроликов! Да начнётся охота!",
+    "unit": {
+      "file": "ci_lvl_11_lap02.wav",
+      "source_file": "ci_lvl_11_lap02.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ну конечно! Куда ни приду — всюду этот кролик! Что ж, раз Багз здесь, можно и повеселиться. Сим объявляю: сезон охоты на кроликов! Да начнётся охота!",
+      "start": 0.1,
+      "end": 14.9,
+      "source_seconds": 15.119125,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "sha256": "c9a8eb81c205439158bac704fef4882827698d3c44d39c7d315173f2763a87da",
+  "status": "unreviewed"
+}

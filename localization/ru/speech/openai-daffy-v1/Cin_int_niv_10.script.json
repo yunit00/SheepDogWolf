@@ -1,0 +1,18 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 4.2 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Ну, вроде того. Да, репетиции проходят здесь.",
+  "unit": {
+    "file": "Cin_int_niv_10.wav",
+    "source_file": "Cin_int_niv_10.wav",
+    "speaker": "Daffy Duck",
+    "text": "Ну, вроде того. Да, репетиции проходят здесь.",
+    "start": 0.15,
+    "end": 4.38,
+    "source_seconds": 4.8213125,
+    "segments": [
+      0
+    ]
+  }
+}

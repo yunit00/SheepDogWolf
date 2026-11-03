@@ -1,0 +1,120 @@
+{
+  "files": [
+    {
+      "file": "re_niv_04ge.wav",
+      "transcript": "Тебя не остановить!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "re_niv_05qu.wav",
+      "transcript": "Давай, не сдавайся!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "noise artifact"
+      ]
+    },
+    {
+      "file": "ret_lvl_00__00.wav",
+      "transcript": "Что ты здесь делаешь?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_lvl_00__01.wav",
+      "transcript": "Не говори мне, что хочешь сдаться ещё до начала шоу.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_lvl_00__02.wav",
+      "transcript": "Ты же ещё только на репетиции!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_00a__00.wav",
+      "transcript": "Браво!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_00a__01.wav",
+      "transcript": "Наш участник просто великолепен!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_01__00.wav",
+      "transcript": "И ещё одна победа!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_02ge__00.wav",
+      "transcript": "Фантастика!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_02ge__01.wav",
+      "transcript": "Ой, тс-с, нашему участнику нужна тишина.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "re_niv_04ge.wav": "4b36aa959ed512efe6f0e03f4ab0e6547a8f75d0ccca67f13fa84fdff8f79017",
+    "re_niv_05qu.wav": "750648fd8987176be8ee6496588dee70c9b65ed1f77416c9a8eb993815983b70",
+    "ret_lvl_00__00.wav": "ec23b3aa5927d178d0cfc836d29602fd172ec2aa0cdd6aa4741ead2512f723c8",
+    "ret_lvl_00__01.wav": "385d4b74838067dc7c4a8f30b4983173e106abf0fd91736354360bc40b86a971",
+    "ret_lvl_00__02.wav": "d39c4605e89522ea0d782beb5741111ba21abf2553327a1d805972a40fad3ccf",
+    "ret_niv_00a__00.wav": "4097994cff427bfc49b52198c132ec30cdea84f6c44adc789d3c3decbfff6eef",
+    "ret_niv_00a__01.wav": "21f9e180e9c05aee528082e621b4723cff25c3fa264aa5679c4d237971f739aa",
+    "ret_niv_01__00.wav": "dedb007c7355fbeb01e198173890f0651aa78822c883de8f2f524a68661b0a10",
+    "ret_niv_02ge__00.wav": "cc4d9e2fb3078aa2f441596e7ee93906894f2b225a0caf9270242408b70e40a9",
+    "ret_niv_02ge__01.wav": "7bee6bd813047ab49fb398c07a7324436da1a9fe4441fc6f7fe6b6fa7d1b33eb"
+  },
+  "references": {
+    "re_niv_04ge.wav": "Тебя не остановить!",
+    "re_niv_05qu.wav": "Давай, не сдавайся!",
+    "ret_lvl_00__00.wav": "Что ты здесь делаешь?",
+    "ret_lvl_00__01.wav": "Не говори мне, что хочешь сдаться ещё до начала шоу.",
+    "ret_lvl_00__02.wav": "Ты же ещё только на репетиции!",
+    "ret_niv_00a__00.wav": "Браво!",
+    "ret_niv_00a__01.wav": "Наш участник просто великолепен!",
+    "ret_niv_01__00.wav": "И ещё одна победа!",
+    "ret_niv_02ge__00.wav": "Фантастика!",
+    "ret_niv_02ge__01.wav": "Ой, тс-с, нашему участнику нужна тишина."
+  }
+}

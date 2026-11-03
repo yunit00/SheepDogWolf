@@ -1,0 +1,119 @@
+{
+  "files": [
+    {
+      "file": "plade_lvl_01.wav",
+      "transcript": "Тс-с, иди сюда! Ты слышал про игру «Овца, Собака и Волк»? Нет? Ну, как бы её описать... Это не совсем боевик, эм, и не шпионская игра, и не стратегия. Ну, в ней точно нет ничего гадкого. Нет, конечно же нет! Стал бы я связываться с чем-то подобным? Я, суперзвезда, профессионал, самая любимая утка в шоу-бизнесе?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "plade_lvl_02.wav",
+      "transcript": "Слушай, по доброте душевной я покажу тебе кусочек игры «Овца, Собака и Волк»... которая вообще-то вся крутится вокруг меня, любимого селезня! Короче, всё, что нужно сделать — поймать овцу и доставить её на финиш. Готов? Ну, поехали!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "re_lvl_12_fan01.wav",
+      "transcript": "И ещё одна овца на счету нашего участника! Опа, секундочку, дай-ка я взгляну на неё. Хм, не считается! Возвращайся и укради настоящую овцу!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "re_niv_04ge.wav",
+      "transcript": "Тебя не остановить!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "re_niv_05qu.wav",
+      "transcript": "Давай, не сдавайся!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_lvl_00.wav",
+      "transcript": "Что ты здесь делаешь? Не говори мне, что хочешь сдаться ещё до начала шоу. Ты же ещё только на репетиции!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_00a.wav",
+      "transcript": "Браво! Наш участник просто великолепен!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_01.wav",
+      "transcript": "И ещё одна победа!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_03ge.wav",
+      "transcript": "Замечательно. Не забудь найти все табельные часы.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "sc_01.wav",
+      "transcript": "Пожалуйста, давайте поддержим нашего участника, а?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "plade_lvl_01.wav": "29715abf99776b2b580fc2d68583236380ff416dc8bbc28e9bb3973d51d4a142",
+    "plade_lvl_02.wav": "d3b9b0b804403a4a843da0ccf56d411d959bd7ca1fdbcfebb00cfc4833220a6d",
+    "re_lvl_12_fan01.wav": "32fb7243af5e1f18c780b71c06df7708db7265c3a48094f5d81eefa7f1821576",
+    "re_niv_04ge.wav": "d5e8ce53640e85bfcfb60a0c2ebd86f84b8d981e9f902b7f5de4b7af476e8d39",
+    "re_niv_05qu.wav": "a4d8793bfd49a32e5406403c6b766d683bdac29b23ab65b58c973b3c7560f3a9",
+    "ret_lvl_00.wav": "d98b08066286f466c928c7abf9883d5d4289f57bb55f4032ccb2a24531714664",
+    "ret_niv_00a.wav": "6258ca0fa9aae6cec439ce1ad9e3a0987cc7b070f3eaee3bb3f655abccf93899",
+    "ret_niv_01.wav": "e252f378d7bdefb8b20b6db8c7042facae8b84cdb714d4a2e94631f37f4617c5",
+    "ret_niv_03ge.wav": "98c763c37f6dc3f7f38dc3329ba784feb1f096cb044487223e1b973dc8c48558",
+    "sc_01.wav": "cadbf624cba2481dbce2c0c6dd0e1c37a114f1b3268afa3cacc275089f94d1b7"
+  },
+  "references": {
+    "plade_lvl_01.wav": "Тс-с, иди сюда! Ты слышал про игру «Овца, Собака и Волк»? Нет? Ну, как бы её описать... Это не совсем боевик, эм, и не шпионская игра, и не стратегия. Ну, в ней точно нет ничего гадкого. Нет, конечно же нет! Стал бы я связываться с чем-то подобным? Я, суперзвезда, профессионал, самая любимая утка в шоу-бизнесе?",
+    "plade_lvl_02.wav": "Слушай, по доброте душевной я покажу тебе кусочек игры «Овца, Собака и Волк»... ...которая вообще-то вся крутится вокруг меня, любимого селезня! Короче, всё, что нужно сделать — поймать овцу и доставить её на финиш. Готов? Ну, поехали!",
+    "re_lvl_12_fan01.wav": "И ещё одна овца на счету нашего участника! Опа, секундочку, дай-ка я взгляну на неё. Хм-м, не считается! Возвращайся и укради настоящую овцу!",
+    "re_niv_04ge.wav": "Тебя не остановить!",
+    "re_niv_05qu.wav": "Давай, не сдавайся!",
+    "ret_lvl_00.wav": "Что ты здесь делаешь? Не говори мне, что хочешь сдаться ещё до начала шоу. Ты же ещё только на репетиции!",
+    "ret_niv_00a.wav": "Браво! Наш участник просто великолепен!",
+    "ret_niv_01.wav": "И ещё одна победа!",
+    "ret_niv_03ge.wav": "Замечательно. Не забудь найти все табельные часы.",
+    "sc_01.wav": "Пожалуйста, давайте поддержим нашего участника, а?"
+  },
+  "snapshot_version": 1
+}

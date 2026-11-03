@@ -1,0 +1,45 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "seconds": 6.04,
+  "script": {
+    "speaker": "Yosemite Sam",
+    "voice": "Algenib",
+    "clips": [
+      {
+        "file": "cinsa_lvl1503.wav",
+        "source_file": "cinsa_lvl1503.wav",
+        "speaker": "Yosemite Sam",
+        "text": "Думал провести старину Сэма, а?! Ну, теперь ты за это поплатишься!",
+        "start": 0.08,
+        "end": 5.56,
+        "source_seconds": 6.4710625,
+        "segments": [
+          0,
+          1
+        ]
+      }
+    ],
+    "prompt": "Russian dialogue recording for a fictional family cartoon game. Original cartoon interpretation, not a real actor imitation. Gruff short-tempered male cartoon cowboy, low-mid gravelly raspy booming voice, lively comic bravado. Russian speech clear, not screaming or clipping. Say EXACTLY the text below, every word once, no added words, no laugh, no introduction, no numbering, no repeated syllables except stutters explicitly written. Quick natural clear delivery, complete text in approximately 5.5 seconds, no dramatic internal pauses. No sound effects or music. Preserve the same character voice.\n\nДумал провести старину Сэма, а?! Ну, теперь ты за это поплатишься!",
+    "replacement_reason": "Rejected prior take: extra word/laugh or too slow for scene."
+  },
+  "usage": {
+    "promptTokenCount": 144,
+    "candidatesTokenCount": 151,
+    "totalTokenCount": 295,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 144
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 151
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

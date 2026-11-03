@@ -1,0 +1,199 @@
+{
+  "speaker": "Daffy Duck",
+  "voice": "Puck",
+  "clips": [
+    {
+      "file": "intro_2sec__03.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Итак, цель нашей игры проста: воровать овец.",
+      "start": 108.3,
+      "end": 113.0,
+      "source_seconds": 191.9705,
+      "segments": [
+        3
+      ]
+    },
+    {
+      "file": "intro_2sec__04.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ты пройдёшь через серию уровней. На каждом из них тебе придётся украсть овцу у овчарки Сэма и доставить её на финиш.",
+      "start": 128.8,
+      "end": 139.4,
+      "source_seconds": 191.9705,
+      "segments": [
+        4
+      ]
+    },
+    {
+      "file": "intro_2sec__05.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Если справишься, сможешь перейти к следующему испытанию, и так далее, пока наконец не утащишь всю отару.",
+      "start": 139.8,
+      "end": 148.4,
+      "source_seconds": 191.9705,
+      "segments": [
+        5
+      ]
+    },
+    {
+      "file": "intro_2sec__06.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Но — и это очень важное «но» — в конце каждого уровня овца должна быть цела и невредима.",
+      "start": 149.4,
+      "end": 155.0,
+      "source_seconds": 191.9705,
+      "segments": [
+        6
+      ]
+    },
+    {
+      "file": "intro_2sec__07.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Тебя дисквалифицируют, если овца потеряет хотя бы ниточку шерсти.",
+      "start": 155.3,
+      "end": 160.8,
+      "source_seconds": 191.9705,
+      "segments": [
+        7
+      ]
+    },
+    {
+      "file": "intro_2sec__08.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Я предельно ясно выразился?",
+      "start": 161.2,
+      "end": 164.2,
+      "source_seconds": 191.9705,
+      "segments": [
+        8
+      ]
+    },
+    {
+      "file": "intro_2sec__10.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ладно, без паники. Я, как совершенный профессионал, знаю, как важны репетиции.",
+      "start": 167.8,
+      "end": 175.7,
+      "source_seconds": 191.9705,
+      "segments": [
+        10
+      ]
+    },
+    {
+      "file": "intro_2sec__11.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Это твой звёздный час, и ты ведь не хочешь всё запороть.",
+      "start": 176.2,
+      "end": 180.0,
+      "source_seconds": 191.9705,
+      "segments": [
+        11
+      ]
+    },
+    {
+      "file": "intro_2sec__12.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "К тому же, это я объяснил тебе правила игры.",
+      "start": 180.0,
+      "end": 183.0,
+      "source_seconds": 191.9705,
+      "segments": [
+        12
+      ]
+    },
+    {
+      "file": "intro_2sec__13.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как!",
+      "start": 183.1,
+      "end": 188.3,
+      "source_seconds": 191.9705,
+      "segments": [
+        13
+      ]
+    },
+    {
+      "file": "intro_2sec__14.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Так что давай, тренируйся!",
+      "start": 188.8,
+      "end": 190.8,
+      "source_seconds": 191.9705,
+      "segments": [
+        14
+      ]
+    },
+    {
+      "file": "ret_lvl_00__00.wav",
+      "source_file": "ret_lvl_00.wav",
+      "speaker": "Daffy Duck",
+      "text": "Что ты здесь делаешь?",
+      "start": 0.11,
+      "end": 1.48,
+      "source_seconds": 8.3204375,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "ret_lvl_00__01.wav",
+      "source_file": "ret_lvl_00.wav",
+      "speaker": "Daffy Duck",
+      "text": "Не говори мне, что хочешь сдаться ещё до начала шоу.",
+      "start": 1.78,
+      "end": 4.95,
+      "source_seconds": 8.3204375,
+      "segments": [
+        1
+      ]
+    },
+    {
+      "file": "ret_lvl_00__02.wav",
+      "source_file": "ret_lvl_00.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ты же ещё только на репетиции!",
+      "start": 5.4,
+      "end": 7.55,
+      "source_seconds": 8.3204375,
+      "segments": [
+        2
+      ]
+    },
+    {
+      "file": "ret_niv_00a__00.wav",
+      "source_file": "ret_niv_00a.wav",
+      "speaker": "Daffy Duck",
+      "text": "Браво!",
+      "start": 0.17,
+      "end": 1.12,
+      "source_seconds": 5.3333125,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "ret_niv_00a__01.wav",
+      "source_file": "ret_niv_00a.wav",
+      "speaker": "Daffy Duck",
+      "text": "Наш участник просто великолепен!",
+      "start": 1.36,
+      "end": 4.6,
+      "source_seconds": 5.3333125,
+      "segments": [
+        1
+      ]
+    }
+  ],
+  "prompt": "Russian dubbing for a classic cartoon game. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Итак, цель нашей игры проста: воровать овец.\n\n2. Ты пройдёшь через серию уровней. На каждом из них тебе придётся украсть овцу у овчарки Сэма и доставить её на финиш.\n\n3. Если справишься, сможешь перейти к следующему испытанию, и так далее, пока наконец не утащишь всю отару.\n\n4. Но — и это очень важное «но» — в конце каждого уровня овца должна быть цела и невредима.\n\n5. Тебя дисквалифицируют, если овца потеряет хотя бы ниточку шерсти.\n\n6. Я предельно ясно выразился?\n\n7. Ладно, без паники. Я, как совершенный профессионал, знаю, как важны репетиции.\n\n8. Это твой звёздный час, и ты ведь не хочешь всё запороть.\n\n9. К тому же, это я объяснил тебе правила игры.\n\n10. И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как!\n\n11. Так что давай, тренируйся!\n\n12. Что ты здесь делаешь?\n\n13. Не говори мне, что хочешь сдаться ещё до начала шоу.\n\n14. Ты же ещё только на репетиции!\n\n15. Браво!\n\n16. Наш участник просто великолепен!"
+}

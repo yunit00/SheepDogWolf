@@ -1,0 +1,25 @@
+{
+  "intelligible_speech": true,
+  "residuals": [
+    {
+      "start": 0.7,
+      "end": 1.6,
+      "words": "look at that",
+      "confidence": 0.85
+    },
+    {
+      "start": 2.5,
+      "end": 3.4,
+      "words": "more",
+      "confidence": 0.72
+    }
+  ],
+  "music_quality": "fair",
+  "artifacts": [
+    "residual cartoon character speech",
+    "vocal bleed"
+  ],
+  "acceptable_under_dubbing": false,
+  "sha256": "53d673ff188eafe61b51b15af08ffe7ad7d621b292aa3ccd2835309ab7c01e7b",
+  "file": "sc_01"
+}

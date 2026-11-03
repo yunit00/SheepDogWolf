@@ -1,0 +1,47 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Achird",
+  "seconds": 26.04,
+  "script": {
+    "speaker": "Porky Pig",
+    "voice": "Achird",
+    "clips": [
+      {
+        "file": "cintxt_lvl_0104.wav",
+        "source_file": "cintxt_lvl_0104.wav",
+        "speaker": "Porky Pig",
+        "text": "Ч-чтобы выложить дорожку из салата, п-положи один кочан. З-затем, п-перед тем как класть с-следующий, п-проверь, видны ли значки, ч-чтобы убедиться, что ты не к-кладёшь их слишком далеко друг от друга. Если расстояние будет с-слишком большим, о-овца может о-остановиться посреди д-дорожки. А э-это не хо-хо... э-это не хо-хо... э-это будет плохо!",
+        "start": 0.0,
+        "end": 25.5,
+        "source_seconds": 26.428625,
+        "segments": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "replacement_reason": "Prior audio failed independent QA: clipped consonant, unclear word or added stutter.",
+    "prompt": "Russian dialogue for a fictional family cartoon game. Original character interpretation, not a real actor imitation. Friendly youthful male cartoon pig, rounded warm slightly nasal high-mid voice. Keep only the short stutters written in the text, do not add excessive stuttering. Helpful, expressive and clear. Natural clear brisk delivery, finish the words in about 25.5 seconds. Speak every written word once and fully; no added words, laughs, introduction, conclusion or numbering. Preserve only stutters explicitly written in the text. No music or effects. Leave 0.4 seconds of silence before the first word and after the last word. Do not clip the first or last consonants. Do not exaggerate speech impediments; each word must stay intelligible.\n\nЧ-чтобы выложить дорожку из салата, п-положи один кочан. З-затем, п-перед тем как класть с-следующий, п-проверь, видны ли значки, ч-чтобы убедиться, что ты не к-кладёшь их слишком далеко друг от друга. Если расстояние будет с-слишком большим, о-овца может о-остановиться посреди д-дорожки. А э-это не хо-хо... э-это не хо-хо... э-это будет плохо!"
+  },
+  "usage": {
+    "promptTokenCount": 273,
+    "candidatesTokenCount": 651,
+    "totalTokenCount": 924,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 273
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 651
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

@@ -1,0 +1,180 @@
+[
+  {
+    "file": "cin_lvl1401_gb.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "Ghost A (deep voice) instruction for the graveyard dance in Level 14.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Ghost A",
+        "en": "You'll have to dance like us if you want to be accepted.",
+        "ru": "Чтобы стать своим, придётся танцевать как мы.",
+        "start": 0.34,
+        "end": 5.56
+      },
+      {
+        "speaker": "Ghost A",
+        "en": "Do what everyone else is doing, and just follow the rhythm of the music.",
+        "ru": "Делай то же, что и остальные, и просто следуй ритму музыки.",
+        "start": 5.86,
+        "end": 12.98
+      }
+    ],
+    "source_seconds": 15.495
+  },
+  {
+    "file": "cin_lvl1402_ja.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "Ghost B (higher pitch) failure prompt in Level 14.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Ghost B",
+        "en": "Start again and dance properly!",
+        "ru": "Начни заново и танцуй как следует!",
+        "start": 0.16,
+        "end": 3.75
+      }
+    ],
+    "source_seconds": 4.599375
+  },
+  {
+    "file": "cin_lvl1403_gbb.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "Ghost A (deep voice) failure prompt in Level 14.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Ghost A",
+        "en": "You have to keep up with the beat!",
+        "ru": "Нужно попадать в ритм!",
+        "start": 0.21,
+        "end": 3.12
+      }
+    ],
+    "source_seconds": 3.8576875
+  },
+  {
+    "file": "cin_lvl1404_ja.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "Ghost B combined failure prompt in Level 14.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Ghost B",
+        "en": "Start again and dance properly!",
+        "ru": "Начни заново и танцуй как следует!",
+        "start": 0.22,
+        "end": 3.65
+      },
+      {
+        "speaker": "Ghost B",
+        "en": "You have to keep up with the beat!",
+        "ru": "Нужно попадать в ритм!",
+        "start": 3.85,
+        "end": 6.55
+      }
+    ],
+    "source_seconds": 7.0183125
+  },
+  {
+    "file": "cin_lvl1601.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "Daffy Duck train tutorial in Level 16 (full version).",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Attention! This train is about to reach the station.",
+        "ru": "Внимание! Поезд подходит к станции.",
+        "start": 0.16,
+        "end": 4.88
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Please keep your wings and bills inside the car at all times.",
+        "ru": "Пожалуйста, всё время держите крылья и клювы внутри вагона.",
+        "start": 5.4,
+        "end": 10.35
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to catch the train, press this button to turn the signal red.",
+        "ru": "Хочешь сесть на поезд — нажми эту кнопку, чтобы включить красный сигнал.",
+        "start": 11.26,
+        "end": 16.25
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Then, the next time the train passes through, it'll stop here, and you can get on.",
+        "ru": "Тогда в следующий раз поезд остановится здесь, и ты сможешь сесть.",
+        "start": 16.85,
+        "end": 22.35
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Keep an eye on this chronometer to learn when the train is going to arrive and how long it will stay.",
+        "ru": "Следи за этим хронометром, чтобы знать, когда прибудет поезд и сколько он простоит.",
+        "start": 22.75,
+        "end": 29.56
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "And whatever you do, don't go into any tunnels on foot, it's dangerous.",
+        "ru": "И что бы ты ни делал, не ходи в тоннели пешком — это опасно!",
+        "start": 29.98,
+        "end": 36.35
+      }
+    ],
+    "source_seconds": 37.2993125
+  },
+  {
+    "file": "cin_lvl1602.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "Daffy Duck train tutorial in Level 16 (short version without station announcement).",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to catch the train, press this button to turn the signal red.",
+        "ru": "Хочешь сесть на поезд — нажми эту кнопку, чтобы включить красный сигнал.",
+        "start": 0.12,
+        "end": 4.95
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Then, the next time the train passes through, it will stop here, and you can get on.",
+        "ru": "Тогда в следующий раз поезд остановится здесь, и ты сможешь сесть.",
+        "start": 5.5,
+        "end": 11.08
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Keep an eye on this chronometer to learn when the train is going to arrive and how long it will stay.",
+        "ru": "Следи за этим хронометром, чтобы знать, когда прибудет поезд и сколько он простоит.",
+        "start": 11.45,
+        "end": 18.26
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "And whatever you do, don't go into any tunnels on foot, it's dangerous.",
+        "ru": "И что бы ты ни делал, не ходи в тоннели пешком — это опасно!",
+        "start": 18.67,
+        "end": 25.05
+      }
+    ],
+    "source_seconds": 25.344
+  }
+]

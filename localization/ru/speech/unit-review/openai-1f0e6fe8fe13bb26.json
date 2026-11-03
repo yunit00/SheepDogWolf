@@ -1,0 +1,124 @@
+{
+  "files": [
+    {
+      "file": "cin_lvl_0306.wav",
+      "transcript": "Нет, нет, нет! Прячься за камнем! Отойди за линию, если хочешь начать заново.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "noise artifact"
+      ]
+    },
+    {
+      "file": "cin_lvl_0307.wav",
+      "transcript": "Отлично! Ты готов взяться за овчарку. Если понадобится ещё совет, просто возвращайся ко мне.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0308.wav",
+      "transcript": "За камнями можно прятаться, удерживая кнопку скрытности.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0309.wav",
+      "transcript": "Не хочешь оставаться в неведении, а? Или хочешь? Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры. А ещё можно использовать предметы.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0310.wav",
+      "transcript": "Подбери предмет, который хочешь положить в инвентарь. Ты можешь использовать его сразу, если будешь удерживать кнопку инвентаря. Появится меню с твоими предметами. Стрелками вправо и влево выбери нужный, отпусти кнопку — и он у тебя. Проще простого!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0311.wav",
+      "transcript": "Для начала подойди к камню сбоку, за белой линией.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cinfl_lvl0401__01.wav",
+      "transcript": "Ой! Ой!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "repeated word"
+      ]
+    },
+    {
+      "file": "cinfl_lvl0401__02.wav",
+      "transcript": "Та-дам!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "noise artifact"
+      ]
+    },
+    {
+      "file": "cinfl_lvl0401__03.wav",
+      "transcript": "Это я, пленительный лесной эльф!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cinfl_lvl0401__04.wav",
+      "transcript": "Я играю чарующую музыку на волшебной флейте!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "cin_lvl_0306.wav": "53d533aff7fc34e4f674bfb83830a0f52c5595b8b5851c5259da9ab0acf1b0be",
+    "cin_lvl_0307.wav": "a188d549301f3350b9d057f7050baa5d6c9f930b376ed3f898007e83d61ec475",
+    "cin_lvl_0308.wav": "a29e761199a6090d5c5c271e5e11f769c7e076c0630cc4bf061bb2dd2fbf5094",
+    "cin_lvl_0309.wav": "e244f043a905f90d41a3eab2059939f979d4ee0bcc71f364c79c21803112c85d",
+    "cin_lvl_0310.wav": "b2662fa3fbca5e47c4319120e12d01869d1a026ec79c6b710a676024a657f07e",
+    "cin_lvl_0311.wav": "77dd02bf1db73dbdc3228a51f2c825d87d8f16dd5cb72f9a398bf014b341ed8a",
+    "cinfl_lvl0401__01.wav": "59e33cef1393d88f801948f85dacbb3960134e4f061c1214e510fe59bee7f914",
+    "cinfl_lvl0401__02.wav": "d1643f716e0acef484442de8c03c5917b62c0324b927aa366c50d0879409f4c9",
+    "cinfl_lvl0401__03.wav": "f17e193084aff57691b16936b14673bee543d206de25c00a911f3b863fb97f33",
+    "cinfl_lvl0401__04.wav": "2e6a9547b6e7c2d95a12025a2a071174c7dc19fd08b6fc27ab46fda02c468104"
+  },
+  "references": {
+    "cin_lvl_0306.wav": "Нет, нет, нет! Прячься за камнем! Отойди за линию, если хочешь начать заново.",
+    "cin_lvl_0307.wav": "Отлично! Ты готов взяться за овчарку. Если понадобится ещё совет, просто возвращайся ко мне.",
+    "cin_lvl_0308.wav": "За камнями можно прятаться, удерживая кнопку скрытности.",
+    "cin_lvl_0309.wav": "Не хочешь оставаться в неведении, а? Или хочешь? Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры. А ещё можно использовать предметы.",
+    "cin_lvl_0310.wav": "Подбери предмет, который хочешь положить в инвентарь. Ты можешь использовать его сразу, если будешь удерживать кнопку инвентаря. Появится меню с твоими предметами. Стрелками вправо и влево выбери нужный, отпусти кнопку — и он у тебя. Проще простого!",
+    "cin_lvl_0311.wav": "Для начала подойди к камню сбоку, за белой линией.",
+    "cinfl_lvl0401__01.wav": "Ой!",
+    "cinfl_lvl0401__02.wav": "Та-дам!",
+    "cinfl_lvl0401__03.wav": "Это я, пленительный лесной эльф!",
+    "cinfl_lvl0401__04.wav": "Я играю чарующую музыку на волшебной флейте!"
+  }
+}

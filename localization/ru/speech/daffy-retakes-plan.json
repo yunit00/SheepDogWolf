@@ -1,0 +1,1068 @@
+[
+  {
+    "unit": {
+      "file": "Cin02_sc_reL001__01.wav",
+      "source_file": "Cin02_sc_reL001.wav",
+      "speaker": "Daffy Duck",
+      "text": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+      "start": 7.6,
+      "end": 10.3,
+      "source_seconds": 14.346375,
+      "segments": [
+        1
+      ]
+    },
+    "room": 2.73,
+    "seconds": 4.28,
+    "qa": {
+      "file": "Cin02_sc_reL001__01.wav",
+      "transcript": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "Cin_int_niv_01.wav",
+      "source_file": "Cin_int_niv_01.wav",
+      "speaker": "Daffy Duck",
+      "text": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+      "start": 0.0,
+      "end": 7.7,
+      "source_seconds": 8.812,
+      "segments": [
+        0
+      ]
+    },
+    "room": 8.732,
+    "seconds": 11.087,
+    "qa": {
+      "file": "Cin_int_niv_01.wav",
+      "transcript": "Привет! И добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "Cin_int_niv_02.wav",
+      "source_file": "Cin_int_niv_02.wav",
+      "speaker": "Daffy Duck",
+      "text": "Слушай сюда, приятель. Просто расслабься и играй. Это шоу должно катапультировать меня прямо в суперзвёзды!",
+      "start": 0.0,
+      "end": 8.1,
+      "source_seconds": 8.613625,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    "room": 8.534,
+    "seconds": 12.428,
+    "qa": {
+      "file": "Cin_int_niv_02.wav",
+      "transcript": "Слушай сюда, приятель. Просто расслабься и играй. Это шоу должно катапультировать меня прямо в суперзвёзды!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "Cin_int_niv_09b.wav",
+      "source_file": "Cin_int_niv_09b.wav",
+      "speaker": "Daffy Duck",
+      "text": "Что?",
+      "start": 0.12,
+      "end": 0.82,
+      "source_seconds": 1.358625,
+      "segments": [
+        0
+      ]
+    },
+    "room": 1.219,
+    "seconds": 2.629,
+    "qa": {
+      "file": "Cin_int_niv_09b.wav",
+      "transcript": "Что? Что?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "repetition"
+      ]
+    }
+  },
+  {
+    "unit": {
+      "file": "Cin_int_niv_12.wav",
+      "source_file": "Cin_int_niv_12.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ещё один способ изменить настройки игры — нажать кнопку «Старт».",
+      "start": 0.08,
+      "end": 4.85,
+      "source_seconds": 5.610875,
+      "segments": [
+        0
+      ]
+    },
+    "room": 5.511,
+    "seconds": 6.966,
+    "qa": {
+      "file": "Cin_int_niv_12.wav",
+      "transcript": "Ещё один способ изменить настройки игры — нажать кнопку «Старт».",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "Mars_2sec__00.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Фантастика!",
+      "start": 14.35,
+      "end": 15.8,
+      "source_seconds": 208.7134375,
+      "segments": [
+        0
+      ]
+    },
+    "room": 1.48,
+    "seconds": 4.105,
+    "qa": {
+      "file": "Mars_2sec__00.wav",
+      "transcript": "Фантастика! Сам фантастика!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "repeated_speech",
+        "extra_words"
+      ]
+    }
+  },
+  {
+    "unit": {
+      "file": "Mars_2sec__01.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Последняя овечка!",
+      "start": 15.85,
+      "end": 17.35,
+      "source_seconds": 208.7134375,
+      "segments": [
+        1
+      ]
+    },
+    "room": 1.53,
+    "seconds": 2.628,
+    "qa": {
+      "file": "Mars_2sec__01.wav",
+      "transcript": "Последняя овечка!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "Mars_2sec__02.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "У тебя получилось!",
+      "start": 17.4,
+      "end": 18.5,
+      "source_seconds": 208.7134375,
+      "segments": [
+        2
+      ]
+    },
+    "room": 1.28,
+    "seconds": 2.042,
+    "qa": {
+      "file": "Mars_2sec__02.wav",
+      "transcript": "У тебя получилось!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "Mars_2sec__04.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "К сожалению, наше шоу почти закончилось.",
+      "start": 21.5,
+      "end": 24.45,
+      "source_seconds": 208.7134375,
+      "segments": [
+        4
+      ]
+    },
+    "room": 3.23,
+    "seconds": 4.009,
+    "qa": {
+      "file": "Mars_2sec__04.wav",
+      "transcript": "К сожалению, наше шоу почти закончилось.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "Mars_2sec__05.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Спасибо всем моим поклонникам за то, что были с нами до самого конца.",
+      "start": 24.75,
+      "end": 29.15,
+      "source_seconds": 208.7134375,
+      "segments": [
+        5
+      ]
+    },
+    "room": 4.58,
+    "seconds": 6.46,
+    "qa": {
+      "file": "Mars_2sec__05.wav",
+      "transcript": "Спасибо всем моим поклонникам за то, что были с нами до самого конца.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "Mars_2sec__07.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "А? Это ещё что такое?",
+      "start": 31.4,
+      "end": 33.15,
+      "source_seconds": 208.7134375,
+      "segments": [
+        7
+      ]
+    },
+    "room": 1.93,
+    "seconds": 3.646,
+    "qa": {
+      "file": "Mars_2sec__07.wav",
+      "transcript": "А? Это ещё что такое?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "Mars_2sec__08.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Что здесь делает марсианин Марвин?",
+      "start": 33.35,
+      "end": 36.05,
+      "source_seconds": 208.7134375,
+      "segments": [
+        8
+      ]
+    },
+    "room": 2.98,
+    "seconds": 3.876,
+    "qa": {
+      "file": "Mars_2sec__08.wav",
+      "transcript": "Что здесь делает марсианин Марвин?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "be_02.wav",
+      "source_file": "be_02.wav",
+      "speaker": "Daffy Duck",
+      "text": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!",
+      "start": 0.1,
+      "end": 4.28,
+      "source_seconds": 5.0536875,
+      "segments": [
+        0
+      ]
+    },
+    "room": 4.934,
+    "seconds": 6.21,
+    "qa": {
+      "file": "be_02.wav",
+      "transcript": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "be_04__01.wav",
+      "source_file": "be_04.wav",
+      "speaker": "Daffy Duck",
+      "text": "И так далее.",
+      "start": 17.4,
+      "end": 18.55,
+      "source_seconds": 19.092,
+      "segments": [
+        1
+      ]
+    },
+    "room": 1.672,
+    "seconds": 5.901,
+    "qa": {
+      "file": "be_04__01.wav",
+      "transcript": "И так далее.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "noise artifacts"
+      ]
+    }
+  },
+  {
+    "unit": {
+      "file": "ci_lvl_11_lap01b.wav",
+      "source_file": "ci_lvl_11_lap01b.wav",
+      "speaker": "Daffy Duck",
+      "text": "О, просто великолепно! Опять сезон охоты на уток. Хорошо, что я надел этот костюм Робин Гуда, так что этим назойливым охотникам меня не найти.",
+      "start": 0.12,
+      "end": 9.5,
+      "source_seconds": 10.3564375,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    "room": 10.216,
+    "seconds": 13.106,
+    "qa": {
+      "file": "ci_lvl_11_lap01b.wav",
+      "transcript": "О, просто великолепно! Опять сезон охоты на уток. Хорошо, что я надел этот костюм Робин Гуда, так что этим назойливым охотникам меня не найти.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "cin_goal_01__03.wav",
+      "source_file": "cin_goal_01.wav",
+      "speaker": "Daffy Duck",
+      "text": "И ещё одна победа нашего участника!",
+      "start": 30.2,
+      "end": 33.3,
+      "source_seconds": 33.942625,
+      "segments": [
+        3
+      ]
+    },
+    "room": 3.723,
+    "seconds": 6.78,
+    "qa": {
+      "file": "cin_goal_01__03.wav",
+      "transcript": "И ещё одна победа нашего участника!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "cin_lvl_0207__02.wav",
+      "source_file": "cin_lvl_0207.wav",
+      "speaker": "Daffy Duck",
+      "text": "Если будут ещё вопросы, можешь вернуться ко мне.",
+      "start": 5.14,
+      "end": 8.04,
+      "source_seconds": 15.96525,
+      "segments": [
+        2
+      ]
+    },
+    "room": 3.26,
+    "seconds": 5.711,
+    "qa": {
+      "file": "cin_lvl_0207__02.wav",
+      "transcript": "Если будут ещё вопросы, можешь вернуться ко мне.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "cin_lvl_0209.wav",
+      "source_file": "cin_lvl_0209.wav",
+      "speaker": "Daffy Duck",
+      "text": "Хорошо! Начинай, когда захочешь.",
+      "start": 0.18,
+      "end": 2.25,
+      "source_seconds": 3.0718125,
+      "segments": [
+        0
+      ]
+    },
+    "room": 2.872,
+    "seconds": 3.664,
+    "qa": {
+      "file": "cin_lvl_0209.wav",
+      "transcript": "Хорошо! Начинай, когда захочешь.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "cin_lvl_0306.wav",
+      "source_file": "cin_lvl_0306.wav",
+      "speaker": "Daffy Duck",
+      "text": "Нет, нет, нет! Прячься за камнем! Отойди за линию, если хочешь начать заново.",
+      "start": 0.0,
+      "end": 7.6,
+      "source_seconds": 8.1346875,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    },
+    "room": 8.055,
+    "seconds": 11.911,
+    "qa": {
+      "file": "cin_lvl_0306.wav",
+      "transcript": "Нет, нет, нет! Прячься за камнем! Отойди за линию, если хочешь начать заново.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "noise artifact"
+      ]
+    }
+  },
+  {
+    "unit": {
+      "file": "cin_lvl_0308.wav",
+      "source_file": "cin_lvl_0308.wav",
+      "speaker": "Daffy Duck",
+      "text": "За камнями можно прятаться, удерживая кнопку скрытности.",
+      "start": 0.08,
+      "end": 4.54,
+      "source_seconds": 5.423875,
+      "segments": [
+        0
+      ]
+    },
+    "room": 5.324,
+    "seconds": 6.79,
+    "qa": {
+      "file": "cin_lvl_0308.wav",
+      "transcript": "За камнями можно прятаться, удерживая кнопку скрытности.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "cin_lvl_0309.wav",
+      "source_file": "cin_lvl_0309.wav",
+      "speaker": "Daffy Duck",
+      "text": "Не хочешь оставаться в неведении, а? Или хочешь? Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры. А ещё можно использовать предметы.",
+      "start": 0.08,
+      "end": 10.16,
+      "source_seconds": 10.9046875,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    },
+    "room": 10.805,
+    "seconds": 18.332,
+    "qa": {
+      "file": "cin_lvl_0309.wav",
+      "transcript": "Не хочешь оставаться в неведении, а? Или хочешь? Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры. А ещё можно использовать предметы.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "cinfl_lvl0401__01.wav",
+      "source_file": "cinfl_lvl0401.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ой!",
+      "start": 17.65,
+      "end": 18.7,
+      "source_seconds": 63.4819375,
+      "segments": [
+        1
+      ]
+    },
+    "room": 1.76,
+    "seconds": 2.82,
+    "qa": {
+      "file": "cinfl_lvl0401__01.wav",
+      "transcript": "Ой! Ой!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "repeated word"
+      ]
+    }
+  },
+  {
+    "unit": {
+      "file": "cinfl_lvl0401__02.wav",
+      "source_file": "cinfl_lvl0401.wav",
+      "speaker": "Daffy Duck",
+      "text": "Та-дам!",
+      "start": 21.05,
+      "end": 22.45,
+      "source_seconds": 63.4819375,
+      "segments": [
+        2
+      ]
+    },
+    "room": 2.11,
+    "seconds": 2.914,
+    "qa": {
+      "file": "cinfl_lvl0401__02.wav",
+      "transcript": "Та-дам!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "noise artifact"
+      ]
+    }
+  },
+  {
+    "unit": {
+      "file": "cinfl_lvl0401__03.wav",
+      "source_file": "cinfl_lvl0401.wav",
+      "speaker": "Daffy Duck",
+      "text": "Это я, пленительный лесной эльф!",
+      "start": 23.2,
+      "end": 25.75,
+      "source_seconds": 63.4819375,
+      "segments": [
+        3
+      ]
+    },
+    "room": 3.13,
+    "seconds": 4.193,
+    "qa": {
+      "file": "cinfl_lvl0401__03.wav",
+      "transcript": "Это я, пленительный лесной эльф!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "cinfl_lvl0402.wav",
+      "source_file": "cinfl_lvl0402.wav",
+      "speaker": "Daffy Duck",
+      "text": "Волшебная флейта просто потрясающа! С ней можно загипнотизировать кого угодно и увести за собой куда захочешь! Пожалуй, надо опробовать её на своём агенте.",
+      "start": 0.0,
+      "end": 11.4,
+      "source_seconds": 11.9886875,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    },
+    "room": 11.909,
+    "seconds": 15.542,
+    "qa": {
+      "file": "cinfl_lvl0402.wav",
+      "transcript": "Волшебная флейта просто потрясающа! С ней можно загипнотизировать кого угодно и увести за собой куда захочешь! Пожалуй, надо опробовать её на своём агенте.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "intro_2sec__02.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Слушай, приятель, всё, что тебе нужно — расслабиться и играть. А я использую эту работёнку, чтобы взлететь на вершину суперславы!",
+      "start": 99.9,
+      "end": 107.8,
+      "source_seconds": 191.9705,
+      "segments": [
+        2
+      ]
+    },
+    "room": 8.38,
+    "seconds": 16.187,
+    "qa": {
+      "file": "intro_2sec__02.wav",
+      "transcript": "Слушай, приятель, всё, что тебе нужно — расслабиться и играть. А я использую эту работёнку, чтобы взлететь на вершину суперславы!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "intro_2sec__03.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Итак, цель нашей игры проста: воровать овец.",
+      "start": 108.3,
+      "end": 113.0,
+      "source_seconds": 191.9705,
+      "segments": [
+        3
+      ]
+    },
+    "room": 5.41,
+    "seconds": 6.777,
+    "qa": {
+      "file": "intro_2sec__03.wav",
+      "transcript": "Итак, цель нашей игры проста: воровать овец.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "intro_2sec__08.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Я предельно ясно выразился?",
+      "start": 161.2,
+      "end": 164.2,
+      "source_seconds": 191.9705,
+      "segments": [
+        8
+      ]
+    },
+    "room": 3.71,
+    "seconds": 7.521,
+    "qa": {
+      "file": "intro_2sec__08.wav",
+      "transcript": "Я предельно ясно выразился? Спасибо. Удалённых помпово цикло...",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": false,
+      "english_speech": false,
+      "issues": [
+        "extra_words"
+      ]
+    }
+  },
+  {
+    "unit": {
+      "file": "intro_2sec__11.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Это твой звёздный час, и ты ведь не хочешь всё запороть.",
+      "start": 176.2,
+      "end": 180.0,
+      "source_seconds": 191.9705,
+      "segments": [
+        11
+      ]
+    },
+    "room": 3.78,
+    "seconds": 6.11,
+    "qa": {
+      "file": "intro_2sec__11.wav",
+      "transcript": "Это твой звёздный час, и ты ведь не хочешь всё запороть.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "intro_2sec__12.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "К тому же, это я объяснил тебе правила игры.",
+      "start": 180.0,
+      "end": 183.0,
+      "source_seconds": 191.9705,
+      "segments": [
+        12
+      ]
+    },
+    "room": 3.08,
+    "seconds": 3.974,
+    "qa": {
+      "file": "intro_2sec__12.wav",
+      "transcript": "К тому же, это я объяснил тебе правила игры.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "intro_2sec__13.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как!",
+      "start": 183.1,
+      "end": 188.3,
+      "source_seconds": 191.9705,
+      "segments": [
+        13
+      ]
+    },
+    "room": 5.68,
+    "seconds": 7.629,
+    "qa": {
+      "file": "intro_2sec__13.wav",
+      "transcript": "И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "re_niv_05qu.wav",
+      "source_file": "re_niv_05qu.wav",
+      "speaker": "Daffy Duck",
+      "text": "Давай, не сдавайся!",
+      "start": 0.08,
+      "end": 2.4,
+      "source_seconds": 2.981125,
+      "segments": [
+        0
+      ]
+    },
+    "room": 2.881,
+    "seconds": 6.473,
+    "qa": {
+      "file": "re_niv_05qu.wav",
+      "transcript": "Давай, не сдавайся!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "noise artifact"
+      ]
+    }
+  },
+  {
+    "unit": {
+      "file": "ret_lvl_00__01.wav",
+      "source_file": "ret_lvl_00.wav",
+      "speaker": "Daffy Duck",
+      "text": "Не говори мне, что хочешь сдаться ещё до начала шоу.",
+      "start": 1.78,
+      "end": 4.95,
+      "source_seconds": 8.3204375,
+      "segments": [
+        1
+      ]
+    },
+    "room": 3.6,
+    "seconds": 9.766,
+    "qa": {
+      "file": "ret_lvl_00__01.wav",
+      "transcript": "Не говори мне, что хочешь сдаться ещё до начала шоу.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "ret_niv_00a__00.wav",
+      "source_file": "ret_niv_00a.wav",
+      "speaker": "Daffy Duck",
+      "text": "Браво!",
+      "start": 0.17,
+      "end": 1.12,
+      "source_seconds": 5.3333125,
+      "segments": [
+        0
+      ]
+    },
+    "room": 1.17,
+    "seconds": 2.342,
+    "qa": {
+      "file": "ret_niv_00a__00.wav",
+      "transcript": "Браво!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "ret_niv_02ge__00.wav",
+      "source_file": "ret_niv_02ge.wav",
+      "speaker": "Daffy Duck",
+      "text": "Фантастика!",
+      "start": 0.16,
+      "end": 1.25,
+      "source_seconds": 7.565875,
+      "segments": [
+        0
+      ]
+    },
+    "room": 1.32,
+    "seconds": 2.622,
+    "qa": {
+      "file": "ret_niv_02ge__00.wav",
+      "transcript": "Фантастика!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "ret_niv_02ge__01.wav",
+      "source_file": "ret_niv_02ge.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ой, тс-с, нашему участнику нужна тишина.",
+      "start": 1.5,
+      "end": 4.5,
+      "source_seconds": 7.565875,
+      "segments": [
+        1
+      ]
+    },
+    "room": 3.4,
+    "seconds": 5.315,
+    "qa": {
+      "file": "ret_niv_02ge__01.wav",
+      "transcript": "Ой, тс-с, нашему участнику нужна тишина.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "ret_niv_03ge__01.wav",
+      "source_file": "ret_niv_03ge.wav",
+      "speaker": "Daffy Duck",
+      "text": "Не забудь найти все табельные часы.",
+      "start": 1.34,
+      "end": 3.78,
+      "source_seconds": 5.3690625,
+      "segments": [
+        1
+      ]
+    },
+    "room": 3.15,
+    "seconds": 4.22,
+    "qa": {
+      "file": "ret_niv_03ge__01.wav",
+      "transcript": "Не забудь найти все табельные часы.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "txt_lvl_0014.wav",
+      "source_file": "txt_lvl_0014.wav",
+      "speaker": "Daffy Duck",
+      "text": "Послушай: если хочешь красть овец и строить планы, тебе понадобится инвентарь. Сначала нажми кнопку инвентаря — откроется карта уровня и доступные предметы. Чтобы получить предмет, закажи его через почтовый ящик. Хочешь узнать, в каком ящике нужно заказывать конкретный предмет? Выбери его в инвентаре, и нужный ящик обведётся красным — значит, посылка там! Белым нарисованы предметы, которые можно найти на уровне. Цветные — те, что ты уже забрал и можешь использовать. А если и этого мало, загляни в инструкцию к предмету, там описано, как им пользоваться. Так что давай! Опробуй инвентарь и закажи предмет из почтового ящика прямо сегодня! Батарейки в комплект не входят.",
+      "start": 0.3,
+      "end": 56.5,
+      "source_seconds": 57.0655625,
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "room": 56.746,
+    "seconds": 49.407,
+    "qa": {
+      "file": "txt_lvl_0014.wav",
+      "transcript": "Ослушай, если хочешь красть овец и строить планы, тебе понадобится инвентарь. Сначала нажми кнопку инвентаря — откроется карта уровня и доступные предметы. Чтобы получить предмет, закажи его через почтовый ящик. Хочешь узнать, в каком ящике нужно заказывать конкретный предмет? Выбери его в инвентаре, и нужный ящик обведётся красным — значит, посылка там! Белым нарисованы предметы, которые можно найти на уровне. Цветные — те, что ты уже забрал и можешь использовать. А если и этого мало, загляни в инструкцию к предмету, там описано, как им пользоваться. Так что давай! Опробуй инвентарь и закажи предмет из почтового ящика прямо сегодня! Батарейки в комплект не входят.",
+      "complete": false,
+      "first_word_clear": false,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "clipped_start"
+      ]
+    }
+  },
+  {
+    "unit": {
+      "file": "txt_lvl_003.wav",
+      "source_file": "txt_lvl_003.wav",
+      "speaker": "Daffy Duck",
+      "text": "Пс-с, я прямо за тобой. Просто используй кнопки камеры, чтобы двигать её.",
+      "start": 0.07,
+      "end": 7.38,
+      "source_seconds": 8.94475,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    "room": 8.855,
+    "seconds": 6.543,
+    "qa": {
+      "file": "txt_lvl_003.wav",
+      "transcript": "С, я прямо за тобой. Просто используй кнопки камеры, чтобы двигать её.",
+      "complete": false,
+      "first_word_clear": false,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "clipped_start"
+      ]
+    }
+  },
+  {
+    "unit": {
+      "file": "txt_lvl_005.wav",
+      "source_file": "txt_lvl_005.wav",
+      "speaker": "Daffy Duck",
+      "text": "А теперь я спрячусь наверху. Если хочешь найти меня, удерживай кнопку вида от первого лица.",
+      "start": 0.12,
+      "end": 6.83,
+      "source_seconds": 7.39425,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    "room": 7.254,
+    "seconds": 9.124,
+    "qa": {
+      "file": "txt_lvl_005.wav",
+      "transcript": "А теперь я спрячусь наверху. Если хочешь найти меня, удерживай кнопку вида от первого лица.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  },
+  {
+    "unit": {
+      "file": "txt_rob_03.wav",
+      "source_file": "txt_rob_03.wav",
+      "speaker": "Daffy Duck",
+      "text": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов.",
+      "start": 0.0,
+      "end": 8.42,
+      "source_seconds": 9.703375,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    "room": 9.623,
+    "seconds": 12.045,
+    "qa": {
+      "file": "txt_rob_03.wav",
+      "transcript": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "trailing music sting"
+      ]
+    }
+  }
+]

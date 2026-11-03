@@ -1,0 +1,20 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 6.8 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Отлично! Ты готов взяться за овчарку. Если понадобится ещё совет, просто возвращайся ко мне.",
+  "unit": {
+    "file": "cin_lvl_0307.wav",
+    "source_file": "cin_lvl_0307.wav",
+    "speaker": "Daffy Duck",
+    "text": "Отлично! Ты готов взяться за овчарку. Если понадобится ещё совет, просто возвращайся ко мне.",
+    "start": 0.0,
+    "end": 6.85,
+    "source_seconds": 7.894,
+    "segments": [
+      0,
+      1,
+      2
+    ]
+  }
+}

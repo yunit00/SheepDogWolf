@@ -1,0 +1,17 @@
+{
+  "transcript": "Н-на следующих уровнях т-ты сможешь найти салат не только на о-огородах. Но не беспокойся, он всегда будет п-показан на твоей к-карте.",
+  "character_voice": "High-pitched, animated cartoon voice with theatrical stuttering, imitating Porky Pig.",
+  "lisp": "absent",
+  "issues": [
+    "Word 'б-беспокойся' was spoken without stutter as 'беспокойся', and 'н-не' was reduced to 'не'."
+  ],
+  "clips": [
+    {
+      "file": "cintxt_lvl_0105.wav",
+      "start": 0.35,
+      "end": 10.9,
+      "transcript": "Н-на следующих уровнях т-ты сможешь найти салат не только на о-огородах. Но не беспокойся, он всегда будет п-показан на твоей к-карте.",
+      "complete": true
+    }
+  ]
+}

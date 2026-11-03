@@ -1,0 +1,20 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 10.1 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Не хочешь оставаться в неведении, а? Или хочешь? Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры. А ещё можно использовать предметы.",
+  "unit": {
+    "file": "cin_lvl_0309.wav",
+    "source_file": "cin_lvl_0309.wav",
+    "speaker": "Daffy Duck",
+    "text": "Не хочешь оставаться в неведении, а? Или хочешь? Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры. А ещё можно использовать предметы.",
+    "start": 0.08,
+    "end": 10.16,
+    "source_seconds": 10.9046875,
+    "segments": [
+      0,
+      1,
+      2
+    ]
+  }
+}

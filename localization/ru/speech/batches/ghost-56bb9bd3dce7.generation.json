@@ -1,0 +1,56 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Fenrir",
+  "seconds": 12.52,
+  "script": {
+    "speaker": "Ghost A",
+    "voice": "Fenrir",
+    "clips": [
+      {
+        "file": "cin_lvl1401_gb.wav",
+        "source_file": "cin_lvl1401_gb.wav",
+        "speaker": "Ghost A",
+        "text": "Чтобы стать своим, придётся танцевать как мы. Делай то же, что и остальные, и просто следуй ритму музыки.",
+        "start": 0.34,
+        "end": 12.98,
+        "source_seconds": 15.495,
+        "segments": [
+          0,
+          1
+        ]
+      },
+      {
+        "file": "cin_lvl1403_gbb.wav",
+        "source_file": "cin_lvl1403_gbb.wav",
+        "speaker": "Ghost A",
+        "text": "Нужно попадать в ритм!",
+        "start": 0.21,
+        "end": 3.12,
+        "source_seconds": 3.8576875,
+        "segments": [
+          0
+        ]
+      }
+    ],
+    "prompt": "Russian dubbing for a classic cartoon game. Theatrical male cartoon ghost dance instructor, medium-high rasp, lively playful spooky voice, clear energetic Russian, no added echo. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Чтобы стать своим, придётся танцевать как мы. Делай то же, что и остальные, и просто следуй ритму музыки.\n\n2. Нужно попадать в ритм!"
+  },
+  "usage": {
+    "promptTokenCount": 172,
+    "candidatesTokenCount": 313,
+    "totalTokenCount": 485,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 172
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 313
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

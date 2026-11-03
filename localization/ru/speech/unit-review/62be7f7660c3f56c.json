@@ -1,0 +1,118 @@
+{
+  "files": [
+    {
+      "file": "Mars_2sec__10.wav",
+      "transcript": "Этот ничтожный мелкий землянин.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__11.wav",
+      "transcript": "Похоже, это нелепое создание попало на мою планету из-за твоей оплошности, так ведь?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__12.wav",
+      "transcript": "М-м.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__13.wav",
+      "transcript": "Что ж, позволь рассказать, как твой друг очутился здесь.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__14.wav",
+      "transcript": "Я как раз готовился испытать своё новейшее оружие — пи-эр двести,",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__15.wav",
+      "transcript": "весьма практичный инструмент, уменьшающий любое живое существо до одной десятой нормального размера.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__16.wav",
+      "transcript": "Для эксперимента я привлёк верного бойца моей армии.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__17.wav",
+      "transcript": "Я уже был готов опробовать изобретение, как вдруг какой-то захватчик на полной скорости врезался в мой бак с водой, и весь резервуар рухнул прямо на мою армию.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__18.wav",
+      "transcript": "Проклятый захватчик был похож на чёрную овцу.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__19.wav",
+      "transcript": "Это был сущий хаос, но благодаря сверхусилиям марсианина и помощи моего фантастического пи-эр двести мне удалось вернуть большую часть моей армии.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Mars_2sec__10.wav": "6ed851377a0aeae83c20912dfc8797be5f7e1d321247fc9e89366760c5fc596e",
+    "Mars_2sec__11.wav": "568fbcda01b1cfd7d76cc2f4d66cb14b2d17735fee551aaf9bfc303e3765f6c0",
+    "Mars_2sec__12.wav": "e64b2a7b5466f19cadfd7b038165054b9fdee503d79cf87d9b66c875a4e1ddca",
+    "Mars_2sec__13.wav": "b608b82e1eb4440c4c1a5edc7fd276d1175ffe9af456cf9598873bb653d9c404",
+    "Mars_2sec__14.wav": "d7835db09b7c877ad33357885162825d32a6433e628c51b65cc4ed1e36a99be6",
+    "Mars_2sec__15.wav": "cbdb64d4cdfa1e2ee5826a941f41334b74cdac579b998b5f2469942f9e595407",
+    "Mars_2sec__16.wav": "02760cce97a0bb689e20aed28c282a0dfa2ab13daed7ec016df97673679434dd",
+    "Mars_2sec__17.wav": "dd8217b18e3f3f49bb0ec771446fedb65b69dcff906571cfa00aa91b4ffc4c65",
+    "Mars_2sec__18.wav": "816df72fcfd2fabf1bf12bacf115d065a679ce617eaf114b709755fd1ad46d10",
+    "Mars_2sec__19.wav": "37f56380977872219f60ab676f237f442b0c0cdd8ed70a226604d139af412f6d"
+  },
+  "references": {
+    "Mars_2sec__10.wav": "Этот ничтожный мелкий землянин.",
+    "Mars_2sec__11.wav": "Похоже, это нелепое создание попало на мою планету из-за твоей оплошности, так ведь?",
+    "Mars_2sec__12.wav": "М-м.",
+    "Mars_2sec__13.wav": "Что ж, позволь рассказать, как твой друг очутился здесь.",
+    "Mars_2sec__14.wav": "Я как раз готовился испытать своё новейшее оружие — пи-эр двести,",
+    "Mars_2sec__15.wav": "весьма практичный инструмент, уменьшающий любое живое существо до одной десятой нормального размера.",
+    "Mars_2sec__16.wav": "Для эксперимента я привлёк верного бойца моей армии.",
+    "Mars_2sec__17.wav": "Я уже был готов опробовать изобретение, как вдруг какой-то захватчик на полной скорости врезался в мой бак с водой, и весь резервуар рухнул прямо на мою армию.",
+    "Mars_2sec__18.wav": "Проклятый захватчик был похож на чёрную овцу.",
+    "Mars_2sec__19.wav": "Это был сущий хаос, но благодаря сверхусилиям марсианина и помощи моего фантастического пи-эр двести мне удалось вернуть большую часть моей армии."
+  }
+}

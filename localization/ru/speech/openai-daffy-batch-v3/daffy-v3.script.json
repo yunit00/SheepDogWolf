@@ -1,0 +1,205 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Read each paragraph exactly once as a separate complete line. Keep the same voice. Leave TWO SECONDS OF SILENCE between paragraphs. Within each paragraph speak briskly and continuously, without dramatic pauses or drawn-out vowels. Never repeat a take. No extra words, music or effects. Short silence before first and after last line.",
+  "speed": 1.2,
+  "speaker": "Daffy Duck",
+  "clips": [
+    {
+      "file": "Cin02_sc_reL001__01.wav",
+      "source_file": "Cin02_sc_reL001.wav",
+      "speaker": "Daffy Duck",
+      "text": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+      "start": 7.6,
+      "end": 10.3,
+      "source_seconds": 14.346375,
+      "segments": [
+        1
+      ]
+    },
+    {
+      "file": "Cin_int_niv_01.wav",
+      "source_file": "Cin_int_niv_01.wav",
+      "speaker": "Daffy Duck",
+      "text": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+      "start": 0.0,
+      "end": 7.7,
+      "source_seconds": 8.812,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "Mars_2sec__01.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Последняя овечка!",
+      "start": 15.85,
+      "end": 17.35,
+      "source_seconds": 208.7134375,
+      "segments": [
+        1
+      ]
+    },
+    {
+      "file": "Mars_2sec__02.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "У тебя получилось!",
+      "start": 17.4,
+      "end": 18.5,
+      "source_seconds": 208.7134375,
+      "segments": [
+        2
+      ]
+    },
+    {
+      "file": "Mars_2sec__07.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "А? Это ещё что такое?",
+      "start": 31.4,
+      "end": 33.15,
+      "source_seconds": 208.7134375,
+      "segments": [
+        7
+      ]
+    },
+    {
+      "file": "Mars_2sec__08.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Что здесь делает марсианин Марвин?",
+      "start": 33.35,
+      "end": 36.05,
+      "source_seconds": 208.7134375,
+      "segments": [
+        8
+      ]
+    },
+    {
+      "file": "be_02.wav",
+      "source_file": "be_02.wav",
+      "speaker": "Daffy Duck",
+      "text": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!",
+      "start": 0.1,
+      "end": 4.28,
+      "source_seconds": 5.0536875,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "be_04__01.wav",
+      "source_file": "be_04.wav",
+      "speaker": "Daffy Duck",
+      "text": "И так далее.",
+      "start": 17.4,
+      "end": 18.55,
+      "source_seconds": 19.092,
+      "segments": [
+        1
+      ]
+    },
+    {
+      "file": "cin_goal_01__03.wav",
+      "source_file": "cin_goal_01.wav",
+      "speaker": "Daffy Duck",
+      "text": "И ещё одна победа нашего участника!",
+      "start": 30.2,
+      "end": 33.3,
+      "source_seconds": 33.942625,
+      "segments": [
+        3
+      ]
+    },
+    {
+      "file": "cin_lvl_0207__02.wav",
+      "source_file": "cin_lvl_0207.wav",
+      "speaker": "Daffy Duck",
+      "text": "Если будут ещё вопросы, можешь вернуться ко мне.",
+      "start": 5.14,
+      "end": 8.04,
+      "source_seconds": 15.96525,
+      "segments": [
+        2
+      ]
+    },
+    {
+      "file": "cin_lvl_0301.wav",
+      "source_file": "cin_lvl_0301.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ладно, пора научиться новенькому! Кусты — не единственное, что поможет тебе спрятаться. Камни тоже сойдут! Посмотри на размер этих камней. Эй, будь я на твоём месте, я бы спрятался за ними. Подойди вплотную сбоку к этому камню и нажми кнопку скрытности, чтобы замаскироваться. Знаешь что, можешь потренироваться со мной.",
+      "start": 0.16,
+      "end": 21.84,
+      "source_seconds": 23.172625,
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "file": "cinfl_lvl0401__01.wav",
+      "source_file": "cinfl_lvl0401.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ой!",
+      "start": 17.65,
+      "end": 18.7,
+      "source_seconds": 63.4819375,
+      "segments": [
+        1
+      ]
+    },
+    {
+      "file": "intro_2sec__11.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Это твой звёздный час, и ты ведь не хочешь всё запороть.",
+      "start": 176.2,
+      "end": 180.0,
+      "source_seconds": 191.9705,
+      "segments": [
+        11
+      ]
+    },
+    {
+      "file": "intro_2sec__13.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как!",
+      "start": 183.1,
+      "end": 188.3,
+      "source_seconds": 191.9705,
+      "segments": [
+        13
+      ]
+    },
+    {
+      "file": "ret_niv_02ge__00.wav",
+      "source_file": "ret_niv_02ge.wav",
+      "speaker": "Daffy Duck",
+      "text": "Фантастика!",
+      "start": 0.16,
+      "end": 1.25,
+      "source_seconds": 7.565875,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "txt_rob_03.wav",
+      "source_file": "txt_rob_03.wav",
+      "speaker": "Daffy Duck",
+      "text": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов.",
+      "start": 0.0,
+      "end": 8.42,
+      "source_seconds": 9.703375,
+      "segments": [
+        0,
+        1
+      ]
+    }
+  ]
+}

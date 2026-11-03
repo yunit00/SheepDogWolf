@@ -1,0 +1,120 @@
+{
+  "files": [
+    {
+      "file": "Mars_2sec__09.wav",
+      "transcript": "Этого не было в сценарии!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_01.wav",
+      "transcript": "Кто за это отвечает?!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_02.wav",
+      "transcript": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_03.wav",
+      "transcript": "Так, ладно. Какой умник заменил мой микрофон этой бритвой?!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_04__01.wav",
+      "transcript": "И так далее.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "noise artifacts"
+      ]
+    },
+    {
+      "file": "ci_lvl13_comb_01.wav",
+      "transcript": "Смотри, что можно сделать! Предмет можно прицепить на конец лески с помощью функции соединения в инвентаре. Просто выбери удочку, затем нажми «Соединить» и выбери предмет, который хочешь насадить на крючок. Если захочешь снять предмет, выбери удочку и нажми «Разделить».",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ci_lvl_11_lap01b.wav",
+      "transcript": "О, просто великолепно! Опять сезон охоты на уток. Хорошо, что я надел этот костюм Робин Гуда, так что этим назойливым охотникам меня не найти.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ci_lvl_11_lap02.wav",
+      "transcript": "Ну конечно! Куда ни приду — всюду этот кролик! Что ж, раз Багз здесь, можно и повеселиться. Сим объявляю: сезон охоты на кроликов! Да начнётся охота!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ci_lvl_13_cro01.wav",
+      "transcript": "Что за дела, приятель? Этот ужасный зверь не даёт мне пройти! Сделай же что-нибудь! Вот что: если освободишь меня, я научу тебя классному трюку. Оглуши его из пушки.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ci_lvl_13_cro02.wav",
+      "transcript": "Захлопни пасть, зубастик!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Mars_2sec__09.wav": "5e2dfc2a0984eac67f6bed2255d8ad7e5e30461c91cbf798629346c16d748a35",
+    "be_01.wav": "9091f0ee27cb7b12d202515ff40cf264f7d35f4bdafc84290eaedbef2febd10e",
+    "be_02.wav": "7f0dec3cba4c63d80405e07793c3bd0bba821062c72e90e9d48d79b19b6b849f",
+    "be_03.wav": "81ba6d7271724e087ee5e13b8909780ac9cbcb84a531449701efcf9bac773ca5",
+    "be_04__01.wav": "3a99c43b473d91b3020c6775bf1cc856f87acc7cfab5a3de80aba6764a111ecd",
+    "ci_lvl13_comb_01.wav": "f6feb8e3086b6925f7d829922146a3568993fdf3e71687c6e700a1caa1cfbaed",
+    "ci_lvl_11_lap01b.wav": "57123b0d2ac037fa85d788c94c6f1b4c4295103775aec7f80c9e165c3155f3e2",
+    "ci_lvl_11_lap02.wav": "c9a8eb81c205439158bac704fef4882827698d3c44d39c7d315173f2763a87da",
+    "ci_lvl_13_cro01.wav": "aec5d0feeb087d23ccc7fdecbc1337ebb4b15a795d86a095a99a5ad7e3de4697",
+    "ci_lvl_13_cro02.wav": "c797d5e0a76ce96356e1ea9c897204f3199d976033c75d362ebe52f803cecaee"
+  },
+  "references": {
+    "Mars_2sec__09.wav": "Этого не было в сценарии!",
+    "be_01.wav": "Кто за это отвечает?!",
+    "be_02.wav": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!",
+    "be_03.wav": "Так, ладно. Какой умник заменил мой микрофон этой бритвой?!",
+    "be_04__01.wav": "И так далее.",
+    "ci_lvl13_comb_01.wav": "Смотри, что можно сделать! Предмет можно прицепить на конец лески с помощью функции соединения в инвентаре. Просто выбери удочку, затем нажми «Соединить» и выбери предмет, который хочешь насадить на крючок. Если захочешь снять предмет, выбери удочку и нажми «Разделить».",
+    "ci_lvl_11_lap01b.wav": "О, просто великолепно! Опять сезон охоты на уток. Хорошо, что я надел этот костюм Робин Гуда, так что этим назойливым охотникам меня не найти.",
+    "ci_lvl_11_lap02.wav": "Ну конечно! Куда ни приду — всюду этот кролик! Что ж, раз Багз здесь, можно и повеселиться. Сим объявляю: сезон охоты на кроликов! Да начнётся охота!",
+    "ci_lvl_13_cro01.wav": "Что за дела, приятель? Этот ужасный зверь не даёт мне пройти! Сделай же что-нибудь! Вот что: если освободишь меня, я научу тебя классному трюку. Оглуши его из пушки.",
+    "ci_lvl_13_cro02.wav": "Захлопни пасть, зубастик!"
+  }
+}

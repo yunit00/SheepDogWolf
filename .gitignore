@@ -18,3 +18,8 @@ TODO.txt
 *.dmg
 *.p12
 *.p8
+# Intermediate generated audio remains local; the reviewed runtime pack lives
+# in localization/ru/voices. Keep scripts, provenance and QA reports in Git.
+/localization/ru/speech/batches/*.wav
+/localization/ru/speech/openai-daffy-*/*.wav
+/localization/ru/speech/openai-pilot/*.wav

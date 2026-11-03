@@ -1,0 +1,252 @@
+[
+  {
+    "file": "be_05a.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "Editorial localization of garbled blooper: independent listens agree only on out of all the, sheep, sheepdogs. No actor/character identity inferred. Translate those fragments only and preserve unintelligible muttering as a nonverbal effect; do not invent the discarded longer phrases. Final audio still requires completeness/residual-speech QA.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Blooper voice",
+        "en": "Out of all the…",
+        "ru": "Из всех этих…",
+        "start": 0.0,
+        "end": 1.3
+      },
+      {
+        "speaker": "Blooper voice",
+        "en": "sheep…",
+        "ru": "овец…",
+        "start": 2.0,
+        "end": 2.7
+      },
+      {
+        "speaker": "Nonverbal",
+        "en": "[unintelligible muttering]",
+        "ru": "",
+        "start": 2.9,
+        "end": 4.3
+      },
+      {
+        "speaker": "Blooper voice",
+        "en": "sheepdogs…",
+        "ru": "овчарок…",
+        "start": 4.45,
+        "end": 5.6
+      },
+      {
+        "speaker": "Nonverbal",
+        "en": "[sputtering growl]",
+        "ru": "",
+        "start": 5.75,
+        "end": 7.35
+      }
+    ],
+    "source_seconds": 7.9080625,
+    "previous_review_segments": [
+      {
+        "speaker": "Sam Sheepdog",
+        "en": "How of all the",
+        "ru": "Как из всех...",
+        "start": 0.0,
+        "end": 1.3
+      },
+      {
+        "speaker": "Sam Sheepdog",
+        "en": "sheep,",
+        "ru": "овец...",
+        "start": 2.0,
+        "end": 2.7
+      },
+      {
+        "speaker": "Sam Sheepdog",
+        "en": "whatever happens to him,",
+        "ru": "что бы с ним ни случилось...",
+        "start": 2.9,
+        "end": 4.3
+      },
+      {
+        "speaker": "Sam Sheepdog",
+        "en": "sheepdogs.",
+        "ru": "овчарок.",
+        "start": 4.45,
+        "end": 5.6
+      },
+      {
+        "speaker": "Nonverbal",
+        "en": "[groans, chuckles]",
+        "ru": "",
+        "start": 5.75,
+        "end": 7.35
+      }
+    ]
+  },
+  {
+    "file": "ci_lvl13_comb_01.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Get a load of this.",
+        "ru": "Смотри, что можно сделать!",
+        "start": 0.08,
+        "end": 1.05
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You can hang an object onto the end of the fishing line using the combine feature in your inventory.",
+        "ru": "Предмет можно прицепить на конец лески с помощью функции соединения в инвентаре.",
+        "start": 1.1,
+        "end": 7.55
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Just select the fishing rod, then press combine, and choose the object you want to string onto the end of the hook.",
+        "ru": "Просто выбери удочку, затем нажми «Соединить» и выбери предмет, который хочешь насадить на крючок.",
+        "start": 7.95,
+        "end": 15.35
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to unhook the object, select fishing rod, then press dissociate.",
+        "ru": "Если захочешь снять предмет, выбери удочку и нажми «Разделить».",
+        "start": 15.75,
+        "end": 21.85
+      }
+    ],
+    "source_seconds": 22.5378125
+  },
+  {
+    "file": "ci_lvl_11_lap01b.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oh, this is just great. Duck hunting season again.",
+        "ru": "О, просто великолепно! Опять сезон охоты на уток.",
+        "start": 0.12,
+        "end": 3.75
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Good thing I'm wearing this Robin Hood disguise, so those pesky hunters won't find me.",
+        "ru": "Хорошо, что я надел этот костюм Робин Гуда, так что этим назойливым охотникам меня не найти.",
+        "start": 4.1,
+        "end": 9.5
+      }
+    ],
+    "source_seconds": 10.3564375
+  },
+  {
+    "file": "ci_lvl_11_lap02.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oh, sure. Wherever I am, the rabbit has to show up.",
+        "ru": "Ну конечно! Куда ни приду — всюду этот кролик!",
+        "start": 0.1,
+        "end": 3.8
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Well, so long as Bugs is here, I might as well have some fun.",
+        "ru": "Что ж, раз Багз здесь, можно и повеселиться.",
+        "start": 4.35,
+        "end": 7.8
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "I hereby declare it to be rabbit season!",
+        "ru": "Сим объявляю: сезон охоты на кроликов!",
+        "start": 8.45,
+        "end": 12.75
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Let the hunt begin!",
+        "ru": "Да начнётся охота!",
+        "start": 13.05,
+        "end": 14.9
+      }
+    ],
+    "source_seconds": 15.119125
+  },
+  {
+    "file": "ci_lvl_13_cro01.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "What gives here, bub?",
+        "ru": "Что за дела, приятель?",
+        "start": 0.08,
+        "end": 1.25
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "This awful beast won't let me pass!",
+        "ru": "Этот ужасный зверь не даёт мне пройти!",
+        "start": 1.35,
+        "end": 3.85
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You've got to do something.",
+        "ru": "Сделай же что-нибудь!",
+        "start": 3.95,
+        "end": 5.4
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Tell you what, if you free me, I'll teach you a nifty trick.",
+        "ru": "Вот что: если освободишь меня, я научу тебя классному трюку.",
+        "start": 6.05,
+        "end": 9.6
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Use the cannon to knock him out.",
+        "ru": "Оглуши его из пушки.",
+        "start": 10.05,
+        "end": 12.8
+      }
+    ],
+    "source_seconds": 13.4669375
+  },
+  {
+    "file": "ci_lvl_13_cro02.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Put a sock in it, crocky!",
+        "ru": "Захлопни пасть, зубастик!",
+        "start": 0.1,
+        "end": 1.8
+      }
+    ],
+    "source_seconds": 2.7275625
+  }
+]

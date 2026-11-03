@@ -1,0 +1,65 @@
+{
+  "version": "1.2.2",
+  "date": "2026-11-02",
+  "platform": "arm64 macOS 13+ Metal/CoreAudio",
+  "dmg": {
+    "file": "SheepDogWolf-macOS-arm64-1.2.2.dmg",
+    "bytes": 522651242,
+    "sha256": "4ff946e73299a0fac443708eaf04b193e6177124f27b4f8f099d47b8a057bbb0"
+  },
+  "ad_hoc_signature_verified": true,
+  "notarized": false,
+  "clamav": {
+    "scanned_files": 902,
+    "infected_files": 0
+  },
+  "smoke_1_2_1": "21/21; see smoke-1.2.1.json",
+  "changes_after_full_smoke": "Icon and version only; gameplay code unchanged",
+  "smoke_1_2_2": [
+    {
+      "level": -1,
+      "alive_at_deadline": true,
+      "exit": 0,
+      "drew_120_frames": true,
+      "loaded": true,
+      "log": "scene--1.log",
+      "pass": true
+    },
+    {
+      "level": 0,
+      "alive_at_deadline": true,
+      "exit": 0,
+      "drew_120_frames": true,
+      "loaded": true,
+      "log": "scene-0.log",
+      "pass": true
+    },
+    {
+      "level": 1,
+      "alive_at_deadline": true,
+      "exit": 0,
+      "drew_120_frames": true,
+      "loaded": true,
+      "log": "scene-1.log",
+      "pass": true
+    }
+  ],
+  "voice_files": 146,
+  "audio_regression_tests": 10,
+  "inventory_logic": "8 groups, UBSan, production functions with isolated list/object fixtures; tools/test_inventory_logic.py",
+  "desktop_shortcut_launch_verified": true,
+  "icon": {
+    "source": "res/icon.png",
+    "prompt": "res/icon-design.txt",
+    "icns_sha256": "81e7b05cfdb9808bd40de7945a0fab1c50a9054c9b877f3284d8814806538495"
+  },
+  "open_items": [
+    "Daffy lisp artistry",
+    "Full campaign playthrough and every item/combination",
+    "All save/load scenarios, long play, sleep/wake, another clean Mac",
+    "Full manual artistic review of audio",
+    "ASan startup hung; not a pass",
+    "Final expanded launcher help popup interaction limited by synthetic mouse routing; launcher itself opens"
+  ],
+  "dmg_integrity_verified": true
+}

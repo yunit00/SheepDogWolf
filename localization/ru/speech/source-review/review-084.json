@@ -1,0 +1,173 @@
+[
+  {
+    "file": "cin_lvl_17_ob03a.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "I must have all of my instant Martians.",
+        "ru": "Мне нужны все мои быстрорастворимые марсиане.",
+        "start": 0.38,
+        "end": 3.32
+      }
+    ],
+    "source_seconds": 3.8213125
+  },
+  {
+    "file": "cin_lvl_17_ob03b.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "I must have all of my instant Martians.",
+        "ru": "Мне нужны все мои быстрорастворимые марсиане.",
+        "start": 0.28,
+        "end": 3.25
+      }
+    ],
+    "source_seconds": 3.9181875
+  },
+  {
+    "file": "cin_lvl_17_ob04a.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Good job! We can board now.",
+        "ru": "Отличная работа! Теперь можно на борт.",
+        "start": 0.16,
+        "end": 2.52
+      }
+    ],
+    "source_seconds": 4.16
+  },
+  {
+    "file": "cin_lvl_ob04b.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Good job! We can board now.",
+        "ru": "Отличная работа! Теперь можно на борт.",
+        "start": 0.18,
+        "end": 2.41
+      }
+    ],
+    "source_seconds": 3.948375
+  },
+  {
+    "file": "cin_mar_01.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "To capture my instant Martians, you'll have to use this vacuum compressor.",
+        "ru": "Чтобы поймать моих быстрорастворимых марсиан, тебе придётся использовать этот вакуумный компрессор.",
+        "start": 0.45,
+        "end": 5.05
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "When an instant Martian comes anywhere near it, activate the compressor with your remote control.",
+        "ru": "Когда быстрорастворимый марсианин окажется рядом с ним, включи компрессор пультом управления.",
+        "start": 5.62,
+        "end": 11.91
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "The instant Martian will be compressed and sucked in, then sent to me through this pipe.",
+        "ru": "Марсианина сожмёт и засосёт внутрь, а затем отправит ко мне по этой трубе.",
+        "start": 12.75,
+        "end": 19.38
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Won't that be lovely?",
+        "ru": "Разве не прелестно?",
+        "start": 19.92,
+        "end": 21.75
+      }
+    ],
+    "source_seconds": 22.8703125
+  },
+  {
+    "file": "cinfe_lvl_0101.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Porky Pig",
+        "en": "Hi! I'm, uh, f- Farmer Porky.",
+        "ru": "Привет! Я, э-э, ф-фермер Порки.",
+        "start": 0.16,
+        "end": 2.25
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "I hear you're trying to st- steal Sam's sh-sh-sh- flock.",
+        "ru": "Слыхал, ты пытаешься ук-украсть стадо у Сэма.",
+        "start": 2.76,
+        "end": 6.98
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "G- good luck!",
+        "ru": "У-удачи!",
+        "start": 7.18,
+        "end": 8.35
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "I grow all kinds of v- vegetables, and I know Sam's sheep w- well.",
+        "ru": "Я выращиваю всякие о-овощи и х-хорошо знаю овец Сэма.",
+        "start": 8.74,
+        "end": 13.28
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "F- for instance, I know you can l- lead a sheep if you show it some l- lettuce.",
+        "ru": "Н-например, я знаю, что овцу можно в-вести за собой, если показать ей с-салат.",
+        "start": 13.72,
+        "end": 19.12
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "If you do this, y- you won't have to c- carry them.",
+        "ru": "Если так сделаешь, т-тебе не придётся их т-таскать.",
+        "start": 19.46,
+        "end": 22.86
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "C- come back with your sheep, and I'll show you how to use l-l-l- leafy vegetables.",
+        "ru": "В-возвращайся с овцой, и я покажу тебе, как обращаться с л-л-листовыми овощами.",
+        "start": 23.15,
+        "end": 29.35
+      }
+    ],
+    "source_seconds": 30.0896875
+  }
+]

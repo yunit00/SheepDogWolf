@@ -1,0 +1,20 @@
+{
+  "speaker": "Daffy Duck",
+  "voice": "Puck",
+  "clips": [
+    {
+      "file": "Cin02_sc_reL001__01.wav",
+      "source_file": "Cin02_sc_reL001.wav",
+      "speaker": "Daffy Duck",
+      "text": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+      "start": 7.6,
+      "end": 10.3,
+      "source_seconds": 14.346375,
+      "segments": [
+        1
+      ]
+    }
+  ],
+  "prompt": "Russian dialogue recording for a fictional family cartoon game. Original cartoon interpretation, not a real actor imitation. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Say EXACTLY the text below, every word once, no added words, no laugh, no introduction, no numbering, no repeated syllables except stutters explicitly written. Quick natural clear delivery, complete text in approximately 2.7 seconds, no dramatic internal pauses. No sound effects or music. Preserve the same character voice.\n\nДобро пожаловать на шоу «Овца, Собака и Волк»!",
+  "replacement_reason": "Rejected prior take: extra word/laugh or too slow for scene."
+}

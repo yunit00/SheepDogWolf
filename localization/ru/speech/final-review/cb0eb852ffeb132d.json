@@ -1,0 +1,119 @@
+{
+  "files": [
+    {
+      "file": "Cin_int_niv_05.wav",
+      "transcript": "Справишься — перейдёшь к следующему испытанию, и так далее, пока наконец не утащишь всю отару!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_06.wav",
+      "transcript": "Но — и это огромное «но» — в конце каждого уровня овца должна быть цела и невредима. Тебя дисквалифицируют, если с неё упадёт хоть клочок шерсти!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_07.wav",
+      "transcript": "Я предельно ясно выразился? М-м-м?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_09b.wav",
+      "transcript": "Что?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_10.wav",
+      "transcript": "Ну, вроде того. Да, репетиции проходят здесь.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_11.wav",
+      "transcript": "Да! О, и последнее: если захочешь изменить настройки игры, нажми паузу и загляни в меню. Удачи!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_12.wav",
+      "transcript": "Ещё один способ изменить настройки игры — нажать кнопку «Старт».",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_01.wav",
+      "transcript": "Кто за это отвечает?!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_03.wav",
+      "transcript": "Так, ладно. Какой умник заменил мой микрофон этой бритвой?!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_05a.wav",
+      "transcript": "Из всех этих… овец… овчарок…",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Cin_int_niv_05.wav": "5a4d7555c9a19e0a81a3f3439cc2c3e8bf4cbd8a66c737fe435532c683d7032a",
+    "Cin_int_niv_06.wav": "9faff3b7c2a25af30f1be5d8f36e14377ea38af4af80540e42a23fed1b2afd88",
+    "Cin_int_niv_07.wav": "76ee68bad2e5f53b5682966029da64d20abd9ae997575308742712ca64801d1f",
+    "Cin_int_niv_09b.wav": "8fcfaf012c14b717045e799918fe90e8795d35f21a911fbaeba26b85600d98e4",
+    "Cin_int_niv_10.wav": "4416d2c04bb7fbd9e7a52783ff3ea741720e3e644e1c3313617a14562f62d4e2",
+    "Cin_int_niv_11.wav": "313d670380d4babe25ec8d2447a258e9fb2099795fbdf5e4d99626a4da0fef41",
+    "Cin_int_niv_12.wav": "e18565d4615c9139fdc67f50fd599f41dad2da8dc4f9e304d11e49ddfc61890f",
+    "be_01.wav": "2e717c951e89457f5e10b07fc0323df5d65290b277b18a9fdd30a6903093592b",
+    "be_03.wav": "070acd4b30426810d4822c4854efd2339c302b05c1060aae759028663ccc72f2",
+    "be_05a.wav": "7a4940d0c6c57a528a293c093f4033d194fed597cd1e2c7381773ae0b4251268"
+  },
+  "references": {
+    "Cin_int_niv_05.wav": "Справишься — перейдёшь к следующему испытанию, и так далее, пока наконец не утащишь всю отару!",
+    "Cin_int_niv_06.wav": "Но — и это огромное «но» — в конце каждого уровня овца должна быть цела и невредима. Тебя дисквалифицируют, если с неё упадёт хоть клочок шерсти!",
+    "Cin_int_niv_07.wav": "Я предельно ясно выразился? М-м-м?",
+    "Cin_int_niv_09b.wav": "Что?",
+    "Cin_int_niv_10.wav": "Ну, вроде того. Да, репетиции проходят здесь.",
+    "Cin_int_niv_11.wav": "Да! О, и последнее: если захочешь изменить настройки игры, нажми паузу и загляни в меню. Удачи!",
+    "Cin_int_niv_12.wav": "Ещё один способ изменить настройки игры — нажать кнопку «Старт».",
+    "be_01.wav": "Кто за это отвечает?!",
+    "be_03.wav": "Так, ладно. Какой умник заменил мой микрофон этой бритвой?!",
+    "be_05a.wav": "Из всех этих… овец… овчарок…"
+  },
+  "snapshot_version": 1
+}

@@ -12,12 +12,13 @@ p.add_argument("game", type=Path)
 p.add_argument("data", type=Path)
 p.add_argument("output", type=Path)
 p.add_argument("--seconds", type=int, default=8)
+p.add_argument("--levels", type=int, nargs="+", default=[-1, -2, -3, *range(18)], help="Scene IDs; default is all 21 scenes")
 a = p.parse_args()
 a.output.mkdir(parents=True, exist_ok=True)
 saves = a.output / "saves"
 saves.mkdir(exist_ok=True)
 results = []
-for level in [-1, -2, -3, *range(18)]:
+for level in a.levels:
     log = a.output / f"scene-{level}.log"
     with log.open("w") as f:
         child = subprocess.Popen([str(a.game.resolve()), "--renderer=metal",

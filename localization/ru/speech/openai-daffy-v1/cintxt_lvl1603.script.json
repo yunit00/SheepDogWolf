@@ -1,0 +1,19 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 10.7 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Красный сигнал означает, что в следующий раз поезд остановится. Если хочешь сменить цвет сигнала, нажми кнопку рядом с ним.",
+  "unit": {
+    "file": "cintxt_lvl1603.wav",
+    "source_file": "cintxt_lvl1603.wav",
+    "speaker": "Daffy Duck",
+    "text": "Красный сигнал означает, что в следующий раз поезд остановится. Если хочешь сменить цвет сигнала, нажми кнопку рядом с ним.",
+    "start": 0.17,
+    "end": 10.87,
+    "source_seconds": 12.24625,
+    "segments": [
+      0,
+      1
+    ]
+  }
+}

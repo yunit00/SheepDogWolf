@@ -1,0 +1,121 @@
+{
+  "files": [
+    {
+      "file": "Cin_int_niv_12.wav",
+      "transcript": "Ещё один способ изменить настройки игры — нажать кнопку «Старт».",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__00.wav",
+      "transcript": "Фантастика! Сам фантастика!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "repeated_speech",
+        "extra_words"
+      ]
+    },
+    {
+      "file": "Mars_2sec__01.wav",
+      "transcript": "Последняя овечка!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__02.wav",
+      "transcript": "У тебя получилось!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__03.wav",
+      "transcript": "Ты потрясающий участник.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__04.wav",
+      "transcript": "К сожалению, наше шоу почти закончилось.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__05.wav",
+      "transcript": "Спасибо всем моим поклонникам за то, что были с нами до самого конца.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__06.wav",
+      "transcript": "До скорых встреч!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__07.wav",
+      "transcript": "А? Это ещё что такое?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__08.wav",
+      "transcript": "Что здесь делает марсианин Марвин?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Cin_int_niv_12.wav": "17fe5394280807666c5915d2a87547f8f1d9fb77509fcb98f9cc8fcc19526b68",
+    "Mars_2sec__00.wav": "5cd67eac2e231a26ece56d2a20202c98919401d69d9213093b3c4adea2b7fb82",
+    "Mars_2sec__01.wav": "a58a6d79262f888fc0e96ccc7b52fe43c87a48e2d99e2b5a96d67679f1595e5b",
+    "Mars_2sec__02.wav": "993feed63f6d596bbb9eaac7a5926a6b4fdda5755f92cb7ac285ae013441644a",
+    "Mars_2sec__03.wav": "8d485b19716ca0eafd7281a20c868271e6f5cfc347a627eab666db5e017e7970",
+    "Mars_2sec__04.wav": "dd0063b1ab532e8688be63d934428ce61673170168a4ee2408626abd6b7bca27",
+    "Mars_2sec__05.wav": "aaf505a25211db72aa56b525e3408c6ec4d7f98b443dbbfbcf6fa684a2198e01",
+    "Mars_2sec__06.wav": "faa4f59a067de53fc8c5d1934c8d587df9c9074ebfdef180439b30a777326131",
+    "Mars_2sec__07.wav": "5c9e97a9abfbb5c6c6755d3c362c10128143b109cf4ff5beeadd93a77c083af6",
+    "Mars_2sec__08.wav": "2e96b416fe360ab9706166738da68f948a8e259acdb793b17acc258ab7ee2f8c"
+  },
+  "references": {
+    "Cin_int_niv_12.wav": "Ещё один способ изменить настройки игры — нажать кнопку «Старт».",
+    "Mars_2sec__00.wav": "Фантастика!",
+    "Mars_2sec__01.wav": "Последняя овечка!",
+    "Mars_2sec__02.wav": "У тебя получилось!",
+    "Mars_2sec__03.wav": "Ты потрясающий участник.",
+    "Mars_2sec__04.wav": "К сожалению, наше шоу почти закончилось.",
+    "Mars_2sec__05.wav": "Спасибо всем моим поклонникам за то, что были с нами до самого конца.",
+    "Mars_2sec__06.wav": "До скорых встреч!",
+    "Mars_2sec__07.wav": "А? Это ещё что такое?",
+    "Mars_2sec__08.wav": "Что здесь делает марсианин Марвин?"
+  }
+}

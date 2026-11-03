@@ -1,0 +1,35 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 50.28370833333334,
+  "request_id": "req_95fbcbb1f2cf49f5b93bd6f2d76655cc",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 56.2 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "Послушай: если хочешь красть овец и строить планы, тебе понадобится инвентарь. Сначала нажми кнопку инвентаря — откроется карта уровня и доступные предметы. Чтобы получить предмет, закажи его через почтовый ящик. Хочешь узнать, в каком ящике нужно заказывать конкретный предмет? Выбери его в инвентаре, и нужный ящик обведётся красным — значит, посылка там! Белым нарисованы предметы, которые можно найти на уровне. Цветные — те, что ты уже забрал и можешь использовать. А если и этого мало, загляни в инструкцию к предмету, там описано, как им пользоваться. Так что давай! Опробуй инвентарь и закажи предмет из почтового ящика прямо сегодня! Батарейки в комплект не входят.",
+    "unit": {
+      "file": "txt_lvl_0014.wav",
+      "source_file": "txt_lvl_0014.wav",
+      "speaker": "Daffy Duck",
+      "text": "Послушай: если хочешь красть овец и строить планы, тебе понадобится инвентарь. Сначала нажми кнопку инвентаря — откроется карта уровня и доступные предметы. Чтобы получить предмет, закажи его через почтовый ящик. Хочешь узнать, в каком ящике нужно заказывать конкретный предмет? Выбери его в инвентаре, и нужный ящик обведётся красным — значит, посылка там! Белым нарисованы предметы, которые можно найти на уровне. Цветные — те, что ты уже забрал и можешь использовать. А если и этого мало, загляни в инструкцию к предмету, там описано, как им пользоваться. Так что давай! Опробуй инвентарь и закажи предмет из почтового ящика прямо сегодня! Батарейки в комплект не входят.",
+      "start": 0.3,
+      "end": 56.5,
+      "source_seconds": 57.0655625,
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  "sha256": "140e32d0fa8b1f07ada6b40788fa27037773a9223a923c7e4712aee02a415965",
+  "status": "unreviewed"
+}

@@ -1,0 +1,22 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 12.7 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Что за дела, приятель? Этот ужасный зверь не даёт мне пройти! Сделай же что-нибудь! Вот что: если освободишь меня, я научу тебя классному трюку. Оглуши его из пушки.",
+  "unit": {
+    "file": "ci_lvl_13_cro01.wav",
+    "source_file": "ci_lvl_13_cro01.wav",
+    "speaker": "Daffy Duck",
+    "text": "Что за дела, приятель? Этот ужасный зверь не даёт мне пройти! Сделай же что-нибудь! Вот что: если освободишь меня, я научу тебя классному трюку. Оглуши его из пушки.",
+    "start": 0.08,
+    "end": 12.8,
+    "source_seconds": 13.4669375,
+    "segments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

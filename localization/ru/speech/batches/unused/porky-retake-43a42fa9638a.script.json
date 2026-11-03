@@ -1,0 +1,26 @@
+{
+  "speaker": "Porky Pig",
+  "voice": "Achird",
+  "clips": [
+    {
+      "file": "cinfe_lvl_0101.wav",
+      "source_file": "cinfe_lvl_0101.wav",
+      "speaker": "Porky Pig",
+      "text": "Привет! Я, э-э, ф-фермер Порки. Слыхал, ты пытаешься ук-украсть стадо у Сэма. У-удачи! Я выращиваю всякие о-овощи и х-хорошо знаю овец Сэма. Н-например, я знаю, что овцу можно в-вести за собой, если показать ей с-салат. Если так сделаешь, т-тебе не придётся их т-таскать. В-возвращайся с овцой, и я покажу тебе, как обращаться с л-л-листовыми овощами.",
+      "start": 0.16,
+      "end": 29.35,
+      "source_seconds": 30.0896875,
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "replacement_reason": "Prior audio failed independent QA: clipped consonant, unclear word or added stutter.",
+  "prompt": "Russian dialogue for a fictional family cartoon game. Original character interpretation, not a real actor imitation. Friendly youthful male cartoon pig, rounded warm slightly nasal high-mid voice. Keep only the short stutters written in the text, do not add excessive stuttering. Helpful, expressive and clear. Natural clear brisk delivery, finish the words in about 29.2 seconds. Speak every written word once and fully; no added words, laughs, introduction, conclusion or numbering. Preserve only stutters explicitly written in the text. No music or effects. Leave 0.4 seconds of silence before the first word and after the last word. Do not clip the first or last consonants. Do not exaggerate speech impediments; each word must stay intelligible.\n\nПривет! Я, э-э, ф-фермер Порки. Слыхал, ты пытаешься ук-украсть стадо у Сэма. У-удачи! Я выращиваю всякие о-овощи и х-хорошо знаю овец Сэма. Н-например, я знаю, что овцу можно в-вести за собой, если показать ей с-салат. Если так сделаешь, т-тебе не придётся их т-таскать. В-возвращайся с овцой, и я покажу тебе, как обращаться с л-л-листовыми овощами."
+}

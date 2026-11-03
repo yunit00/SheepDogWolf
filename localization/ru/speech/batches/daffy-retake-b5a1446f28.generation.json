@@ -1,0 +1,46 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Puck",
+  "seconds": 13.16,
+  "script": {
+    "speaker": "Daffy Duck",
+    "voice": "Puck",
+    "clips": [
+      {
+        "file": "cin_lvl_0309.wav",
+        "source_file": "cin_lvl_0309.wav",
+        "speaker": "Daffy Duck",
+        "text": "Не хочешь оставаться в неведении, а? Или хочешь? Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры. А ещё можно использовать предметы.",
+        "start": 0.08,
+        "end": 10.16,
+        "source_seconds": 10.9046875,
+        "segments": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "prompt": "Russian dialogue recording for a fictional family cartoon game. Original cartoon interpretation, not a real actor imitation. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Say EXACTLY the text below, every word once, no added words, no laugh, no introduction, no numbering, no repeated syllables except stutters explicitly written. Quick natural clear delivery, complete text in approximately 10.1 seconds, no dramatic internal pauses. No sound effects or music. Preserve the same character voice.\n\nНе хочешь оставаться в неведении, а? Или хочешь? Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры. А ещё можно использовать предметы.",
+    "replacement_reason": "Rejected prior take: extra word/laugh or too slow for scene."
+  },
+  "usage": {
+    "promptTokenCount": 180,
+    "candidatesTokenCount": 329,
+    "totalTokenCount": 509,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 180
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 329
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

@@ -1,0 +1,209 @@
+{
+  "speaker": "Daffy Duck",
+  "voice": "Puck",
+  "clips": [
+    {
+      "file": "Cin02_sc_reL001__00.wav",
+      "source_file": "Cin02_sc_reL001.wav",
+      "speaker": "Daffy Duck",
+      "text": "А теперь, готовый как никогда воровать овец, встречайте нашего участника!",
+      "start": 0.08,
+      "end": 7.5,
+      "source_seconds": 14.346375,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "Cin02_sc_reL001__01.wav",
+      "source_file": "Cin02_sc_reL001.wav",
+      "speaker": "Daffy Duck",
+      "text": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+      "start": 7.6,
+      "end": 10.3,
+      "source_seconds": 14.346375,
+      "segments": [
+        1
+      ]
+    },
+    {
+      "file": "Cin02_sc_reL001__02.wav",
+      "source_file": "Cin02_sc_reL001.wav",
+      "speaker": "Daffy Duck",
+      "text": "Аплодисменты!",
+      "start": 10.35,
+      "end": 11.22,
+      "source_seconds": 14.346375,
+      "segments": [
+        2
+      ]
+    },
+    {
+      "file": "Cin02_sc_reL002.wav",
+      "source_file": "Cin02_sc_reL002.wav",
+      "speaker": "Daffy Duck",
+      "text": "Здесь ты увидишь место, куда нужно приводить украденных овец. А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+      "start": 0.1,
+      "end": 9.6,
+      "source_seconds": 9.5584375,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "Cin02_sc_reL003.wav",
+      "source_file": "Cin02_sc_reL003.wav",
+      "speaker": "Daffy Duck",
+      "text": "А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+      "start": 0.12,
+      "end": 4.85,
+      "source_seconds": 4.945875,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "Cin02_sc_reL004.wav",
+      "source_file": "Cin02_sc_reL004.wav",
+      "speaker": "Daffy Duck",
+      "text": "Забравшись на эту подставку, ты сможешь сохранить игру, следуя указанным инструкциям.",
+      "start": 0.1,
+      "end": 5.7,
+      "source_seconds": 6.6344375,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "Cin02_sc_reL005.wav",
+      "source_file": "Cin02_sc_reL005.wav",
+      "speaker": "Daffy Duck",
+      "text": "Если ты исключительно умён, прямо как я, то найдёшь табельные часы на каждом уровне. Активируй их и заработай бонусное очко! Потом можешь прийти сюда за покупками — в зависимости от числа набранных бонусных очков, разумеется.",
+      "start": 0.08,
+      "end": 15.55,
+      "source_seconds": 18.45725,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "file": "Cin02_sc_reL006.wav",
+      "source_file": "Cin02_sc_reL006.wav",
+      "speaker": "Daffy Duck",
+      "text": "А здесь можно выбирать уровни. Тебе нужно всего лишь активировать дверь, чтобы попасть на соответствующий уровень. Дальше действуй сам!",
+      "start": 0.1,
+      "end": 9.8,
+      "source_seconds": 10.4020625,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "file": "Cin03_sc_reL161.wav",
+      "source_file": "Cin03_sc_reL161.wav",
+      "speaker": "Daffy Duck",
+      "text": "Потрясающе! Последняя овца! Ты сделал это! Ты исключительный участник. К сожалению, наше шоу подходит к концу. Спасибо всем моим фанатам за то, что были с нами до самого финала. До скорого!",
+      "start": 0.0,
+      "end": 16.5,
+      "source_seconds": 17.278375,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "file": "Cin03_sc_reL162.wav",
+      "source_file": "Cin03_sc_reL162.wav",
+      "speaker": "Daffy Duck",
+      "text": "А! Это ещё что? Что здесь делает марсианин Марвин? Этого не было в сценарии!",
+      "start": 0.0,
+      "end": 6.6,
+      "source_seconds": 7.71275,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "Cin_int_niv_01.wav",
+      "source_file": "Cin_int_niv_01.wav",
+      "speaker": "Daffy Duck",
+      "text": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+      "start": 0.0,
+      "end": 7.7,
+      "source_seconds": 8.812,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "Cin_int_niv_02.wav",
+      "source_file": "Cin_int_niv_02.wav",
+      "speaker": "Daffy Duck",
+      "text": "Слушай сюда, приятель. Просто расслабься и играй. Это шоу должно катапультировать меня прямо в суперзвёзды!",
+      "start": 0.0,
+      "end": 8.1,
+      "source_seconds": 8.613625,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "Cin_int_niv_03b.wav",
+      "source_file": "Cin_int_niv_03b.wav",
+      "speaker": "Daffy Duck",
+      "text": "Итак, цель нашей игры проста: воровать овец.",
+      "start": 0.0,
+      "end": 5.1,
+      "source_seconds": 5.580625,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "Cin_int_niv_04.wav",
+      "source_file": "Cin_int_niv_04.wav",
+      "speaker": "Daffy Duck",
+      "text": "Тебе предстоит пройти череду уровней. На каждом из них нужно украсть овцу у овчарки Сэма и доставить её на финиш.",
+      "start": 0.0,
+      "end": 10.4,
+      "source_seconds": 13.310875,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "Cin_int_niv_05.wav",
+      "source_file": "Cin_int_niv_05.wav",
+      "speaker": "Daffy Duck",
+      "text": "Справишься — перейдёшь к следующему испытанию, и так далее, пока наконец не утащишь всю отару!",
+      "start": 0.08,
+      "end": 8.68,
+      "source_seconds": 8.928,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "Cin_int_niv_06.wav",
+      "source_file": "Cin_int_niv_06.wav",
+      "speaker": "Daffy Duck",
+      "text": "Но — и это огромное «но» — в конце каждого уровня овца должна быть цела и невредима. Тебя дисквалифицируют, если с неё упадёт хоть клочок шерсти!",
+      "start": 0.15,
+      "end": 11.83,
+      "source_seconds": 12.6208125,
+      "segments": [
+        0,
+        1
+      ]
+    }
+  ],
+  "prompt": "Russian dubbing for a classic cartoon game. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. А теперь, готовый как никогда воровать овец, встречайте нашего участника!\n\n2. Добро пожаловать на шоу «Овца, Собака и Волк»!\n\n3. Аплодисменты!\n\n4. Здесь ты увидишь место, куда нужно приводить украденных овец. А счётчик покажет, сколько овец тебе ещё предстоит украсть.\n\n5. А счётчик покажет, сколько овец тебе ещё предстоит украсть.\n\n6. Забравшись на эту подставку, ты сможешь сохранить игру, следуя указанным инструкциям.\n\n7. Если ты исключительно умён, прямо как я, то найдёшь табельные часы на каждом уровне. Активируй их и заработай бонусное очко! Потом можешь прийти сюда за покупками — в зависимости от числа набранных бонусных очков, разумеется.\n\n8. А здесь можно выбирать уровни. Тебе нужно всего лишь активировать дверь, чтобы попасть на соответствующий уровень. Дальше действуй сам!\n\n9. Потрясающе! Последняя овца! Ты сделал это! Ты исключительный участник. К сожалению, наше шоу подходит к концу. Спасибо всем моим фанатам за то, что были с нами до самого финала. До скорого!\n\n10. А! Это ещё что? Что здесь делает марсианин Марвин? Этого не было в сценарии!\n\n11. Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»\n\n12. Слушай сюда, приятель. Просто расслабься и играй. Это шоу должно катапультировать меня прямо в суперзвёзды!\n\n13. Итак, цель нашей игры проста: воровать овец.\n\n14. Тебе предстоит пройти череду уровней. На каждом из них нужно украсть овцу у овчарки Сэма и доставить её на финиш.\n\n15. Справишься — перейдёшь к следующему испытанию, и так далее, пока наконец не утащишь всю отару!\n\n16. Но — и это огромное «но» — в конце каждого уровня овца должна быть цела и невредима. Тебя дисквалифицируют, если с неё упадёт хоть клочок шерсти!"
+}

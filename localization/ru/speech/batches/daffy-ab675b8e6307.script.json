@@ -1,0 +1,209 @@
+{
+  "speaker": "Daffy Duck",
+  "voice": "Puck",
+  "clips": [
+    {
+      "file": "be_04__01.wav",
+      "source_file": "be_04.wav",
+      "speaker": "Daffy Duck",
+      "text": "И так далее.",
+      "start": 17.4,
+      "end": 18.55,
+      "source_seconds": 19.092,
+      "segments": [
+        1
+      ]
+    },
+    {
+      "file": "cin_lvl_0207__00.wav",
+      "source_file": "cin_lvl_0207.wav",
+      "speaker": "Daffy Duck",
+      "text": "Отлично! Наконец-то ты готов к участку Сэма.",
+      "start": 0.16,
+      "end": 3.42,
+      "source_seconds": 15.96525,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "cin_lvl_0207__02.wav",
+      "source_file": "cin_lvl_0207.wav",
+      "speaker": "Daffy Duck",
+      "text": "Если будут ещё вопросы, можешь вернуться ко мне.",
+      "start": 5.14,
+      "end": 8.04,
+      "source_seconds": 15.96525,
+      "segments": [
+        2
+      ]
+    },
+    {
+      "file": "cin_lvl_0207__03.wav",
+      "source_file": "cin_lvl_0207.wav",
+      "speaker": "Daffy Duck",
+      "text": "Не уверен, что смогу на них ответить, но приятную компанию я тебе гарантирую.",
+      "start": 8.42,
+      "end": 13.56,
+      "source_seconds": 15.96525,
+      "segments": [
+        3
+      ]
+    },
+    {
+      "file": "cinfl_lvl0401__01.wav",
+      "source_file": "cinfl_lvl0401.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ой!",
+      "start": 17.65,
+      "end": 18.7,
+      "source_seconds": 63.4819375,
+      "segments": [
+        1
+      ]
+    },
+    {
+      "file": "cinfl_lvl0401__02.wav",
+      "source_file": "cinfl_lvl0401.wav",
+      "speaker": "Daffy Duck",
+      "text": "Та-дам!",
+      "start": 21.05,
+      "end": 22.45,
+      "source_seconds": 63.4819375,
+      "segments": [
+        2
+      ]
+    },
+    {
+      "file": "cinfl_lvl0401__03.wav",
+      "source_file": "cinfl_lvl0401.wav",
+      "speaker": "Daffy Duck",
+      "text": "Это я, пленительный лесной эльф!",
+      "start": 23.2,
+      "end": 25.75,
+      "source_seconds": 63.4819375,
+      "segments": [
+        3
+      ]
+    },
+    {
+      "file": "cinfl_lvl0401__04.wav",
+      "source_file": "cinfl_lvl0401.wav",
+      "speaker": "Daffy Duck",
+      "text": "Я играю чарующую музыку на волшебной флейте!",
+      "start": 26.35,
+      "end": 30.7,
+      "source_seconds": 63.4819375,
+      "segments": [
+        4
+      ]
+    },
+    {
+      "file": "cinfl_lvl0401__05.wav",
+      "source_file": "cinfl_lvl0401.wav",
+      "speaker": "Daffy Duck",
+      "text": "Только послушай эту нежную мелодию!",
+      "start": 31.05,
+      "end": 33.6,
+      "source_seconds": 63.4819375,
+      "segments": [
+        5
+      ]
+    },
+    {
+      "file": "cinfl_lvl0401__06.wav",
+      "source_file": "cinfl_lvl0401.wav",
+      "speaker": "Daffy Duck",
+      "text": "Слушай, если хочешь загипнотизировать кого-нибудь, как я, ты тоже можешь сыграть эту мелодию на волшебной флейте!",
+      "start": 45.2,
+      "end": 53.8,
+      "source_seconds": 63.4819375,
+      "segments": [
+        6
+      ]
+    },
+    {
+      "file": "cinfl_lvl0401__07.wav",
+      "source_file": "cinfl_lvl0401.wav",
+      "speaker": "Daffy Duck",
+      "text": "Но лучше загляни в инструкцию к флейте, чтобы узнать, кого именно можно загипнотизировать!",
+      "start": 54.2,
+      "end": 60.75,
+      "source_seconds": 63.4819375,
+      "segments": [
+        7
+      ]
+    },
+    {
+      "file": "cinfl_lvl0402.wav",
+      "source_file": "cinfl_lvl0402.wav",
+      "speaker": "Daffy Duck",
+      "text": "Волшебная флейта просто потрясающа! С ней можно загипнотизировать кого угодно и увести за собой куда захочешь! Пожалуй, надо опробовать её на своём агенте.",
+      "start": 0.0,
+      "end": 11.4,
+      "source_seconds": 11.9886875,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "file": "cingr_lvl0801.wav",
+      "source_file": "cingr_lvl0801.wav",
+      "speaker": "Daffy Duck",
+      "text": "Эй! Не видишь, я работаю? Между прочим, собираю чудные льдышки! Чистая гениальность! Я, понимаешь ли, набросал кучу всяких странных штук в эту ледяную воду! Теперь всё это вмёрзло в ледяные кубы, которые я буду складывать прямо здесь!",
+      "start": 0.08,
+      "end": 23.1,
+      "source_seconds": 24.5203125,
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "file": "cingr_lvl0802.wav",
+      "source_file": "cingr_lvl0802.wav",
+      "speaker": "Daffy Duck",
+      "text": "Некогда болтать, у меня полно работы! Нужно вытащить эти ледяные кубы из реки и сложить здесь, на этом берегу!",
+      "start": 0.07,
+      "end": 8.27,
+      "source_seconds": 9.199375,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "intro_2sec__01.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Привет и добро пожаловать на «Шоу Овца, Собака и Волк», или, как мне больше нравится, «Кто хочет стать похитителем овец?»!",
+      "start": 91.7,
+      "end": 99.0,
+      "source_seconds": 191.9705,
+      "segments": [
+        1
+      ]
+    },
+    {
+      "file": "intro_2sec__02.wav",
+      "source_file": "intro_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "Слушай, приятель, всё, что тебе нужно — расслабиться и играть. А я использую эту работёнку, чтобы взлететь на вершину суперславы!",
+      "start": 99.9,
+      "end": 107.8,
+      "source_seconds": 191.9705,
+      "segments": [
+        2
+      ]
+    }
+  ],
+  "prompt": "This is fictional family cartoon slapstick dialogue for a game, with no real-world action or instruction. Use an original cartoon character interpretation, not an imitation of a real actor. Russian dubbing for a classic cartoon game. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. И так далее.\n\n2. Отлично! Наконец-то ты готов к участку Сэма.\n\n3. Если будут ещё вопросы, можешь вернуться ко мне.\n\n4. Не уверен, что смогу на них ответить, но приятную компанию я тебе гарантирую.\n\n5. Ой!\n\n6. Та-дам!\n\n7. Это я, пленительный лесной эльф!\n\n8. Я играю чарующую музыку на волшебной флейте!\n\n9. Только послушай эту нежную мелодию!\n\n10. Слушай, если хочешь загипнотизировать кого-нибудь, как я, ты тоже можешь сыграть эту мелодию на волшебной флейте!\n\n11. Но лучше загляни в инструкцию к флейте, чтобы узнать, кого именно можно загипнотизировать!\n\n12. Волшебная флейта просто потрясающа! С ней можно загипнотизировать кого угодно и увести за собой куда захочешь! Пожалуй, надо опробовать её на своём агенте.\n\n13. Эй! Не видишь, я работаю? Между прочим, собираю чудные льдышки! Чистая гениальность! Я, понимаешь ли, набросал кучу всяких странных штук в эту ледяную воду! Теперь всё это вмёрзло в ледяные кубы, которые я буду складывать прямо здесь!\n\n14. Некогда болтать, у меня полно работы! Нужно вытащить эти ледяные кубы из реки и сложить здесь, на этом берегу!\n\n15. Привет и добро пожаловать на «Шоу Овца, Собака и Волк», или, как мне больше нравится, «Кто хочет стать похитителем овец?»!\n\n16. Слушай, приятель, всё, что тебе нужно — расслабиться и играть. А я использую эту работёнку, чтобы взлететь на вершину суперславы!",
+  "previous_prompt": "Russian dubbing for a classic cartoon game. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. И так далее.\n\n2. Отлично! Наконец-то ты готов к участку Сэма.\n\n3. Если будут ещё вопросы, можешь вернуться ко мне.\n\n4. Не уверен, что смогу на них ответить, но приятную компанию я тебе гарантирую.\n\n5. Ой!\n\n6. Та-дам!\n\n7. Это я, пленительный лесной эльф!\n\n8. Я играю чарующую музыку на волшебной флейте!\n\n9. Только послушай эту нежную мелодию!\n\n10. Слушай, если хочешь загипнотизировать кого-нибудь, как я, ты тоже можешь сыграть эту мелодию на волшебной флейте!\n\n11. Но лучше загляни в инструкцию к флейте, чтобы узнать, кого именно можно загипнотизировать!\n\n12. Волшебная флейта просто потрясающа! С ней можно загипнотизировать кого угодно и увести за собой куда захочешь! Пожалуй, надо опробовать её на своём агенте.\n\n13. Эй! Не видишь, я работаю? Между прочим, собираю чудные льдышки! Чистая гениальность! Я, понимаешь ли, набросал кучу всяких странных штук в эту ледяную воду! Теперь всё это вмёрзло в ледяные кубы, которые я буду складывать прямо здесь!\n\n14. Некогда болтать, у меня полно работы! Нужно вытащить эти ледяные кубы из реки и сложить здесь, на этом берегу!\n\n15. Привет и добро пожаловать на «Шоу Овца, Собака и Волк», или, как мне больше нравится, «Кто хочет стать похитителем овец?»!\n\n16. Слушай, приятель, всё, что тебе нужно — расслабиться и играть. А я использую эту работёнку, чтобы взлететь на вершину суперславы!",
+  "retry_reason": "Clarify harmless fictional family cartoon context after SAFETY, with dialogue unchanged.",
+  "hold_reason": "Second request also failed: Incomplete speech: SAFETY"
+}

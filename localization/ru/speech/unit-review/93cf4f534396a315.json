@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "file": "Cin02_sc_reL001__01.wav",
+      "transcript": "Добро пожаловать на шоу Овца, Собака и Волк!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Cin02_sc_reL001__01.wav": "46e68ff318e82b35bdcde419fd607eca5c74bf570f465c7bd83813a8eb2ad2c4"
+  },
+  "references": {
+    "Cin02_sc_reL001__01.wav": "Добро пожаловать на шоу «Овца, Собака и Волк»!"
+  }
+}

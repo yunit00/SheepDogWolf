@@ -1,0 +1,16 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.1,
+  "seconds": 8.501291666666667,
+  "request_id": "req_2785bcbe6c7a431b8254e7e6da7fe7b1",
+  "script": {
+    "voice": "ballad",
+    "speed": 1.1,
+    "text": "Слушай, если хочешь загипнотизировать кого-нибудь, ты тоже можешь сыграть эту мелодию на волшебной флейте!",
+    "instructions": "Speak Russian as an expressive adult male cartoon duck. Keep the bright nasal, slightly raspy voice. Most important: use an unmistakable interdental and lateral lisp throughout. Place the tongue between the front teeth for Russian с and з; let air escape around the tongue for ш and ж, giving wet, spluttery, slushy sibilants. This is a sustained articulation pattern, not a higher pitch. Exaggerate the lisp while keeping every word understandable. Conversational, controlled acting at a comfortable medium-soft volume. No shouting, no exclamatory peaks, no growling or vocal fry. Keep a clean, smooth studio recording with gentle breath support and consistent loudness. Speak the provided sentence exactly once, with no introductions, added words or repetitions. Do not vocalize these instructions. Leave a short pause before and after the sentence."
+  },
+  "sha256": "2b92f40543d9484ec5c29b15e6b8c65b952c357fe0153700ecc98534a216eb7e",
+  "status": "unreviewed"
+}

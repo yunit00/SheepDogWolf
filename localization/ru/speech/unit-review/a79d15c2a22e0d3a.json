@@ -1,0 +1,107 @@
+{
+  "files": [
+    {
+      "file": "Mars_2sec__20.wav",
+      "transcript": "Разве это не прелестно?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__21.wav",
+      "transcript": "Погоди, я ещё не закончил.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__22.wav",
+      "transcript": "Моя армия всё ещё не в полном сборе.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__23.wav",
+      "transcript": "Одно довольно непокорное подразделение влипло в неприятную историю, и вызволять их рискованно.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__24.wav",
+      "transcript": "А я, марсианин Марвин, не намерен идти на ненужный риск.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__25.wav",
+      "transcript": "Теперь тебе придётся исправить ущерб и вернуть мне моих потерянных растворимых марсиан.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cinfe_lvl_0101.wav",
+      "transcript": "Привет! Я, э-э, ф-фермер Порки. Слыхал, ты пытаешься ук-украсть стадо у Сэма. У-удачи! Я выращиваю всякие о-овощи и х-хорошо знаю овец Сэма. Н-например, я знаю, что овцу можно в-вести за собой, если показать ей с-салат. Если так сделаешь, т-тебе не придётся их т-таскать. В-возвращайся с овцой, и я покажу тебе, как обращаться с л-л-листовыми овощами.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cintxt_lvl_0103.wav",
+      "transcript": "О-овцы Сэма, о-они обожают есть салат. Если положить немного р-р-рядом с овцой, они подойдут и съедят всё, о-один за другим. Э-эти овцы просто п-п-поросята!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_05a.wav",
+      "transcript": "Как из всех... овец... что бы с ним ни случилось... овчарок.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Mars_2sec__20.wav": "0a7749d99d1b28a2ecf64b369f7f36d98cf407ae4caef649fa19d583e4742570",
+    "Mars_2sec__21.wav": "0e64afebfadc7fb72e0026cabc6460b7237029dc1a7b2415af8887ecb1ffc180",
+    "Mars_2sec__22.wav": "51a01e0a11bd751ff4a42d32262e750ce018c3328a4b53d969b178a0d15032a8",
+    "Mars_2sec__23.wav": "4f74a1e391cb80acf848109358cb7701ae5c73f620ebb624f91fbf5e2a73bc72",
+    "Mars_2sec__24.wav": "f4742b6b6d57b966328d3e2c5152f1e7192281c4d0cb31dde198e11ab50dd5fd",
+    "Mars_2sec__25.wav": "869b7b16aba0b31cc9e6ff9b872c9d923600e8de5399c3ea4138b18a5bf46c9b",
+    "cinfe_lvl_0101.wav": "0ef50490c153029dba2eed2dd09b2ae8816707d592a6814b0495133a5f94cba6",
+    "cintxt_lvl_0103.wav": "987323256bae75407d28953b9868d07b814bf88e6f864bafe1bc87cafef2c25e",
+    "be_05a.wav": "7214f5228e901b858a4227eed89d70bb3de0b99b994df5ce7ddc2d4e41d0d4a7"
+  },
+  "references": {
+    "Mars_2sec__20.wav": "Разве это не прелестно?",
+    "Mars_2sec__21.wav": "Погоди, я ещё не закончил.",
+    "Mars_2sec__22.wav": "Моя армия всё ещё не в полном сборе.",
+    "Mars_2sec__23.wav": "Одно довольно непокорное подразделение влипло в неприятную историю, и вызволять их рискованно.",
+    "Mars_2sec__24.wav": "А я, марсианин Марвин, не намерен идти на ненужный риск.",
+    "Mars_2sec__25.wav": "Теперь тебе придётся исправить ущерб и вернуть мне моих потерянных растворимых марсиан.",
+    "cinfe_lvl_0101.wav": "Привет! Я, э-э, ф-фермер Порки. Слыхал, ты пытаешься ук-украсть стадо у Сэма. У-удачи! Я выращиваю всякие о-овощи и х-хорошо знаю овец Сэма. Н-например, я знаю, что овцу можно в-вести за собой, если показать ей с-салат. Если так сделаешь, т-тебе не придётся их т-таскать. В-возвращайся с овцой, и я покажу тебе, как обращаться с л-л-листовыми овощами.",
+    "cintxt_lvl_0103.wav": "О-овцы Сэма, о-они обожают есть салат. Если положить немного р-р-рядом с овцой, они подойдут и съедят всё, о-один за другим. Э-эти овцы просто п-п-поросята!",
+    "be_05a.wav": "Как из всех... овец... что бы с ним ни случилось... овчарок."
+  }
+}

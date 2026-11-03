@@ -74,7 +74,8 @@ int Platform_KeyName(unsigned dikCode, char *out, int outSize);
 /* The mouse: its motion and wheel since the previous call, and its buttons (left, right, middle, X1). */
 void Platform_ReadMouse(int *dx, int *dy, int *wheel, unsigned char buttons[4]);
 int Platform_MenuPointer(float *x, float *y); // normalized window coordinates, only when uncaptured
-int Platform_OpenChannel(); // fixed HTTPS channel destination
+int Platform_OpenChannel(); // fixed Telegram destination, HTTPS fallback
+int Platform_MouseCameraCaptured();
 void Platform_MouseCameraFrame(int capture, float *dx, float *dy);
 
 /* Controllers: SDL's gamepads (its standard layout), in SDL's order. Platform_ReadJoystick: the left stick as the X and

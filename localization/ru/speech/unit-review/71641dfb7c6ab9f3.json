@@ -1,0 +1,20 @@
+{
+  "files": [
+    {
+      "file": "cin_03_sc_rel_06.wav",
+      "transcript": "Ко мне, Кей-найн. Сидеть, мальчик.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "cin_03_sc_rel_06.wav": "a39f0efb7cbd3da2f54d1257425e324b3ad90e292ea435b99edb2f31e019458d"
+  },
+  "references": {
+    "cin_03_sc_rel_06.wav": "Ко мне, Кей-найн. Сидеть, мальчик."
+  },
+  "snapshot_version": 1
+}

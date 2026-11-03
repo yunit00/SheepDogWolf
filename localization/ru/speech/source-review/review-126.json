@@ -1,0 +1,236 @@
+[
+  {
+    "file": "txt_lvl_0010.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hey, how about a little race? You want to know how to win?",
+        "ru": "Эй, как насчёт небольшой гонки? Хочешь знать, как победить?",
+        "start": 0.0,
+        "end": 3.9
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "When you cross the starting line, you'll get a limited amount of time to finish the race.",
+        "ru": "Когда пересечёшь линию старта, у тебя будет ограниченное время, чтобы закончить забег.",
+        "start": 4.0,
+        "end": 8.7
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "To do this, press steadily on the run button to increase your speed.",
+        "ru": "Для этого удерживай кнопку бега, чтобы набрать скорость.",
+        "start": 9.1,
+        "end": 14.3
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you run fast enough, you'll be able to stay suspended in midair for a short period of time.",
+        "ru": "Если побежишь достаточно быстро, то сможешь ненадолго зависнуть в воздухе.",
+        "start": 14.7,
+        "end": 21.8
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "This will come in handy to get over precipi-pi-pi-ces. Fancy word for cliffs.",
+        "ru": "Это пригодится, чтобы перемахнуть через про-про-пропасти. Умное словечко для обрывов.",
+        "start": 22.3,
+        "end": 27.1
+      }
+    ],
+    "source_seconds": 28.06575
+  },
+  {
+    "file": "txt_lvl_0011.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Come on, you can do better than that! Here's another chance.",
+        "ru": "Да ладно тебе, ты способен на большее! Вот ещё один шанс.",
+        "start": 0.6,
+        "end": 4.9
+      }
+    ],
+    "source_seconds": 5.6636875
+  },
+  {
+    "file": "txt_lvl_0012.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "I knew you could do it. You'll probably be able to challenge Road Runner later in the game, if you're up for it.",
+        "ru": "Я знал, что ты справишься! Позже сможешь бросить вызов Дорожному Бегуну, если хватит духу!",
+        "start": 0.5,
+        "end": 7.4
+      }
+    ],
+    "source_seconds": 8.5515625
+  },
+  {
+    "file": "txt_lvl_0013.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "To help you steal sheep from Sam Sheepdog, you will be given several objects. But wait! There's more. You've also got to know how to use objects in the background.",
+        "ru": "Чтобы красть овец у овчарки Сэма, тебе дадут разные предметы. Но погоди! Это ещё не всё. Нужно ещё уметь использовать предметы на уровне.",
+        "start": 0.0,
+        "end": 10.9
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "To open the gate, the red button has to be pressed. Just jump on the first seesaw and the big rock will throw you to the other side.",
+        "ru": "Чтобы открыть ворота, надо нажать красную кнопку. Просто прыгни на первые качели, и большой камень перебросит тебя на ту сторону.",
+        "start": 11.2,
+        "end": 20.6
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Then jump on the second seesaw to launch the little rock towards the button so that the gate remains open.",
+        "ru": "Затем прыгни на вторые качели, чтобы запустить маленький камень в кнопку, и ворота останутся открытыми.",
+        "start": 21.0,
+        "end": 29.3
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Confused yet? Me too. Woo-hoo! Woo-hoo! Woo-hoo! Woo-woo-hoo! Woo-hoo-hoo-hoo!",
+        "ru": "Уже запутался? Я тоже! У-ху! У-ху! У-ху! У-у-ху! У-ху-ху-ху!",
+        "start": 29.6,
+        "end": 35.5
+      }
+    ],
+    "source_seconds": 36.170125
+  },
+  {
+    "file": "txt_lvl_0014.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Listen, if you want to get sheep and make a plan, you have to use your inventory.",
+        "ru": "Послушай: если хочешь красть овец и строить планы, тебе понадобится инвентарь.",
+        "start": 0.3,
+        "end": 6.6
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "First, press the inventory button, which will show you the level's map and the objects available to you.",
+        "ru": "Сначала нажми кнопку инвентаря — откроется карта уровня и доступные предметы.",
+        "start": 7.1,
+        "end": 14.6
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "To get an object, you have to order it by opening a letterbox.",
+        "ru": "Чтобы получить предмет, закажи его через почтовый ящик.",
+        "start": 15.0,
+        "end": 19.4
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to know in which letterbox you have to order a specific object, select it in your inventory, and a red circle will appear around the letterbox, which means it's yours.",
+        "ru": "Хочешь узнать, в каком ящике нужно заказывать конкретный предмет? Выбери его в инвентаре, и нужный ящик обведётся красным — значит, посылка там!",
+        "start": 19.8,
+        "end": 31.7
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "The objects drawn in white are the ones you can find in the level.",
+        "ru": "Белым нарисованы предметы, которые можно найти на уровне.",
+        "start": 32.3,
+        "end": 36.7
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "The colored objects are those you already collected and can use.",
+        "ru": "Цветные — те, что ты уже забрал и можешь использовать.",
+        "start": 37.0,
+        "end": 41.3
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "And if that's not enough, you can also look at the object's user guide for instructions on how to use it.",
+        "ru": "А если и этого мало, загляни в инструкцию к предмету, там описано, как им пользоваться.",
+        "start": 41.6,
+        "end": 48.5
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "So come on! Try out your inventory and order an object from a letterbox today! Batteries not included.",
+        "ru": "Так что давай! Опробуй инвентарь и закажи предмет из почтового ящика прямо сегодня! Батарейки в комплект не входят.",
+        "start": 48.8,
+        "end": 56.5
+      }
+    ],
+    "source_seconds": 57.0655625
+  },
+  {
+    "file": "txt_lvl_0015.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hey, what's the matter with you? Pick up that object and store it in your inventory.",
+        "ru": "Эй, чего застыл? Подбери предмет и спрячь в инвентарь.",
+        "start": 0.5,
+        "end": 6.0
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Then you can use it right away by keeping the inventory button pressed down.",
+        "ru": "Потом сможешь быстро достать его, удерживая кнопку инвентаря.",
+        "start": 6.3,
+        "end": 11.7
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Here's another thing: A menu will appear with your objects. Just select the one you want with the right and left arrows, then release the button, and it's done.",
+        "ru": "И вот ещё что: появится меню с твоими предметами. Просто выбери нужный стрелками вправо и влево, отпусти кнопку — и готово!",
+        "start": 12.3,
+        "end": 23.5
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to store your object, just press once on this button.",
+        "ru": "А если хочешь убрать предмет, просто нажми эту кнопку один раз.",
+        "start": 23.9,
+        "end": 28.4
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Now get back and use the rocket to fly to the goal!",
+        "ru": "А теперь возвращайся и лети на ракете к финишу!",
+        "start": 28.9,
+        "end": 34.0
+      }
+    ],
+    "source_seconds": 35.72975
+  }
+]

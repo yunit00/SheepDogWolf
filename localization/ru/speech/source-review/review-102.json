@@ -1,0 +1,249 @@
+[
+  {
+    "file": "cintxt_lvl_0104.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Porky Pig",
+        "en": "T- To lay a path of of lettuce, p- put one head of it down.",
+        "ru": "Ч-чтобы выложить дорожку из салата, п-положи один кочан.",
+        "start": 0.0,
+        "end": 3.9
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "Th- Then, b- before placing the n- next one, ch- check whether their icons are p- properly displayed t- to be sure that you're not p- putting them too far away from each other.",
+        "ru": "З-затем, п-перед тем как класть с-следующий, п-проверь, видны ли значки, ч-чтобы убедиться, что ты не к-кладёшь их слишком далеко друг от друга.",
+        "start": 4.1,
+        "end": 14.6
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "If they're too s- s- spaced out, th- the sheep may stop m- moving midway down the p- path.",
+        "ru": "Если расстояние будет с-слишком большим, о-овца может о-остановиться посреди д-дорожки.",
+        "start": 14.8,
+        "end": 20.9
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "Th- That wouldn't be g- g- that wouldn't be g- g- th- that would be bad.",
+        "ru": "А э-это не хо-хо... э-это не хо-хо... э-это будет плохо!",
+        "start": 21.1,
+        "end": 25.5
+      }
+    ],
+    "source_seconds": 26.428625
+  },
+  {
+    "file": "cintxt_lvl_0105.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Porky Pig",
+        "en": "In the f- following levels, y- you may find lettuce in places other than g- gardens.",
+        "ru": "Н-на следующих уровнях т-ты сможешь найти салат не только на о-огородах.",
+        "start": 0.0,
+        "end": 4.8
+      },
+      {
+        "speaker": "Porky Pig",
+        "en": "But d- don't worry, they'll always be sh- shown on your m- map.",
+        "ru": "Но н-не б-беспокойся, он всегда будет п-показан на твоей к-карте.",
+        "start": 5.0,
+        "end": 9.9
+      }
+    ],
+    "source_seconds": 10.990875
+  },
+  {
+    "file": "cintxtex_lvl_0106.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "Speaker is Porky Pig, not Daffy Duck.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Porky Pig",
+        "en": "Th- That's not funny.",
+        "ru": "Э-это не смешно.",
+        "start": 0.0,
+        "end": 2.5
+      }
+    ],
+    "source_seconds": 3.4451875
+  },
+  {
+    "file": "fin1_2sec.wav",
+    "music": true,
+    "effects": true,
+    "speech_over_music": true,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Ralph Wolf",
+        "en": "Oh!",
+        "ru": "Ой!",
+        "start": 5.7,
+        "end": 6.7
+      },
+      {
+        "speaker": "Ralph Wolf",
+        "en": "What?",
+        "ru": "Что?",
+        "start": 29.2,
+        "end": 30.0
+      },
+      {
+        "speaker": "Ralph Wolf",
+        "en": "Yeah!",
+        "ru": "Да!",
+        "start": 32.4,
+        "end": 33.4
+      },
+      {
+        "speaker": "Ralph Wolf",
+        "en": "Hm?",
+        "ru": "Хм?",
+        "start": 42.5,
+        "end": 43.7
+      }
+    ],
+    "source_seconds": 51.69825
+  },
+  {
+    "file": "fin2_2sec.wav",
+    "music": true,
+    "effects": true,
+    "speech_over_music": false,
+    "notes": "No verbal speech; contains sound effects, music, and cartoon groans/screams.",
+    "needs_review": false,
+    "segments": [],
+    "source_seconds": 66.933
+  },
+  {
+    "file": "intro_2sec.wav",
+    "music": true,
+    "effects": true,
+    "speech_over_music": true,
+    "notes": " The wordless pondering hum at 164.5 s is retained from the original like other nonverbal effects.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Ralph Wolf",
+        "en": "Yeah!",
+        "ru": "Да!",
+        "start": 32.3,
+        "end": 33.4
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hello, and welcome to the Sheep, Dog 'n' Wolf Show, or as I like to call it, Who Wants to Be a Sheep Stealer?",
+        "ru": "Привет и добро пожаловать на «Шоу Овца, Собака и Волк», или, как мне больше нравится, «Кто хочет стать похитителем овец?»!",
+        "start": 91.7,
+        "end": 99.0
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Listen bub, all you got to do is relax and play the game. I got to use this gig to catapult me to superstardom.",
+        "ru": "Слушай, приятель, всё, что тебе нужно — расслабиться и играть. А я использую эту работёнку, чтобы взлететь на вершину суперславы!",
+        "start": 99.9,
+        "end": 107.8
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Now, the aim of our game is simple, to steal sheep.",
+        "ru": "Итак, цель нашей игры проста: воровать овец.",
+        "start": 108.3,
+        "end": 113.0
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You will go through a series of levels. At each of those levels, you will have to steal a sheep from Sam Sheepdog and put it in the goal.",
+        "ru": "Ты пройдёшь через серию уровней. На каждом из них тебе придётся украсть овцу у овчарки Сэма и доставить её на финиш.",
+        "start": 128.8,
+        "end": 139.4
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you succeed, you may proceed to the next challenge, and so on until you finally steal the entire flock.",
+        "ru": "Если справишься, сможешь перейти к следующему испытанию, и так далее, пока наконец не утащишь всю отару.",
+        "start": 139.8,
+        "end": 148.4
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "But, and this is a big but, the sheep must be intact at the end of each level.",
+        "ru": "Но — и это очень важное «но» — в конце каждого уровня овца должна быть цела и невредима.",
+        "start": 149.4,
+        "end": 155.0
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You'll be disqualified if any of these sheep are missing so much as a thread of wool.",
+        "ru": "Тебя дисквалифицируют, если овца потеряет хотя бы ниточку шерсти.",
+        "start": 155.3,
+        "end": 160.8
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Have I made myself perfectly clear?",
+        "ru": "Я предельно ясно выразился?",
+        "start": 161.2,
+        "end": 164.2
+      },
+      {
+        "speaker": "Nonverbal",
+        "en": "Mmm.",
+        "ru": "",
+        "start": 164.5,
+        "end": 166.0
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Okay, don't panic. I, as a consummate professional, know how important it is to rehearse.",
+        "ru": "Ладно, без паники. Я, как совершенный профессионал, знаю, как важны репетиции.",
+        "start": 167.8,
+        "end": 175.7
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "This is your big chance, and you don't want to blow it.",
+        "ru": "Это твой звёздный час, и ты ведь не хочешь всё запороть.",
+        "start": 176.2,
+        "end": 180.0
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Besides, I'm the one who explained this game to you.",
+        "ru": "К тому же, это я объяснил тебе правила игры.",
+        "start": 180.0,
+        "end": 183.0
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "And if you don't do well, how's that going to make me look? Not so good, that's how.",
+        "ru": "И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как!",
+        "start": 183.1,
+        "end": 188.3
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "So, go ahead, practice!",
+        "ru": "Так что давай, тренируйся!",
+        "start": 188.8,
+        "end": 190.8
+      }
+    ],
+    "source_seconds": 191.9705
+  }
+]

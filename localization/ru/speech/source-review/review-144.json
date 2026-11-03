@@ -1,0 +1,56 @@
+[
+  {
+    "file": "txtel_lvl1101.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": " Spell Russian words normally; Elmer voice direction provides the articulation, not an invalid hard-sign spelling. Condensed equivalent whisper for original scene duration.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Elmer Fudd",
+        "en": "Shh! Be vewy, vewy quiet. I'm hunting wabbits. Huh-huh-huh-huh.",
+        "ru": "Тс-с. Очень, очень тихо. Я охочусь на кроликов. Хе-хе-хе-хе.",
+        "start": 0.05,
+        "end": 6.05
+      }
+    ],
+    "source_seconds": 6.6688125,
+    "previous_segments": [
+      {
+        "speaker": "Elmer Fudd",
+        "en": "Shh! Be vewy, vewy quiet. I'm hunting wabbits. Huh-huh-huh-huh.",
+        "ru": "Тс-с. Ведите себя очень, очень тихо. Я охочусь на кроликов. Хе-хе-хе-хе.",
+        "start": 0.05,
+        "end": 6.05
+      }
+    ]
+  },
+  {
+    "file": "txtel_lvl1102.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": " Condensed equivalent whisper for original scene duration.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Elmer Fudd",
+        "en": "Shh! Be vewy, vewy quiet. I'm duck hunting. Huh-huh-huh-huh.",
+        "ru": "Тс-с. Очень, очень тихо. Я охочусь на уток. Хе-хе-хе-хе.",
+        "start": 0.05,
+        "end": 5.92
+      }
+    ],
+    "source_seconds": 6.1539375,
+    "previous_segments": [
+      {
+        "speaker": "Elmer Fudd",
+        "en": "Shh! Be vewy, vewy quiet. I'm duck hunting. Huh-huh-huh-huh.",
+        "ru": "Тс-с. Ведите себя очень, очень тихо. Я охочусь на уток. Хе-хе-хе-хе.",
+        "start": 0.05,
+        "end": 5.92
+      }
+    ]
+  }
+]

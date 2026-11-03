@@ -1,0 +1,5 @@
+Создано встроенным imagegen 02.11.2026 для личного приложения SheepDogWolf.
+Исходный значок сохранён в icon-classic.png. Новый PNG: icon.png; CMake строит ICNS нужных размеров.
+
+Prompt:
+Use case: logo-brand. Create an original desktop game app icon: a friendly mischievous gray woodland wolf head, front-facing, broad triangular silhouette, short rounded muzzle, small black nose, amber eyes, two compact triangular ears. Bold graphic cartoon shapes, elegant flat cel shading, confident dark outlines, distinctive simple original character design. Emerald green rounded-square tile with a subtle warm golden rim, soft natural light, premium polished macOS icon presentation. No text, letters, weapons, logos or watermarks. Strong legibility at small sizes. Square image, generous transparent outer margin. This is an independent woodland animal design, not a depiction of any existing fictional character.

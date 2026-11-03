@@ -1,0 +1,120 @@
+{
+  "files": [
+    {
+      "file": "txt_lvl_005.wav",
+      "transcript": "А теперь я спрячусь наверху. Если хочешь найти меня, удерживай кнопку вида от первого лица.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl_006.wav",
+      "transcript": "Хочешь пойти за мной — а кто бы не захотел? — жми кнопку прыжка и просто делай то же, что и я.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl_007.wav",
+      "transcript": "Хочешь прыгнуть повыше — нажми кнопку второй раз в самой верхней точке прыжка. Работает как часы!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl_008__01.wav",
+      "transcript": "Могу также посоветовать нажать кнопку прыжка, чтобы сигануть с разбега.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl_009__01.wav",
+      "transcript": "Ох, ну и насмешил же я себя!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl_009__03.wav",
+      "transcript": "А если серьёзно, хочешь преуспеть в этой игре — шевели мозгами.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl_009__04.wav",
+      "transcript": "Давай, за мной, на дорогу!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_rob_01.wav",
+      "transcript": "Чтобы подвесить предмет на конец лески, выбери «Соединить» в инвентаре. Почему бы и нет?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_rob_02.wav",
+      "transcript": "Если хочешь снять предмет с конца лески, выбери «Разобрать» в инвентаре.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_rob_03.wav",
+      "transcript": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "trailing music sting"
+      ]
+    }
+  ],
+  "inputs": {
+    "txt_lvl_005.wav": "d33cf30839571746afbf781b7ec41673271987f8abc9edaac40ebe550d4735ac",
+    "txt_lvl_006.wav": "f1ad536d2270e91b2eaf6b356808cddb65789124c4f7dfde954ff437f8d89ad9",
+    "txt_lvl_007.wav": "408676d40f39748c1a0ba1dacccd248e25f5ebcff4be2cf3affc61bf96e20194",
+    "txt_lvl_008__01.wav": "7d95f238b1f2eee64bdcadd39683b62b3d251c52ec0750da0948efb36bb3a4a9",
+    "txt_lvl_009__01.wav": "6f56d89d0e9eb13232d6a6a0028b534099870e9bb80b459546da66d3cee2e858",
+    "txt_lvl_009__03.wav": "dc3beee76ec36994f0935dccd97b21a465fd208b4ed7c825a176cb499eb68233",
+    "txt_lvl_009__04.wav": "58a75a5f07e371ba534a30f8c275774b4bee41d53efc1ca6376073a15830a77c",
+    "txt_rob_01.wav": "186c1629168dcd67b0dec06e1988f6aa072af5a7a917e5c2b1ca123f021d25ce",
+    "txt_rob_02.wav": "4ef15e4df14be6ecc1c45aac67cca04a3f997e1e6f2e01553d9d416285f114ea",
+    "txt_rob_03.wav": "83b596b5858eefe159af78a2fafca4373855077c9f0496b5c60594014fd8eea3"
+  },
+  "references": {
+    "txt_lvl_005.wav": "А теперь я спрячусь наверху. Если хочешь найти меня, удерживай кнопку вида от первого лица.",
+    "txt_lvl_006.wav": "Хочешь пойти за мной — а кто бы не захотел? — жми кнопку прыжка и просто делай то же, что и я.",
+    "txt_lvl_007.wav": "Хочешь прыгнуть повыше — нажми кнопку второй раз в самой верхней точке прыжка. Работает как часы!",
+    "txt_lvl_008__01.wav": "Могу также посоветовать нажать кнопку прыжка, чтобы сигануть с разбега.",
+    "txt_lvl_009__01.wav": "Ох, ну и насмешил же я себя!",
+    "txt_lvl_009__03.wav": "А если серьёзно, хочешь преуспеть в этой игре — шевели мозгами.",
+    "txt_lvl_009__04.wav": "Давай, за мной, на дорогу!",
+    "txt_rob_01.wav": "Чтобы подвесить предмет на конец лески, выбери «Соединить» в инвентаре. Почему бы и нет?",
+    "txt_rob_02.wav": "Если хочешь снять предмет с конца лески, выбери «Разобрать» в инвентаре.",
+    "txt_rob_03.wav": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов."
+  }
+}

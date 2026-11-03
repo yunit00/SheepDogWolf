@@ -1,0 +1,31 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 15.815375,
+  "request_id": "req_26a8cf2afa3e4ad687ec0721363e6e11",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 12.1 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "Замри! Не шевелись, когда голова Сэма повернута в твою сторону, иначе ты дохлая утка. Э-э, неудачное выражение. В общем, отойди за черту, если хочешь начать снова.",
+    "unit": {
+      "file": "cin_lvl_0204.wav",
+      "source_file": "cin_lvl_0204.wav",
+      "speaker": "Daffy Duck",
+      "text": "Замри! Не шевелись, когда голова Сэма повернута в твою сторону, иначе ты дохлая утка. Э-э, неудачное выражение. В общем, отойди за черту, если хочешь начать снова.",
+      "start": 0.26,
+      "end": 12.38,
+      "source_seconds": 15.0971875,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "sha256": "19563140738f49831f104119ac73156c378f33ef59a9a897566f83b704b3cd79",
+  "status": "unreviewed"
+}

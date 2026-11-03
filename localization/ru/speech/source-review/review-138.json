@@ -1,0 +1,168 @@
+[
+  {
+    "file": "txt_lvl_007.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to jump higher, press the button a second time when you're at the highest point of your jump.",
+        "ru": "Хочешь прыгнуть повыше — нажми кнопку второй раз в самой верхней точке прыжка.",
+        "start": 0.0,
+        "end": 6.64
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Works like a charm.",
+        "ru": "Работает как часы!",
+        "start": 6.84,
+        "end": 8.54
+      }
+    ],
+    "source_seconds": 10.9598125
+  },
+  {
+    "file": "txt_lvl_008.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Nonverbal",
+        "en": "[chuckles]",
+        "ru": "",
+        "start": 0.0,
+        "end": 0.75
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Might I also suggest you use the jump button to take a flying leap?",
+        "ru": "Могу также посоветовать нажать кнопку прыжка, чтобы сигануть с разбега.",
+        "start": 1.0,
+        "end": 6.65
+      }
+    ],
+    "source_seconds": 7.847625
+  },
+  {
+    "file": "txt_lvl_009.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Nonverbal",
+        "en": "[laughing]",
+        "ru": "",
+        "start": 0.0,
+        "end": 9.38
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oh, oh, I do crack myself up.",
+        "ru": "Ох, ну и насмешил же я себя!",
+        "start": 9.38,
+        "end": 11.96
+      },
+      {
+        "speaker": "Nonverbal",
+        "en": "[snickers]",
+        "ru": "",
+        "start": 11.96,
+        "end": 13.05
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Seriously though, if you want to be good at this game, you'll have to use the old noggin.",
+        "ru": "А если серьёзно, хочешь преуспеть в этой игре — шевели мозгами.",
+        "start": 13.05,
+        "end": 18.75
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Come on, follow me up to the road.",
+        "ru": "Давай, за мной, на дорогу!",
+        "start": 18.8,
+        "end": 20.97
+      }
+    ],
+    "source_seconds": 22.379875
+  },
+  {
+    "file": "txt_rob_01.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to hang an object onto the end of the fishing line, use the combine feature in your inventory, why don't you?",
+        "ru": "Чтобы подвесить предмет на конец лески, выбери «Соединить» в инвентаре. Почему бы и нет?",
+        "start": 0.0,
+        "end": 8.35
+      }
+    ],
+    "source_seconds": 9.2985
+  },
+  {
+    "file": "txt_rob_02.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to unhook an object from the end of the fishing line, use the dissociate feature in your inventory.",
+        "ru": "Если хочешь снять предмет с конца лески, выбери «Разобрать» в инвентаре.",
+        "start": 0.0,
+        "end": 6.75
+      }
+    ],
+    "source_seconds": 7.7871875
+  },
+  {
+    "file": "txt_rob_03.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Get this! You can hang several different objects onto the end of the fishing line.",
+        "ru": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в список предметов в инструкции.",
+        "start": 0.0,
+        "end": 8.42
+      }
+    ],
+    "source_seconds": 9.703375,
+    "previous_segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Get this! You can hang several different objects onto the end of the fishing line.",
+        "ru": "Прикинь: на конец лески можно вешать разные предметы!",
+        "start": 0.0,
+        "end": 4.85
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you don't believe me, look in the user guide at the object list.",
+        "ru": "Не веришь? Загляни в инструкцию, в список предметов.",
+        "start": 4.85,
+        "end": 8.42
+      }
+    ]
+  }
+]

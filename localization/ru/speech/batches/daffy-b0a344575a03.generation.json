@@ -1,0 +1,225 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Puck",
+  "seconds": 54.24,
+  "script": {
+    "speaker": "Daffy Duck",
+    "voice": "Puck",
+    "clips": [
+      {
+        "file": "Cin_int_niv_07.wav",
+        "source_file": "Cin_int_niv_07.wav",
+        "speaker": "Daffy Duck",
+        "text": "Я предельно ясно выразился? М-м-м?",
+        "start": 0.14,
+        "end": 3.95,
+        "source_seconds": 5.0365625,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "Cin_int_niv_09b.wav",
+        "source_file": "Cin_int_niv_09b.wav",
+        "speaker": "Daffy Duck",
+        "text": "Что?",
+        "start": 0.12,
+        "end": 0.82,
+        "source_seconds": 1.358625,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "Cin_int_niv_10.wav",
+        "source_file": "Cin_int_niv_10.wav",
+        "speaker": "Daffy Duck",
+        "text": "Ну, вроде того. Да, репетиции проходят здесь.",
+        "start": 0.15,
+        "end": 4.38,
+        "source_seconds": 4.8213125,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "Cin_int_niv_11.wav",
+        "source_file": "Cin_int_niv_11.wav",
+        "speaker": "Daffy Duck",
+        "text": "Да! О, и последнее: если захочешь изменить настройки игры, нажми паузу и загляни в меню. Удачи!",
+        "start": 0.1,
+        "end": 8.35,
+        "source_seconds": 9.842625,
+        "segments": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "file": "Cin_int_niv_12.wav",
+        "source_file": "Cin_int_niv_12.wav",
+        "speaker": "Daffy Duck",
+        "text": "Ещё один способ изменить настройки игры — нажать кнопку «Старт».",
+        "start": 0.08,
+        "end": 4.85,
+        "source_seconds": 5.610875,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "Mars_2sec__00.wav",
+        "source_file": "Mars_2sec.wav",
+        "speaker": "Daffy Duck",
+        "text": "Фантастика!",
+        "start": 14.35,
+        "end": 15.8,
+        "source_seconds": 208.7134375,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "Mars_2sec__01.wav",
+        "source_file": "Mars_2sec.wav",
+        "speaker": "Daffy Duck",
+        "text": "Последняя овечка!",
+        "start": 15.85,
+        "end": 17.35,
+        "source_seconds": 208.7134375,
+        "segments": [
+          1
+        ]
+      },
+      {
+        "file": "Mars_2sec__02.wav",
+        "source_file": "Mars_2sec.wav",
+        "speaker": "Daffy Duck",
+        "text": "У тебя получилось!",
+        "start": 17.4,
+        "end": 18.5,
+        "source_seconds": 208.7134375,
+        "segments": [
+          2
+        ]
+      },
+      {
+        "file": "Mars_2sec__03.wav",
+        "source_file": "Mars_2sec.wav",
+        "speaker": "Daffy Duck",
+        "text": "Ты потрясающий участник.",
+        "start": 18.7,
+        "end": 21.15,
+        "source_seconds": 208.7134375,
+        "segments": [
+          3
+        ]
+      },
+      {
+        "file": "Mars_2sec__04.wav",
+        "source_file": "Mars_2sec.wav",
+        "speaker": "Daffy Duck",
+        "text": "К сожалению, наше шоу почти закончилось.",
+        "start": 21.5,
+        "end": 24.45,
+        "source_seconds": 208.7134375,
+        "segments": [
+          4
+        ]
+      },
+      {
+        "file": "Mars_2sec__05.wav",
+        "source_file": "Mars_2sec.wav",
+        "speaker": "Daffy Duck",
+        "text": "Спасибо всем моим поклонникам за то, что были с нами до самого конца.",
+        "start": 24.75,
+        "end": 29.15,
+        "source_seconds": 208.7134375,
+        "segments": [
+          5
+        ]
+      },
+      {
+        "file": "Mars_2sec__06.wav",
+        "source_file": "Mars_2sec.wav",
+        "speaker": "Daffy Duck",
+        "text": "До скорых встреч!",
+        "start": 29.35,
+        "end": 30.8,
+        "source_seconds": 208.7134375,
+        "segments": [
+          6
+        ]
+      },
+      {
+        "file": "Mars_2sec__07.wav",
+        "source_file": "Mars_2sec.wav",
+        "speaker": "Daffy Duck",
+        "text": "А? Это ещё что такое?",
+        "start": 31.4,
+        "end": 33.15,
+        "source_seconds": 208.7134375,
+        "segments": [
+          7
+        ]
+      },
+      {
+        "file": "Mars_2sec__08.wav",
+        "source_file": "Mars_2sec.wav",
+        "speaker": "Daffy Duck",
+        "text": "Что здесь делает марсианин Марвин?",
+        "start": 33.35,
+        "end": 36.05,
+        "source_seconds": 208.7134375,
+        "segments": [
+          8
+        ]
+      },
+      {
+        "file": "Mars_2sec__09.wav",
+        "source_file": "Mars_2sec.wav",
+        "speaker": "Daffy Duck",
+        "text": "Этого не было в сценарии!",
+        "start": 36.35,
+        "end": 38.25,
+        "source_seconds": 208.7134375,
+        "segments": [
+          9
+        ]
+      },
+      {
+        "file": "be_01.wav",
+        "source_file": "be_01.wav",
+        "speaker": "Daffy Duck",
+        "text": "Кто за это отвечает?!",
+        "start": 0.18,
+        "end": 2.1,
+        "source_seconds": 3.2054375,
+        "segments": [
+          0
+        ]
+      }
+    ],
+    "prompt": "Russian dubbing for a classic cartoon game. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Я предельно ясно выразился? М-м-м?\n\n2. Что?\n\n3. Ну, вроде того. Да, репетиции проходят здесь.\n\n4. Да! О, и последнее: если захочешь изменить настройки игры, нажми паузу и загляни в меню. Удачи!\n\n5. Ещё один способ изменить настройки игры — нажать кнопку «Старт».\n\n6. Фантастика!\n\n7. Последняя овечка!\n\n8. У тебя получилось!\n\n9. Ты потрясающий участник.\n\n10. К сожалению, наше шоу почти закончилось.\n\n11. Спасибо всем моим поклонникам за то, что были с нами до самого конца.\n\n12. До скорых встреч!\n\n13. А? Это ещё что такое?\n\n14. Что здесь делает марсианин Марвин?\n\n15. Этого не было в сценарии!\n\n16. Кто за это отвечает?!"
+  },
+  "usage": {
+    "promptTokenCount": 370,
+    "candidatesTokenCount": 1356,
+    "totalTokenCount": 1726,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 370
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 1356
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

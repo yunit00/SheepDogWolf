@@ -1,0 +1,45 @@
+{
+  "intelligible_speech": true,
+  "residuals": [
+    {
+      "start": 13.0,
+      "end": 16.5,
+      "words": "at least we're stuck out here forever",
+      "confidence": 0.75
+    },
+    {
+      "start": 16.8,
+      "end": 18.8,
+      "words": "so what do we do now",
+      "confidence": 0.85
+    },
+    {
+      "start": 22.0,
+      "end": 26.5,
+      "words": "find the hole maybe if we find the hole",
+      "confidence": 0.7
+    },
+    {
+      "start": 26.8,
+      "end": 29.5,
+      "words": "how are we going to climb up there",
+      "confidence": 0.75
+    },
+    {
+      "start": 31.0,
+      "end": 33.5,
+      "words": "look",
+      "confidence": 0.7
+    }
+  ],
+  "music_quality": "poor",
+  "artifacts": [
+    "severe vocal isolation artifacts",
+    "phase cancellation distortion",
+    "spectral subtraction musical noise",
+    "prominent dialogue bleed"
+  ],
+  "acceptable_under_dubbing": false,
+  "sha256": "d330cbd7ccab41223e47bb9927b950cb230ae8810e6f13a63c2200566db0ff55",
+  "file": "cin_goal_01"
+}

@@ -1,0 +1,29 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.2,
+  "seconds": 8.625666666666667,
+  "request_id": "req_98f7aba3cbf4420db28027750c71f750",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. This is a single short game utterance, not a conversation. Fit ALL spoken words into 9.14 seconds. Use brisk continuous speech, no dramatic pauses, no elongated vowels. Say the text EXACTLY ONCE. Do not repeat short exclamations or add introductory sounds. Dry isolated voice, NO music, sound effects or background. Leave a brief quiet lead-in and tail; pronounce the first and final consonants completely.",
+    "speed": 1.2,
+    "text": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов.",
+    "unit": {
+      "file": "txt_rob_03.wav",
+      "source_file": "txt_rob_03.wav",
+      "speaker": "Daffy Duck",
+      "text": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов.",
+      "start": 0.0,
+      "end": 8.42,
+      "source_seconds": 9.703375,
+      "segments": [
+        0,
+        1
+      ]
+    }
+  },
+  "sha256": "55f8a63ff01744806810f2537740e05f5215cbf948854bd0a3a3b57bb4f41bb8",
+  "status": "unreviewed"
+}

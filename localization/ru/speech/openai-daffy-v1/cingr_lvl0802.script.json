@@ -1,0 +1,19 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 8.2 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Некогда болтать, у меня полно работы! Нужно вытащить эти ледяные кубы из реки и сложить здесь, на этом берегу!",
+  "unit": {
+    "file": "cingr_lvl0802.wav",
+    "source_file": "cingr_lvl0802.wav",
+    "speaker": "Daffy Duck",
+    "text": "Некогда болтать, у меня полно работы! Нужно вытащить эти ледяные кубы из реки и сложить здесь, на этом берегу!",
+    "start": 0.07,
+    "end": 8.27,
+    "source_seconds": 9.199375,
+    "segments": [
+      0,
+      1
+    ]
+  }
+}

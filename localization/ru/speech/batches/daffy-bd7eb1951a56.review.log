@@ -1,0 +1,15 @@
+{
+  "transcript": "Прикинь! На конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов.",
+  "character_voice": "High-pitched, animated cartoon duck voice with sharp theatrical inflection.",
+  "lisp": "mild",
+  "issues": [],
+  "clips": [
+    {
+      "file": "txt_rob_03.wav",
+      "start": 0.12,
+      "end": 8.05,
+      "transcript": "Прикинь! На конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов.",
+      "complete": true
+    }
+  ]
+}

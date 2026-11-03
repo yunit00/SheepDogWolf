@@ -1,0 +1,29 @@
+{
+  "speaker": "Porky Pig",
+  "voice": "Achird",
+  "clips": [
+    {
+      "file": "cinfe_lvl_0102.wav",
+      "source_file": "cinfe_lvl_0102.wav",
+      "speaker": "Porky Pig",
+      "text": "Т-тебе удалось увести овцу из с-стада. М-молодец! А теперь я покажу тебе, как с умом использовать с-салат. Овцы Сэма его о-обожают. Всё, что нужно — о-оставить немного рядом с овцой. Она сама пойдёт к нему, чтобы съесть. Н-но смотри, не клади с-салат слишком далеко, а то она не с-сможет его у-увидеть. Чтобы знать, достаточно ли близко ты стоишь, перед тем как п-положить салат, п-проверь, виден ли этот значок. Ещё можно разложить к-кусочки салата вдоль тропинки. Овца будет переходить от кусочка к кусочку. Н-но не клади их слишком далеко друг от друга, иначе овца может о-остановиться по дороге. Так что не забывай проверять значок, прежде чем п-положить с-салат. Он подскажет, достаточно ли близко. В-всё понятно? Ты с-следишь за мыслью? П-понимаешь? Потому что я — н-нет!",
+      "start": 0.16,
+      "end": 60.15,
+      "source_seconds": 61.3724375,
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "replacement_reason": "Prior audio failed independent QA: clipped consonant, unclear word or added stutter.",
+  "prompt": "Russian dialogue for a fictional family cartoon game. Original character interpretation, not a real actor imitation. Friendly youthful male cartoon pig, rounded warm slightly nasal high-mid voice. Keep only the short stutters written in the text, do not add excessive stuttering. Helpful, expressive and clear. Natural clear brisk delivery, finish the words in about 60.0 seconds. Speak every written word once and fully; no added words, laughs, introduction, conclusion or numbering. Preserve only stutters explicitly written in the text. No music or effects. Leave 0.4 seconds of silence before the first word and after the last word. Do not clip the first or last consonants. Do not exaggerate speech impediments; each word must stay intelligible.\n\nТ-тебе удалось увести овцу из с-стада. М-молодец! А теперь я покажу тебе, как с умом использовать с-салат. Овцы Сэма его о-обожают. Всё, что нужно — о-оставить немного рядом с овцой. Она сама пойдёт к нему, чтобы съесть. Н-но смотри, не клади с-салат слишком далеко, а то она не с-сможет его у-увидеть. Чтобы знать, достаточно ли близко ты стоишь, перед тем как п-положить салат, п-проверь, виден ли этот значок. Ещё можно разложить к-кусочки салата вдоль тропинки. Овца будет переходить от кусочка к кусочку. Н-но не клади их слишком далеко друг от друга, иначе овца может о-остановиться по дороге. Так что не забывай проверять значок, прежде чем п-положить с-салат. Он подскажет, достаточно ли близко. В-всё понятно? Ты с-следишь за мыслью? П-понимаешь? Потому что я — н-нет!"
+}

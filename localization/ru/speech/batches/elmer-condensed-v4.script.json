@@ -1,0 +1,31 @@
+{
+  "speaker": "Elmer Fudd",
+  "voice": "Umbriel",
+  "clips": [
+    {
+      "file": "txtel_lvl1101.wav",
+      "source_file": "txtel_lvl1101.wav",
+      "speaker": "Elmer Fudd",
+      "text": "Тс-с. Очень, очень тихо. Я охочусь на кроликов. Хе-хе-хе-хе.",
+      "start": 0.05,
+      "end": 6.05,
+      "source_seconds": 6.6688125,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "txtel_lvl1102.wav",
+      "source_file": "txtel_lvl1102.wav",
+      "speaker": "Elmer Fudd",
+      "text": "Тс-с. Очень, очень тихо. Я охочусь на уток. Хе-хе-хе-хе.",
+      "start": 0.05,
+      "end": 5.92,
+      "source_seconds": 6.1539375,
+      "segments": [
+        0
+      ]
+    }
+  ],
+  "prompt": "Soft rounded nasal male cartoon hunter voice, gentle slightly comical consonants and small speech impediment, fully intelligible Russian. Read these two Russian lines exactly, brisk quiet stage whisper, each line takes FIVE seconds. Say each line once. Keep first whispered consonants complete. Leave TWO SECONDS SILENCE between lines, half a second before and after. No other words, sounds, music or effects.\n\nТс-с. Очень, очень тихо. Я охочусь на кроликов. Хе-хе-хе-хе.\n\nТс-с. Очень, очень тихо. Я охочусь на уток. Хе-хе-хе-хе."
+}

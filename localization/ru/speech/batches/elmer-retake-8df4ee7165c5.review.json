@@ -1,0 +1,15 @@
+{
+  "transcript": "Ш-ш. Ведите себя очень, очень тихо. Я охочусь на уток. Хе-хе-хе-хе.",
+  "character_voice": "Raspy, stealthy cartoon voice typical of Elmer Fudd, delivered in a stage whisper with chuckles.",
+  "lisp": "mild",
+  "issues": [],
+  "clips": [
+    {
+      "file": "txtel_lvl1102.wav",
+      "start": 0.22,
+      "end": 8.35,
+      "transcript": "Ш-ш. Ведите себя очень, очень тихо. Я охочусь на уток. Хе-хе-хе-хе.",
+      "complete": true
+    }
+  ]
+}

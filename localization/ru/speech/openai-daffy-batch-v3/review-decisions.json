@@ -1,0 +1,18 @@
+{
+  "daffy-v3": {
+    "accepted_issues": [
+      "В реплике txt_rob_03 пропущен предлог «в» перед словами «список предметов» («Загляни в инструкцию, список предметов»)."
+    ],
+    "excluded_files": [
+      "txt_rob_03.wav"
+    ],
+    "reason": "The only reported defect belongs to txt_rob_03, excluded from extraction and queued for retranslation/retake. No defective clip is accepted.",
+    "cut_windows": {
+      "Mars_2sec__08.wav": [
+        20.62,
+        20.82
+      ]
+    },
+    "cut_note": "Independent split QA found initial K from the next entry in Mars_2sec__08. Waveform: previous voice ends 20.55, next onset 20.95. Choose disjoint boundary in quiet interval 20.62..20.82, then recheck both files."
+  }
+}

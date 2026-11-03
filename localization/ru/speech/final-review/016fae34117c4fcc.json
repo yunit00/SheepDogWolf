@@ -1,0 +1,31 @@
+{
+  "files": [
+    {
+      "file": "txtel_lvl1101.wav",
+      "transcript": "Ш-ш. Очень, очень тихо. Я охочусь на кроликов. Хи-хи-хи-хи.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txtel_lvl1102.wav",
+      "transcript": "Ш-ш. Очень, очень тихо. Я охочусь на уток. Хи-хи-хи-хи.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "txtel_lvl1101.wav": "34ee2fd8a15c8f1079700f979fa39e0522f8d7001eb120418bcf9887aa63bd12",
+    "txtel_lvl1102.wav": "99caa1b12b6f8f451f43ce38504d4234ffe94a3c0236ab2520db360550568cde"
+  },
+  "references": {
+    "txtel_lvl1101.wav": "Тс-с. Очень, очень тихо. Я охочусь на кроликов. Хе-хе-хе-хе.",
+    "txtel_lvl1102.wav": "Тс-с. Очень, очень тихо. Я охочусь на уток. Хе-хе-хе-хе."
+  },
+  "snapshot_version": 1
+}

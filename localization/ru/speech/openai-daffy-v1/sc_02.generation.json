@@ -1,0 +1,29 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 4.4740416666666665,
+  "request_id": "req_53c0458343e442f8b9c34323e30a12ea",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 3.2 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "Давай же, публика за тебя! Не останавливайся!",
+    "unit": {
+      "file": "sc_02.wav",
+      "source_file": "sc_02.wav",
+      "speaker": "Daffy Duck",
+      "text": "Давай же, публика за тебя! Не останавливайся!",
+      "start": 0.0,
+      "end": 3.25,
+      "source_seconds": 3.480625,
+      "segments": [
+        0,
+        1
+      ]
+    }
+  },
+  "sha256": "068d6352a36212be45994293fbb55b664f63b45f6f8bc8bcffb8c773f1ef046f",
+  "status": "unreviewed"
+}

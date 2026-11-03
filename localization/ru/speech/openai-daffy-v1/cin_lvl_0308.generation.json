@@ -1,0 +1,28 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 6.814166666666667,
+  "request_id": "req_000c29cd0c304804b442230510f969f1",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 4.5 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "За камнями можно прятаться, удерживая кнопку скрытности.",
+    "unit": {
+      "file": "cin_lvl_0308.wav",
+      "source_file": "cin_lvl_0308.wav",
+      "speaker": "Daffy Duck",
+      "text": "За камнями можно прятаться, удерживая кнопку скрытности.",
+      "start": 0.08,
+      "end": 4.54,
+      "source_seconds": 5.423875,
+      "segments": [
+        0
+      ]
+    }
+  },
+  "sha256": "a29e761199a6090d5c5c271e5e11f769c7e076c0630cc4bf061bb2dd2fbf5094",
+  "status": "unreviewed"
+}

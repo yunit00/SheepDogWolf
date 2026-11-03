@@ -1,0 +1,18 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. This is a single short game utterance, not a conversation. Fit ALL spoken words into 3.07 seconds. Use brisk continuous speech, no dramatic pauses, no elongated vowels. Say the text EXACTLY ONCE. Do not repeat short exclamations or add introductory sounds. Dry isolated voice, NO music, sound effects or background. Leave a brief quiet lead-in and tail; pronounce the first and final consonants completely.",
+  "speed": 1.2,
+  "text": "К сожалению, наше шоу почти закончилось.",
+  "unit": {
+    "file": "Mars_2sec__04.wav",
+    "source_file": "Mars_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "К сожалению, наше шоу почти закончилось.",
+    "start": 21.5,
+    "end": 24.45,
+    "source_seconds": 208.7134375,
+    "segments": [
+      4
+    ]
+  }
+}

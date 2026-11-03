@@ -1,0 +1,42 @@
+{
+  "files": [
+    {
+      "file": "Cin02_sc_reL001__01.wav",
+      "transcript": "Добро пожаловать на наше шоу!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_rob_03.wav",
+      "transcript": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в список предметов в инструкции.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0203.wav",
+      "transcript": "Ну и ну. От тебя столько же тишины, сколько от петард в больничной зоне. Чтобы красться тихо, используй кнопку скрытности. А теперь отойди за черту, если хочешь попробовать снова.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Cin02_sc_reL001__01.wav": "90e0bae6c283fa318290eaaa757cf5bc7a572a98826df22859444a53a0f683eb",
+    "txt_rob_03.wav": "b7b2b0d61ca19a2e54a35ff237e8f5b7003d4e9f2b1e415916f2e5d5e19dc373",
+    "cin_lvl_0203.wav": "a08e718fa4a84f7606d3af25a38d5961983c5d45a6a1737d123cb23d6e7b2c9d"
+  },
+  "references": {
+    "Cin02_sc_reL001__01.wav": "Добро пожаловать на наше шоу!",
+    "txt_rob_03.wav": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в список предметов в инструкции.",
+    "cin_lvl_0203.wav": "Ну и ну. От тебя столько же тишины, сколько от петард в больничной зоне. Чтобы красться тихо, используй кнопку скрытности. А теперь отойди за черту, если хочешь попробовать снова."
+  },
+  "snapshot_version": 1
+}

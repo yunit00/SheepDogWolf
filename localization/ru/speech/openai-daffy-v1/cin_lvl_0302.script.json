@@ -1,0 +1,21 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 14.7 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Слушай. Я буду наблюдать поверх камней, пока ты прячешься за этим. Когда перейдёшь за белую линию, я буду внимательно смотреть, сможешь ли ты добраться до этого квадрата так, чтобы я тебя не заметил. Теперь всё зависит от тебя.",
+  "unit": {
+    "file": "cin_lvl_0302.wav",
+    "source_file": "cin_lvl_0302.wav",
+    "speaker": "Daffy Duck",
+    "text": "Слушай. Я буду наблюдать поверх камней, пока ты прячешься за этим. Когда перейдёшь за белую линию, я буду внимательно смотреть, сможешь ли ты добраться до этого квадрата так, чтобы я тебя не заметил. Теперь всё зависит от тебя.",
+    "start": 0.08,
+    "end": 14.82,
+    "source_seconds": 17.7895625,
+    "segments": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+}

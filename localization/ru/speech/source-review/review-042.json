@@ -1,0 +1,202 @@
+[
+  {
+    "file": "cin_goal_01.wav",
+    "music": false,
+    "effects": true,
+    "speech_over_music": false,
+    "notes": "Sound effects of crowd cheering and referee whistle before speech. Final QA found original English after the annotated final speech end; replace through original file end.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oof! Dealing with this kind of stuff definitely wasn't in my contract.",
+        "ru": "Уф! Разбираться с подобными вещами точно не входило в мой контракт.",
+        "start": 6.33,
+        "end": 10.92
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Can an uninformed duck get some help around here?",
+        "ru": "Может кто-нибудь помочь неосведомлённой утке?",
+        "start": 13.26,
+        "end": 16.85
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "So, what do we do now? Is it okay this way, or not? Technically, the sheep has been put inside the goal, and it is inside the goal, so it should be taken into account, shouldn't it?",
+        "ru": "Итак, что же нам делать? Так сойдёт или нет? Чисто технически овцу доставили на финиш, и она находится на финише, так что это должно засчитываться, верно?",
+        "start": 17.29,
+        "end": 30.0
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "And one more victory for our contestant!",
+        "ru": "И ещё одна победа нашего участника!",
+        "start": 30.2,
+        "end": 33.942625,
+        "end_before_final_qa": 33.3
+      }
+    ],
+    "source_seconds": 33.942625
+  },
+  {
+    "file": "cin_int_niv_08.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Okay, don't panic! I, as the consummate professional, know how important it is to rehearse.",
+        "ru": "Спокойно, без паники! Я как законченный профессионал знаю, как важно репетировать.",
+        "start": 0.14,
+        "end": 7.75
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "This is your big chance, and you don't wanna blow it!",
+        "ru": "Это твой звёздный час, и ты ведь не хочешь всё упустить!",
+        "start": 7.85,
+        "end": 10.85
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Besides, I'm the one who explained this game to you, and if you don't do well, how's that gonna make me look? Not so good, that's how!",
+        "ru": "К тому же это я объяснял тебе эту игру, и если ты напортачишь, как я буду выглядеть? Не лучшим образом, вот как!",
+        "start": 11.0,
+        "end": 19.85
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "So go ahead, practice!",
+        "ru": "Так что давай, тренируйся!",
+        "start": 20.1,
+        "end": 21.84
+      }
+    ],
+    "source_seconds": 22.9183125
+  },
+  {
+    "file": "cin_lvl0601.wav",
+    "music": false,
+    "effects": true,
+    "speech_over_music": false,
+    "notes": "Daffy is shivering with chattering teeth.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hello? I am one cold duck. Brrr!",
+        "ru": "Эй, кто-нибудь! Я тут совсем окоченел. Бр-р!",
+        "start": 0.25,
+        "end": 5.45
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You there, soldier! You gotta deactivate this mine.",
+        "ru": "Эй ты, солдат! Ты должен обезвредить эту мину.",
+        "start": 7.15,
+        "end": 11.85
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "It's simple: first, observe the light wave rhythm. When it disappears, approach the mine and press the action button, which will bring up the control panel.",
+        "ru": "Всё просто: сначала проследи за ритмом световой волны. Когда она исчезнет, подойди к мине и нажми кнопку действия, чтобы открыть пульт.",
+        "start": 12.1,
+        "end": 22.5
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Watch for the green light, then observe in which order the buttons light up. Be careful, 'cause when the light is red, you then have to light the buttons in the same order and at the right time.",
+        "ru": "Дождись зелёного сигнала и запомни порядок вспышек кнопок. Будь внимателен: когда загорится красный, тебе нужно будет нажать кнопки в том же порядке и в нужный момент.",
+        "start": 23.1,
+        "end": 35.3
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you succeed, the mine is deactivated. If you make a mistake by using the wrong button or press at the wrong moment, boom!",
+        "ru": "Получится — мина обезврежена. Но если перепутаешь кнопку или нажмёшь не вовремя — бабах!",
+        "start": 35.75,
+        "end": 45.3
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Don't let me down, soldier. Good luck. You'll need it.",
+        "ru": "Не подведи меня, солдат. Удачи. Она тебе понадобится.",
+        "start": 45.75,
+        "end": 50.5
+      }
+    ],
+    "source_seconds": 52.1298125
+  },
+  {
+    "file": "cin_lvl0701.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "You know, there's nothing a pro skier like myself enjoys more than a good race.",
+        "ru": "Знаешь, профессиональному лыжнику вроде меня ничто не доставляет такого удовольствия, как хорошая гонка.",
+        "start": 0.14,
+        "end": 6.1
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Go down the slope, and the one who bumps the other one first gets the sheep! The first one to get to his camp with the sheep wins!",
+        "ru": "Спускайся по склону, и тот, кто первым толкнёт соперника, получает овцу! Кто первым доберётся с овцой до своего лагеря — победил!",
+        "start": 6.35,
+        "end": 15.55
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "So, you ready to go?",
+        "ru": "Ну что, готов?",
+        "start": 15.8,
+        "end": 17.85
+      }
+    ],
+    "source_seconds": 18.2619375
+  },
+  {
+    "file": "cin_lvl0702b.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "3, 2, 1, go!",
+        "ru": "Три, два, один, вперёд!",
+        "start": 0.14,
+        "end": 2.82
+      }
+    ],
+    "source_seconds": 3.642875
+  },
+  {
+    "file": "cin_lvl0703.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "This slope is closed, Bub. Come back later, when you know how to slalom.",
+        "ru": "Трасса закрыта, приятель. Приходи позже, когда научишься слалому.",
+        "start": 0.14,
+        "end": 5.0
+      }
+    ],
+    "source_seconds": 6.0205
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "transcript": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+  "character_voice": "Energetic, theatrical cartoon showman voice, delivered with high pitch and excitement.",
+  "lisp": "absent",
+  "issues": [
+    "chopped start (initial 'Д' sound is clipped at the beginning of 'Добро')"
+  ],
+  "clips": [
+    {
+      "file": "Cin02_sc_reL001__01.wav",
+      "start": 0.0,
+      "end": 4.19,
+      "transcript": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+      "complete": false
+    }
+  ]
+}

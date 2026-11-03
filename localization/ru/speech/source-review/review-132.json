@@ -1,0 +1,152 @@
+[
+  {
+    "file": "txt_lvl_0016.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": null,
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Hehehe, good for you!",
+        "ru": "Хе-хе-хе, молодец!",
+        "start": 0.13,
+        "end": 1.83
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Don't forget that to finish each level, you must be in the goal with the sheep.",
+        "ru": "Не забывай: чтобы завершить уровень, вы с овцой должны быть на финише.",
+        "start": 2.15,
+        "end": 8.24
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "In fact, you have to both be in the goal, or the challenge doesn't count.",
+        "ru": "Точнее, вы оба должны быть на финише, иначе испытание не зачтётся.",
+        "start": 8.84,
+        "end": 13.88
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "And that would be despicable!",
+        "ru": "А это было бы просто возмутительно!",
+        "start": 14.28,
+        "end": 16.64
+      }
+    ],
+    "source_seconds": 18.9271875
+  },
+  {
+    "file": "txt_lvl_002.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": null,
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "First things first: How to use the camera.",
+        "ru": "Первым делом: как пользоваться камерой.",
+        "start": 0.24,
+        "end": 4.18
+      }
+    ],
+    "source_seconds": 5.3905625
+  },
+  {
+    "file": "txt_lvl_003.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": null,
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Psst, I'm right behind you.",
+        "ru": "Пс-с, я прямо за тобой.",
+        "start": 0.07,
+        "end": 1.94
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Just use the camera buttons to move the camera.",
+        "ru": "Просто используй кнопки камеры, чтобы двигать её.",
+        "start": 2.6,
+        "end": 7.38
+      }
+    ],
+    "source_seconds": 8.94475
+  },
+  {
+    "file": "txt_lvl_004.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": null,
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Nice going, bub!",
+        "ru": "Отлично, приятель!",
+        "start": 0.1,
+        "end": 1.48
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "These commands will come in handy if you want to look around.",
+        "ru": "Эти команды пригодятся, если захочешь осмотреться.",
+        "start": 1.92,
+        "end": 5.35
+      }
+    ],
+    "source_seconds": 6.441375
+  },
+  {
+    "file": "txt_lvl_005.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": null,
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Now, I'll hide up here.",
+        "ru": "А теперь я спрячусь наверху.",
+        "start": 0.12,
+        "end": 1.82
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to find me, keep the inside view button pressed down.",
+        "ru": "Если хочешь найти меня, удерживай кнопку вида от первого лица.",
+        "start": 2.35,
+        "end": 6.83
+      }
+    ],
+    "source_seconds": 7.39425
+  },
+  {
+    "file": "txt_lvl_006.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": null,
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want to follow me, and who wouldn't, use the jump button and just do what I'm doing.",
+        "ru": "Хочешь пойти за мной — а кто бы не захотел? — жми кнопку прыжка и просто делай то же, что и я.",
+        "start": 0.06,
+        "end": 7.18
+      }
+    ],
+    "source_seconds": 8.0775625
+  }
+]

@@ -1,0 +1,7 @@
+# Optional OFFLINE preparation/QA helpers; none are runtime game dependencies.
+# Python 3.12 was used for Demucs. ffmpeg is also required on PATH.
+numpy==2.5.4
+soundfile==0.13.1
+torch==2.8.0
+torchaudio==2.8.0
+demucs==4.0.1

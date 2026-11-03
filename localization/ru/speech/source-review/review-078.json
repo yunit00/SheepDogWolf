@@ -1,0 +1,159 @@
+[
+  {
+    "file": "cin_lvl_0308.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "You can hide behind rocks by keeping the stealth button pressed.",
+        "ru": "За камнями можно прятаться, удерживая кнопку скрытности.",
+        "start": 0.08,
+        "end": 4.54
+      }
+    ],
+    "source_seconds": 5.423875
+  },
+  {
+    "file": "cin_lvl_0309.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "You don't want to be in the dark, do ya? Or do ya?",
+        "ru": "Не хочешь оставаться в неведении, а? Или хочешь?",
+        "start": 0.08,
+        "end": 3.25
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Well, if you want to see what's going on around you, use the camera buttons.",
+        "ru": "Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры.",
+        "start": 3.42,
+        "end": 7.78
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You can also use your objects.",
+        "ru": "А ещё можно использовать предметы.",
+        "start": 8.05,
+        "end": 10.16
+      }
+    ],
+    "source_seconds": 10.9046875
+  },
+  {
+    "file": "cin_lvl_0310.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Pick up the object you want to store in your inventory.",
+        "ru": "Подбери предмет, который хочешь положить в инвентарь.",
+        "start": 0.08,
+        "end": 3.42
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You can use it right away by keeping the inventory button pressed.",
+        "ru": "Ты можешь использовать его сразу, если будешь удерживать кнопку инвентаря.",
+        "start": 3.82,
+        "end": 8.01
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "A menu will appear with your objects.",
+        "ru": "Появится меню с твоими предметами.",
+        "start": 8.53,
+        "end": 10.74
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Use the right and left arrows to select the one you want, release the button, and it's yours.",
+        "ru": "Стрелками вправо и влево выбери нужный, отпусти кнопку — и он у тебя.",
+        "start": 11.16,
+        "end": 16.92
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "It's simple, Simon.",
+        "ru": "Проще простого!",
+        "start": 17.51,
+        "end": 19.3
+      }
+    ],
+    "source_seconds": 19.58975
+  },
+  {
+    "file": "cin_lvl_0311.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "To start, come close on one side of this rock, behind the white line.",
+        "ru": "Для начала подойди к камню сбоку, за белой линией.",
+        "start": 0.1,
+        "end": 4.9
+      }
+    ],
+    "source_seconds": 5.579875
+  },
+  {
+    "file": "cin_lvl_17_ob01.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "These X objects will be of great use in getting back my instant Martians.",
+        "ru": "Эти предметы «Икс» очень помогут вернуть моих растворимых марсиан.",
+        "start": 0.08,
+        "end": 5.05
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "If you manage to return them all to me, I shall take you back to Earth, if that's really where you want to go.",
+        "ru": "Если тебе удастся вернуть мне их всех, я доставлю тебя обратно на Землю — если ты действительно этого хочешь.",
+        "start": 5.42,
+        "end": 12.82
+      }
+    ],
+    "source_seconds": 13.3400625
+  },
+  {
+    "file": "cin_lvl_17_ob02a.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "There are still some missing.",
+        "ru": "Некоторых всё ещё не хватает.",
+        "start": 0.08,
+        "end": 2.15
+      }
+    ],
+    "source_seconds": 2.606
+  }
+]

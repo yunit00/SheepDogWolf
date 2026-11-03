@@ -1,0 +1,18 @@
+[
+  {
+    "script": "localization/ru/speech/batches/daffy-1986251d50b9.script.json",
+    "error": "Incomplete speech: SAFETY"
+  },
+  {
+    "script": "localization/ru/speech/batches/daffy-2f04139c89e8.script.json",
+    "error": "Incomplete speech: SAFETY"
+  },
+  {
+    "script": "localization/ru/speech/batches/daffy-5f34066c9043.script.json",
+    "error": "Incomplete speech: SAFETY"
+  },
+  {
+    "script": "localization/ru/speech/batches/daffy-ab675b8e6307.script.json",
+    "error": "Incomplete speech: SAFETY"
+  }
+]

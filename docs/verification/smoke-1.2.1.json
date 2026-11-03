@@ -1,0 +1,191 @@
+[
+  {
+    "level": -1,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene--1.log",
+    "pass": true
+  },
+  {
+    "level": -2,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene--2.log",
+    "pass": true
+  },
+  {
+    "level": -3,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene--3.log",
+    "pass": true
+  },
+  {
+    "level": 0,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-0.log",
+    "pass": true
+  },
+  {
+    "level": 1,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-1.log",
+    "pass": true
+  },
+  {
+    "level": 2,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-2.log",
+    "pass": true
+  },
+  {
+    "level": 3,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-3.log",
+    "pass": true
+  },
+  {
+    "level": 4,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-4.log",
+    "pass": true
+  },
+  {
+    "level": 5,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-5.log",
+    "pass": true
+  },
+  {
+    "level": 6,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-6.log",
+    "pass": true
+  },
+  {
+    "level": 7,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-7.log",
+    "pass": true
+  },
+  {
+    "level": 8,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-8.log",
+    "pass": true
+  },
+  {
+    "level": 9,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-9.log",
+    "pass": true
+  },
+  {
+    "level": 10,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-10.log",
+    "pass": true
+  },
+  {
+    "level": 11,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-11.log",
+    "pass": true
+  },
+  {
+    "level": 12,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-12.log",
+    "pass": true
+  },
+  {
+    "level": 13,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-13.log",
+    "pass": true
+  },
+  {
+    "level": 14,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-14.log",
+    "pass": true
+  },
+  {
+    "level": 15,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-15.log",
+    "pass": true
+  },
+  {
+    "level": 16,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-16.log",
+    "pass": true
+  },
+  {
+    "level": 17,
+    "alive_at_deadline": true,
+    "exit": 0,
+    "drew_120_frames": true,
+    "loaded": true,
+    "log": "scene-17.log",
+    "pass": true
+  }
+]

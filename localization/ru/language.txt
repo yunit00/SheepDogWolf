@@ -1,3 +1,2 @@
 name = Русский
-voices = English
 replace_title_font = yes

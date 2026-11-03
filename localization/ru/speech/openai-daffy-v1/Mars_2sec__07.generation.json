@@ -1,0 +1,28 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 3.9978333333333333,
+  "request_id": "req_5a8ea843f63842d88a9fa5870635f50d",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 1.8 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "А? Это ещё что такое?",
+    "unit": {
+      "file": "Mars_2sec__07.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Daffy Duck",
+      "text": "А? Это ещё что такое?",
+      "start": 31.4,
+      "end": 33.15,
+      "source_seconds": 208.7134375,
+      "segments": [
+        7
+      ]
+    }
+  },
+  "sha256": "5c9e97a9abfbb5c6c6755d3c362c10128143b109cf4ff5beeadd93a77c083af6",
+  "status": "unreviewed"
+}

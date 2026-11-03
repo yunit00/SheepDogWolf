@@ -1,0 +1,24 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 28.7 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Тс-с, иди сюда! Ты слышал про игру «Овца, Собака и Волк»? Нет? Ну, как бы её описать... Это не совсем боевик, эм, и не шпионская игра, и не стратегия. Ну, в ней точно нет ничего гадкого. Нет, конечно же нет! Стал бы я связываться с чем-то подобным? Я, суперзвезда, профессионал, самая любимая утка в шоу-бизнесе?",
+  "unit": {
+    "file": "plade_lvl_01.wav",
+    "source_file": "plade_lvl_01.wav",
+    "speaker": "Daffy Duck",
+    "text": "Тс-с, иди сюда! Ты слышал про игру «Овца, Собака и Волк»? Нет? Ну, как бы её описать... Это не совсем боевик, эм, и не шпионская игра, и не стратегия. Ну, в ней точно нет ничего гадкого. Нет, конечно же нет! Стал бы я связываться с чем-то подобным? Я, суперзвезда, профессионал, самая любимая утка в шоу-бизнесе?",
+    "start": 0.25,
+    "end": 28.95,
+    "source_seconds": 30.284625,
+    "segments": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}

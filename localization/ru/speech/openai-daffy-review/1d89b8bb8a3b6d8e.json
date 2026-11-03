@@ -1,0 +1,120 @@
+{
+  "files": [
+    {
+      "file": "Cin_int_niv_01.wav",
+      "transcript": "Привет! И добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_02.wav",
+      "transcript": "Слушай сюда, приятель. Просто расслабься и играй. Это шоу должно катапультировать меня прямо в суперзвёзды!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_03b.wav",
+      "transcript": "Итак, цель нашей игры проста: воровать овец.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_04.wav",
+      "transcript": "Тебе предстоит пройти череду уровней. На каждом из них нужно украсть овцу у овчарки Сэма и доставить её на финиш.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_05.wav",
+      "transcript": "Справишься — перейдёшь к следующему испытанию, и так далее, пока наконец не утащишь всю отару!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_06.wav",
+      "transcript": "Но — и это огромное «но» — в конце каждого уровня овца должна быть цела и невредима. Тебя дисквалифицируют, если с неё упадёт хоть клочок шерсти!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_07.wav",
+      "transcript": "Я предельно ясно выразился? М-м-м?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_09b.wav",
+      "transcript": "Что? Что?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "repetition"
+      ]
+    },
+    {
+      "file": "Cin_int_niv_10.wav",
+      "transcript": "Ну, вроде того. Да, репетиции проходят здесь.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_11.wav",
+      "transcript": "Да! О, и последнее: если захочешь изменить настройки игры, нажми паузу и загляни в меню. Удачи!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Cin_int_niv_01.wav": "ca4e4eedf7978dacfd8ffd9b9bf9192473fdd38441d9c9466d664da05f555d9e",
+    "Cin_int_niv_02.wav": "cc7390a1b4caa6094ae442825ead2ba2133d64c068c63b04ccd1dda5c4a58ff5",
+    "Cin_int_niv_03b.wav": "6a11d8f46bf1dc3f4bd43ed973e98ec0e1178ede83f6e460d9fc7e307c4223fc",
+    "Cin_int_niv_04.wav": "adc58910fbd33fa18b53fbb44ac5956c4a2178b6bda213c00280943ae4f583e0",
+    "Cin_int_niv_05.wav": "37380da9e501de932656bbf94a58d9a8fbfb65bafc739b3ea41870e9ba09cc39",
+    "Cin_int_niv_06.wav": "9c555cb261c3a2da9a04a7bc1c13ac7c71f4fd6f20ab07fbe7d6ef1ed766b9a6",
+    "Cin_int_niv_07.wav": "c4a9c9e2dbe28850a02003ec7d2ddedac4029031e25b11e0ee875a548bfe7da2",
+    "Cin_int_niv_09b.wav": "9f968b91ab1f40d7170af8c2b6bdb0cb2dba5322b202c6308960f3a846355b62",
+    "Cin_int_niv_10.wav": "60d20e983bf48d66f360c0458e4b3c1e23f375e3e9b3eab09f5f06595156bbd6",
+    "Cin_int_niv_11.wav": "3aad5b4a3e8e3e97eff2ce4ed1b2c762e0eb39fd05e6908b7ead134c4f309a61"
+  },
+  "references": {
+    "Cin_int_niv_01.wav": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+    "Cin_int_niv_02.wav": "Слушай сюда, приятель. Просто расслабься и играй. Это шоу должно катапультировать меня прямо в суперзвёзды!",
+    "Cin_int_niv_03b.wav": "Итак, цель нашей игры проста: воровать овец.",
+    "Cin_int_niv_04.wav": "Тебе предстоит пройти череду уровней. На каждом из них нужно украсть овцу у овчарки Сэма и доставить её на финиш.",
+    "Cin_int_niv_05.wav": "Справишься — перейдёшь к следующему испытанию, и так далее, пока наконец не утащишь всю отару!",
+    "Cin_int_niv_06.wav": "Но — и это огромное «но» — в конце каждого уровня овца должна быть цела и невредима. Тебя дисквалифицируют, если с неё упадёт хоть клочок шерсти!",
+    "Cin_int_niv_07.wav": "Я предельно ясно выразился? М-м-м?",
+    "Cin_int_niv_09b.wav": "Что?",
+    "Cin_int_niv_10.wav": "Ну, вроде того. Да, репетиции проходят здесь.",
+    "Cin_int_niv_11.wav": "Да! О, и последнее: если захочешь изменить настройки игры, нажми паузу и загляни в меню. Удачи!"
+  }
+}

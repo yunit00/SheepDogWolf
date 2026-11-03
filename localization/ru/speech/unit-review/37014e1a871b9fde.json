@@ -1,0 +1,106 @@
+{
+  "files": [
+    {
+      "file": "Cin02_sc_reL001__00.wav",
+      "transcript": "А теперь, готовый как никогда воровать овец, встречайте нашего участника!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL001__01.wav",
+      "transcript": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL001__02.wav",
+      "transcript": "Аплодисменты!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL002.wav",
+      "transcript": "Здесь ты увидишь место, куда нужно приводить украденных овец. А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL003.wav",
+      "transcript": "А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL004.wav",
+      "transcript": "Забравшись на эту подставку, ты сможешь сохранить игру, следуя указанным инструкциям.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL005.wav",
+      "transcript": "Если ты исключительно умён, прямо как я, то найдёшь табельные часы на каждом уровне. Активируй их и заработай бонусное очко! Потом можешь прийти сюда за покупками — в зависимости от числа набранных бонусных очков, разумеется.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL006.wav",
+      "transcript": "А здесь можно выбирать уровни. Тебе нужно всего лишь активировать дверь, чтобы попасть на соответствующий уровень. Дальше действуй сам!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin03_sc_reL161.wav",
+      "transcript": "Потрясающе! Последняя овца! Ты сделал это! Ты исключительный участник. К сожалению, наше шоу подходит к концу. Спасибо всем моим фанатам за то, что были с нами до самого финала. До скорого!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin03_sc_reL162.wav",
+      "transcript": "А! Это ещё что? Что здесь делает марсианин Марвин? Этого не было в сценарии!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Cin02_sc_reL001__00.wav": "fcbf182c4f0bd78a27fa9622ec13f3986bee8e5e1807174ec9c34f057bff7504",
+    "Cin02_sc_reL001__01.wav": "e029ac595cbb38f38107d9d33f99179b6526a20475895929d5926798b66502fe",
+    "Cin02_sc_reL001__02.wav": "295e490739b09282af1979f0e68e7837c231c8f74ab61374b8156d1a388299bb",
+    "Cin02_sc_reL002.wav": "690b2a7297a338567304fd156502e7c9cbb8a5a8e0872867c58f3c837a668870",
+    "Cin02_sc_reL003.wav": "8b713bd9ea4725629d1565dbe3ee0702947d682af5230cd802dbf660f64e528f",
+    "Cin02_sc_reL004.wav": "1ba448f21cbaf321fdd04636665bf3efc030fff8d49e8c42e5d503986bcccbd6",
+    "Cin02_sc_reL005.wav": "46677ed42c881af6b9c597bc493dedf0352d0526d9056be7c742fb966e3fd6b4",
+    "Cin02_sc_reL006.wav": "00dc8c3451aab0d3e64384efc03b8ccac7824df282d16dfe709bb71e2c88fb62",
+    "Cin03_sc_reL161.wav": "ff13b29c2e966cb38323f8799b061c370525547569c02df6851e248b17023547",
+    "Cin03_sc_reL162.wav": "19021687bdfd3fe6c90c6d83d22b501552312f863122728837e59a8d48fd0cb0"
+  }
+}

@@ -1,0 +1,215 @@
+[
+  {
+    "file": "cin_lvl_0302.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Listen.",
+        "ru": "Слушай.",
+        "start": 0.08,
+        "end": 0.73
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "I'll watch over the rocks while you hide yourself behind this one.",
+        "ru": "Я буду наблюдать поверх камней, пока ты прячешься за этим.",
+        "start": 1.06,
+        "end": 4.88
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "After you cross the white line, I'll watch carefully to see if you can reach this square without me noticing you.",
+        "ru": "Когда перейдёшь за белую линию, я буду внимательно смотреть, сможешь ли ты добраться до этого квадрата так, чтобы я тебя не заметил.",
+        "start": 5.33,
+        "end": 13.01
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "It's up to you now.",
+        "ru": "Теперь всё зависит от тебя.",
+        "start": 13.34,
+        "end": 14.82
+      }
+    ],
+    "source_seconds": 17.7895625
+  },
+  {
+    "file": "cin_lvl_0303.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Shh!",
+        "ru": "Тс-с!",
+        "start": 0.0,
+        "end": 0.72
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Pipe down, would ya?",
+        "ru": "Потише, ладно?",
+        "start": 0.9,
+        "end": 2.14
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Use the stealth button!",
+        "ru": "Используй кнопку скрытности!",
+        "start": 2.54,
+        "end": 3.98
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Go behind the line if you want to start again.",
+        "ru": "Отойди за линию, если хочешь начать заново.",
+        "start": 4.35,
+        "end": 7.14
+      }
+    ],
+    "source_seconds": 8.5885
+  },
+  {
+    "file": "cin_lvl_0304.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Nothing can get past this duck's steely eye!",
+        "ru": "От зоркого глаза этой утки ничто не скроется!",
+        "start": 0.0,
+        "end": 3.82
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "I saw you move.",
+        "ru": "Я видел, как ты шевельнулся.",
+        "start": 4.2,
+        "end": 5.67
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You got to stay hidden when Sam is looking your way.",
+        "ru": "Ты должен прятаться, когда Сэм смотрит в твою сторону.",
+        "start": 6.15,
+        "end": 9.42
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Go behind the line if you want to start again.",
+        "ru": "Отойди за линию, если хочешь начать заново.",
+        "start": 9.81,
+        "end": 12.6
+      }
+    ],
+    "source_seconds": 12.88875
+  },
+  {
+    "file": "cin_lvl_0305.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "I can still see you.",
+        "ru": "Я всё ещё тебя вижу.",
+        "start": 0.08,
+        "end": 2.05
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Keep the stealth button pressed to hide.",
+        "ru": "Удерживай кнопку скрытности, чтобы спрятаться.",
+        "start": 2.48,
+        "end": 5.38
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Go back behind the line if you want to try again.",
+        "ru": "Вернись за линию, если хочешь попробовать снова.",
+        "start": 5.81,
+        "end": 8.7
+      }
+    ],
+    "source_seconds": 9.7059375
+  },
+  {
+    "file": "cin_lvl_0306.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "No, no, no!",
+        "ru": "Нет, нет, нет!",
+        "start": 0.0,
+        "end": 1.83
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Use the rock to hide!",
+        "ru": "Прячься за камнем!",
+        "start": 2.15,
+        "end": 4.25
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Go behind the line if you want to start again.",
+        "ru": "Отойди за линию, если хочешь начать заново.",
+        "start": 4.72,
+        "end": 7.6
+      }
+    ],
+    "source_seconds": 8.1346875
+  },
+  {
+    "file": "cin_lvl_0307.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Great!",
+        "ru": "Отлично!",
+        "start": 0.0,
+        "end": 0.9
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You're ready to take on the sheep dog.",
+        "ru": "Ты готов взяться за овчарку.",
+        "start": 1.23,
+        "end": 3.65
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "If you want some more advice, just come back to me.",
+        "ru": "Если понадобится ещё совет, просто возвращайся ко мне.",
+        "start": 4.0,
+        "end": 6.85
+      }
+    ],
+    "source_seconds": 7.894
+  }
+]

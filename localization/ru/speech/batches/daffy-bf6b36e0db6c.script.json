@@ -1,0 +1,213 @@
+{
+  "speaker": "Daffy Duck",
+  "voice": "Puck",
+  "clips": [
+    {
+      "file": "ret_niv_01__00.wav",
+      "source_file": "ret_niv_01.wav",
+      "speaker": "Daffy Duck",
+      "text": "И ещё одна победа!",
+      "start": 0.21,
+      "end": 2.14,
+      "source_seconds": 3.1864375,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "ret_niv_02ge__00.wav",
+      "source_file": "ret_niv_02ge.wav",
+      "speaker": "Daffy Duck",
+      "text": "Фантастика!",
+      "start": 0.16,
+      "end": 1.25,
+      "source_seconds": 7.565875,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "ret_niv_02ge__01.wav",
+      "source_file": "ret_niv_02ge.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ой, тс-с, нашему участнику нужна тишина.",
+      "start": 1.5,
+      "end": 4.5,
+      "source_seconds": 7.565875,
+      "segments": [
+        1
+      ]
+    },
+    {
+      "file": "ret_niv_02ge__02.wav",
+      "source_file": "ret_niv_02ge.wav",
+      "speaker": "Daffy Duck",
+      "text": "Тишина-а-а!",
+      "start": 4.92,
+      "end": 6.6,
+      "source_seconds": 7.565875,
+      "segments": [
+        2
+      ]
+    },
+    {
+      "file": "ret_niv_03ge__00.wav",
+      "source_file": "ret_niv_03ge.wav",
+      "speaker": "Daffy Duck",
+      "text": "Замечательно.",
+      "start": 0.15,
+      "end": 1.1,
+      "source_seconds": 5.3690625,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "ret_niv_03ge__01.wav",
+      "source_file": "ret_niv_03ge.wav",
+      "speaker": "Daffy Duck",
+      "text": "Не забудь найти все табельные часы.",
+      "start": 1.34,
+      "end": 3.78,
+      "source_seconds": 5.3690625,
+      "segments": [
+        1
+      ]
+    },
+    {
+      "file": "sc_01__00.wav",
+      "source_file": "sc_01.wav",
+      "speaker": "Daffy Duck",
+      "text": "Пожалуйста, давайте поддержим нашего участника, а?",
+      "start": 0.22,
+      "end": 3.84,
+      "source_seconds": 4.1901875,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "sc_02.wav",
+      "source_file": "sc_02.wav",
+      "speaker": "Daffy Duck",
+      "text": "Давай же, публика за тебя! Не останавливайся!",
+      "start": 0.0,
+      "end": 3.25,
+      "source_seconds": 3.480625,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "sc_03.wav",
+      "source_file": "sc_03.wav",
+      "speaker": "Daffy Duck",
+      "text": "Слушай, если не хочешь продолжать, мы просто найдём другого участника. Полно тех, кто ухватится за шанс поработать со мной, уж поверь!",
+      "start": 0.0,
+      "end": 8.85,
+      "source_seconds": 9.4194375,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "txt_lvl0602.wav",
+      "source_file": "txt_lvl0602.wav",
+      "speaker": "Daffy Duck",
+      "text": "Хорошая новость: к мине можно подойти, когда световая волна исчезнет. Плохая новость: времени до следующей волны у тебя совсем немного. И не забывай: если световая волна тебя заденет, мина сделает бабах!",
+      "start": 0.0,
+      "end": 16.9,
+      "source_seconds": 17.5945625,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "file": "txt_lvl0603.wav",
+      "source_file": "txt_lvl0603.wav",
+      "speaker": "Daffy Duck",
+      "text": "Активировать мину просто. А вот обезвредить её — задачка посложнее. Тебе нужно запомнить комбинацию кнопок, пока горит зелёный, а затем повторить её на своём контроллере, когда загорится красный. Постарайся не ошибиться, ведь нужно нажать нужную кнопку в нужный момент. Но есть и хорошая новость: жёлтые огоньки и звуки помогут тебе нажимать кнопки вовремя. Видишь? Всё просто!",
+      "start": 0.0,
+      "end": 30.7,
+      "source_seconds": 30.991625,
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "file": "txt_lvl0604.wav",
+      "source_file": "txt_lvl0604.wav",
+      "speaker": "Daffy Duck",
+      "text": "Обезвреженные мины можно использовать как обычные предметы. Когда ты положишь мину, она активируется через пять секунд.",
+      "start": 0.0,
+      "end": 10.85,
+      "source_seconds": 11.3790625,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "txt_lvl_001.wav",
+      "source_file": "txt_lvl_001.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ой, не очень-то получилось. Иди за мной, я объясню тебе пару команд.",
+      "start": 0.0,
+      "end": 5.85,
+      "source_seconds": 6.868875,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "txt_lvl_0010.wav",
+      "source_file": "txt_lvl_0010.wav",
+      "speaker": "Daffy Duck",
+      "text": "Эй, как насчёт небольшой гонки? Хочешь знать, как победить? Когда пересечёшь линию старта, у тебя будет ограниченное время, чтобы закончить забег. Для этого удерживай кнопку бега, чтобы набрать скорость. Если побежишь достаточно быстро, то сможешь ненадолго зависнуть в воздухе. Это пригодится, чтобы перемахнуть через про-про-пропасти. Умное словечко для обрывов.",
+      "start": 0.0,
+      "end": 27.1,
+      "source_seconds": 28.06575,
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "file": "txt_lvl_0011.wav",
+      "source_file": "txt_lvl_0011.wav",
+      "speaker": "Daffy Duck",
+      "text": "Да ладно тебе, ты способен на большее! Вот ещё один шанс.",
+      "start": 0.6,
+      "end": 4.9,
+      "source_seconds": 5.6636875,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "txt_lvl_0012.wav",
+      "source_file": "txt_lvl_0012.wav",
+      "speaker": "Daffy Duck",
+      "text": "Я знал, что ты справишься! Позже сможешь бросить вызов Дорожному Бегуну, если хватит духу!",
+      "start": 0.5,
+      "end": 7.4,
+      "source_seconds": 8.5515625,
+      "segments": [
+        0
+      ]
+    }
+  ],
+  "prompt": "Russian dubbing for a classic cartoon game. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. И ещё одна победа!\n\n2. Фантастика!\n\n3. Ой, тс-с, нашему участнику нужна тишина.\n\n4. Тишина-а-а!\n\n5. Замечательно.\n\n6. Не забудь найти все табельные часы.\n\n7. Пожалуйста, давайте поддержим нашего участника, а?\n\n8. Давай же, публика за тебя! Не останавливайся!\n\n9. Слушай, если не хочешь продолжать, мы просто найдём другого участника. Полно тех, кто ухватится за шанс поработать со мной, уж поверь!\n\n10. Хорошая новость: к мине можно подойти, когда световая волна исчезнет. Плохая новость: времени до следующей волны у тебя совсем немного. И не забывай: если световая волна тебя заденет, мина сделает бабах!\n\n11. Активировать мину просто. А вот обезвредить её — задачка посложнее. Тебе нужно запомнить комбинацию кнопок, пока горит зелёный, а затем повторить её на своём контроллере, когда загорится красный. Постарайся не ошибиться, ведь нужно нажать нужную кнопку в нужный момент. Но есть и хорошая новость: жёлтые огоньки и звуки помогут тебе нажимать кнопки вовремя. Видишь? Всё просто!\n\n12. Обезвреженные мины можно использовать как обычные предметы. Когда ты положишь мину, она активируется через пять секунд.\n\n13. Ой, не очень-то получилось. Иди за мной, я объясню тебе пару команд.\n\n14. Эй, как насчёт небольшой гонки? Хочешь знать, как победить? Когда пересечёшь линию старта, у тебя будет ограниченное время, чтобы закончить забег. Для этого удерживай кнопку бега, чтобы набрать скорость. Если побежишь достаточно быстро, то сможешь ненадолго зависнуть в воздухе. Это пригодится, чтобы перемахнуть через про-про-пропасти. Умное словечко для обрывов.\n\n15. Да ладно тебе, ты способен на большее! Вот ещё один шанс.\n\n16. Я знал, что ты справишься! Позже сможешь бросить вызов Дорожному Бегуну, если хватит духу!"
+}

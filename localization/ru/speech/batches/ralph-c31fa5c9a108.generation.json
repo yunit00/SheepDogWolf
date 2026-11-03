@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "seconds": 7.44,
+  "script": {
+    "speaker": "Ralph Wolf",
+    "voice": "Orus",
+    "clips": [
+      {
+        "file": "fin1_2sec__00.wav",
+        "source_file": "fin1_2sec.wav",
+        "speaker": "Ralph Wolf",
+        "text": "Ой!",
+        "start": 5.7,
+        "end": 6.7,
+        "source_seconds": 51.69825,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "fin1_2sec__01.wav",
+        "source_file": "fin1_2sec.wav",
+        "speaker": "Ralph Wolf",
+        "text": "Что?",
+        "start": 29.2,
+        "end": 30.0,
+        "source_seconds": 51.69825,
+        "segments": [
+          1
+        ]
+      },
+      {
+        "file": "fin1_2sec__02.wav",
+        "source_file": "fin1_2sec.wav",
+        "speaker": "Ralph Wolf",
+        "text": "Да!",
+        "start": 32.4,
+        "end": 33.4,
+        "source_seconds": 51.69825,
+        "segments": [
+          2
+        ]
+      },
+      {
+        "file": "fin1_2sec__03.wav",
+        "source_file": "fin1_2sec.wav",
+        "speaker": "Ralph Wolf",
+        "text": "Хм?",
+        "start": 42.5,
+        "end": 43.7,
+        "source_seconds": 51.69825,
+        "segments": [
+          3
+        ]
+      },
+      {
+        "file": "intro_2sec__00.wav",
+        "source_file": "intro_2sec.wav",
+        "speaker": "Ralph Wolf",
+        "text": "Да!",
+        "start": 32.3,
+        "end": 33.4,
+        "source_seconds": 191.9705,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "intro_2sec__09.wav",
+        "source_file": "intro_2sec.wav",
+        "speaker": "Ralph Wolf",
+        "text": "М-м-м.",
+        "start": 164.5,
+        "end": 166.0,
+        "source_seconds": 191.9705,
+        "segments": [
+          9
+        ]
+      }
+    ],
+    "prompt": "Russian dubbing for a classic cartoon game. Low-mid male cartoon wolf, warm dry expressive reactions, concise natural Russian. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Ой!\n\n2. Что?\n\n3. Да!\n\n4. Хм?\n\n5. Да!\n\n6. М-м-м."
+  },
+  "usage": {
+    "promptTokenCount": 156,
+    "candidatesTokenCount": 186,
+    "totalTokenCount": 342,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 156
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 186
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

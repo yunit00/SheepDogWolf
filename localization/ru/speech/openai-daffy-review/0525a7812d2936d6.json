@@ -1,0 +1,121 @@
+{
+  "files": [
+    {
+      "file": "Mars_2sec__07.wav",
+      "transcript": "А? Это ещё что такое?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__08.wav",
+      "transcript": "Что здесь делает марсианин Марвин?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_02.wav",
+      "transcript": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_04__01.wav",
+      "transcript": "И так далее. Просто, но больше не бу...",
+      "complete": false,
+      "first_word_clear": true,
+      "last_word_clear": false,
+      "english_speech": false,
+      "issues": [
+        "extra_words",
+        "clipped_audio"
+      ]
+    },
+    {
+      "file": "ci_lvl_11_lap01b.wav",
+      "transcript": "О, просто великолепно! Опять сезон охоты на уток. Хорошо, что я надел этот костюм Робин Гуда, так что этим назойливым охотникам меня не найти.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_goal_01__03.wav",
+      "transcript": "И ещё одна победа нашего участника!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0207__02.wav",
+      "transcript": "Если будут ещё вопросы, можешь вернуться ко мне.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0209.wav",
+      "transcript": "Хорошо! Начинай, когда захочешь.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0306.wav",
+      "transcript": "Нет, нет, нет! Прячься за камнем! Отойди за линию, если хочешь начать заново.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0308.wav",
+      "transcript": "За камнями можно прятаться, удерживая кнопку скрытности.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Mars_2sec__07.wav": "c037f233a643c1adb971a0e13e14e5355f7e8cb3308b81482d2a692873352c15",
+    "Mars_2sec__08.wav": "9e8c52b1cdc372f7e91c0feb8f5ae2ab05ab06dfd8323af35f930fa79e4dd33f",
+    "be_02.wav": "449a6af0e6028507f613e3c077f14302e18b10ff997d9509f1d4badab7d6256b",
+    "be_04__01.wav": "23964434642d2848671fe2e47fc2d39cb95900abcc222ea58ad8b7b6f6cee305",
+    "ci_lvl_11_lap01b.wav": "5eb20e1314dd7edf8bdcfb8d95533292e7f6689099ee9d88dc46c4a1ff3369f5",
+    "cin_goal_01__03.wav": "37c9b316680d21fca42e9b8d148c5b5663fb42c506216a0d6e177e76d40635ea",
+    "cin_lvl_0207__02.wav": "85ab596dabef4df8a9d747ee1cb2f13f8ef3e93c22da470f736fd513b84fa4d0",
+    "cin_lvl_0209.wav": "04c9933c709fdbd0893bf5d19ce20f2eb1a35452cf7e975806d0d932c1e94419",
+    "cin_lvl_0306.wav": "9d7bc4f01b9af1ad090d1dd9d288adfc119d1d9a86cfbe68bce67a065b969e2f",
+    "cin_lvl_0308.wav": "38947da37be765624eb207fda4e3b16358c6b9094ee2029ba2e960b8067e24c9"
+  },
+  "references": {
+    "Mars_2sec__07.wav": "А? Это ещё что такое?",
+    "Mars_2sec__08.wav": "Что здесь делает марсианин Марвин?",
+    "be_02.wav": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!",
+    "be_04__01.wav": "И так далее.",
+    "ci_lvl_11_lap01b.wav": "О, просто великолепно! Опять сезон охоты на уток. Хорошо, что я надел этот костюм Робин Гуда, так что этим назойливым охотникам меня не найти.",
+    "cin_goal_01__03.wav": "И ещё одна победа нашего участника!",
+    "cin_lvl_0207__02.wav": "Если будут ещё вопросы, можешь вернуться ко мне.",
+    "cin_lvl_0209.wav": "Хорошо! Начинай, когда захочешь.",
+    "cin_lvl_0306.wav": "Нет, нет, нет! Прячься за камнем! Отойди за линию, если хочешь начать заново.",
+    "cin_lvl_0308.wav": "За камнями можно прятаться, удерживая кнопку скрытности."
+  }
+}

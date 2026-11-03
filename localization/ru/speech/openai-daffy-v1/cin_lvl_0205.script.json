@@ -1,0 +1,21 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 13.3 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Ку-ку, я тебя вижу! Если хочешь оставаться незамеченным, держи кнопку скрытности нажатой. Вернись за черту, если хочешь попробовать снова. Ну и ну, как же тебе повезло, что я рядом! У-ху!",
+  "unit": {
+    "file": "cin_lvl_0205.wav",
+    "source_file": "cin_lvl_0205.wav",
+    "speaker": "Daffy Duck",
+    "text": "Ку-ку, я тебя вижу! Если хочешь оставаться незамеченным, держи кнопку скрытности нажатой. Вернись за черту, если хочешь попробовать снова. Ну и ну, как же тебе повезло, что я рядом! У-ху!",
+    "start": 0.16,
+    "end": 13.5,
+    "source_seconds": 14.158375,
+    "segments": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+}

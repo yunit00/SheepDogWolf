@@ -1,0 +1,22 @@
+{
+  "files": [
+    {
+      "file": "lisp-v5.wav",
+      "transcript": "Слушай, если хочешь загипнотизировать кого-нибудь, ты тоже можешь сыграть эту мелодию на волшебной флейте! Кончай нахрен! Го...",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "extra_speech"
+      ]
+    }
+  ],
+  "inputs": {
+    "lisp-v5.wav": "a457db0aaca8a0ffb4a2f6740cc5d8c6a310795d679e2bd240030278672ab38e"
+  },
+  "references": {
+    "lisp-v5.wav": "Слушай, если хочешь загипнотизировать кого-нибудь, ты тоже можешь сыграть эту мелодию на волшебной флейте!"
+  },
+  "snapshot_version": 1
+}

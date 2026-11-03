@@ -50,6 +50,7 @@ typedef void (*MenuHandler)(u8 msg, MenuPage *self);
 #include "cine.h"
 #include "scenaric.h"
 #include "time.h"
+#include "../platform/platform.h"
 u32 Rgb24_Lerp(u32 a, u32 b, s16 t);
 void Draw2D_TexRect(float z, float x0, float y0, float x1, float y1, s32 texIndex, float uTL, float vTL, u32 cTL,
                     float uBL, float vBL, u32 cBL, float uTR, float vTR, u32 cTR, float uBR, float vBR,
@@ -291,6 +292,29 @@ void Ui_PlayMoveSound();
 void Ui_PlayCancelSound();
 void Ui_PlayConfirmSound();
 
+/* Match the centred text layout used by these two-option prompts. A resting
+ * pointer must not override a subsequent keyboard/controller selection. */
+u8 Ui_MouseChoice(const s16 *left, const s16 *right, u8 current)
+{
+    static float lastX = -1, lastY = -1;
+    float x, y;
+    int state = Platform_MenuPointer(&x, &y);
+    if (!state) return current;
+    bool moved = x != lastX || y != lastY || state == 2;
+    lastX = x; lastY = y;
+    if (!moved) return current;
+    x *= g_screen.viewportWidth; y *= g_screen.viewportHeight;
+    const s16 *rects[] = {left, right};
+    for (int i = 0; i < 2; ++i) {
+        const s16 *r = rects[i];
+        HudElement hud(HudElement::Centre, HudElement::Centre, r[0] + r[2] * .5f, r[1] + r[3] * .5f);
+        if (x >= g_screen.ScaleX(r[0]) && x < g_screen.ScaleX(r[0] + r[2]) &&
+            y >= g_screen.ScaleY(r[1]) && y < g_screen.ScaleY(r[1] + r[3]))
+            return i == 0 ? MCARD_CUR_LEFT : MCARD_CUR_RIGHT;
+    }
+    return current;
+}
+
 /* title and one highlighted line; CROSS answers 0x10, TRIANGLE 0x80, else 0. */
 u8 Ui_PromptConfirm(char *title, char *prompt)
 {
@@ -312,6 +336,7 @@ u8 Ui_PromptConfirm(char *title, char *prompt)
  * *choice, TRIANGLE 0x80, else 0. */
 s8 Ui_PromptYesNo(char *title, char *optLeft, char *optRight, u8 *choice)
 {
+    *choice = Ui_MouseChoice(g_rectChoiceLeft, g_rectChoiceRight, *choice);
     Text_SetColor(0x4bccff);
     Ui_DrawTextInRect(g_rectDialogBody, TEXTALIGN_CENTER, 0, title);
     Ui_DrawTextInRect(g_rectChoiceLeft, TEXTALIGN_CENTER, *choice == MCARD_CUR_LEFT, optLeft);

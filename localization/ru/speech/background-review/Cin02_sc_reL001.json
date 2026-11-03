@@ -1,0 +1,33 @@
+{
+  "intelligible_speech": true,
+  "residuals": [
+    {
+      "start": 0.8,
+      "end": 4.8,
+      "words": "looking for a bird and you see",
+      "confidence": 0.8
+    },
+    {
+      "start": 5.0,
+      "end": 9.8,
+      "words": "they are distinct barn owl",
+      "confidence": 0.75
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "words": "barn owl owl",
+      "confidence": 0.75
+    }
+  ],
+  "music_quality": "poor",
+  "artifacts": [
+    "ghostly speech remnants",
+    "filtered vocal bleed",
+    "phase cancellation artifacts",
+    "spectral distortion"
+  ],
+  "acceptable_under_dubbing": false,
+  "sha256": "f1cc75999a961aad236b53c37b10207b97bb0b1f25a8f3197b533966c7c91901",
+  "file": "Cin02_sc_reL001"
+}

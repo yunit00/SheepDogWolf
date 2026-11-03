@@ -1,0 +1,44 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Umbriel",
+  "seconds": 8.76,
+  "script": {
+    "speaker": "Elmer Fudd",
+    "voice": "Umbriel",
+    "clips": [
+      {
+        "file": "txtel_lvl1102.wav",
+        "source_file": "txtel_lvl1102.wav",
+        "speaker": "Elmer Fudd",
+        "text": "Тс-с. Ведите себя очень, очень тихо. Я охочусь на уток. Хе-хе-хе-хе.",
+        "start": 0.05,
+        "end": 5.92,
+        "source_seconds": 6.1539375,
+        "segments": [
+          0
+        ]
+      }
+    ],
+    "replacement_reason": "8.68 second take does not fit 6.07 second scene",
+    "prompt": "Russian dialogue for a fictional family cartoon game. Original character interpretation, not a real actor imitation. Soft rounded nasal male cartoon hunter voice, gentle slightly comical consonants and small speech impediment, fully intelligible Russian. Natural clear brisk delivery, finish the words in about 5.9 seconds. Speak every written word once and fully; no added words, laughs, introduction, conclusion or numbering. Preserve only stutters explicitly written in the text. No music or effects. Leave 0.4 seconds of silence before the first word and after the last word. Do not clip the first or last consonants. Fit into FIVE seconds. Brisk whisper, no extended pauses, laugh briefly exactly as written.\n\nТс-с. Ведите себя очень, очень тихо. Я охочусь на уток. Хе-хе-хе-хе."
+  },
+  "usage": {
+    "promptTokenCount": 169,
+    "candidatesTokenCount": 219,
+    "totalTokenCount": 388,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 169
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 219
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

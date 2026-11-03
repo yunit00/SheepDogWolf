@@ -1,0 +1,20 @@
+{
+  "speaker": "Daffy Duck",
+  "voice": "Puck",
+  "clips": [
+    {
+      "file": "txt_rob_03.wav",
+      "source_file": "txt_rob_03.wav",
+      "speaker": "Daffy Duck",
+      "text": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов.",
+      "start": 0.0,
+      "end": 8.42,
+      "source_seconds": 9.703375,
+      "segments": [
+        0,
+        1
+      ]
+    }
+  ],
+  "prompt": "Russian dubbing for a classic cartoon game. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов."
+}

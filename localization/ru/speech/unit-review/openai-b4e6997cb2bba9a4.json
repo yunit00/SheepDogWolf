@@ -1,0 +1,121 @@
+{
+  "files": [
+    {
+      "file": "Cin02_sc_reL001__01.wav",
+      "transcript": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_01.wav",
+      "transcript": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__01.wav",
+      "transcript": "Последняя овечка!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__02.wav",
+      "transcript": "У тебя получилось!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__07.wav",
+      "transcript": "А? Это ещё что такое?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__08.wav",
+      "transcript": "Что здесь делает марсианин Марвин? К...",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": false,
+      "english_speech": false,
+      "issues": [
+        "fragment from neighboring entry at the end"
+      ]
+    },
+    {
+      "file": "be_02.wav",
+      "transcript": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_04__01.wav",
+      "transcript": "И так далее.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_goal_01__03.wav",
+      "transcript": "И ещё одна победа нашего участника!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0207__02.wav",
+      "transcript": "Если будут ещё вопросы, можешь вернуться ко мне.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Cin02_sc_reL001__01.wav": "07e9c9938ac80b266ec599df51c3d0c8c96b32f43996dde775901c1a2a3f1368",
+    "Cin_int_niv_01.wav": "8f290d5bd9f83d22ad2ba409f5beda34ff30151ede53ca55032fc4da8d3b5f12",
+    "Mars_2sec__01.wav": "9638638cf751db129a57f4f98d23beb672d6e42b7f4898a7fdf619a679f5cca4",
+    "Mars_2sec__02.wav": "c9cf638ef92589bf458363b970814470aeac7e84b73468132f5d6c0b76565605",
+    "Mars_2sec__07.wav": "7d165db693df1556b51bf8205b6d0133a0f681ef16955ff7ab32b76a35e8ada1",
+    "Mars_2sec__08.wav": "490776669fa3193b7ebf9cc73c75222313e585a7b4c5b783490ef8f0d78456ee",
+    "be_02.wav": "c6b2131f8d395cb05bb261e06f786a6db873e07414aa7923e00a190b5227819a",
+    "be_04__01.wav": "d930a82651b9e9dbc544520e17c0cdcfcc5bbe9b4828213fb201a0b77bbcd42c",
+    "cin_goal_01__03.wav": "7cb5131a712451b48984e3af7434ba26e0290ad729ec71ebaa06890dce655d2c",
+    "cin_lvl_0207__02.wav": "e0a375fcdcbff6e46a30e374833b1610782780d96c0b9b3110efe4bbc612dbbb"
+  },
+  "references": {
+    "Cin02_sc_reL001__01.wav": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+    "Cin_int_niv_01.wav": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+    "Mars_2sec__01.wav": "Последняя овечка!",
+    "Mars_2sec__02.wav": "У тебя получилось!",
+    "Mars_2sec__07.wav": "А? Это ещё что такое?",
+    "Mars_2sec__08.wav": "Что здесь делает марсианин Марвин?",
+    "be_02.wav": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!",
+    "be_04__01.wav": "И так далее.",
+    "cin_goal_01__03.wav": "И ещё одна победа нашего участника!",
+    "cin_lvl_0207__02.wav": "Если будут ещё вопросы, можешь вернуться ко мне."
+  },
+  "snapshot_version": 1
+}

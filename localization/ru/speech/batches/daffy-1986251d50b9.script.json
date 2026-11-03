@@ -1,0 +1,231 @@
+{
+  "speaker": "Daffy Duck",
+  "voice": "Puck",
+  "clips": [
+    {
+      "file": "cin_lvl_0205.wav",
+      "source_file": "cin_lvl_0205.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ку-ку, я тебя вижу! Если хочешь оставаться незамеченным, держи кнопку скрытности нажатой. Вернись за черту, если хочешь попробовать снова. Ну и ну, как же тебе повезло, что я рядом! У-ху!",
+      "start": 0.16,
+      "end": 13.5,
+      "source_seconds": 14.158375,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "file": "cin_lvl_0206.wav",
+      "source_file": "cin_lvl_0206.wav",
+      "speaker": "Daffy Duck",
+      "text": "Не забывай, кусты — отличная маскировка. Так что используй куст, чтобы спрятаться. Отойди за черту, если хочешь начать сначала.",
+      "start": 0.19,
+      "end": 10.45,
+      "source_seconds": 10.828625,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "file": "cin_lvl_0207.wav",
+      "source_file": "cin_lvl_0207.wav",
+      "speaker": "Daffy Duck",
+      "text": "Отлично! Наконец-то ты готов к участку Сэма. Если будут ещё вопросы, можешь вернуться ко мне. Не уверен, что смогу на них ответить, но приятную компанию я тебе гарантирую.",
+      "start": 0.16,
+      "end": 13.56,
+      "source_seconds": 15.96525,
+      "segments": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "file": "cin_lvl_0208.wav",
+      "source_file": "cin_lvl_0208.wav",
+      "speaker": "Daffy Duck",
+      "text": "Для начала встань у куста за белой линией.",
+      "start": 0.16,
+      "end": 5.23,
+      "source_seconds": 5.5795,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "cin_lvl_0209.wav",
+      "source_file": "cin_lvl_0209.wav",
+      "speaker": "Daffy Duck",
+      "text": "Хорошо! Начинай, когда захочешь.",
+      "start": 0.18,
+      "end": 2.25,
+      "source_seconds": 3.0718125,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "cin_lvl_0210.wav",
+      "source_file": "cin_lvl_0210.wav",
+      "speaker": "Daffy Duck",
+      "text": "Если придётся идти через владения Сэма, будь осторожен! Заметит — пустит на собачий корм!",
+      "start": 0.22,
+      "end": 6.94,
+      "source_seconds": 8.7241875,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "cin_lvl_0211b.wav",
+      "source_file": "cin_lvl_0211b.wav",
+      "speaker": "Daffy Duck",
+      "text": "Не забывай пользоваться инвентарём, он ведь для того и нужен! Смотри карту уровня и руководства, чтобы узнать о разных предметах. Очень полезная штука, скажу я тебе.",
+      "start": 0.23,
+      "end": 12.83,
+      "source_seconds": 13.059,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "file": "cin_lvl_0212.wav",
+      "source_file": "cin_lvl_0212.wav",
+      "speaker": "Daffy Duck",
+      "text": "Не хочешь попасться Сэму — делай как я. Пригнись за тем кустом!",
+      "start": 0.23,
+      "end": 6.25,
+      "source_seconds": 7.182625,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "cin_lvl_0301.wav",
+      "source_file": "cin_lvl_0301.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ладно, пора научиться новенькому! Кусты — не единственное, что поможет тебе спрятаться. Камни тоже сойдут! Посмотри на размер этих камней. Эй, будь я на твоём месте, я бы спрятался за ними. Подойди вплотную сбоку к этому камню и нажми кнопку скрытности, чтобы замаскироваться. Знаешь что, можешь потренироваться со мной.",
+      "start": 0.16,
+      "end": 21.84,
+      "source_seconds": 23.172625,
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "file": "cin_lvl_0302.wav",
+      "source_file": "cin_lvl_0302.wav",
+      "speaker": "Daffy Duck",
+      "text": "Слушай. Я буду наблюдать поверх камней, пока ты прячешься за этим. Когда перейдёшь за белую линию, я буду внимательно смотреть, сможешь ли ты добраться до этого квадрата так, чтобы я тебя не заметил. Теперь всё зависит от тебя.",
+      "start": 0.08,
+      "end": 14.82,
+      "source_seconds": 17.7895625,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "file": "cin_lvl_0303.wav",
+      "source_file": "cin_lvl_0303.wav",
+      "speaker": "Daffy Duck",
+      "text": "Тс-с! Потише, ладно? Используй кнопку скрытности! Отойди за линию, если хочешь начать заново.",
+      "start": 0.0,
+      "end": 7.14,
+      "source_seconds": 8.5885,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "file": "cin_lvl_0304.wav",
+      "source_file": "cin_lvl_0304.wav",
+      "speaker": "Daffy Duck",
+      "text": "От зоркого глаза этой утки ничто не скроется! Я видел, как ты шевельнулся. Ты должен прятаться, когда Сэм смотрит в твою сторону. Отойди за линию, если хочешь начать заново.",
+      "start": 0.0,
+      "end": 12.6,
+      "source_seconds": 12.88875,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "file": "cin_lvl_0305.wav",
+      "source_file": "cin_lvl_0305.wav",
+      "speaker": "Daffy Duck",
+      "text": "Я всё ещё тебя вижу. Удерживай кнопку скрытности, чтобы спрятаться. Вернись за линию, если хочешь попробовать снова.",
+      "start": 0.08,
+      "end": 8.7,
+      "source_seconds": 9.7059375,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "file": "cin_lvl_0306.wav",
+      "source_file": "cin_lvl_0306.wav",
+      "speaker": "Daffy Duck",
+      "text": "Нет, нет, нет! Прячься за камнем! Отойди за линию, если хочешь начать заново.",
+      "start": 0.0,
+      "end": 7.6,
+      "source_seconds": 8.1346875,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "file": "cin_lvl_0307.wav",
+      "source_file": "cin_lvl_0307.wav",
+      "speaker": "Daffy Duck",
+      "text": "Отлично! Ты готов взяться за овчарку. Если понадобится ещё совет, просто возвращайся ко мне.",
+      "start": 0.0,
+      "end": 6.85,
+      "source_seconds": 7.894,
+      "segments": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "file": "cin_lvl_0308.wav",
+      "source_file": "cin_lvl_0308.wav",
+      "speaker": "Daffy Duck",
+      "text": "За камнями можно прятаться, удерживая кнопку скрытности.",
+      "start": 0.08,
+      "end": 4.54,
+      "source_seconds": 5.423875,
+      "segments": [
+        0
+      ]
+    }
+  ],
+  "prompt": "This is fictional family cartoon slapstick dialogue for a game, with no real-world action or instruction. Use an original cartoon character interpretation, not an imitation of a real actor. Russian dubbing for a classic cartoon game. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Ку-ку, я тебя вижу! Если хочешь оставаться незамеченным, держи кнопку скрытности нажатой. Вернись за черту, если хочешь попробовать снова. Ну и ну, как же тебе повезло, что я рядом! У-ху!\n\n2. Не забывай, кусты — отличная маскировка. Так что используй куст, чтобы спрятаться. Отойди за черту, если хочешь начать сначала.\n\n3. Отлично! Наконец-то ты готов к участку Сэма. Если будут ещё вопросы, можешь вернуться ко мне. Не уверен, что смогу на них ответить, но приятную компанию я тебе гарантирую.\n\n4. Для начала встань у куста за белой линией.\n\n5. Хорошо! Начинай, когда захочешь.\n\n6. Если придётся идти через владения Сэма, будь осторожен! Заметит — пустит на собачий корм!\n\n7. Не забывай пользоваться инвентарём, он ведь для того и нужен! Смотри карту уровня и руководства, чтобы узнать о разных предметах. Очень полезная штука, скажу я тебе.\n\n8. Не хочешь попасться Сэму — делай как я. Пригнись за тем кустом!\n\n9. Ладно, пора научиться новенькому! Кусты — не единственное, что поможет тебе спрятаться. Камни тоже сойдут! Посмотри на размер этих камней. Эй, будь я на твоём месте, я бы спрятался за ними. Подойди вплотную сбоку к этому камню и нажми кнопку скрытности, чтобы замаскироваться. Знаешь что, можешь потренироваться со мной.\n\n10. Слушай. Я буду наблюдать поверх камней, пока ты прячешься за этим. Когда перейдёшь за белую линию, я буду внимательно смотреть, сможешь ли ты добраться до этого квадрата так, чтобы я тебя не заметил. Теперь всё зависит от тебя.\n\n11. Тс-с! Потише, ладно? Используй кнопку скрытности! Отойди за линию, если хочешь начать заново.\n\n12. От зоркого глаза этой утки ничто не скроется! Я видел, как ты шевельнулся. Ты должен прятаться, когда Сэм смотрит в твою сторону. Отойди за линию, если хочешь начать заново.\n\n13. Я всё ещё тебя вижу. Удерживай кнопку скрытности, чтобы спрятаться. Вернись за линию, если хочешь попробовать снова.\n\n14. Нет, нет, нет! Прячься за камнем! Отойди за линию, если хочешь начать заново.\n\n15. Отлично! Ты готов взяться за овчарку. Если понадобится ещё совет, просто возвращайся ко мне.\n\n16. За камнями можно прятаться, удерживая кнопку скрытности.",
+  "previous_prompt": "Russian dubbing for a classic cartoon game. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Ку-ку, я тебя вижу! Если хочешь оставаться незамеченным, держи кнопку скрытности нажатой. Вернись за черту, если хочешь попробовать снова. Ну и ну, как же тебе повезло, что я рядом! У-ху!\n\n2. Не забывай, кусты — отличная маскировка. Так что используй куст, чтобы спрятаться. Отойди за черту, если хочешь начать сначала.\n\n3. Отлично! Наконец-то ты готов к участку Сэма. Если будут ещё вопросы, можешь вернуться ко мне. Не уверен, что смогу на них ответить, но приятную компанию я тебе гарантирую.\n\n4. Для начала встань у куста за белой линией.\n\n5. Хорошо! Начинай, когда захочешь.\n\n6. Если придётся идти через владения Сэма, будь осторожен! Заметит — пустит на собачий корм!\n\n7. Не забывай пользоваться инвентарём, он ведь для того и нужен! Смотри карту уровня и руководства, чтобы узнать о разных предметах. Очень полезная штука, скажу я тебе.\n\n8. Не хочешь попасться Сэму — делай как я. Пригнись за тем кустом!\n\n9. Ладно, пора научиться новенькому! Кусты — не единственное, что поможет тебе спрятаться. Камни тоже сойдут! Посмотри на размер этих камней. Эй, будь я на твоём месте, я бы спрятался за ними. Подойди вплотную сбоку к этому камню и нажми кнопку скрытности, чтобы замаскироваться. Знаешь что, можешь потренироваться со мной.\n\n10. Слушай. Я буду наблюдать поверх камней, пока ты прячешься за этим. Когда перейдёшь за белую линию, я буду внимательно смотреть, сможешь ли ты добраться до этого квадрата так, чтобы я тебя не заметил. Теперь всё зависит от тебя.\n\n11. Тс-с! Потише, ладно? Используй кнопку скрытности! Отойди за линию, если хочешь начать заново.\n\n12. От зоркого глаза этой утки ничто не скроется! Я видел, как ты шевельнулся. Ты должен прятаться, когда Сэм смотрит в твою сторону. Отойди за линию, если хочешь начать заново.\n\n13. Я всё ещё тебя вижу. Удерживай кнопку скрытности, чтобы спрятаться. Вернись за линию, если хочешь попробовать снова.\n\n14. Нет, нет, нет! Прячься за камнем! Отойди за линию, если хочешь начать заново.\n\n15. Отлично! Ты готов взяться за овчарку. Если понадобится ещё совет, просто возвращайся ко мне.\n\n16. За камнями можно прятаться, удерживая кнопку скрытности.",
+  "retry_reason": "Clarify benign fictional cartoon dialogue after a SAFETY response; text unchanged.",
+  "hold_reason": "Gemini returned SAFETY twice, including a context clarification. No further automatic requests for this batch."
+}

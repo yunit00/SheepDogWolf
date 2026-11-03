@@ -1,0 +1,28 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 3.0973333333333333,
+  "request_id": "req_ad80afb607c0468ba1f267208fde1516",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 2.6 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "Ох, ну и насмешил же я себя!",
+    "unit": {
+      "file": "txt_lvl_009__01.wav",
+      "source_file": "txt_lvl_009.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ох, ну и насмешил же я себя!",
+      "start": 9.38,
+      "end": 11.96,
+      "source_seconds": 22.379875,
+      "segments": [
+        1
+      ]
+    }
+  },
+  "sha256": "6f56d89d0e9eb13232d6a6a0028b534099870e9bb80b459546da66d3cee2e858",
+  "status": "unreviewed"
+}

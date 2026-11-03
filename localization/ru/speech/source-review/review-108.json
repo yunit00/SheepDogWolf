@@ -1,0 +1,208 @@
+[
+  {
+    "file": "lvl09_tps_01.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Dear viewers, something inexplicable has just occurred.",
+        "ru": "Дорогие телезрители, только что произошло нечто необъяснимое.",
+        "start": 0.2,
+        "end": 3.95
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Our contestant, by using a strange object called a chronometer, has fallen into a parallel dimension, and is now time traveling.",
+        "ru": "Наш участник, воспользовавшись странным предметом под названием хронометр, провалился в параллельное измерение и теперь путешествует во времени.",
+        "start": 4.3,
+        "end": 13.2
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Will this strange phenomenon allow our contestant to succeed in this new challenge?",
+        "ru": "Позволит ли этот удивительный феномен нашему участнику справиться с новым испытанием?",
+        "start": 13.6,
+        "end": 18.9
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "We'll just have to wait and see.",
+        "ru": "Поживём — увидим.",
+        "start": 19.45,
+        "end": 21.8
+      }
+    ],
+    "source_seconds": 22.1419375
+  },
+  {
+    "file": "plade_lvl_01.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Psst, come here!",
+        "ru": "Тс-с, иди сюда!",
+        "start": 0.25,
+        "end": 1.8
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Have you heard of the Sheep, Dog 'n' Wolf game?",
+        "ru": "Ты слышал про игру «Овца, Собака и Волк»?",
+        "start": 1.88,
+        "end": 5.1
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "No? Well, let's see how I can describe it now.",
+        "ru": "Нет? Ну, как бы её описать...",
+        "start": 5.2,
+        "end": 8.35
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "It's not really an action game, um, or a spy game, or a strategy game.",
+        "ru": "Это не совсем боевик, эм, и не шпионская игра, и не стратегия.",
+        "start": 8.45,
+        "end": 14.95
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Well, there's certainly nothing nasty in it.",
+        "ru": "Ну, в ней точно нет ничего гадкого.",
+        "start": 15.15,
+        "end": 17.65
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "No, of course not. I mean, would I be associated with something like that?",
+        "ru": "Нет, конечно же нет! Стал бы я связываться с чем-то подобным?",
+        "start": 17.8,
+        "end": 21.8
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Me, the star, the professional, the best-loved duck in the biz?",
+        "ru": "Я, суперзвезда, профессионал, самая любимая утка в шоу-бизнесе?",
+        "start": 22.0,
+        "end": 28.95
+      }
+    ],
+    "source_seconds": 30.284625
+  },
+  {
+    "file": "plade_lvl_02.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Listen, because I'm a nice guy, I'll give you a sneak preview of this Sheep, Dog 'n' Wolf game...",
+        "ru": "Слушай, по доброте душевной я покажу тебе кусочек игры «Овца, Собака и Волк»...",
+        "start": 0.08,
+        "end": 7.0
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "...and it's really all about me, the duck!",
+        "ru": "...которая вообще-то вся крутится вокруг меня, любимого селезня!",
+        "start": 7.15,
+        "end": 10.5
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Anyway, all you got to do is catch a sheep and take it to the goal.",
+        "ru": "Короче, всё, что нужно сделать — поймать овцу и доставить её на финиш.",
+        "start": 10.6,
+        "end": 14.9
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Ready? Okay, here you go!",
+        "ru": "Готов? Ну, поехали!",
+        "start": 15.0,
+        "end": 17.5
+      }
+    ],
+    "source_seconds": 18.578125
+  },
+  {
+    "file": "re_lvl_12_fan01.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "And one more sheep for our contestant!",
+        "ru": "И ещё одна овца на счету нашего участника!",
+        "start": 0.05,
+        "end": 3.4
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Whoop, wait a minute, let me see that sheep.",
+        "ru": "Опа, секундочку, дай-ка я взгляну на неё.",
+        "start": 3.55,
+        "end": 7.3
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Mhm, that doesn't count. Go back and steal some real sheep!",
+        "ru": "Хм-м, не считается! Возвращайся и укради настоящую овцу!",
+        "start": 7.5,
+        "end": 12.75
+      }
+    ],
+    "source_seconds": 13.8561875
+  },
+  {
+    "file": "re_niv_04ge.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "You're unstoppable!",
+        "ru": "Тебя не остановить!",
+        "start": 0.08,
+        "end": 1.9
+      }
+    ],
+    "source_seconds": 2.648625
+  },
+  {
+    "file": "re_niv_05qu.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Come on, don't be a quitter.",
+        "ru": "Давай, не сдавайся!",
+        "start": 0.08,
+        "end": 2.4
+      }
+    ],
+    "source_seconds": 2.981125
+  }
+]

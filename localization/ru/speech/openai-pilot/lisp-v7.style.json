@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "file": "lisp-v7.wav",
+      "lisp": "clear",
+      "description": "High-pitched, highly energetic cartoon duck voice with extreme nasality and a wet, slushy articulation. The voice is expressive and animated, maintaining surprisingly good intelligibility despite the heavy characterization.",
+      "issues": [
+        "abrupt cut-off at the end of the file during the second take",
+        "minor harshness and distortion inherent to the extreme vocal fry and nasality of the character voice"
+      ]
+    }
+  ],
+  "consistent_speaker": true,
+  "notes": "The speaker is consistent across the repeated takes in the single provided file. The duck-like lisp is very prominent and clear on all sibilants (e.g., 'Слушай', 'если', 'хочешь'). Intelligibility remains high for a duck voice, and the cartoon energy is excellent, though the recording ends abruptly.",
+  "inputs": {
+    "lisp-v7.wav": "02a2676854e9cb54c854563589bf0604189a0e6829bd5d611ca5accb183d8366"
+  },
+  "model": "gemini-3.1-pro-preview"
+}

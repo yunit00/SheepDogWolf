@@ -1,0 +1,106 @@
+{
+  "files": [
+    {
+      "file": "Cin_int_niv_12.wav",
+      "transcript": "Ещё один способ изменить настройки игры — нажать кнопку «Старт».",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__00.wav",
+      "transcript": "Фантастика!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__01.wav",
+      "transcript": "Последняя овечка!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__02.wav",
+      "transcript": "У тебя получилось!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__03.wav",
+      "transcript": "Ты потрясающий участник.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__04.wav",
+      "transcript": "К сожалению, наше шоу почти закончилось.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__05.wav",
+      "transcript": "Спасибо всем моим поклонникам за то, что были с нами до самого конца.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__06.wav",
+      "transcript": "До скорых встреч!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__07.wav",
+      "transcript": "А? Это ещё что такое?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__08.wav",
+      "transcript": "Что здесь делает марсианин Марвин?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Cin_int_niv_12.wav": "5af54e776b452fc589e1262d0c1536f1f209841b606533d6e1622b3587c8565c",
+    "Mars_2sec__00.wav": "1a68583bf61205725198fa9ca00b3b4bffa39f74be931ad45571aba86a0a0331",
+    "Mars_2sec__01.wav": "f0459c3069956003ff6f0640006b0e77c191ba01ea396f503cdad0cd184d24f2",
+    "Mars_2sec__02.wav": "81ab3efba790312e158d79a309e98d766df7dca749cd6399c02d6f4a6b009722",
+    "Mars_2sec__03.wav": "c9ffdf694158b1ed6ab69787b7b8dac97cf24e3a5e1d66280937ab59f7800c02",
+    "Mars_2sec__04.wav": "38b0ee98870175e52f19a4620e91609a456ebb784d603c4e004601324f959085",
+    "Mars_2sec__05.wav": "aeedc63666a912e3dd830a04b9cf51d64739be331f2195b24fd695e8b7ca0daa",
+    "Mars_2sec__06.wav": "491bfbb00538641b789f023c88a5297f10bfda26594cc40afcf51499daf43fc7",
+    "Mars_2sec__07.wav": "a33e59914e24d9c00bacbbf06bea25d3683ffeb4c6f561e51868fe833b5b141b",
+    "Mars_2sec__08.wav": "aff6eab99d97d343806dd7a49aafc169b1044958b5023de5d4202345627739b8"
+  }
+}

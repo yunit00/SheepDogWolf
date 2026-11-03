@@ -1,0 +1,28 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.2,
+  "seconds": 12.293125,
+  "request_id": "req_ca08207458ac4f638c9e91f74945b1de",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. This is a single short game utterance, not a conversation. Fit ALL spoken words into 8.30 seconds. Use brisk continuous speech, no dramatic pauses, no elongated vowels. Say the text EXACTLY ONCE. Do not repeat short exclamations or add introductory sounds. Dry isolated voice, NO music, sound effects or background. Leave a brief quiet lead-in and tail; pronounce the first and final consonants completely.",
+    "speed": 1.2,
+    "text": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+    "unit": {
+      "file": "Cin_int_niv_01.wav",
+      "source_file": "Cin_int_niv_01.wav",
+      "speaker": "Daffy Duck",
+      "text": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+      "start": 0.0,
+      "end": 7.7,
+      "source_seconds": 8.812,
+      "segments": [
+        0
+      ]
+    }
+  },
+  "sha256": "56e0641dd98e6ad3be4fd08247993e8937673e9ef44649343a55f857308d94f5",
+  "status": "unreviewed"
+}

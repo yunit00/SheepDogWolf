@@ -1,0 +1,22 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 21.7 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Ладно, пора научиться новенькому! Кусты — не единственное, что поможет тебе спрятаться. Камни тоже сойдут! Посмотри на размер этих камней. Эй, будь я на твоём месте, я бы спрятался за ними. Подойди вплотную сбоку к этому камню и нажми кнопку скрытности, чтобы замаскироваться. Знаешь что, можешь потренироваться со мной.",
+  "unit": {
+    "file": "cin_lvl_0301.wav",
+    "source_file": "cin_lvl_0301.wav",
+    "speaker": "Daffy Duck",
+    "text": "Ладно, пора научиться новенькому! Кусты — не единственное, что поможет тебе спрятаться. Камни тоже сойдут! Посмотри на размер этих камней. Эй, будь я на твоём месте, я бы спрятался за ними. Подойди вплотную сбоку к этому камню и нажми кнопку скрытности, чтобы замаскироваться. Знаешь что, можешь потренироваться со мной.",
+    "start": 0.16,
+    "end": 21.84,
+    "source_seconds": 23.172625,
+    "segments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

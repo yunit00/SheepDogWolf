@@ -1,0 +1,21 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 16.5 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Хе-хе-хе, молодец! Не забывай: чтобы завершить уровень, вы с овцой должны быть на финише. Точнее, вы оба должны быть на финише, иначе испытание не зачтётся. А это было бы просто возмутительно!",
+  "unit": {
+    "file": "txt_lvl_0016.wav",
+    "source_file": "txt_lvl_0016.wav",
+    "speaker": "Daffy Duck",
+    "text": "Хе-хе-хе, молодец! Не забывай: чтобы завершить уровень, вы с овцой должны быть на финише. Точнее, вы оба должны быть на финише, иначе испытание не зачтётся. А это было бы просто возмутительно!",
+    "start": 0.13,
+    "end": 16.64,
+    "source_seconds": 18.9271875,
+    "segments": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "transcript": "Тс-с. Ведите себя очень, очень тихо. Я охочусь на уток. Хи-хи-хи-хи.",
+  "character_voice": "Cartoony, hushed comedic voice imitating Elmer Fudd with characteristic quiet conspiratorial delivery.",
+  "lisp": "mild",
+  "issues": [],
+  "clips": [
+    {
+      "file": "txtel_lvl1102.wav",
+      "start": 0.1,
+      "end": 9.15,
+      "transcript": "Тс-с. Ведите себя очень, очень тихо. Я охочусь на уток. Хи-хи-хи-хи.",
+      "complete": true
+    }
+  ]
+}

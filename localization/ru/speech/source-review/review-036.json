@@ -1,0 +1,131 @@
+[
+  {
+    "file": "cin_03_sc_rel_04_4.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "It was utter chaos, but after a super Martian effort, and the help of my fantastic PR-200, I managed to get back most of my army.",
+        "ru": "Это был сущий хаос, но ценой сверхусилий марсианина и с помощью моего фантастического пи-эр двести мне удалось вернуть большую часть моей армии.",
+        "start": 0.2,
+        "end": 11.53
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Isn't that delightful?",
+        "ru": "Разве это не прелестно?",
+        "start": 12.08,
+        "end": 13.9
+      }
+    ],
+    "source_seconds": 14.4549375
+  },
+  {
+    "file": "cin_03_sc_rel_05.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "It's up to you to repair the damage now, by returning to me my lost instant Martians.",
+        "ru": "Теперь тебе предстоит всё исправить и вернуть мне моих пропавших быстрорастворимых марсиан.",
+        "start": 0.16,
+        "end": 6.95
+      }
+    ],
+    "source_seconds": 7.4546875
+  },
+  {
+    "file": "cin_03_sc_rel_06.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Come, K-9.",
+        "ru": "Ко мне, Кей-найн.",
+        "start": 0.22,
+        "end": 1.55
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Sit, boy.",
+        "ru": "Сидеть, мальчик.",
+        "start": 2.05,
+        "end": 3.08
+      }
+    ],
+    "source_seconds": 3.081375
+  },
+  {
+    "file": "cin_04_sc_ret_01.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Well done.",
+        "ru": "Отлично сработано.",
+        "start": 0.15,
+        "end": 1.1
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "As promised, I'm going to take you back to Earth.",
+        "ru": "Как и обещал, я отправлю тебя обратно на Землю.",
+        "start": 1.5,
+        "end": 5.38
+      }
+    ],
+    "source_seconds": 5.610625
+  },
+  {
+    "file": "cin_04_sc_ret_02.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "Speaker corrected from Yosemite Sam to Marvin the Martian.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Are all systems go for the attack plan?",
+        "ru": "Все системы готовы к выполнению плана атаки?",
+        "start": 0.26,
+        "end": 3.42
+      }
+    ],
+    "source_seconds": 3.6405625
+  },
+  {
+    "file": "cin_04_sc_ret_03.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "Speaker corrected from Yosemite Sam to Marvin the Martian.",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Okay then, let's go invade that miserable planet!",
+        "ru": "Что ж, тогда вперёд, захватим эту жалкую планету!",
+        "start": 0.18,
+        "end": 4.6
+      }
+    ],
+    "source_seconds": 5.248125
+  }
+]

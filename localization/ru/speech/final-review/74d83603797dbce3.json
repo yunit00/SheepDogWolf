@@ -1,0 +1,119 @@
+{
+  "files": [
+    {
+      "file": "Cin02_sc_reL001.wav",
+      "transcript": "А теперь, готовый как никогда воровать овец, встречайте нашего участника! Добро пожаловать на наше шоу! Аплодисменты!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL002.wav",
+      "transcript": "Здесь ты увидишь место, куда нужно приводить украденных овец. А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL003.wav",
+      "transcript": "А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL004.wav",
+      "transcript": "Забравшись на эту подставку, ты сможешь сохранить игру, следуя указанным инструкциям.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL006.wav",
+      "transcript": "А здесь можно выбирать уровни. Тебе нужно всего лишь активировать дверь, чтобы попасть на соответствующий уровень. Дальше действуй сам!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin03_sc_reL161.wav",
+      "transcript": "Потрясающе! Последняя овца! Ты сделал это! Ты исключительный участник. К сожалению, наше шоу подходит к концу. Спасибо всем моим фанатам за то, что были с нами до самого финала. До скорого!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin03_sc_reL162.wav",
+      "transcript": "А! Это ещё что? Что здесь делает марсианин Марвин? Этого не было в сценарии!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_01.wav",
+      "transcript": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_02.wav",
+      "transcript": "Слушай сюда, приятель. Просто расслабься и играй. Это шоу должно катапультировать меня прямо в суперзвёзды!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_03b.wav",
+      "transcript": "Итак, цель нашей игры проста: воровать овец.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Cin02_sc_reL001.wav": "6bd639018c450ffeec29c77da7727b20bb09c036f5d3efcf87df47ffeda39978",
+    "Cin02_sc_reL002.wav": "85bd9307392321b3ea0ab61e1ef5c78c2252ccef0bf433da5744f3938f6b3976",
+    "Cin02_sc_reL003.wav": "96ba16dc995e34f8a5b16636f4d6d37aaf8505ca07b5c16ce19f7048385a4f92",
+    "Cin02_sc_reL004.wav": "51b8218ddba9b68811be7eb903f62c4cc8ac12d5bea46c3f2e9cf2cfe3266c4f",
+    "Cin02_sc_reL006.wav": "09caa8433992c676ae64082d1d86caf375f0e061122484a3c61e4356facf6d1a",
+    "Cin03_sc_reL161.wav": "701b8b72ef0ad28756a0c6baa74bb120603727caf0a3d328ee74c18bf0324d1f",
+    "Cin03_sc_reL162.wav": "d620d6508e0b5bc86070adf5293a0eb50830a0e6e749998192355ca11c58d766",
+    "Cin_int_niv_01.wav": "f3171e6aae2fd62a82f9bf71024b2c928b146b1d3e016c503f125f805bdfdac0",
+    "Cin_int_niv_02.wav": "6c955b580466f4d74bf41ad76f5730df1322cb958772cf0e290341bb69461a78",
+    "Cin_int_niv_03b.wav": "e79db443d0d30669bae3fc8a306bed20a0084ace60b8c07edad1f86a3e170041"
+  },
+  "references": {
+    "Cin02_sc_reL001.wav": "А теперь, готовый как никогда воровать овец, встречайте нашего участника! Добро пожаловать на наше шоу! Аплодисменты!",
+    "Cin02_sc_reL002.wav": "Здесь ты увидишь место, куда нужно приводить украденных овец. А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+    "Cin02_sc_reL003.wav": "А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+    "Cin02_sc_reL004.wav": "Забравшись на эту подставку, ты сможешь сохранить игру, следуя указанным инструкциям.",
+    "Cin02_sc_reL006.wav": "А здесь можно выбирать уровни. Тебе нужно всего лишь активировать дверь, чтобы попасть на соответствующий уровень. Дальше действуй сам!",
+    "Cin03_sc_reL161.wav": "Потрясающе! Последняя овца! Ты сделал это! Ты исключительный участник. К сожалению, наше шоу подходит к концу. Спасибо всем моим фанатам за то, что были с нами до самого финала. До скорого!",
+    "Cin03_sc_reL162.wav": "А! Это ещё что? Что здесь делает марсианин Марвин? Этого не было в сценарии!",
+    "Cin_int_niv_01.wav": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+    "Cin_int_niv_02.wav": "Слушай сюда, приятель. Просто расслабься и играй. Это шоу должно катапультировать меня прямо в суперзвёзды!",
+    "Cin_int_niv_03b.wav": "Итак, цель нашей игры проста: воровать овец."
+  },
+  "snapshot_version": 1
+}

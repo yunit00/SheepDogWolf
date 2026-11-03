@@ -1,0 +1,22 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 23.0 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Эй! Не видишь, я работаю? Между прочим, собираю чудные льдышки! Чистая гениальность! Я, понимаешь ли, набросал кучу всяких странных штук в эту ледяную воду! Теперь всё это вмёрзло в ледяные кубы, которые я буду складывать прямо здесь!",
+  "unit": {
+    "file": "cingr_lvl0801.wav",
+    "source_file": "cingr_lvl0801.wav",
+    "speaker": "Daffy Duck",
+    "text": "Эй! Не видишь, я работаю? Между прочим, собираю чудные льдышки! Чистая гениальность! Я, понимаешь ли, набросал кучу всяких странных штук в эту ледяную воду! Теперь всё это вмёрзло в ледяные кубы, которые я буду складывать прямо здесь!",
+    "start": 0.08,
+    "end": 23.1,
+    "source_seconds": 24.5203125,
+    "segments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

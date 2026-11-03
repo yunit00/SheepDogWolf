@@ -1,0 +1,186 @@
+{
+  "speaker": "Marvin the Martian",
+  "voice": "Charon",
+  "clips": [
+    {
+      "file": "Mars_2sec__26.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Ко мне, Кей-найн!",
+      "start": 164.2,
+      "end": 165.6,
+      "source_seconds": 208.7134375,
+      "segments": [
+        26
+      ]
+    },
+    {
+      "file": "Mars_2sec__27.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Сидеть, дружок.",
+      "start": 165.8,
+      "end": 167.3,
+      "source_seconds": 208.7134375,
+      "segments": [
+        27
+      ]
+    },
+    {
+      "file": "cin_03_sc_rel_01.wav",
+      "source_file": "cin_03_sc_rel_01.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Этот ничтожный мелкий землянин? Похоже, это нелепое создание попало на мою планету из-за твоей оплошности, так ведь, хм?",
+      "start": 0.1,
+      "end": 10.45,
+      "source_seconds": 12.562,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "cin_03_sc_rel_02.wav",
+      "source_file": "cin_03_sc_rel_02.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Что ж, позволь рассказать, как твой друг очутился здесь.",
+      "start": 0.1,
+      "end": 3.7,
+      "source_seconds": 4.54075,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "cin_03_sc_rel_03b.wav",
+      "source_file": "cin_03_sc_rel_03b.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Я как раз готовился испытать своё новейшее оружие — пи-эр двести. Очень практичное устройство, уменьшающее любое живое существо до одной десятой обычного размера. Для эксперимента я привлёк преданного бойца моей армии. Я уже был готов опробовать изобретение, как вдруг какой-то захватчик на полной скорости врезался в мой бак с водой, и весь бак рухнул прямо на мою армию.",
+      "start": 0.15,
+      "end": 29.5,
+      "source_seconds": 30.5624375,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "file": "cin_03_sc_rel_03bis.wav",
+      "source_file": "cin_03_sc_rel_03bis.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Проклятье! Какой-то захватчик на полной скорости врезался в мой бак с водой, и вода залила всю мою армию.",
+      "start": 0.1,
+      "end": 8.3,
+      "source_seconds": 9.2380625,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "cin_03_sc_rel_03ter.wav",
+      "source_file": "cin_03_sc_rel_03ter.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Этот треклятый захватчик выглядел как чёрная овца.",
+      "start": 0.15,
+      "end": 4.1,
+      "source_seconds": 5.25925,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "cin_03_sc_rel_04.wav",
+      "source_file": "cin_03_sc_rel_04.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Постой, я ещё не закончил. Моя армия всё ещё не в полном составе. Один слегка непокорный отряд угодил в щекотливую ситуацию, и спасать его слишком рискованно. А я, Марвин Марсианин, не намерен идти на неоправданный риск.",
+      "start": 0.1,
+      "end": 19.15,
+      "source_seconds": 19.908125,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "file": "cin_03_sc_rel_04_4.wav",
+      "source_file": "cin_03_sc_rel_04_4.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Это был сущий хаос, но ценой сверхусилий марсианина и с помощью моего фантастического пи-эр двести мне удалось вернуть большую часть моей армии. Разве это не прелестно?",
+      "start": 0.2,
+      "end": 13.9,
+      "source_seconds": 14.4549375,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "cin_03_sc_rel_05.wav",
+      "source_file": "cin_03_sc_rel_05.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Теперь тебе предстоит всё исправить и вернуть мне моих пропавших быстрорастворимых марсиан.",
+      "start": 0.16,
+      "end": 6.95,
+      "source_seconds": 7.4546875,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "cin_03_sc_rel_06.wav",
+      "source_file": "cin_03_sc_rel_06.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Ко мне, Кей-найн. Сидеть, мальчик.",
+      "start": 0.22,
+      "end": 3.08,
+      "source_seconds": 3.081375,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "cin_04_sc_ret_01.wav",
+      "source_file": "cin_04_sc_ret_01.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Отлично сработано. Как и обещал, я отправлю тебя обратно на Землю.",
+      "start": 0.15,
+      "end": 5.38,
+      "source_seconds": 5.610625,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "cin_04_sc_ret_02.wav",
+      "source_file": "cin_04_sc_ret_02.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Все системы готовы к выполнению плана атаки?",
+      "start": 0.26,
+      "end": 3.42,
+      "source_seconds": 3.6405625,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "cin_04_sc_ret_03.wav",
+      "source_file": "cin_04_sc_ret_03.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Что ж, тогда вперёд, захватим эту жалкую планету!",
+      "start": 0.18,
+      "end": 4.6,
+      "source_seconds": 5.248125,
+      "segments": [
+        0
+      ]
+    }
+  ],
+  "prompt": "Russian dubbing for a classic cartoon game. Male small Martian villain: soft nasal slightly metallic timbre, precise pedantic diction, dry comic menace, restrained theatricality. Calm but fairly brisk, no digital effects. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Ко мне, Кей-найн!\n\n2. Сидеть, дружок.\n\n3. Этот ничтожный мелкий землянин? Похоже, это нелепое создание попало на мою планету из-за твоей оплошности, так ведь, хм?\n\n4. Что ж, позволь рассказать, как твой друг очутился здесь.\n\n5. Я как раз готовился испытать своё новейшее оружие — пи-эр двести. Очень практичное устройство, уменьшающее любое живое существо до одной десятой обычного размера. Для эксперимента я привлёк преданного бойца моей армии. Я уже был готов опробовать изобретение, как вдруг какой-то захватчик на полной скорости врезался в мой бак с водой, и весь бак рухнул прямо на мою армию.\n\n6. Проклятье! Какой-то захватчик на полной скорости врезался в мой бак с водой, и вода залила всю мою армию.\n\n7. Этот треклятый захватчик выглядел как чёрная овца.\n\n8. Постой, я ещё не закончил. Моя армия всё ещё не в полном составе. Один слегка непокорный отряд угодил в щекотливую ситуацию, и спасать его слишком рискованно. А я, Марвин Марсианин, не намерен идти на неоправданный риск.\n\n9. Это был сущий хаос, но ценой сверхусилий марсианина и с помощью моего фантастического пи-эр двести мне удалось вернуть большую часть моей армии. Разве это не прелестно?\n\n10. Теперь тебе предстоит всё исправить и вернуть мне моих пропавших быстрорастворимых марсиан.\n\n11. Ко мне, Кей-найн. Сидеть, мальчик.\n\n12. Отлично сработано. Как и обещал, я отправлю тебя обратно на Землю.\n\n13. Все системы готовы к выполнению плана атаки?\n\n14. Что ж, тогда вперёд, захватим эту жалкую планету!"
+}

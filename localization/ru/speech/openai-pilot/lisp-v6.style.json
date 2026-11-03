@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "file": "lisp-v6.wav",
+      "lisp": "absent",
+      "description": "High-pitched, energetic cartoon voice resembling a young boy or small animated character. The speech is highly intelligible, lively, and expressive, but sibilants are pronounced normally without any duck-like lateral lisp.",
+      "issues": []
+    }
+  ],
+  "consistent_speaker": true,
+  "notes": "The audio is clean with no harsh artifacts and possesses good cartoon energy. However, the requested duck-like lisp is absent, as all 's', 'z', and 'sh' sounds are articulated clearly and standardly.",
+  "inputs": {
+    "lisp-v6.wav": "2b92f40543d9484ec5c29b15e6b8c65b952c357fe0153700ecc98534a216eb7e"
+  },
+  "model": "gemini-3.1-pro-preview"
+}

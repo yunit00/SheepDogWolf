@@ -1,0 +1,120 @@
+{
+  "files": [
+    {
+      "file": "cin_lvl_0309.wav",
+      "transcript": "Не хочешь оставаться в неведении, а? Или хочешь? Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры. А ещё можно использовать предметы.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cinfl_lvl0401__01.wav",
+      "transcript": "Ой! Ой! Ой!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "multiple_takes"
+      ]
+    },
+    {
+      "file": "cinfl_lvl0401__02.wav",
+      "transcript": "Та-дам!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cinfl_lvl0401__03.wav",
+      "transcript": "Это я, пленительный лесной эльф!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cinfl_lvl0402.wav",
+      "transcript": "Волшебная флейта просто потрясающа! С ней можно загипнотизировать кого угодно и увести за собой куда захочешь! Пожалуй, надо опробовать её на своём агенте.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__02.wav",
+      "transcript": "Слушай, приятель, всё, что тебе нужно — расслабиться и играть. А я использую эту работёнку, чтобы взлететь на вершину суперславы!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__03.wav",
+      "transcript": "Итак, цель нашей игры проста: воровать овец.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__08.wav",
+      "transcript": "Я предельно ясно выразился?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__11.wav",
+      "transcript": "Это твой звёздный час, и ты ведь не хочешь всё запороть.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__12.wav",
+      "transcript": "К тому же, это я объяснил тебе правила игры.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "cin_lvl_0309.wav": "bcbca307e373aac17c1ff22502d9ea876d3da61cfd0ba023f7f188db50e88aab",
+    "cinfl_lvl0401__01.wav": "553a34995c54ca22add62140f9e6bcb27001f0586694fb02ba3f833da5de06ff",
+    "cinfl_lvl0401__02.wav": "4511305424aa2653e19b92888fbf861e0a54b26c1f23b028a64777cad29362b3",
+    "cinfl_lvl0401__03.wav": "af7b4150f965f22f2943b350a09ed99a35740379bfb509a9e0eefe020b4d0b3c",
+    "cinfl_lvl0402.wav": "579d2a109ca372f7572c66f48325bc75503626ecefb7e5213738c5cbd45b4768",
+    "intro_2sec__02.wav": "7245357a95f9969b42ca2ddc06676969e3a6a113b7631fe898836677ad2f1d8f",
+    "intro_2sec__03.wav": "53436ea339fdcfd1121d4d47a96cd5545ac761eb317646cd79d785dc6377304c",
+    "intro_2sec__08.wav": "4ef324ea1cb816073d1aa9a504afd858b11939b74fb3e311c8bcadcc51a243c8",
+    "intro_2sec__11.wav": "4575c89148600bf0e8ed767a0f891eb2139d66c18747fec760541f82c297d5ec",
+    "intro_2sec__12.wav": "71998af4a298b5dcc64b3c3115f29538eefb9bd099e14ab627a1b1643ea5c5e4"
+  },
+  "references": {
+    "cin_lvl_0309.wav": "Не хочешь оставаться в неведении, а? Или хочешь? Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры. А ещё можно использовать предметы.",
+    "cinfl_lvl0401__01.wav": "Ой!",
+    "cinfl_lvl0401__02.wav": "Та-дам!",
+    "cinfl_lvl0401__03.wav": "Это я, пленительный лесной эльф!",
+    "cinfl_lvl0402.wav": "Волшебная флейта просто потрясающа! С ней можно загипнотизировать кого угодно и увести за собой куда захочешь! Пожалуй, надо опробовать её на своём агенте.",
+    "intro_2sec__02.wav": "Слушай, приятель, всё, что тебе нужно — расслабиться и играть. А я использую эту работёнку, чтобы взлететь на вершину суперславы!",
+    "intro_2sec__03.wav": "Итак, цель нашей игры проста: воровать овец.",
+    "intro_2sec__08.wav": "Я предельно ясно выразился?",
+    "intro_2sec__11.wav": "Это твой звёздный час, и ты ведь не хочешь всё запороть.",
+    "intro_2sec__12.wav": "К тому же, это я объяснил тебе правила игры."
+  }
+}

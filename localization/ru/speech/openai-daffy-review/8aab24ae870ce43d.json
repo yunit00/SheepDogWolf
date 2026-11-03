@@ -1,0 +1,118 @@
+{
+  "files": [
+    {
+      "file": "ret_niv_02ge__02.wav",
+      "transcript": "Тишина!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_03ge__00.wav",
+      "transcript": "Замечательно.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_03ge__01.wav",
+      "transcript": "Не забудь найти все табельные часы.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "sc_01__00.wav",
+      "transcript": "Пожалуйста, давайте поддержим нашего участника, а?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "sc_02.wav",
+      "transcript": "Давай же, публика за тебя! Не останавливайся!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "sc_03.wav",
+      "transcript": "Слушай, если не хочешь продолжать, мы просто найдём другого участника. Полно тех, кто ухватится за шанс поработать со мной, уж поверь!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl0602.wav",
+      "transcript": "Хорошая новость: к мине можно подойти, когда световая волна исчезнет. Плохая новость: времени до следующей волны у тебя совсем немного. И не забывай: если световая волна тебя заденет, мина сделает бабах!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl0603.wav",
+      "transcript": "Активировать мину просто. А вот обезвредить её — задачка посложнее. Тебе нужно запомнить комбинацию кнопок, пока горит зелёный, а затем повторить её на своём контроллере, когда загорится красный. Постарайся не ошибиться, ведь нужно нажать нужную кнопку в нужный момент. Но есть и хорошая новость: жёлтые огоньки и звуки помогут тебе нажимать кнопки вовремя. Видишь? Всё просто!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl0604.wav",
+      "transcript": "Обезвреженные мины можно использовать как обычные предметы. Когда ты положишь мину, она активируется через пять секунд.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl_001.wav",
+      "transcript": "Ой, не очень-то получилось. Иди за мной, я объясню тебе пару команд.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "ret_niv_02ge__02.wav": "c33f3aefb76197b8b7dca7f8eb0636420f160d02248bc57d11e8515855af20df",
+    "ret_niv_03ge__00.wav": "ac2e60196b384823160f8109116c961de32e767a86d38ab2875659c4fd5dfc54",
+    "ret_niv_03ge__01.wav": "5f28380b38b96d547f316342dfdb54a951bc75c42b7c3b7a7f91bdf031a512b7",
+    "sc_01__00.wav": "aefc01dbb0d95a04f91c25e77cd88c12014b06cc4d5a6683ad64e6255da8d06e",
+    "sc_02.wav": "068d6352a36212be45994293fbb55b664f63b45f6f8bc8bcffb8c773f1ef046f",
+    "sc_03.wav": "2e92fd5f4d7a4c70f7d705c78d2f7360f1758b1408392c55f5dd0d4dbfc8542c",
+    "txt_lvl0602.wav": "d1b016292260ad4c6c46fd044a06526ee5e23ad30641867530de3610544aaeb4",
+    "txt_lvl0603.wav": "455a449e5ab2230e35cfb12215717001902354614615fabb3011e38b193dfdb9",
+    "txt_lvl0604.wav": "e055e0f4010d6cc3ba2690690363dd7c8bf754fdee80894aeef732ecaa06b0cd",
+    "txt_lvl_001.wav": "4df83dd74ead448de06d28ceea055451651a33b8fba7670a7ddff37154e322b4"
+  },
+  "references": {
+    "ret_niv_02ge__02.wav": "Тишина-а-а!",
+    "ret_niv_03ge__00.wav": "Замечательно.",
+    "ret_niv_03ge__01.wav": "Не забудь найти все табельные часы.",
+    "sc_01__00.wav": "Пожалуйста, давайте поддержим нашего участника, а?",
+    "sc_02.wav": "Давай же, публика за тебя! Не останавливайся!",
+    "sc_03.wav": "Слушай, если не хочешь продолжать, мы просто найдём другого участника. Полно тех, кто ухватится за шанс поработать со мной, уж поверь!",
+    "txt_lvl0602.wav": "Хорошая новость: к мине можно подойти, когда световая волна исчезнет. Плохая новость: времени до следующей волны у тебя совсем немного. И не забывай: если световая волна тебя заденет, мина сделает бабах!",
+    "txt_lvl0603.wav": "Активировать мину просто. А вот обезвредить её — задачка посложнее. Тебе нужно запомнить комбинацию кнопок, пока горит зелёный, а затем повторить её на своём контроллере, когда загорится красный. Постарайся не ошибиться, ведь нужно нажать нужную кнопку в нужный момент. Но есть и хорошая новость: жёлтые огоньки и звуки помогут тебе нажимать кнопки вовремя. Видишь? Всё просто!",
+    "txt_lvl0604.wav": "Обезвреженные мины можно использовать как обычные предметы. Когда ты положишь мину, она активируется через пять секунд.",
+    "txt_lvl_001.wav": "Ой, не очень-то получилось. Иди за мной, я объясню тебе пару команд."
+  }
+}

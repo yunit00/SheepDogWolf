@@ -1,0 +1,22 @@
+{
+  "transcript": "Начни заново и танцуй как следует! Начни заново и танцуй как следует! Нужно попадать в ритм!",
+  "character_voice": "Energetic, slightly gruff cartoonish character voice.",
+  "lisp": "absent",
+  "issues": [],
+  "clips": [
+    {
+      "file": "cin_lvl1402_ja.wav",
+      "start": 0.33,
+      "end": 3.41,
+      "transcript": "Начни заново и танцуй как следует!",
+      "complete": true
+    },
+    {
+      "file": "cin_lvl1404_ja.wav",
+      "start": 3.91,
+      "end": 8.8,
+      "transcript": "Начни заново и танцуй как следует! Нужно попадать в ритм!",
+      "complete": true
+    }
+  ]
+}

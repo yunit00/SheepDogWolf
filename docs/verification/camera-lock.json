@@ -1,0 +1,14 @@
+{
+  "samples": 193,
+  "mismatched_angles": 0,
+  "distinct_desired_angles": 46,
+  "distinct_targets": 59,
+  "height_range": [
+    -265,
+    -85
+  ],
+  "distance_range": [
+    50,
+    610
+  ]
+}

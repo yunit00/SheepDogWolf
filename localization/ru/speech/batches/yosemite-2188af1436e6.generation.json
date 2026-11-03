@@ -1,0 +1,57 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "seconds": 19.24,
+  "script": {
+    "speaker": "Yosemite Sam",
+    "voice": "Algenib",
+    "clips": [
+      {
+        "file": "cinsa_lvl1502.wav",
+        "source_file": "cinsa_lvl1502.wav",
+        "speaker": "Yosemite Sam",
+        "text": "Так-так, ты не круглый и сделан не из золота! А ну проваливай! Я сказал, что не хочу никого видеть на своей лодке, и тебя это тоже касается, скользкий хорёк!",
+        "start": 0.0,
+        "end": 12.78,
+        "source_seconds": 14.34625,
+        "segments": [
+          0,
+          1
+        ]
+      },
+      {
+        "file": "cinsa_lvl1503.wav",
+        "source_file": "cinsa_lvl1503.wav",
+        "speaker": "Yosemite Sam",
+        "text": "Думал провести старину Сэма, а?! Ну, теперь ты за это поплатишься!",
+        "start": 0.08,
+        "end": 5.56,
+        "source_seconds": 6.4710625,
+        "segments": [
+          0,
+          1
+        ]
+      }
+    ],
+    "prompt": "Russian dubbing for a classic cartoon game. Gruff short-tempered male cartoon cowboy, low-mid gravelly raspy booming voice, lively comic bravado. Russian speech clear, not screaming or clipping. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Так-так, ты не круглый и сделан не из золота! А ну проваливай! Я сказал, что не хочу никого видеть на своей лодке, и тебя это тоже касается, скользкий хорёк!\n\n2. Думал провести старину Сэма, а?! Ну, теперь ты за это поплатишься!"
+  },
+  "usage": {
+    "promptTokenCount": 218,
+    "candidatesTokenCount": 481,
+    "totalTokenCount": 699,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 218
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 481
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

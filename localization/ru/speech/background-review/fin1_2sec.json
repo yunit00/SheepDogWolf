@@ -1,0 +1,11 @@
+{
+  "intelligible_speech": false,
+  "residuals": [],
+  "music_quality": "good",
+  "artifacts": [
+    "non-verbal cartoon vocal grunts between 42.5s and 44.5s"
+  ],
+  "acceptable_under_dubbing": true,
+  "sha256": "3dad85e062f1ee2757a6ebc08b841df85012f62c41ffc52605a680333bb32fa9",
+  "file": "fin1_2sec"
+}

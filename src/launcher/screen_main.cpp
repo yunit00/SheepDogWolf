@@ -31,7 +31,10 @@ void ScreenMain_Draw(LauncherState &s) {
     if (ImGui::Button("Дополнительно", gridButton))
         PopupAdvanced_Open();
     y += gridButton.y + rowGap;
-    ImGui::SetCursorPos(ImVec2(centre - gridButton.x * 0.5f, y));
+    ImGui::SetCursorPos(ImVec2(left, y));
+    if (ImGui::Button("Управление", gridButton))
+        ImGui::OpenPopup("Управление");
+    ImGui::SetCursorPos(ImVec2(right, y));
     if (ImGui::Button("О программе", gridButton))
         PopupCredits_Open();
     y += gridButton.y + gridToPlay;
@@ -78,6 +81,21 @@ void ScreenMain_Draw(LauncherState &s) {
     }
 
     /* the popups, after the main screen: each draws nothing while closed */
+    if (Popup_Begin("Управление")) {
+        ImGui::TextUnformatted("WASD - движение");
+        ImGui::TextUnformatted("Shift - удерживать для бега");
+        ImGui::TextUnformatted("ПКМ / Ctrl - удерживать, чтобы красться");
+        ImGui::TextUnformatted("ЛКМ / E - действие и взаимодействие");
+        ImGui::TextUnformatted("Space - прыжок, повторно - двойной прыжок");
+        ImGui::TextUnformatted("Мышь - поворот камеры; Q / R - поворот клавишами");
+        ImGui::TextUnformatted("F - удерживать для взгляда от первого лица");
+        ImGui::TextUnformatted("Tab - предметы; M - карта; Esc - пауза");
+        ImGui::Separator();
+        ImGui::TextWrapped("Инвентарь: удерживайте Tab, выбирайте предмет клавишами A/D или стрелками влево/вправо. Отпустите Tab, чтобы взять его в руки. Пустой слот убирает предмет. E/ЛКМ применяет его по ситуации.");
+        ImGui::TextWrapped("Укрытие: в кусте удерживайте ПКМ или Ctrl. У подходящего камня подойдите сбоку и двигайтесь к нему с зажатой ПКМ или Ctrl.");
+        ImGui::TextWrapped("Здесь указаны стандартные клавиши. Изменить клавиатуру можно в настройках управления внутри игры.");
+        Popup_End();
+    }
     PopupInstall_Draw(s);
     PopupVideo_Draw(s);
     PopupCredits_Draw();

@@ -1,0 +1,11 @@
+{
+  "intelligible_speech": false,
+  "residuals": [],
+  "music_quality": "good",
+  "artifacts": [
+    "non-verbal cartoon vocalizations (giggles, squeaks)"
+  ],
+  "acceptable_under_dubbing": true,
+  "sha256": "60d1d34038c6c951e7dd00c22740f9362b40e402f788f0cd3adb56640d504c2f",
+  "file": "ret_niv_02ge"
+}

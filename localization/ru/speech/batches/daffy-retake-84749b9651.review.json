@@ -1,0 +1,15 @@
+{
+  "transcript": "У тебя получилось!",
+  "character_voice": "High-pitched, energetic cartoon voice matching Daffy Duck style.",
+  "lisp": "mild",
+  "issues": [],
+  "clips": [
+    {
+      "file": "Mars_2sec__02.wav",
+      "start": 0.15,
+      "end": 1.65,
+      "transcript": "У тебя получилось!",
+      "complete": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "file": "txt_rob_03.wav",
+      "transcript": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, список предметов.",
+      "complete": false,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "missing_word"
+      ]
+    }
+  ],
+  "inputs": {
+    "txt_rob_03.wav": "55f8a63ff01744806810f2537740e05f5215cbf948854bd0a3a3b57bb4f41bb8"
+  },
+  "references": {
+    "txt_rob_03.wav": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в инструкцию, в список предметов."
+  }
+}

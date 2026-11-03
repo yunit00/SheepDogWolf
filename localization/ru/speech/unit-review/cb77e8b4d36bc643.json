@@ -1,0 +1,26 @@
+{
+  "files": [
+    {
+      "file": "Mars_2sec__09.wav",
+      "transcript": "Этого не было в сценарии!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_01.wav",
+      "transcript": "Кто за это отвечает?!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Mars_2sec__09.wav": "71c18dff4ef3b02e652676429391b41942d61263dd8b411fe17bcfe060c86b10",
+    "be_01.wav": "4cbb3cd202184f4bee41ff32f45637b2446ba077f127ab39e19558ea9244a32e"
+  }
+}

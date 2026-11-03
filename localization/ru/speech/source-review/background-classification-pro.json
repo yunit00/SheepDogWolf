@@ -1,0 +1,26 @@
+[
+  {
+    "file": "ret_lvl_00.wav",
+    "music": false,
+    "effects": false,
+    "non_speech_description": "None",
+    "confidence": 1.0,
+    "notes": "Only a cartoon voice with recording noise."
+  },
+  {
+    "file": "ret_niv_03ge.wav",
+    "music": false,
+    "effects": false,
+    "non_speech_description": "None",
+    "confidence": 1.0,
+    "notes": "Only a cartoon voice with recording noise."
+  },
+  {
+    "file": "sc_01.wav",
+    "music": false,
+    "effects": true,
+    "non_speech_description": "Applause and cheering",
+    "confidence": 1.0,
+    "notes": "Cartoon voice with applause and cheering in the background."
+  }
+]

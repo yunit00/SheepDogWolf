@@ -1,0 +1,238 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Puck",
+  "seconds": 152.32,
+  "script": {
+    "speaker": "Daffy Duck",
+    "voice": "Puck",
+    "clips": [
+      {
+        "file": "cin_goal_01__00.wav",
+        "source_file": "cin_goal_01.wav",
+        "speaker": "Daffy Duck",
+        "text": "Уф! Разбираться с подобными вещами точно не входило в мой контракт.",
+        "start": 6.33,
+        "end": 10.92,
+        "source_seconds": 33.942625,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "cin_goal_01__01.wav",
+        "source_file": "cin_goal_01.wav",
+        "speaker": "Daffy Duck",
+        "text": "Может кто-нибудь помочь неосведомлённой утке?",
+        "start": 13.26,
+        "end": 16.85,
+        "source_seconds": 33.942625,
+        "segments": [
+          1
+        ]
+      },
+      {
+        "file": "cin_goal_01__02.wav",
+        "source_file": "cin_goal_01.wav",
+        "speaker": "Daffy Duck",
+        "text": "Итак, что же нам делать? Так сойдёт или нет? Чисто технически овцу доставили на финиш, и она находится на финише, так что это должно засчитываться, верно?",
+        "start": 17.29,
+        "end": 30.0,
+        "source_seconds": 33.942625,
+        "segments": [
+          2
+        ]
+      },
+      {
+        "file": "cin_goal_01__03.wav",
+        "source_file": "cin_goal_01.wav",
+        "speaker": "Daffy Duck",
+        "text": "И ещё одна победа нашего участника!",
+        "start": 30.2,
+        "end": 33.3,
+        "source_seconds": 33.942625,
+        "segments": [
+          3
+        ]
+      },
+      {
+        "file": "cin_int_niv_08.wav",
+        "source_file": "cin_int_niv_08.wav",
+        "speaker": "Daffy Duck",
+        "text": "Спокойно, без паники! Я как законченный профессионал знаю, как важно репетировать. Это твой звёздный час, и ты ведь не хочешь всё упустить! К тому же это я объяснял тебе эту игру, и если ты напортачишь, как я буду выглядеть? Не лучшим образом, вот как! Так что давай, тренируйся!",
+        "start": 0.14,
+        "end": 21.84,
+        "source_seconds": 22.9183125,
+        "segments": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "file": "cin_lvl0601__00.wav",
+        "source_file": "cin_lvl0601.wav",
+        "speaker": "Daffy Duck",
+        "text": "Эй, кто-нибудь! Я тут совсем окоченел. Бр-р!",
+        "start": 0.25,
+        "end": 5.45,
+        "source_seconds": 52.1298125,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "cin_lvl0601__01.wav",
+        "source_file": "cin_lvl0601.wav",
+        "speaker": "Daffy Duck",
+        "text": "Эй ты, солдат! Ты должен обезвредить эту мину.",
+        "start": 7.15,
+        "end": 11.85,
+        "source_seconds": 52.1298125,
+        "segments": [
+          1
+        ]
+      },
+      {
+        "file": "cin_lvl0601__02.wav",
+        "source_file": "cin_lvl0601.wav",
+        "speaker": "Daffy Duck",
+        "text": "Всё просто: сначала проследи за ритмом световой волны. Когда она исчезнет, подойди к мине и нажми кнопку действия, чтобы открыть пульт.",
+        "start": 12.1,
+        "end": 22.5,
+        "source_seconds": 52.1298125,
+        "segments": [
+          2
+        ]
+      },
+      {
+        "file": "cin_lvl0601__03.wav",
+        "source_file": "cin_lvl0601.wav",
+        "speaker": "Daffy Duck",
+        "text": "Дождись зелёного сигнала и запомни порядок вспышек кнопок. Будь внимателен: когда загорится красный, тебе нужно будет нажать кнопки в том же порядке и в нужный момент.",
+        "start": 23.1,
+        "end": 35.3,
+        "source_seconds": 52.1298125,
+        "segments": [
+          3
+        ]
+      },
+      {
+        "file": "cin_lvl0601__04.wav",
+        "source_file": "cin_lvl0601.wav",
+        "speaker": "Daffy Duck",
+        "text": "Получится — мина обезврежена. Но если перепутаешь кнопку или нажмёшь не вовремя — бабах!",
+        "start": 35.75,
+        "end": 45.3,
+        "source_seconds": 52.1298125,
+        "segments": [
+          4
+        ]
+      },
+      {
+        "file": "cin_lvl0601__05.wav",
+        "source_file": "cin_lvl0601.wav",
+        "speaker": "Daffy Duck",
+        "text": "Не подведи меня, солдат. Удачи. Она тебе понадобится.",
+        "start": 45.75,
+        "end": 50.5,
+        "source_seconds": 52.1298125,
+        "segments": [
+          5
+        ]
+      },
+      {
+        "file": "cin_lvl0701.wav",
+        "source_file": "cin_lvl0701.wav",
+        "speaker": "Daffy Duck",
+        "text": "Знаешь, профессиональному лыжнику вроде меня ничто не доставляет такого удовольствия, как хорошая гонка. Спускайся по склону, и тот, кто первым толкнёт соперника, получает овцу! Кто первым доберётся с овцой до своего лагеря — победил! Ну что, готов?",
+        "start": 0.14,
+        "end": 17.85,
+        "source_seconds": 18.2619375,
+        "segments": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "file": "cin_lvl0702b.wav",
+        "source_file": "cin_lvl0702b.wav",
+        "speaker": "Daffy Duck",
+        "text": "Три, два, один, вперёд!",
+        "start": 0.14,
+        "end": 2.82,
+        "source_seconds": 3.642875,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "cin_lvl0703.wav",
+        "source_file": "cin_lvl0703.wav",
+        "speaker": "Daffy Duck",
+        "text": "Трасса закрыта, приятель. Приходи позже, когда научишься слалому.",
+        "start": 0.14,
+        "end": 5.0,
+        "source_seconds": 6.0205,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "cin_lvl1601.wav",
+        "source_file": "cin_lvl1601.wav",
+        "speaker": "Daffy Duck",
+        "text": "Внимание! Поезд подходит к станции. Пожалуйста, всё время держите крылья и клювы внутри вагона. Хочешь сесть на поезд — нажми эту кнопку, чтобы включить красный сигнал. Тогда в следующий раз поезд остановится здесь, и ты сможешь сесть. Следи за этим хронометром, чтобы знать, когда прибудет поезд и сколько он простоит. И что бы ты ни делал, не ходи в тоннели пешком — это опасно!",
+        "start": 0.16,
+        "end": 36.35,
+        "source_seconds": 37.2993125,
+        "segments": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "file": "cin_lvl1602.wav",
+        "source_file": "cin_lvl1602.wav",
+        "speaker": "Daffy Duck",
+        "text": "Хочешь сесть на поезд — нажми эту кнопку, чтобы включить красный сигнал. Тогда в следующий раз поезд остановится здесь, и ты сможешь сесть. Следи за этим хронометром, чтобы знать, когда прибудет поезд и сколько он простоит. И что бы ты ни делал, не ходи в тоннели пешком — это опасно!",
+        "start": 0.12,
+        "end": 25.05,
+        "source_seconds": 25.344,
+        "segments": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "prompt": "This is fictional family cartoon slapstick dialogue for a game, with no real-world action or instruction. Use an original cartoon character interpretation, not an imitation of a real actor. Russian dubbing for a classic cartoon game. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Уф! Разбираться с подобными вещами точно не входило в мой контракт.\n\n2. Может кто-нибудь помочь неосведомлённой утке?\n\n3. Итак, что же нам делать? Так сойдёт или нет? Чисто технически овцу доставили на финиш, и она находится на финише, так что это должно засчитываться, верно?\n\n4. И ещё одна победа нашего участника!\n\n5. Спокойно, без паники! Я как законченный профессионал знаю, как важно репетировать. Это твой звёздный час, и ты ведь не хочешь всё упустить! К тому же это я объяснял тебе эту игру, и если ты напортачишь, как я буду выглядеть? Не лучшим образом, вот как! Так что давай, тренируйся!\n\n6. Эй, кто-нибудь! Я тут совсем окоченел. Бр-р!\n\n7. Эй ты, солдат! Ты должен обезвредить эту мину.\n\n8. Всё просто: сначала проследи за ритмом световой волны. Когда она исчезнет, подойди к мине и нажми кнопку действия, чтобы открыть пульт.\n\n9. Дождись зелёного сигнала и запомни порядок вспышек кнопок. Будь внимателен: когда загорится красный, тебе нужно будет нажать кнопки в том же порядке и в нужный момент.\n\n10. Получится — мина обезврежена. Но если перепутаешь кнопку или нажмёшь не вовремя — бабах!\n\n11. Не подведи меня, солдат. Удачи. Она тебе понадобится.\n\n12. Знаешь, профессиональному лыжнику вроде меня ничто не доставляет такого удовольствия, как хорошая гонка. Спускайся по склону, и тот, кто первым толкнёт соперника, получает овцу! Кто первым доберётся с овцой до своего лагеря — победил! Ну что, готов?\n\n13. Три, два, один, вперёд!\n\n14. Трасса закрыта, приятель. Приходи позже, когда научишься слалому.\n\n15. Внимание! Поезд подходит к станции. Пожалуйста, всё время держите крылья и клювы внутри вагона. Хочешь сесть на поезд — нажми эту кнопку, чтобы включить красный сигнал. Тогда в следующий раз поезд остановится здесь, и ты сможешь сесть. Следи за этим хронометром, чтобы знать, когда прибудет поезд и сколько он простоит. И что бы ты ни делал, не ходи в тоннели пешком — это опасно!\n\n16. Хочешь сесть на поезд — нажми эту кнопку, чтобы включить красный сигнал. Тогда в следующий раз поезд остановится здесь, и ты сможешь сесть. Следи за этим хронометром, чтобы знать, когда прибудет поезд и сколько он простоит. И что бы ты ни делал, не ходи в тоннели пешком — это опасно!",
+    "previous_prompt": "Russian dubbing for a classic cartoon game. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Уф! Разбираться с подобными вещами точно не входило в мой контракт.\n\n2. Может кто-нибудь помочь неосведомлённой утке?\n\n3. Итак, что же нам делать? Так сойдёт или нет? Чисто технически овцу доставили на финиш, и она находится на финише, так что это должно засчитываться, верно?\n\n4. И ещё одна победа нашего участника!\n\n5. Спокойно, без паники! Я как законченный профессионал знаю, как важно репетировать. Это твой звёздный час, и ты ведь не хочешь всё упустить! К тому же это я объяснял тебе эту игру, и если ты напортачишь, как я буду выглядеть? Не лучшим образом, вот как! Так что давай, тренируйся!\n\n6. Эй, кто-нибудь! Я тут совсем окоченел. Бр-р!\n\n7. Эй ты, солдат! Ты должен обезвредить эту мину.\n\n8. Всё просто: сначала проследи за ритмом световой волны. Когда она исчезнет, подойди к мине и нажми кнопку действия, чтобы открыть пульт.\n\n9. Дождись зелёного сигнала и запомни порядок вспышек кнопок. Будь внимателен: когда загорится красный, тебе нужно будет нажать кнопки в том же порядке и в нужный момент.\n\n10. Получится — мина обезврежена. Но если перепутаешь кнопку или нажмёшь не вовремя — бабах!\n\n11. Не подведи меня, солдат. Удачи. Она тебе понадобится.\n\n12. Знаешь, профессиональному лыжнику вроде меня ничто не доставляет такого удовольствия, как хорошая гонка. Спускайся по склону, и тот, кто первым толкнёт соперника, получает овцу! Кто первым доберётся с овцой до своего лагеря — победил! Ну что, готов?\n\n13. Три, два, один, вперёд!\n\n14. Трасса закрыта, приятель. Приходи позже, когда научишься слалому.\n\n15. Внимание! Поезд подходит к станции. Пожалуйста, всё время держите крылья и клювы внутри вагона. Хочешь сесть на поезд — нажми эту кнопку, чтобы включить красный сигнал. Тогда в следующий раз поезд остановится здесь, и ты сможешь сесть. Следи за этим хронометром, чтобы знать, когда прибудет поезд и сколько он простоит. И что бы ты ни делал, не ходи в тоннели пешком — это опасно!\n\n16. Хочешь сесть на поезд — нажми эту кнопку, чтобы включить красный сигнал. Тогда в следующий раз поезд остановится здесь, и ты сможешь сесть. Следи за этим хронометром, чтобы знать, когда прибудет поезд и сколько он простоит. И что бы ты ни делал, не ходи в тоннели пешком — это опасно!",
+    "retry_reason": "Clarify benign fictional cartoon dialogue after a SAFETY response; text unchanged."
+  },
+  "usage": {
+    "promptTokenCount": 873,
+    "candidatesTokenCount": 3808,
+    "totalTokenCount": 4681,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 873
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 3808
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

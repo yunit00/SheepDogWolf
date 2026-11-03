@@ -1,0 +1,118 @@
+{
+  "files": [
+    {
+      "file": "intro_2sec__13.wav",
+      "transcript": "И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "re_niv_05qu.wav",
+      "transcript": "Давай, не сдавайся!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_lvl_00__01.wav",
+      "transcript": "Не говори мне, что хочешь сдаться ещё до начала шоу.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_00a__00.wav",
+      "transcript": "Браво!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_02ge__00.wav",
+      "transcript": "Фантастика!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_02ge__01.wav",
+      "transcript": "Ой, тс-с, нашему участнику нужна тишина.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_03ge__01.wav",
+      "transcript": "Не забудь найти все табельные часы.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl_0014.wav",
+      "transcript": "Послушай: если хочешь красть овец и строить планы, тебе понадобится инвентарь. Сначала нажми кнопку инвентаря — откроется карта уровня и доступные предметы. Чтобы получить предмет, закажи его через почтовый ящик. Хочешь узнать, в каком ящике нужно заказывать конкретный предмет? Выбери его в инвентаре, и нужный ящик обведётся красным — значит, посылка там! Белым нарисованы предметы, которые можно найти на уровне. Цветные — те, что ты уже забрал и можешь использовать. А если и этого мало, загляни в инструкцию к предмету, там описано, как им пользоваться. Так что давай! Опробуй инвентарь и закажи предмет из почтового ящика прямо сегодня! Батарейки в комплект не входят.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl_003.wav",
+      "transcript": "Пс-с, я прямо за тобой. Просто используй кнопки камеры, чтобы двигать её.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl_005.wav",
+      "transcript": "А теперь я спрячусь наверху. Если хочешь найти меня, удерживай кнопку вида от первого лица.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "intro_2sec__13.wav": "922bc7db055f3c4a40993ff9b6319cc91f46bf7a9d32bf6610115f4225fd095c",
+    "re_niv_05qu.wav": "a291b5680a72dcd3f2ed68c5e3fd9f630a665d43211facfcedd5d3397223151c",
+    "ret_lvl_00__01.wav": "00f266e27268a93c88452d788547249f8df215616f7a0364337ce5b3bbe7d71f",
+    "ret_niv_00a__00.wav": "33b10f185766a5fd7979570407c1c37a6b735fb681ccbbfcf45eda4d36b9d535",
+    "ret_niv_02ge__00.wav": "1d5fc7b4d9dfcd3a7a6f4f2053c6dd5d1602053d1a0dd8fd2d2ad80a3616c787",
+    "ret_niv_02ge__01.wav": "2d17ef121e512709dc3bcfa8cfd2c37f2fe85d135e20d5593cabee737b802884",
+    "ret_niv_03ge__01.wav": "dfc9b5c6d474b7a023f43d9640fbb967aef240645654900b9184793969021e59",
+    "txt_lvl_0014.wav": "34e149365e0a4ebf79e5bcff5b04eff0f13a929000b8aef711a0bffb3b8f72f7",
+    "txt_lvl_003.wav": "a8749a4c6c97db05414f647677d76eb36e0304db71dea94baa25951cedfb5ebd",
+    "txt_lvl_005.wav": "2d9082c3177f135787756109d9e26ec69aa99547a0d2737522a8710b6ee8c694"
+  },
+  "references": {
+    "intro_2sec__13.wav": "И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как!",
+    "re_niv_05qu.wav": "Давай, не сдавайся!",
+    "ret_lvl_00__01.wav": "Не говори мне, что хочешь сдаться ещё до начала шоу.",
+    "ret_niv_00a__00.wav": "Браво!",
+    "ret_niv_02ge__00.wav": "Фантастика!",
+    "ret_niv_02ge__01.wav": "Ой, тс-с, нашему участнику нужна тишина.",
+    "ret_niv_03ge__01.wav": "Не забудь найти все табельные часы.",
+    "txt_lvl_0014.wav": "Послушай: если хочешь красть овец и строить планы, тебе понадобится инвентарь. Сначала нажми кнопку инвентаря — откроется карта уровня и доступные предметы. Чтобы получить предмет, закажи его через почтовый ящик. Хочешь узнать, в каком ящике нужно заказывать конкретный предмет? Выбери его в инвентаре, и нужный ящик обведётся красным — значит, посылка там! Белым нарисованы предметы, которые можно найти на уровне. Цветные — те, что ты уже забрал и можешь использовать. А если и этого мало, загляни в инструкцию к предмету, там описано, как им пользоваться. Так что давай! Опробуй инвентарь и закажи предмет из почтового ящика прямо сегодня! Батарейки в комплект не входят.",
+    "txt_lvl_003.wav": "Пс-с, я прямо за тобой. Просто используй кнопки камеры, чтобы двигать её.",
+    "txt_lvl_005.wav": "А теперь я спрячусь наверху. Если хочешь найти меня, удерживай кнопку вида от первого лица."
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "speaker": "Daffy Duck",
+  "voice": "Puck",
+  "clips": [
+    {
+      "file": "be_02.wav",
+      "source_file": "be_02.wav",
+      "speaker": "Daffy Duck",
+      "text": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!",
+      "start": 0.1,
+      "end": 4.28,
+      "source_seconds": 5.0536875,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "be_03.wav",
+      "source_file": "be_03.wav",
+      "speaker": "Daffy Duck",
+      "text": "Так, ладно. Какой умник заменил мой микрофон этой бритвой?!",
+      "start": 0.15,
+      "end": 4.55,
+      "source_seconds": 5.894875,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "be_04.wav",
+      "source_file": "be_04.wav",
+      "speaker": "Daffy Duck",
+      "text": "И так далее.",
+      "start": 17.4,
+      "end": 18.55,
+      "source_seconds": 19.092,
+      "segments": [
+        1
+      ]
+    },
+    {
+      "file": "ci_lvl13_comb_01.wav",
+      "source_file": "ci_lvl13_comb_01.wav",
+      "speaker": "Daffy Duck",
+      "text": "Смотри, что можно сделать! Предмет можно прицепить на конец лески с помощью функции соединения в инвентаре. Просто выбери удочку, затем нажми «Соединить» и выбери предмет, который хочешь насадить на крючок. Если захочешь снять предмет, выбери удочку и нажми «Разделить».",
+      "start": 0.08,
+      "end": 21.85,
+      "source_seconds": 22.5378125,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "file": "ci_lvl_11_lap01b.wav",
+      "source_file": "ci_lvl_11_lap01b.wav",
+      "speaker": "Daffy Duck",
+      "text": "О, просто великолепно! Опять сезон охоты на уток. Хорошо, что я надел этот костюм Робин Гуда, так что этим назойливым охотникам меня не найти.",
+      "start": 0.12,
+      "end": 9.5,
+      "source_seconds": 10.3564375,
+      "segments": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "ci_lvl_11_lap02.wav",
+      "source_file": "ci_lvl_11_lap02.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ну конечно! Куда ни приду — всюду этот кролик! Что ж, раз Багз здесь, можно и повеселиться. Сим объявляю: сезон охоты на кроликов! Да начнётся охота!",
+      "start": 0.1,
+      "end": 14.9,
+      "source_seconds": 15.119125,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "file": "ci_lvl_13_cro01.wav",
+      "source_file": "ci_lvl_13_cro01.wav",
+      "speaker": "Daffy Duck",
+      "text": "Что за дела, приятель? Этот ужасный зверь не даёт мне пройти! Сделай же что-нибудь! Вот что: если освободишь меня, я научу тебя классному трюку. Оглуши его из пушки.",
+      "start": 0.08,
+      "end": 12.8,
+      "source_seconds": 13.4669375,
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "file": "ci_lvl_13_cro02.wav",
+      "source_file": "ci_lvl_13_cro02.wav",
+      "speaker": "Daffy Duck",
+      "text": "Захлопни пасть, зубастик!",
+      "start": 0.1,
+      "end": 1.8,
+      "source_seconds": 2.7275625,
+      "segments": [
+        0
+      ]
+    }
+  ],
+  "prompt": "This is dialogue from a fictional family cartoon videogame. References to hunting, weapons or battles describe cartoon slapstick, not real-world actions. Give an original character interpretation, not an imitation of an actor. Russian dubbing for a classic cartoon game. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!\n\n2. Так, ладно. Какой умник заменил мой микрофон этой бритвой?!\n\n3. И так далее.\n\n4. Смотри, что можно сделать! Предмет можно прицепить на конец лески с помощью функции соединения в инвентаре. Просто выбери удочку, затем нажми «Соединить» и выбери предмет, который хочешь насадить на крючок. Если захочешь снять предмет, выбери удочку и нажми «Разделить».\n\n5. О, просто великолепно! Опять сезон охоты на уток. Хорошо, что я надел этот костюм Робин Гуда, так что этим назойливым охотникам меня не найти.\n\n6. Ну конечно! Куда ни приду — всюду этот кролик! Что ж, раз Багз здесь, можно и повеселиться. Сим объявляю: сезон охоты на кроликов! Да начнётся охота!\n\n7. Что за дела, приятель? Этот ужасный зверь не даёт мне пройти! Сделай же что-нибудь! Вот что: если освободишь меня, я научу тебя классному трюку. Оглуши его из пушки.\n\n8. Захлопни пасть, зубастик!",
+  "previous_prompt": "Russian dubbing for a classic cartoon game. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!\n\n2. Так, ладно. Какой умник заменил мой микрофон этой бритвой?!\n\n3. И так далее.\n\n4. Смотри, что можно сделать! Предмет можно прицепить на конец лески с помощью функции соединения в инвентаре. Просто выбери удочку, затем нажми «Соединить» и выбери предмет, который хочешь насадить на крючок. Если захочешь снять предмет, выбери удочку и нажми «Разделить».\n\n5. О, просто великолепно! Опять сезон охоты на уток. Хорошо, что я надел этот костюм Робин Гуда, так что этим назойливым охотникам меня не найти.\n\n6. Ну конечно! Куда ни приду — всюду этот кролик! Что ж, раз Багз здесь, можно и повеселиться. Сим объявляю: сезон охоты на кроликов! Да начнётся охота!\n\n7. Что за дела, приятель? Этот ужасный зверь не даёт мне пройти! Сделай же что-нибудь! Вот что: если освободишь меня, я научу тебя классному трюку. Оглуши его из пушки.\n\n8. Захлопни пасть, зубастик!",
+  "retry_reason": "Provider SAFETY response; clarify the harmless fictional cartoon context without changing dialogue."
+}

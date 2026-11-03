@@ -1,0 +1,118 @@
+{
+  "files": [
+    {
+      "file": "intro_2sec__03.wav",
+      "transcript": "Итак, цель нашей игры проста: воровать овец.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__04.wav",
+      "transcript": "Ты пройдёшь через серию уровней. На каждом из них тебе придётся украсть овцу у овчарки Сэма и доставить её на финиш.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__05.wav",
+      "transcript": "Если справишься, сможешь перейти к следующему испытанию, и так далее, пока наконец не утащишь всю отару.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__06.wav",
+      "transcript": "Но — и это очень важное «но» — в конце каждого уровня овца должна быть цела и невредима.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__07.wav",
+      "transcript": "Тебя дисквалифицируют, если овца потеряет хотя бы ниточку шерсти.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__08.wav",
+      "transcript": "Я предельно ясно выразился?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__10.wav",
+      "transcript": "Ладно, без паники. Я, как совершенный профессионал, знаю, как важны репетиции.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__11.wav",
+      "transcript": "Это твой звёздный час, и ты ведь не хочешь всё запороть.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__12.wav",
+      "transcript": "К тому же, это я объяснил тебе правила игры.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__13.wav",
+      "transcript": "И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "intro_2sec__03.wav": "945d6f9f73b188f5111488909cff59242eec345fa4f2c63a1e055846d15a1d4d",
+    "intro_2sec__04.wav": "dc7928ca4dcc22b4776525db07d9938b320bc429f6cf0c91d5ad57ad41967028",
+    "intro_2sec__05.wav": "43f97fe1903e7afe0418392747c7c4561654e953b373069de1010f411fbf4756",
+    "intro_2sec__06.wav": "06c0855ccb1732aadf836f039ed264480ab5a71f6858aded3ac1e3d2bc544a28",
+    "intro_2sec__07.wav": "a18ab08d40d261631ec970b6bfbc3900b9228675412d3f97ebd9c63a1622b75c",
+    "intro_2sec__08.wav": "9a4f765ea0cb59c4bf9f762664c071a46edf7d36fbb318f3c421c739731a8bba",
+    "intro_2sec__10.wav": "365c81aa7bd5c109102e8736603de8e1e793e64f2e98bd216117453563947dd4",
+    "intro_2sec__11.wav": "b1b3ae39488a25f902c871f898d245234adbee9885a5ac084f410ab4c5125486",
+    "intro_2sec__12.wav": "81bca9b6cb7b7c8a69757c214177c3b2e1d145b39227be4f817aad07a18cddef",
+    "intro_2sec__13.wav": "c19d5f105ecb56bc2b9036fc5c8cdd03b77a7e5cd8bab9ee691ec1b7e208443a"
+  },
+  "references": {
+    "intro_2sec__03.wav": "Итак, цель нашей игры проста: воровать овец.",
+    "intro_2sec__04.wav": "Ты пройдёшь через серию уровней. На каждом из них тебе придётся украсть овцу у овчарки Сэма и доставить её на финиш.",
+    "intro_2sec__05.wav": "Если справишься, сможешь перейти к следующему испытанию, и так далее, пока наконец не утащишь всю отару.",
+    "intro_2sec__06.wav": "Но — и это очень важное «но» — в конце каждого уровня овца должна быть цела и невредима.",
+    "intro_2sec__07.wav": "Тебя дисквалифицируют, если овца потеряет хотя бы ниточку шерсти.",
+    "intro_2sec__08.wav": "Я предельно ясно выразился?",
+    "intro_2sec__10.wav": "Ладно, без паники. Я, как совершенный профессионал, знаю, как важны репетиции.",
+    "intro_2sec__11.wav": "Это твой звёздный час, и ты ведь не хочешь всё запороть.",
+    "intro_2sec__12.wav": "К тому же, это я объяснил тебе правила игры.",
+    "intro_2sec__13.wav": "И если ты облажаешься, как я буду выглядеть? Не очень-то круто, вот как!"
+  }
+}

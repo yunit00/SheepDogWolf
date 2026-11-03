@@ -1,0 +1,118 @@
+{
+  "files": [
+    {
+      "file": "Cin02_sc_reL002.wav",
+      "transcript": "Здесь ты увидишь место, куда нужно приводить украденных овец. А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL003.wav",
+      "transcript": "А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL004.wav",
+      "transcript": "Забравшись на эту подставку, ты сможешь сохранить игру, следуя указанным инструкциям.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL005.wav",
+      "transcript": "Если ты исключительно умён, прямо как я, то найдёшь табельные часы на каждом уровне. Активируй их и заработай бонусное очко! Потом можешь прийти сюда за покупками — в зависимости от числа набранных бонусных очков, разумеется.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin02_sc_reL006.wav",
+      "transcript": "А здесь можно выбирать уровни. Тебе нужно всего лишь активировать дверь, чтобы попасть на соответствующий уровень. Дальше действуй сам!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin03_sc_reL161.wav",
+      "transcript": "Потрясающе! Последняя овца! Ты сделал это! Ты исключительный участник. К сожалению, наше шоу подходит к концу. Спасибо всем моим фанатам за то, что были с нами до самого финала. До скорого!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin03_sc_reL162.wav",
+      "transcript": "А! Это ещё что? Что здесь делает марсианин Марвин? Этого не было в сценарии!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_03b.wav",
+      "transcript": "Итак, цель нашей игры проста: воровать овец.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_04.wav",
+      "transcript": "Тебе предстоит пройти череду уровней. На каждом из них нужно украсть овцу у овчарки Сэма и доставить её на финиш.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_05.wav",
+      "transcript": "Справишься — перейдёшь к следующему испытанию, и так далее, пока наконец не утащишь всю отару!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Cin02_sc_reL002.wav": "7ced81da9e65636a2cef8da326f814d7a3e06f7abd33e52288e4d962bdab312a",
+    "Cin02_sc_reL003.wav": "9ed69c211244c7d0e0d307f4a5232c17bc658131875e82bbf3fb8aa93c8d82c5",
+    "Cin02_sc_reL004.wav": "810b52af018e6b0f6922dabb7b0e9272961aad2d803939cb28c4f2eac96e6b39",
+    "Cin02_sc_reL005.wav": "e9f76a28b8efef94084e96a6332f978e5ead91d2150d5f91eed9dd70443daee1",
+    "Cin02_sc_reL006.wav": "2febff6ceeb38bc9257840d9bb7b3f4aa3298b1862072cf7caefe0aad835b23a",
+    "Cin03_sc_reL161.wav": "937a4fb81c5bde1d4786679b86df4e60e992569854e6127bd8bd88b80081c2bf",
+    "Cin03_sc_reL162.wav": "8e52e0184aa5f27c8c069f42c6c4507def3d62fd08b074216a2bfd529ead2803",
+    "Cin_int_niv_03b.wav": "dc831f5d919667b04aedac643d25e48b13706bd0b32a88f2afff3ccb384d5848",
+    "Cin_int_niv_04.wav": "02d40edf1125b92d196d50d439186be815ac66354285d20c2a4bad0181b4c420",
+    "Cin_int_niv_05.wav": "5a4d7555c9a19e0a81a3f3439cc2c3e8bf4cbd8a66c737fe435532c683d7032a"
+  },
+  "references": {
+    "Cin02_sc_reL002.wav": "Здесь ты увидишь место, куда нужно приводить украденных овец. А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+    "Cin02_sc_reL003.wav": "А счётчик покажет, сколько овец тебе ещё предстоит украсть.",
+    "Cin02_sc_reL004.wav": "Забравшись на эту подставку, ты сможешь сохранить игру, следуя указанным инструкциям.",
+    "Cin02_sc_reL005.wav": "Если ты исключительно умён, прямо как я, то найдёшь табельные часы на каждом уровне. Активируй их и заработай бонусное очко! Потом можешь прийти сюда за покупками — в зависимости от числа набранных бонусных очков, разумеется.",
+    "Cin02_sc_reL006.wav": "А здесь можно выбирать уровни. Тебе нужно всего лишь активировать дверь, чтобы попасть на соответствующий уровень. Дальше действуй сам!",
+    "Cin03_sc_reL161.wav": "Потрясающе! Последняя овца! Ты сделал это! Ты исключительный участник. К сожалению, наше шоу подходит к концу. Спасибо всем моим фанатам за то, что были с нами до самого финала. До скорого!",
+    "Cin03_sc_reL162.wav": "А! Это ещё что? Что здесь делает марсианин Марвин? Этого не было в сценарии!",
+    "Cin_int_niv_03b.wav": "Итак, цель нашей игры проста: воровать овец.",
+    "Cin_int_niv_04.wav": "Тебе предстоит пройти череду уровней. На каждом из них нужно украсть овцу у овчарки Сэма и доставить её на финиш.",
+    "Cin_int_niv_05.wav": "Справишься — перейдёшь к следующему испытанию, и так далее, пока наконец не утащишь всю отару!"
+  }
+}

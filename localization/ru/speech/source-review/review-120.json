@@ -1,0 +1,180 @@
+[
+  {
+    "file": "sc_02.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Come on, the crowd is with ya!",
+        "ru": "Давай же, публика за тебя!",
+        "start": 0.0,
+        "end": 1.95
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Keep going!",
+        "ru": "Не останавливайся!",
+        "start": 2.05,
+        "end": 3.25
+      }
+    ],
+    "source_seconds": 3.480625
+  },
+  {
+    "file": "sc_03.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Listen, if you don't want to proceed, we'll just find a new contestant.",
+        "ru": "Слушай, если не хочешь продолжать, мы просто найдём другого участника.",
+        "start": 0.0,
+        "end": 4.8
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "There's plenty who'd jump at the chance to work with me, I'll tell ya.",
+        "ru": "Полно тех, кто ухватится за шанс поработать со мной, уж поверь!",
+        "start": 4.8,
+        "end": 8.85
+      }
+    ],
+    "source_seconds": 9.4194375
+  },
+  {
+    "file": "txt_lvl0602.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "The good news is, you can approach a mine when the light wave disappears.",
+        "ru": "Хорошая новость: к мине можно подойти, когда световая волна исчезнет.",
+        "start": 0.0,
+        "end": 4.95
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "The bad news is, you don't have much time before the next light wave appears.",
+        "ru": "Плохая новость: времени до следующей волны у тебя совсем немного.",
+        "start": 5.0,
+        "end": 10.6
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Don't forget that if you are hit by a light wave, the mine goes kablooey!",
+        "ru": "И не забывай: если световая волна тебя заденет, мина сделает бабах!",
+        "start": 10.6,
+        "end": 16.9
+      }
+    ],
+    "source_seconds": 17.5945625
+  },
+  {
+    "file": "txt_lvl0603.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Activating a mine is simple. It's deactivating it that's the tough stuff.",
+        "ru": "Активировать мину просто. А вот обезвредить её — задачка посложнее.",
+        "start": 0.0,
+        "end": 5.15
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You've got to remember the button sequence when the light is green and then redo it on your controller when the light is red.",
+        "ru": "Тебе нужно запомнить комбинацию кнопок, пока горит зелёный, а затем повторить её на своём контроллере, когда загорится красный.",
+        "start": 5.5,
+        "end": 13.9
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Try not to mess up, 'cause you have to press the right button at the right time.",
+        "ru": "Постарайся не ошибиться, ведь нужно нажать нужную кнопку в нужный момент.",
+        "start": 14.1,
+        "end": 19.3
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "But on the bright side, you will get help from the little yellow lights and the sounds to make sure you press the buttons at the right time.",
+        "ru": "Но есть и хорошая новость: жёлтые огоньки и звуки помогут тебе нажимать кнопки вовремя.",
+        "start": 19.8,
+        "end": 28.05
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "See? It's simple!",
+        "ru": "Видишь? Всё просто!",
+        "start": 28.3,
+        "end": 30.7
+      }
+    ],
+    "source_seconds": 30.991625
+  },
+  {
+    "file": "txt_lvl0604.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "When deactivated, you can use the mines as if they were standard objects.",
+        "ru": "Обезвреженные мины можно использовать как обычные предметы.",
+        "start": 0.0,
+        "end": 5.0
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "When you lay a mine, it will activate itself within 5 seconds.",
+        "ru": "Когда ты положишь мину, она активируется через пять секунд.",
+        "start": 5.2,
+        "end": 10.85
+      }
+    ],
+    "source_seconds": 11.3790625
+  },
+  {
+    "file": "txt_lvl_001.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Oh, that didn't work too well.",
+        "ru": "Ой, не очень-то получилось.",
+        "start": 0.0,
+        "end": 2.3
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Follow me, and I'll explain a few commands.",
+        "ru": "Иди за мной, я объясню тебе пару команд.",
+        "start": 2.35,
+        "end": 5.85
+      }
+    ],
+    "source_seconds": 6.868875
+  }
+]

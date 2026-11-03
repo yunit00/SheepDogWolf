@@ -5,6 +5,8 @@ The input font contains original button pictures; it is never checked into Git.
 Requires Pillow and a locally licensed TrueType font with Cyrillic coverage.
 """
 import argparse
+import hashlib
+import json
 import shutil
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
@@ -13,6 +15,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("export", type=Path)
 parser.add_argument("output", type=Path)
 parser.add_argument("--font", type=Path, required=True)
+parser.add_argument("--game-data", type=Path, help="Local original game data for nonverbal voice-pack entries")
 args = parser.parse_args()
 mapping = list((args.export / "font/characters.txt").read_text().replace("\n", "").replace("\r", ""))
 assert len(mapping) == 224
@@ -37,9 +40,24 @@ for relative in ("language.txt", "wheel.png", "channel/sign.png"):
         target = args.output / relative
         target.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(item, target)
-for relative in ("text", "voices"):
-    item = source / relative
-    if item.is_dir(): shutil.copytree(item, args.output / relative, dirs_exist_ok=True)
+shutil.copytree(source / "text", args.output / "text", dirs_exist_ok=True)
+voices = source / "voices"
+if voices.is_dir():
+    manifest = json.loads((voices / "manifest.json").read_text())
+    if any(r['kind'] != 'dubbed' for r in manifest) and not args.game_data:
+        parser.error("The reviewed voice pack needs --game-data for original nonverbal sounds")
+    target = args.output / "voices"; target.mkdir(exist_ok=True)
+    for row in manifest:
+        name = row['file']
+        if Path(name).name != name: parser.error("Invalid voice filename")
+        if row['kind'] == 'dubbed':
+            shutil.copy2(voices / name, target / name)
+        else:
+            from assemble_dub import decode, RATE
+            from split_dub_batches import write
+            write(target / name, decode(args.game_data / 'Voices/english' / name), RATE)
+        if hashlib.sha256((target / name).read_bytes()).hexdigest() != row['audio_sha256']:
+            parser.error("Voice differs from reviewed runtime manifest: " + name)
 fontdir = args.output / "font"
 fontdir.mkdir(exist_ok=True)
 # The atlas is a technical grid. Preserve original controller icons in their

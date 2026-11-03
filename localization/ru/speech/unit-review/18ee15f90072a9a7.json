@@ -1,0 +1,63 @@
+{
+  "files": [
+    {
+      "file": "cin_03_sc_rel_05.wav",
+      "transcript": "Теперь тебе предстоит всё исправить и вернуть мне моих пропавших быстрорастворимых марсиан.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_03_sc_rel_06.wav",
+      "transcript": "Ко мне, Кей-найн. Сидеть, мальчик.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_04_sc_ret_01.wav",
+      "transcript": "Отлично сработано. Как и обещал, я отправлю тебя обратно на Землю.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_04_sc_ret_02.wav",
+      "transcript": "Все системы готовы к выполнению плана атаки?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_04_sc_ret_03.wav",
+      "transcript": "Что ж, тогда вперёд, захватим эту жалкую планету!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "cin_03_sc_rel_05.wav": "ce234f17c264a0def28c3027010fd167239e88fdcbe25a505d2146ec929d3e5d",
+    "cin_03_sc_rel_06.wav": "e107589dfd08a8b16cc6880c7ea1647c2047aad9ec05bee6737d69bab4310e5b",
+    "cin_04_sc_ret_01.wav": "6d9f5b820ded746dfd9260aa87095ed96eb83471b5063cf714e8dc979a1389d8",
+    "cin_04_sc_ret_02.wav": "ad5e28fdb21657aa19b8934c378e6f3745fc5057d4c480628022f9746cbb4912",
+    "cin_04_sc_ret_03.wav": "9194c75aae902fef8da66979cf5764dfcecd25a76bad8fd3a6a2712df4585f72"
+  },
+  "references": {
+    "cin_03_sc_rel_05.wav": "Теперь тебе предстоит всё исправить и вернуть мне моих пропавших быстрорастворимых марсиан.",
+    "cin_03_sc_rel_06.wav": "Ко мне, Кей-найн. Сидеть, мальчик.",
+    "cin_04_sc_ret_01.wav": "Отлично сработано. Как и обещал, я отправлю тебя обратно на Землю.",
+    "cin_04_sc_ret_02.wav": "Все системы готовы к выполнению плана атаки?",
+    "cin_04_sc_ret_03.wav": "Что ж, тогда вперёд, захватим эту жалкую планету!"
+  }
+}

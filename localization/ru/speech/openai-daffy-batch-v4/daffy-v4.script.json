@@ -1,0 +1,47 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Read each paragraph exactly once as a separate complete line. Keep the same voice. Leave TWO SECONDS OF SILENCE between paragraphs. Within each paragraph speak briskly and continuously, without dramatic pauses or drawn-out vowels. Never repeat a take. No extra words, music or effects. Short silence before first and after last line.",
+  "speed": 1.2,
+  "speaker": "Daffy Duck",
+  "clips": [
+    {
+      "file": "Cin02_sc_reL001__01.wav",
+      "source_file": "Cin02_sc_reL001.wav",
+      "speaker": "Daffy Duck",
+      "text": "Добро пожаловать на наше шоу!",
+      "start": 7.6,
+      "end": 10.3,
+      "source_seconds": 14.346375,
+      "segments": [
+        1
+      ]
+    },
+    {
+      "file": "txt_rob_03.wav",
+      "source_file": "txt_rob_03.wav",
+      "speaker": "Daffy Duck",
+      "text": "Прикинь: на конец лески можно вешать разные предметы! Не веришь? Загляни в список предметов в инструкции.",
+      "start": 0.0,
+      "end": 8.42,
+      "source_seconds": 9.703375,
+      "segments": [
+        0
+      ]
+    },
+    {
+      "file": "cin_lvl_0203.wav",
+      "source_file": "cin_lvl_0203.wav",
+      "speaker": "Daffy Duck",
+      "text": "Ну и ну. От тебя столько же тишины, сколько от петард в больничной зоне. Чтобы красться тихо, используй кнопку скрытности. А теперь отойди за черту, если хочешь попробовать снова.",
+      "start": 0.35,
+      "end": 14.0,
+      "source_seconds": 15.975375,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

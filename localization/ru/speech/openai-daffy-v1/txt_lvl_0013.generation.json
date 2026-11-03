@@ -1,0 +1,31 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 37.721291666666666,
+  "request_id": "req_960263c7ce36431494711450cbb1d69b",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 35.5 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "Чтобы красть овец у овчарки Сэма, тебе дадут разные предметы. Но погоди! Это ещё не всё. Нужно ещё уметь использовать предметы на уровне. Чтобы открыть ворота, надо нажать красную кнопку. Просто прыгни на первые качели, и большой камень перебросит тебя на ту сторону. Затем прыгни на вторые качели, чтобы запустить маленький камень в кнопку, и ворота останутся открытыми. Уже запутался? Я тоже! У-ху! У-ху! У-ху! У-у-ху! У-ху-ху-ху!",
+    "unit": {
+      "file": "txt_lvl_0013.wav",
+      "source_file": "txt_lvl_0013.wav",
+      "speaker": "Daffy Duck",
+      "text": "Чтобы красть овец у овчарки Сэма, тебе дадут разные предметы. Но погоди! Это ещё не всё. Нужно ещё уметь использовать предметы на уровне. Чтобы открыть ворота, надо нажать красную кнопку. Просто прыгни на первые качели, и большой камень перебросит тебя на ту сторону. Затем прыгни на вторые качели, чтобы запустить маленький камень в кнопку, и ворота останутся открытыми. Уже запутался? Я тоже! У-ху! У-ху! У-ху! У-у-ху! У-ху-ху-ху!",
+      "start": 0.0,
+      "end": 35.5,
+      "source_seconds": 36.170125,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "sha256": "25b1371c7e4bd999b5a5d2efb15cf1b3f474f5420adeeb575445cc1253514dbc",
+  "status": "unreviewed"
+}

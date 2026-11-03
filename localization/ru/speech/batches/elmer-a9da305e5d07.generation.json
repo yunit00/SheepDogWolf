@@ -1,0 +1,55 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Umbriel",
+  "seconds": 18.84,
+  "script": {
+    "speaker": "Elmer Fudd",
+    "voice": "Umbriel",
+    "clips": [
+      {
+        "file": "txtel_lvl1101.wav",
+        "source_file": "txtel_lvl1101.wav",
+        "speaker": "Elmer Fudd",
+        "text": "Тс-с. Ведите себя очень, очень тихо. Я охочусь на къоликов. Хе-хе-хе-хе.",
+        "start": 0.05,
+        "end": 6.05,
+        "source_seconds": 6.6688125,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "txtel_lvl1102.wav",
+        "source_file": "txtel_lvl1102.wav",
+        "speaker": "Elmer Fudd",
+        "text": "Тс-с. Ведите себя очень, очень тихо. Я охочусь на уток. Хе-хе-хе-хе.",
+        "start": 0.05,
+        "end": 5.92,
+        "source_seconds": 6.1539375,
+        "segments": [
+          0
+        ]
+      }
+    ],
+    "prompt": "Russian dubbing for a classic cartoon game. Soft rounded nasal male cartoon hunter voice, gentle slightly comical consonants and small speech impediment, fully intelligible Russian. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Тс-с. Ведите себя очень, очень тихо. Я охочусь на къоликов. Хе-хе-хе-хе.\n\n2. Тс-с. Ведите себя очень, очень тихо. Я охочусь на уток. Хе-хе-хе-хе."
+  },
+  "usage": {
+    "promptTokenCount": 193,
+    "candidatesTokenCount": 471,
+    "totalTokenCount": 664,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 193
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 471
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

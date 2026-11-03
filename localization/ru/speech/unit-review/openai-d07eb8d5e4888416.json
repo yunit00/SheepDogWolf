@@ -1,0 +1,120 @@
+{
+  "files": [
+    {
+      "file": "Cin02_sc_reL001__01.wav",
+      "transcript": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_01.wav",
+      "transcript": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_02.wav",
+      "transcript": "Слушай сюда, приятель. Просто расслабься и играй. Это шоу должно катапультировать меня прямо в суперзвёзды!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_09b.wav",
+      "transcript": "Что?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Cin_int_niv_12.wav",
+      "transcript": "Ещё один способ изменить настройки игры — нажать кнопку «Старт».",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__00.wav",
+      "transcript": "Фантастика!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__01.wav",
+      "transcript": "Последняя овечка!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__02.wav",
+      "transcript": "У тебя получилось! У тебя получилось!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "repeated_phrase"
+      ]
+    },
+    {
+      "file": "Mars_2sec__04.wav",
+      "transcript": "К сожалению, наше шоу почти закончилось.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "Mars_2sec__05.wav",
+      "transcript": "Спасибо всем моим поклонникам за то, что были с нами до самого конца.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Cin02_sc_reL001__01.wav": "9dbfd0dfb15741a78f84fea0b0bbbc542b53030196a8054bcaaa9d1b5901a875",
+    "Cin_int_niv_01.wav": "56e0641dd98e6ad3be4fd08247993e8937673e9ef44649343a55f857308d94f5",
+    "Cin_int_niv_02.wav": "a62c9075cdb4dda97d7a699c2264a29719aa51e75591ef7c35964c7e240287be",
+    "Cin_int_niv_09b.wav": "87eb36cdf8a6c9d916d89b7c71e9c05906b6d57731f6b4bd3bbf5e3a57695790",
+    "Cin_int_niv_12.wav": "477d067879b98570c99e31c6546520e9110b8eed4acad83355851d69de0903ed",
+    "Mars_2sec__00.wav": "74cda73650fb72d2ef67e61d625e3ea6e5dc2211ab2a281bf4a4bace00e9c25f",
+    "Mars_2sec__01.wav": "be833ffb043e8ce27f840aca4ecd6b37179b064d69cf80df0bf0b65c22ad3bf5",
+    "Mars_2sec__02.wav": "1b515b6175da63be7a536c397190f81de76307e4e8dd19a20398195cf834e487",
+    "Mars_2sec__04.wav": "0428e5d45b21918e0b1ef7cefa395b802869d8193bbcd916a52096caec18454b",
+    "Mars_2sec__05.wav": "68e581eebf4dc60a7a6e6c1eceb1b6418f297f8e5e903ba213643ccfd95f2494"
+  },
+  "references": {
+    "Cin02_sc_reL001__01.wav": "Добро пожаловать на шоу «Овца, Собака и Волк»!",
+    "Cin_int_niv_01.wav": "Привет и добро пожаловать на шоу «Овца, Собака и Волк», или, как я люблю его называть: «Кто хочет стать похитителем овец?»",
+    "Cin_int_niv_02.wav": "Слушай сюда, приятель. Просто расслабься и играй. Это шоу должно катапультировать меня прямо в суперзвёзды!",
+    "Cin_int_niv_09b.wav": "Что?",
+    "Cin_int_niv_12.wav": "Ещё один способ изменить настройки игры — нажать кнопку «Старт».",
+    "Mars_2sec__00.wav": "Фантастика!",
+    "Mars_2sec__01.wav": "Последняя овечка!",
+    "Mars_2sec__02.wav": "У тебя получилось!",
+    "Mars_2sec__04.wav": "К сожалению, наше шоу почти закончилось.",
+    "Mars_2sec__05.wav": "Спасибо всем моим поклонникам за то, что были с нами до самого конца."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 2.4 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Ты потрясающий участник.",
+  "unit": {
+    "file": "Mars_2sec__03.wav",
+    "source_file": "Mars_2sec.wav",
+    "speaker": "Daffy Duck",
+    "text": "Ты потрясающий участник.",
+    "start": 18.7,
+    "end": 21.15,
+    "source_seconds": 208.7134375,
+    "segments": [
+      3
+    ]
+  }
+}

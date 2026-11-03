@@ -1,0 +1,118 @@
+{
+  "files": [
+    {
+      "file": "ret_niv_01__00.wav",
+      "transcript": "И ещё одна победа!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_02ge__00.wav",
+      "transcript": "Фантастика!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_02ge__01.wav",
+      "transcript": "Ой, тс, нашему участнику нужна тишина.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_02ge__02.wav",
+      "transcript": "Тишина!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_03ge__00.wav",
+      "transcript": "Замечательно.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_03ge__01.wav",
+      "transcript": "Не забудь найти все табельные часы.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "sc_01__00.wav",
+      "transcript": "Пожалуйста, давайте поддержим нашего участника, а?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "sc_02.wav",
+      "transcript": "Давай же, публика за тебя! Не останавливайся!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "sc_03.wav",
+      "transcript": "Слушай, если не хочешь продолжать, мы просто найдём другого участника. Полно тех, кто ухватится за шанс поработать со мной, уж поверь!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_lvl0602.wav",
+      "transcript": "Хорошая новость: к мине можно подойти, когда световая волна исчезнет. Плохая новость: времени до следующей волны у тебя совсем немного. И не забывай: если световая волна тебя заденет, мина сделает бабах!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "ret_niv_01__00.wav": "0d881d572c8d44e0cbc25b4b296ac8b96b40130aa4286f931b454ec3a06408f7",
+    "ret_niv_02ge__00.wav": "d133eb2077b6dc2403f5902f0e38bdcfb3a639964ae5b4503041299dab96b529",
+    "ret_niv_02ge__01.wav": "7ef8ae64ea1f24a305edfa925e7633a02828e8adc3ad70ec74997f17d143f0cc",
+    "ret_niv_02ge__02.wav": "df39ddcc3d434773cdf2f2af7445f115c6b5d54f604d7d14c0538a2ebbc27c88",
+    "ret_niv_03ge__00.wav": "ffcbb38d26390606480af83e94a3b6a8cf7d19d0765293333770fb29cdb2098f",
+    "ret_niv_03ge__01.wav": "90abb8d429c44266259f1d6ebe5f82d019a87bef8e85eec44b6a8b27464bdc38",
+    "sc_01__00.wav": "a14d3d18f3b10c691da3525f52d7710d09b9d893053673763e02909832f7269d",
+    "sc_02.wav": "4240d517cc611351597afb142bc963d44f4c519e0e32609162ca7ba378a2b01b",
+    "sc_03.wav": "8fda9a6c9f58c611a3a332b2dde232218f895e25736b244c99e1912ef70a14a0",
+    "txt_lvl0602.wav": "c4ae28d7253409cded2617d13dde8d309502a8eaed68b4e78f31395daf8cccd5"
+  },
+  "references": {
+    "ret_niv_01__00.wav": "И ещё одна победа!",
+    "ret_niv_02ge__00.wav": "Фантастика!",
+    "ret_niv_02ge__01.wav": "Ой, тс-с, нашему участнику нужна тишина.",
+    "ret_niv_02ge__02.wav": "Тишина-а-а!",
+    "ret_niv_03ge__00.wav": "Замечательно.",
+    "ret_niv_03ge__01.wav": "Не забудь найти все табельные часы.",
+    "sc_01__00.wav": "Пожалуйста, давайте поддержим нашего участника, а?",
+    "sc_02.wav": "Давай же, публика за тебя! Не останавливайся!",
+    "sc_03.wav": "Слушай, если не хочешь продолжать, мы просто найдём другого участника. Полно тех, кто ухватится за шанс поработать со мной, уж поверь!",
+    "txt_lvl0602.wav": "Хорошая новость: к мине можно подойти, когда световая волна исчезнет. Плохая новость: времени до следующей волны у тебя совсем немного. И не забывай: если световая волна тебя заденет, мина сделает бабах!"
+  }
+}

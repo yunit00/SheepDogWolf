@@ -1,0 +1,44 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Puck",
+  "seconds": 2.04,
+  "script": {
+    "speaker": "Daffy Duck",
+    "voice": "Puck",
+    "clips": [
+      {
+        "file": "Mars_2sec__02.wav",
+        "source_file": "Mars_2sec.wav",
+        "speaker": "Daffy Duck",
+        "text": "У тебя получилось!",
+        "start": 17.4,
+        "end": 18.5,
+        "source_seconds": 208.7134375,
+        "segments": [
+          2
+        ]
+      }
+    ],
+    "prompt": "Russian dialogue recording for a fictional family cartoon game. Original cartoon interpretation, not a real actor imitation. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Say EXACTLY the text below, every word once, no added words, no laugh, no introduction, no numbering, no repeated syllables except stutters explicitly written. Quick natural clear delivery, complete text in approximately 1.1 seconds, no dramatic internal pauses. No sound effects or music. Preserve the same character voice.\n\nУ тебя получилось!",
+    "replacement_reason": "Rejected prior take: extra word/laugh or too slow for scene."
+  },
+  "usage": {
+    "promptTokenCount": 145,
+    "candidatesTokenCount": 51,
+    "totalTokenCount": 196,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 145
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 51
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

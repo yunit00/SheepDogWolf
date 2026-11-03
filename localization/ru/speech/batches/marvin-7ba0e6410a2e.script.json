@@ -1,0 +1,201 @@
+{
+  "speaker": "Marvin the Martian",
+  "voice": "Charon",
+  "clips": [
+    {
+      "file": "Mars_2sec__10.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Этот ничтожный мелкий землянин.",
+      "start": 49.2,
+      "end": 52.0,
+      "source_seconds": 208.7134375,
+      "segments": [
+        10
+      ]
+    },
+    {
+      "file": "Mars_2sec__11.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Похоже, это нелепое создание попало на мою планету из-за твоей оплошности, так ведь?",
+      "start": 52.15,
+      "end": 58.7,
+      "source_seconds": 208.7134375,
+      "segments": [
+        11
+      ]
+    },
+    {
+      "file": "Mars_2sec__12.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "М-м.",
+      "start": 58.8,
+      "end": 59.8,
+      "source_seconds": 208.7134375,
+      "segments": [
+        12
+      ]
+    },
+    {
+      "file": "Mars_2sec__13.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Что ж, позволь рассказать, как твой друг очутился здесь.",
+      "start": 60.3,
+      "end": 63.4,
+      "source_seconds": 208.7134375,
+      "segments": [
+        13
+      ]
+    },
+    {
+      "file": "Mars_2sec__14.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Я как раз готовился испытать своё новейшее оружие — пи-эр двести,",
+      "start": 68.0,
+      "end": 73.2,
+      "source_seconds": 208.7134375,
+      "segments": [
+        14
+      ]
+    },
+    {
+      "file": "Mars_2sec__15.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "весьма практичный инструмент, уменьшающий любое живое существо до одной десятой нормального размера.",
+      "start": 73.55,
+      "end": 79.4,
+      "source_seconds": 208.7134375,
+      "segments": [
+        15
+      ]
+    },
+    {
+      "file": "Mars_2sec__16.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Для эксперимента я привлёк верного бойца моей армии.",
+      "start": 80.1,
+      "end": 84.4,
+      "source_seconds": 208.7134375,
+      "segments": [
+        16
+      ]
+    },
+    {
+      "file": "Mars_2sec__17.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Я уже был готов опробовать изобретение, как вдруг какой-то захватчик на полной скорости врезался в мой бак с водой, и весь резервуар рухнул прямо на мою армию.",
+      "start": 84.8,
+      "end": 97.4,
+      "source_seconds": 208.7134375,
+      "segments": [
+        17
+      ]
+    },
+    {
+      "file": "Mars_2sec__18.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Проклятый захватчик был похож на чёрную овцу.",
+      "start": 106.4,
+      "end": 110.85,
+      "source_seconds": 208.7134375,
+      "segments": [
+        18
+      ]
+    },
+    {
+      "file": "Mars_2sec__19.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Это был сущий хаос, но благодаря сверхусилиям марсианина и помощи моего фантастического пи-эр двести мне удалось вернуть большую часть моей армии.",
+      "start": 121.8,
+      "end": 133.4,
+      "source_seconds": 208.7134375,
+      "segments": [
+        19
+      ]
+    },
+    {
+      "file": "Mars_2sec__20.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Разве это не прелестно?",
+      "start": 133.8,
+      "end": 135.5,
+      "source_seconds": 208.7134375,
+      "segments": [
+        20
+      ]
+    },
+    {
+      "file": "Mars_2sec__21.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Погоди, я ещё не закончил.",
+      "start": 135.9,
+      "end": 138.0,
+      "source_seconds": 208.7134375,
+      "segments": [
+        21
+      ]
+    },
+    {
+      "file": "Mars_2sec__22.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Моя армия всё ещё не в полном сборе.",
+      "start": 138.6,
+      "end": 141.0,
+      "source_seconds": 208.7134375,
+      "segments": [
+        22
+      ]
+    },
+    {
+      "file": "Mars_2sec__23.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Одно довольно непокорное подразделение влипло в неприятную историю, и вызволять их рискованно.",
+      "start": 141.3,
+      "end": 148.4,
+      "source_seconds": 208.7134375,
+      "segments": [
+        23
+      ]
+    },
+    {
+      "file": "Mars_2sec__24.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "А я, марсианин Марвин, не намерен идти на ненужный риск.",
+      "start": 148.8,
+      "end": 154.8,
+      "source_seconds": 208.7134375,
+      "segments": [
+        24
+      ]
+    },
+    {
+      "file": "Mars_2sec__25.wav",
+      "source_file": "Mars_2sec.wav",
+      "speaker": "Marvin the Martian",
+      "text": "Теперь тебе придётся исправить ущерб и вернуть мне моих потерянных растворимых марсиан.",
+      "start": 155.3,
+      "end": 162.5,
+      "source_seconds": 208.7134375,
+      "segments": [
+        25
+      ]
+    }
+  ],
+  "prompt": "This is dialogue from a fictional family cartoon videogame. References to hunting, weapons or battles describe cartoon slapstick, not real-world actions. Give an original character interpretation, not an imitation of an actor. Russian dubbing for a classic cartoon game. Male small Martian villain: soft nasal slightly metallic timbre, precise pedantic diction, dry comic menace, restrained theatricality. Calm but fairly brisk, no digital effects. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Этот ничтожный мелкий землянин.\n\n2. Похоже, это нелепое создание попало на мою планету из-за твоей оплошности, так ведь?\n\n3. М-м.\n\n4. Что ж, позволь рассказать, как твой друг очутился здесь.\n\n5. Я как раз готовился испытать своё новейшее оружие — пи-эр двести,\n\n6. весьма практичный инструмент, уменьшающий любое живое существо до одной десятой нормального размера.\n\n7. Для эксперимента я привлёк верного бойца моей армии.\n\n8. Я уже был готов опробовать изобретение, как вдруг какой-то захватчик на полной скорости врезался в мой бак с водой, и весь резервуар рухнул прямо на мою армию.\n\n9. Проклятый захватчик был похож на чёрную овцу.\n\n10. Это был сущий хаос, но благодаря сверхусилиям марсианина и помощи моего фантастического пи-эр двести мне удалось вернуть большую часть моей армии.\n\n11. Разве это не прелестно?\n\n12. Погоди, я ещё не закончил.\n\n13. Моя армия всё ещё не в полном сборе.\n\n14. Одно довольно непокорное подразделение влипло в неприятную историю, и вызволять их рискованно.\n\n15. А я, марсианин Марвин, не намерен идти на ненужный риск.\n\n16. Теперь тебе придётся исправить ущерб и вернуть мне моих потерянных растворимых марсиан.",
+  "previous_prompt": "Russian dubbing for a classic cartoon game. Male small Martian villain: soft nasal slightly metallic timbre, precise pedantic diction, dry comic menace, restrained theatricality. Calm but fairly brisk, no digital effects. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Этот ничтожный мелкий землянин.\n\n2. Похоже, это нелепое создание попало на мою планету из-за твоей оплошности, так ведь?\n\n3. М-м.\n\n4. Что ж, позволь рассказать, как твой друг очутился здесь.\n\n5. Я как раз готовился испытать своё новейшее оружие — пи-эр двести,\n\n6. весьма практичный инструмент, уменьшающий любое живое существо до одной десятой нормального размера.\n\n7. Для эксперимента я привлёк верного бойца моей армии.\n\n8. Я уже был готов опробовать изобретение, как вдруг какой-то захватчик на полной скорости врезался в мой бак с водой, и весь резервуар рухнул прямо на мою армию.\n\n9. Проклятый захватчик был похож на чёрную овцу.\n\n10. Это был сущий хаос, но благодаря сверхусилиям марсианина и помощи моего фантастического пи-эр двести мне удалось вернуть большую часть моей армии.\n\n11. Разве это не прелестно?\n\n12. Погоди, я ещё не закончил.\n\n13. Моя армия всё ещё не в полном сборе.\n\n14. Одно довольно непокорное подразделение влипло в неприятную историю, и вызволять их рискованно.\n\n15. А я, марсианин Марвин, не намерен идти на ненужный риск.\n\n16. Теперь тебе придётся исправить ущерб и вернуть мне моих потерянных растворимых марсиан.",
+  "retry_reason": "Provider SAFETY response; clarify the harmless fictional cartoon context without changing dialogue."
+}

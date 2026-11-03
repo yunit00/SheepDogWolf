@@ -1,0 +1,119 @@
+{
+  "files": [
+    {
+      "file": "cin_lvl_0305.wav",
+      "transcript": "Я всё ещё тебя вижу. Удерживай кнопку скрытности, чтобы спрятаться. Вернись за линию, если хочешь попробовать снова.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0306.wav",
+      "transcript": "Нет, нет, нет! Прячься за камнем! Отойди за линию, если хочешь начать заново.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0307.wav",
+      "transcript": "Отлично! Ты готов взяться за овчарку. Если понадобится ещё совет, просто возвращайся ко мне.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0308.wav",
+      "transcript": "За камнями можно прятаться, удерживая кнопку скрытности.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0309.wav",
+      "transcript": "Не хочешь оставаться в неведении, а? Или хочешь? Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры. А ещё можно использовать предметы.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0310.wav",
+      "transcript": "Подбери предмет, который хочешь положить в инвентарь. Ты можешь использовать его сразу, если будешь удерживать кнопку инвентаря. Появится меню с твоими предметами. Стрелками вправо и влево выбери нужный, отпусти кнопку — и он у тебя. Проще простого!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_0311.wav",
+      "transcript": "Для начала подойди к камню сбоку, за белой линией.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_17_ob01.wav",
+      "transcript": "Эти предметы «Икс» очень помогут вернуть моих растворимых марсиан. Если тебе удастся вернуть мне их всех, я доставлю тебя обратно на Землю — если ты действительно этого хочешь.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_17_ob02a.wav",
+      "transcript": "Некоторых всё ещё не хватает.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_lvl_17_ob03a.wav",
+      "transcript": "Мне нужны все мои быстрорастворимые марсиане.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "cin_lvl_0305.wav": "9d9a87e7670c0721e30f6121dce6c47401cc835cb2a75ed4d5a13c5ab1f9aa4c",
+    "cin_lvl_0306.wav": "06d7809093ad2634bab1fab716c0afb1b7976184c3a3e65a3d6b7fa0dd5242c4",
+    "cin_lvl_0307.wav": "5c16008a14aa4111fe1ad0180548c3dd74951ce8130453c988923fb3ef2b10ea",
+    "cin_lvl_0308.wav": "40e54d94258e8858b70162f6978648e142e7300bd6c6cd3224417defb83e7a98",
+    "cin_lvl_0309.wav": "c16bd67ef0fcc54fcc4eeae58295e7f6d73b66b6215cacd391bdaff8b25c0abf",
+    "cin_lvl_0310.wav": "2c9e6ae2221f35fe3ab0ee160c32619550d70003728717ddb745f62bc7d9b9a5",
+    "cin_lvl_0311.wav": "e9025a33eebd7abd8d463fbc68c14724d5d9ac75e23b476bc97683e58783890f",
+    "cin_lvl_17_ob01.wav": "fdb2162997e0606f2ae8e364328f0017c7ba77f5fc0cee18838c15376de1e8f0",
+    "cin_lvl_17_ob02a.wav": "a9e81273ef8887119d57342a71f45ef4bf51151f3ce6d1135152616af85bc348",
+    "cin_lvl_17_ob03a.wav": "e02d58f5c6e4597e735f07c07d9f0115ae8406d87ebf62962cf0caf4b5cbc0c2"
+  },
+  "references": {
+    "cin_lvl_0305.wav": "Я всё ещё тебя вижу. Удерживай кнопку скрытности, чтобы спрятаться. Вернись за линию, если хочешь попробовать снова.",
+    "cin_lvl_0306.wav": "Нет, нет, нет! Прячься за камнем! Отойди за линию, если хочешь начать заново.",
+    "cin_lvl_0307.wav": "Отлично! Ты готов взяться за овчарку. Если понадобится ещё совет, просто возвращайся ко мне.",
+    "cin_lvl_0308.wav": "За камнями можно прятаться, удерживая кнопку скрытности.",
+    "cin_lvl_0309.wav": "Не хочешь оставаться в неведении, а? Или хочешь? Что ж, если хочешь видеть, что происходит вокруг, используй кнопки камеры. А ещё можно использовать предметы.",
+    "cin_lvl_0310.wav": "Подбери предмет, который хочешь положить в инвентарь. Ты можешь использовать его сразу, если будешь удерживать кнопку инвентаря. Появится меню с твоими предметами. Стрелками вправо и влево выбери нужный, отпусти кнопку — и он у тебя. Проще простого!",
+    "cin_lvl_0311.wav": "Для начала подойди к камню сбоку, за белой линией.",
+    "cin_lvl_17_ob01.wav": "Эти предметы «Икс» очень помогут вернуть моих растворимых марсиан. Если тебе удастся вернуть мне их всех, я доставлю тебя обратно на Землю — если ты действительно этого хочешь.",
+    "cin_lvl_17_ob02a.wav": "Некоторых всё ещё не хватает.",
+    "cin_lvl_17_ob03a.wav": "Мне нужны все мои быстрорастворимые марсиане."
+  },
+  "snapshot_version": 1
+}

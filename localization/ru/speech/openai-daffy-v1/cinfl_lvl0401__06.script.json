@@ -1,0 +1,18 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 8.6 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Слушай, если хочешь загипнотизировать кого-нибудь, как я, ты тоже можешь сыграть эту мелодию на волшебной флейте!",
+  "unit": {
+    "file": "cinfl_lvl0401__06.wav",
+    "source_file": "cinfl_lvl0401.wav",
+    "speaker": "Daffy Duck",
+    "text": "Слушай, если хочешь загипнотизировать кого-нибудь, как я, ты тоже можешь сыграть эту мелодию на волшебной флейте!",
+    "start": 45.2,
+    "end": 53.8,
+    "source_seconds": 63.4819375,
+    "segments": [
+      6
+    ]
+  }
+}

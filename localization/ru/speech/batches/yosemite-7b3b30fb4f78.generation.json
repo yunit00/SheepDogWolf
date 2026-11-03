@@ -1,0 +1,48 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "seconds": 19.64,
+  "script": {
+    "speaker": "Yosemite Sam",
+    "voice": "Algenib",
+    "clips": [
+      {
+        "file": "cinsa_lvl1501.wav",
+        "source_file": "cinsa_lvl1501.wav",
+        "speaker": "Yosemite Sam",
+        "text": "Эй, ты, мерзкий безмозглый паразит! А ну отойди от моей лодки! Никому не трогать мою лодку! Пусть я потерял золото, но лодка-то у меня осталась! Единственное, что я подпущу к своей лодке — это ходячие, говорящие золотые монеты! А раз таких не водится — проваливай!",
+        "start": 0.05,
+        "end": 20.9,
+        "source_seconds": 20.87525,
+        "segments": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "prompt": "Russian dubbing for a classic cartoon game. Gruff short-tempered male cartoon cowboy, low-mid gravelly raspy booming voice, lively comic bravado. Russian speech clear, not screaming or clipping. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Эй, ты, мерзкий безмозглый паразит! А ну отойди от моей лодки! Никому не трогать мою лодку! Пусть я потерял золото, но лодка-то у меня осталась! Единственное, что я подпущу к своей лодке — это ходячие, говорящие золотые монеты! А раз таких не водится — проваливай!"
+  },
+  "usage": {
+    "promptTokenCount": 229,
+    "candidatesTokenCount": 491,
+    "totalTokenCount": 720,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 229
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 491
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}

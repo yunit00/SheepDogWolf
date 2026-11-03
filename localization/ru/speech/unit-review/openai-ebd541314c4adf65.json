@@ -1,0 +1,31 @@
+{
+  "files": [
+    {
+      "file": "Mars_2sec__08.wav",
+      "transcript": "Что здесь делает марсианин Марвин?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "be_02.wav",
+      "transcript": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "Mars_2sec__08.wav": "7ed9459727ba3afe5705337f9c9554bf9dc7d311b5f56609eb98b452c5c2aa6d",
+    "be_02.wav": "e1c8e0e1a0c4f65cc50d3765ef56a652c3803dafc724a19e99297cbb02772139"
+  },
+  "references": {
+    "Mars_2sec__08.wav": "Что здесь делает марсианин Марвин?",
+    "be_02.wav": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!"
+  },
+  "snapshot_version": 1
+}

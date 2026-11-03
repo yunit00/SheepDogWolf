@@ -1,0 +1,47 @@
+[
+  {
+    "file": "ret_lvl_00",
+    "original_transcript": "What are you doing here? Don't tell me you want to give up before the show has even started. Why, you're still in rehearsals.",
+    "background_transcript": "What are you doing here? Don't tell me you want to give up before the show has even started. Why, you're still in rehearsals.",
+    "intelligible_speech": true,
+    "artifacts": [
+      "muffled vocals",
+      "phase distortion",
+      "severe vocal bleed"
+    ],
+    "acceptable_under_dubbing": false,
+    "notes": "The background track contains the full vocal performance, only slightly muffled. It cannot be used as a clean bed for dubbing.",
+    "sha256": "0be5ecad7d566636065565cb49147f8c7179d31ab64e3d3835fa237c09b5f9d3",
+    "model": "gemini-3.1-pro-preview"
+  },
+  {
+    "file": "ret_niv_03ge",
+    "original_transcript": "Wonderful! Don't forget to find all the time clocks.",
+    "background_transcript": "Wonderful! Don't forget to find all the time clocks.",
+    "intelligible_speech": true,
+    "artifacts": [
+      "muffled vocals",
+      "phase distortion",
+      "severe vocal bleed"
+    ],
+    "acceptable_under_dubbing": false,
+    "notes": "Separation failed to remove the voice. The background track is essentially a degraded version of the original vocal.",
+    "sha256": "3183e2fd85e2771fe1d8ac373ce7838aeead37bf3922bf2bb4896df41975a8d4",
+    "model": "gemini-3.1-pro-preview"
+  },
+  {
+    "file": "sc_01",
+    "original_transcript": "Please, let's give our contestant a little support, huh?",
+    "background_transcript": "Please, let's give our contestant a little support, huh?",
+    "intelligible_speech": true,
+    "artifacts": [
+      "muffled vocals",
+      "phase distortion",
+      "severe vocal bleed"
+    ],
+    "acceptable_under_dubbing": false,
+    "notes": "The background track consists almost entirely of the original speech with some frequency loss. Unusable for dubbing.",
+    "sha256": "53d673ff188eafe61b51b15af08ffe7ad7d621b292aa3ccd2835309ab7c01e7b",
+    "model": "gemini-3.1-pro-preview"
+  }
+]

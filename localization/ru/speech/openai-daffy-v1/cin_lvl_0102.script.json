@@ -1,0 +1,21 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 29.5 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Запомни три цвета. Зелёный: ты близко к зоне Сэма, не высовывайся. Оранжевый: ты в зоне Сэма, прикуси язык и следи за его головой. Если голова повернута к тебе, Сэм смотрит в твою сторону. Красный: Сэм тебя увидел, так что делай ноги оттуда! Хорошая новость: если нажмёшь кнопку скрытности, Сэм тебя не услышит, и можно ловить овечек, пока этот глупый пёс не видит.",
+  "unit": {
+    "file": "cin_lvl_0102.wav",
+    "source_file": "cin_lvl_0102.wav",
+    "speaker": "Daffy Duck",
+    "text": "Запомни три цвета. Зелёный: ты близко к зоне Сэма, не высовывайся. Оранжевый: ты в зоне Сэма, прикуси язык и следи за его головой. Если голова повернута к тебе, Сэм смотрит в твою сторону. Красный: Сэм тебя увидел, так что делай ноги оттуда! Хорошая новость: если нажмёшь кнопку скрытности, Сэм тебя не услышит, и можно ловить овечек, пока этот глупый пёс не видит.",
+    "start": 0.0,
+    "end": 29.54,
+    "source_seconds": 31.5879375,
+    "segments": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+}

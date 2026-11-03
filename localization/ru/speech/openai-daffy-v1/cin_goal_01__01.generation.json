@@ -1,0 +1,28 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 4.671083333333334,
+  "request_id": "req_efb1cb5fb4364814ac6a35bb7d04cdf8",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 3.6 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "Может кто-нибудь помочь неосведомлённой утке?",
+    "unit": {
+      "file": "cin_goal_01__01.wav",
+      "source_file": "cin_goal_01.wav",
+      "speaker": "Daffy Duck",
+      "text": "Может кто-нибудь помочь неосведомлённой утке?",
+      "start": 13.26,
+      "end": 16.85,
+      "source_seconds": 33.942625,
+      "segments": [
+        1
+      ]
+    }
+  },
+  "sha256": "0344b5f02b493c029c3e4f8fe5858fe1d15ce6c077eba57d8b732eb7494a18c6",
+  "status": "unreviewed"
+}

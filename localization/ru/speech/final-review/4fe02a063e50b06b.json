@@ -1,0 +1,55 @@
+{
+  "files": [
+    {
+      "file": "txt_lvl_009.wav",
+      "transcript": "Ох, ну и насмешил же я себя! А если серьёзно, хочешь преуспеть в этой игре — шевели мозгами. Давай, за мной, на дорогу!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_rob_01.wav",
+      "transcript": "Чтобы подвесить предмет на конец лески, выбери «Соединить» в инвентаре. Почему бы и нет?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txt_rob_02.wav",
+      "transcript": "Если хочешь снять предмет с конца лески, выбери «Разобрать» в инвентаре.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "txtel_lvl1101.wav",
+      "transcript": "...с. Ведите себя очень, очень тихо. Я охочусь на кроликов. Хи-хи-хи-хи.",
+      "complete": false,
+      "first_word_clear": false,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": [
+        "first syllable clipped"
+      ]
+    }
+  ],
+  "inputs": {
+    "txt_lvl_009.wav": "fbef4bc5261a143eb2f59464442aea1055c497c62d308e6bf3b05726e14265cd",
+    "txt_rob_01.wav": "49004cd61e6304a15fe216373a3326192fb857ea93c5288628bde0835b8ffb9e",
+    "txt_rob_02.wav": "291e45594756fd2054039c35fc990383d164e62e8c19ee6cbab802fc6d6664f5",
+    "txtel_lvl1101.wav": "9e3ca5b2afa86b40944dd2c592f424071760c163de0f435007c423c61c3e86c6"
+  },
+  "references": {
+    "txt_lvl_009.wav": "Ох, ну и насмешил же я себя! А если серьёзно, хочешь преуспеть в этой игре — шевели мозгами. Давай, за мной, на дорогу!",
+    "txt_rob_01.wav": "Чтобы подвесить предмет на конец лески, выбери «Соединить» в инвентаре. Почему бы и нет?",
+    "txt_rob_02.wav": "Если хочешь снять предмет с конца лески, выбери «Разобрать» в инвентаре.",
+    "txtel_lvl1101.wav": "Тс-с. Ведите себя очень, очень тихо. Я охочусь на кроликов. Хе-хе-хе-хе."
+  },
+  "snapshot_version": 1
+}

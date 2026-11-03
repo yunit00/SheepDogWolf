@@ -1,0 +1,31 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "ballad",
+  "speed": 1.05,
+  "seconds": 25.664375,
+  "request_id": "req_ac167168e7fd4e519a9ff0d8cc4726fd",
+  "script": {
+    "voice": "ballad",
+    "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 21.7 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+    "speed": 1.05,
+    "text": "Спокойно, без паники! Я как законченный профессионал знаю, как важно репетировать. Это твой звёздный час, и ты ведь не хочешь всё упустить! К тому же это я объяснял тебе эту игру, и если ты напортачишь, как я буду выглядеть? Не лучшим образом, вот как! Так что давай, тренируйся!",
+    "unit": {
+      "file": "cin_int_niv_08.wav",
+      "source_file": "cin_int_niv_08.wav",
+      "speaker": "Daffy Duck",
+      "text": "Спокойно, без паники! Я как законченный профессионал знаю, как важно репетировать. Это твой звёздный час, и ты ведь не хочешь всё упустить! К тому же это я объяснял тебе эту игру, и если ты напортачишь, как я буду выглядеть? Не лучшим образом, вот как! Так что давай, тренируйся!",
+      "start": 0.14,
+      "end": 21.84,
+      "source_seconds": 22.9183125,
+      "segments": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "sha256": "fd78858544a6f1044397eb679ab22843c21bfcf51894a973cc08d5a3831ab51a",
+  "status": "unreviewed"
+}

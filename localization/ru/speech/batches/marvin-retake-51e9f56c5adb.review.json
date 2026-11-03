@@ -1,0 +1,15 @@
+{
+  "transcript": "Ко мне, Кей-найн. Сидеть, мальчик.",
+  "character_voice": "Cartoonish, nasal, high-pitched Martian voice fitting Marvin the Martian.",
+  "lisp": "absent",
+  "issues": [],
+  "clips": [
+    {
+      "file": "cin_03_sc_rel_06.wav",
+      "start": 0.15,
+      "end": 3.25,
+      "transcript": "Ко мне, Кей-найн. Сидеть, мальчик.",
+      "complete": true
+    }
+  ]
+}

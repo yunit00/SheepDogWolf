@@ -1,0 +1,50 @@
+{
+  "transcript": "Ой! Что? Да! Хм? Да! Хммм.",
+  "character_voice": "Хриплый, комичный мультяшный голос волка.",
+  "lisp": "absent",
+  "issues": [],
+  "clips": [
+    {
+      "file": "fin1_2sec__00.wav",
+      "start": 0.0,
+      "end": 0.8,
+      "transcript": "Ой!",
+      "complete": true
+    },
+    {
+      "file": "fin1_2sec__01.wav",
+      "start": 1.1,
+      "end": 1.9,
+      "transcript": "Что?",
+      "complete": true
+    },
+    {
+      "file": "fin1_2sec__02.wav",
+      "start": 2.2,
+      "end": 2.9,
+      "transcript": "Да!",
+      "complete": true
+    },
+    {
+      "file": "fin1_2sec__03.wav",
+      "start": 3.4,
+      "end": 4.2,
+      "transcript": "Хм?",
+      "complete": true
+    },
+    {
+      "file": "intro_2sec__00.wav",
+      "start": 4.5,
+      "end": 5.2,
+      "transcript": "Да!",
+      "complete": true
+    },
+    {
+      "file": "intro_2sec__09.wav",
+      "start": 5.7,
+      "end": 6.9,
+      "transcript": "Хммм.",
+      "complete": true
+    }
+  ]
+}

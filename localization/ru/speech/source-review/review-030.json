@@ -1,0 +1,166 @@
+[
+  {
+    "file": "cin_03_sc_rel_01.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "That insignificant little earthling?",
+        "ru": "Этот ничтожный мелкий землянин?",
+        "start": 0.1,
+        "end": 2.85
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "It looks like that ridiculous creature reached my planet because of a blunder you made, is that right, hmm?",
+        "ru": "Похоже, это нелепое создание попало на мою планету из-за твоей оплошности, так ведь, хм?",
+        "start": 3.15,
+        "end": 10.45
+      }
+    ],
+    "source_seconds": 12.562
+  },
+  {
+    "file": "cin_03_sc_rel_02.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Well, let me tell you how your friend got here.",
+        "ru": "Что ж, позволь рассказать, как твой друг очутился здесь.",
+        "start": 0.1,
+        "end": 3.7
+      }
+    ],
+    "source_seconds": 4.54075
+  },
+  {
+    "file": "cin_03_sc_rel_03b.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "I was just getting ready to test my latest weapon, the PR-200.",
+        "ru": "Я как раз готовился испытать своё новейшее оружие — пи-эр двести.",
+        "start": 0.15,
+        "end": 4.9
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "A very practical tool which reduces any living species to one-tenth of its normal size.",
+        "ru": "Очень практичное устройство, уменьшающее любое живое существо до одной десятой обычного размера.",
+        "start": 5.4,
+        "end": 11.2
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "For the experiment, I enlisted the help of a devoted member of my army.",
+        "ru": "Для эксперимента я привлёк преданного бойца моей армии.",
+        "start": 11.65,
+        "end": 16.35
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "I was just about ready to test my invention, when suddenly an invader smashed into my water tank at full speed, and the whole tank collapsed all over my army.",
+        "ru": "Я уже был готов опробовать изобретение, как вдруг какой-то захватчик на полной скорости врезался в мой бак с водой, и весь бак рухнул прямо на мою армию.",
+        "start": 16.95,
+        "end": 29.5
+      }
+    ],
+    "source_seconds": 30.5624375
+  },
+  {
+    "file": "cin_03_sc_rel_03bis.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Drat!",
+        "ru": "Проклятье!",
+        "start": 0.1,
+        "end": 0.9
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "An invader smashed into my water tank at full speed, and the tank spilled on my entire army.",
+        "ru": "Какой-то захватчик на полной скорости врезался в мой бак с водой, и вода залила всю мою армию.",
+        "start": 1.4,
+        "end": 8.3
+      }
+    ],
+    "source_seconds": 9.2380625
+  },
+  {
+    "file": "cin_03_sc_rel_03ter.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "The accursed invader looked like a black sheep.",
+        "ru": "Этот треклятый захватчик выглядел как чёрная овца.",
+        "start": 0.15,
+        "end": 4.1
+      }
+    ],
+    "source_seconds": 5.25925
+  },
+  {
+    "file": "cin_03_sc_rel_04.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Wait, I haven't finished yet.",
+        "ru": "Постой, я ещё не закончил.",
+        "start": 0.1,
+        "end": 2.1
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "My army is still incomplete.",
+        "ru": "Моя армия всё ещё не в полном составе.",
+        "start": 2.6,
+        "end": 5.0
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "A somewhat rebellious unit has gotten themselves into a sticky situation and it's risky to get them out.",
+        "ru": "Один слегка непокорный отряд угодил в щекотливую ситуацию, и спасать его слишком рискованно.",
+        "start": 5.4,
+        "end": 12.1
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "I, Marvin the Martian, don't plan on taking any unnecessary risks.",
+        "ru": "А я, Марвин Марсианин, не намерен идти на неоправданный риск.",
+        "start": 12.75,
+        "end": 19.15
+      }
+    ],
+    "source_seconds": 19.908125
+  }
+]

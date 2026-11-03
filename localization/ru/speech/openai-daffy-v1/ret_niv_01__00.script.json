@@ -1,0 +1,18 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 1.9 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "И ещё одна победа!",
+  "unit": {
+    "file": "ret_niv_01__00.wav",
+    "source_file": "ret_niv_01.wav",
+    "speaker": "Daffy Duck",
+    "text": "И ещё одна победа!",
+    "start": 0.21,
+    "end": 2.14,
+    "source_seconds": 3.1864375,
+    "segments": [
+      0
+    ]
+  }
+}

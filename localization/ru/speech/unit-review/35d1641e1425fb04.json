@@ -1,0 +1,118 @@
+{
+  "files": [
+    {
+      "file": "intro_2sec__14.wav",
+      "transcript": "Так что давай, тренируйся!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_lvl_00__00.wav",
+      "transcript": "Что ты здесь делаешь?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_lvl_00__01.wav",
+      "transcript": "Не говори мне, что хочешь сдаться ещё до начала шоу.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_lvl_00__02.wav",
+      "transcript": "Ты же ещё только на репетиции!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_00a__00.wav",
+      "transcript": "Браво!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "ret_niv_00a__01.wav",
+      "transcript": "Наш участник просто великолепен!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_goal_01__00.wav",
+      "transcript": "Уф! Разбираться с подобными вещами точно не входило в мой контракт.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_goal_01__01.wav",
+      "transcript": "Может кто-нибудь помочь неосведомлённой утке?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_goal_01__02.wav",
+      "transcript": "Итак, что же нам делать? Так сойдёт или нет? Чисто технически овцу доставили на финиш, и она находится на финише, так что это должно засчитываться, верно?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cin_goal_01__03.wav",
+      "transcript": "И ещё одна победа нашего участника!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "intro_2sec__14.wav": "ca67781604d1a32dfef38cc5dc209700be6d71cf90985d8c70e98e52635bfb83",
+    "ret_lvl_00__00.wav": "3acb49b54d1362a9d810b5d2cc3c56aeaa1d7d5a03c1ee304ed9870e9ee96f9e",
+    "ret_lvl_00__01.wav": "163c695b95baad23f8d5e861bcfd1be988252950d3d2347f25ca8017a964543e",
+    "ret_lvl_00__02.wav": "698b5e4d14e59ec26dd3b1cf1d1b44d918058c63f5c38d6b5280d0958e028026",
+    "ret_niv_00a__00.wav": "fb6771be3594508dac173d75e594cf8f4e5a5bae35ff8a4eea518ad7020e7da7",
+    "ret_niv_00a__01.wav": "8d410059bb408b6b239cbc8af22a63b7a2d462df8cfbade4844d38eae24b6461",
+    "cin_goal_01__00.wav": "32094647c4953ab7db96277174833ec601f5755f017066adcf18ac1b564cfd3d",
+    "cin_goal_01__01.wav": "be07603bd93a3cde25dfc412c7dc476808370adf219625e830b167ced0c38bd8",
+    "cin_goal_01__02.wav": "af62138228a998fae14c944e8775a949e4ed76135ae46db0e43e06d7f8e49b2d",
+    "cin_goal_01__03.wav": "be1ef9210cf5943de3e29a46a1d3eaa75b4cc4a60b3a4c9e764873b9eccbfdc3"
+  },
+  "references": {
+    "intro_2sec__14.wav": "Так что давай, тренируйся!",
+    "ret_lvl_00__00.wav": "Что ты здесь делаешь?",
+    "ret_lvl_00__01.wav": "Не говори мне, что хочешь сдаться ещё до начала шоу.",
+    "ret_lvl_00__02.wav": "Ты же ещё только на репетиции!",
+    "ret_niv_00a__00.wav": "Браво!",
+    "ret_niv_00a__01.wav": "Наш участник просто великолепен!",
+    "cin_goal_01__00.wav": "Уф! Разбираться с подобными вещами точно не входило в мой контракт.",
+    "cin_goal_01__01.wav": "Может кто-нибудь помочь неосведомлённой утке?",
+    "cin_goal_01__02.wav": "Итак, что же нам делать? Так сойдёт или нет? Чисто технически овцу доставили на финиш, и она находится на финише, так что это должно засчитываться, верно?",
+    "cin_goal_01__03.wav": "И ещё одна победа нашего участника!"
+  }
+}

@@ -17,6 +17,7 @@
 #include "sdw_types.h"
 #include "sdw_enums.h"
 #include "../platform/save_store.h"
+#include "../platform/platform.h"
 
 #include "../sdk/windef.h"
 #include "../sdk/crt.h"
@@ -56,6 +57,7 @@ class InputDevice;
 
 /* ---- engine ---- */
 #include "bs_io.h"
+#include "input.h"
 LONG Reg_CreateSubKey(HKEY *out, const char *name);
 void Reg_CloseKey(HKEY *key);
 DWORD Reg_ReadBinary(HKEY key, const char *name, void *buf, DWORD bufSize);
@@ -346,7 +348,7 @@ void InputMgr::SetActiveFlags(u8 flag)
         keyboard->SetAllowHeld(0);
     }
     if (presentMask & INPUTDEV_MASK_MOUSE)
-        device3->SetAllowHeld(1);
+        device3->SetAllowHeld(flag);
     current->SetAllowHeld(flag);
 }
 
@@ -434,6 +436,16 @@ long InputMgr::Poll()
         for (slot = INPUT_BIND_TRIANGLE; slot <= INPUT_BIND_R3; slot++) {
             if (InputMgr_SlotHeld(&keyTable[slot]) || (s_padConnected && InputMgr_SlotHeld(&padTable[slot])))
                 padBits &= (u16)~s_slotPadBit[slot];
+        }
+        /* Mouse shortcuts represent actions, not fabricated E/F key presses.
+         * This keeps them correct after a keyboard/control-preset remap, and
+         * the mouse device's edge filtering prevents a held click from
+         * immediately confirming a newly opened dialogue. */
+        if ((presentMask & INPUTDEV_MASK_MOUSE) && device3) {
+            if (device3->buttonCount > 0 && device3->buttonPressed[0])
+                padBits &= g_inputMap[14]; // interact / confirm
+            if (device3->buttonCount > 1 && device3->buttonPressed[1] && Platform_MouseCameraCaptured())
+                padBits &= g_inputMap[11]; // sneak / cover (only during gameplay)
         }
         nav = PAD_ALL_RELEASED;
         escPressed = !escPrev && escDown ? 1 : 0;
@@ -589,18 +601,29 @@ u8 InputMgr::LoadConfig(const char *dir)
         if (modernKey) Save_SetValue(modernKey, "ModernControlsV1", 4, &modern, sizeof(modern));
     }
     if (modernKey) Save_CloseKey(modernKey);
+    // Migrate only our former C default. Preserve deliberate player remaps.
+    modernKey = Save_OpenKey("Config");
+    modern = 0; size = sizeof(modern);
+    if (!modernKey || Save_QueryValue(modernKey, "ModernControlsV2", &type, &modern, &size) != SAVE_OK || modern != 1) {
+        bool changed = keyTable[INPUT_BIND_R1].dev == keyboard && keyTable[INPUT_BIND_R1].code == 0x2e;
+        if (changed) keyTable[INPUT_BIND_R1].code = 0x1d;
+        if (modernKey) { Save_CloseKey(modernKey); modernKey = 0; }
+        if (changed) SaveConfig(dir);
+        modernKey = Save_OpenKey("Config");
+        modern = 1;
+        if (modernKey) Save_SetValue(modernKey, "ModernControlsV2", 4, &modern, sizeof(modern));
+    }
+    if (modernKey) Save_CloseKey(modernKey);
     ApplyFixedPadMapping(); /* over whatever the saved or default controller bindings said */
     return ok;
 }
 
-/* The port's changes to the disc's default keyboard layout (DefKConf.BSC), applied only when the defaults are loaded:
- * a layout the player saved from the pause menu (KeybConf) is left as it is.
- *   - sneak (R1) moves from Left Ctrl to C: Ctrl + the arrow keys (movement) is taken by macOS for Mission Control and
- *     switching Spaces, before the game sees it. It moves on every OS, so the layout is the same everywhere. */
+/* Modern keyboard defaults; scan codes work independently of the active
+ * language. Ctrl is safe with WASD (unlike the old Ctrl + arrow layout). */
 void InputMgr::ApplyDefaultKeyChanges()
 {
     // Physical scan codes remain the same with a Russian keyboard layout.
-    const u16 codes[12] = {0x21,0x2a,0x12,0x39,0x0f,0x2e,0x10,0x13,0x32,0x1c,0x3b,0x3c};
+    const u16 codes[12] = {0x21,0x2a,0x12,0x39,0x0f,0x1d,0x10,0x13,0x32,0x1c,0x3b,0x3c};
     for (u8 i=0; i<12; ++i) { keyTable[i].dev = keyboard; keyTable[i].code = codes[i]; }
     BindMenuKey(INPUT_BIND_MENU_UP, 0x11);    // W
     BindMenuKey(INPUT_BIND_MENU_RIGHT, 0x20); // D

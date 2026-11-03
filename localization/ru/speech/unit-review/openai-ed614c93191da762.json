@@ -1,0 +1,118 @@
+{
+  "files": [
+    {
+      "file": "cintxt_lvl1603.wav",
+      "transcript": "Красный сигнал означает, что в следующий раз поезд остановится. Если хочешь сменить цвет сигнала, нажми кнопку рядом с ним.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cintxt_lvl1604.wav",
+      "transcript": "Зелёный свет на поезде заставляет его снова тронуться ещё до полной остановки. А ещё с его помощью можно заставить поезд уехать быстрее.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "cintxt_lvl1605.wav",
+      "transcript": "Синий хронометр показывает, сколько времени осталось до прибытия поезда на станцию, а красный — сколько осталось до отправления поезда. А от моего хронометра одни неприятности. Надо бы эту штуку починить. Алло?",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__01.wav",
+      "transcript": "Привет и добро пожаловать на «Шоу Овца, Собака и Волк», или, как мне больше нравится, «Кто хочет стать похитителем овец?»!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__02.wav",
+      "transcript": "Слушай, приятель, всё, что тебе нужно — расслабиться и играть. А я использую эту работёнку, чтобы взлететь на вершину суперславы!",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__03.wav",
+      "transcript": "Итак, цель нашей игры проста: воровать овец.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__04.wav",
+      "transcript": "Ты пройдёшь через серию уровней. На каждом из них тебе придётся украсть овцу у овчарки Сэма и доставить её на финиш.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__05.wav",
+      "transcript": "Если справишься, сможешь перейти к следующему испытанию, и так далее, пока наконец не утащишь всю отару.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__06.wav",
+      "transcript": "Но — и это очень важное «но» — в конце каждого уровня овца должна быть цела и невредима.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    },
+    {
+      "file": "intro_2sec__07.wav",
+      "transcript": "Тебя дисквалифицируют, если овца потеряет хотя бы ниточку шерсти.",
+      "complete": true,
+      "first_word_clear": true,
+      "last_word_clear": true,
+      "english_speech": false,
+      "issues": []
+    }
+  ],
+  "inputs": {
+    "cintxt_lvl1603.wav": "cda1a9ee8a45089d7b6e8f896fc5d08c88309b920e24e2ffd7b0192ee745216d",
+    "cintxt_lvl1604.wav": "04d49e5e6177eedbfdcbfabbb4f271e7a41cfd13226ffb7510ee8c02f5d68e79",
+    "cintxt_lvl1605.wav": "a09842ecc426bac4eb8074f8cf29c32f8c01e082644e7caf0e8093c49f0207fa",
+    "intro_2sec__01.wav": "fc4873611eacdb9d9014cc92a098092b8f7d6411877d74fd636570fe66725066",
+    "intro_2sec__02.wav": "910ceb3f80536b42be37d88b41c14efc658c50aa61481da036d230713876c013",
+    "intro_2sec__03.wav": "b2c2fe9139851325d7d8e4f4c6c4c19b3a0845836919724bf9a6853c618ee53f",
+    "intro_2sec__04.wav": "833012081fc8d977fcfdb4aabe04a160359b53f7271430198a4ae720ae207d83",
+    "intro_2sec__05.wav": "48a59f8cd694cbcfd57906713b5d2d0ca1ca6f15afb1064c113e1531e37cb320",
+    "intro_2sec__06.wav": "4d5aad3704fe86262d5e3006f71c84fb43d1b9ef7b7970074a55edb12ef89f75",
+    "intro_2sec__07.wav": "615aa4beb7113e18258554b602ae92006f69be76dadf373ed15981f801291697"
+  },
+  "references": {
+    "cintxt_lvl1603.wav": "Красный сигнал означает, что в следующий раз поезд остановится. Если хочешь сменить цвет сигнала, нажми кнопку рядом с ним.",
+    "cintxt_lvl1604.wav": "Зелёный свет на поезде заставляет его снова тронуться ещё до полной остановки. А ещё с его помощью можно заставить поезд уехать быстрее.",
+    "cintxt_lvl1605.wav": "Синий хронометр показывает, сколько времени осталось до прибытия поезда на станцию, а красный — сколько осталось до отправления поезда. А от моего хронометра одни неприятности. Надо бы эту штуку починить. Алло?",
+    "intro_2sec__01.wav": "Привет и добро пожаловать на «Шоу Овца, Собака и Волк», или, как мне больше нравится, «Кто хочет стать похитителем овец?»!",
+    "intro_2sec__02.wav": "Слушай, приятель, всё, что тебе нужно — расслабиться и играть. А я использую эту работёнку, чтобы взлететь на вершину суперславы!",
+    "intro_2sec__03.wav": "Итак, цель нашей игры проста: воровать овец.",
+    "intro_2sec__04.wav": "Ты пройдёшь через серию уровней. На каждом из них тебе придётся украсть овцу у овчарки Сэма и доставить её на финиш.",
+    "intro_2sec__05.wav": "Если справишься, сможешь перейти к следующему испытанию, и так далее, пока наконец не утащишь всю отару.",
+    "intro_2sec__06.wav": "Но — и это очень важное «но» — в конце каждого уровня овца должна быть цела и невредима.",
+    "intro_2sec__07.wav": "Тебя дисквалифицируют, если овца потеряет хотя бы ниточку шерсти."
+  }
+}

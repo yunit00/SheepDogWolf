@@ -1,0 +1,15 @@
+{
+  "transcript": "Э-э-это не смешно.",
+  "character_voice": "Cartoonish male voice with characteristic Porky Pig stuttering.",
+  "lisp": "absent",
+  "issues": [],
+  "clips": [
+    {
+      "file": "cintxtex_lvl_0106.wav",
+      "start": 0.0,
+      "end": 2.32,
+      "transcript": "Э-э-это не смешно.",
+      "complete": true
+    }
+  ]
+}

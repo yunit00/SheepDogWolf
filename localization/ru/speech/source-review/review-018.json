@@ -1,0 +1,313 @@
+[
+  {
+    "file": "Cin_int_niv_12.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Another way to configure some game settings is to press the start button.",
+        "ru": "Ещё один способ изменить настройки игры — нажать кнопку «Старт».",
+        "start": 0.08,
+        "end": 4.85
+      }
+    ],
+    "source_seconds": 5.610875
+  },
+  {
+    "file": "Mars_2sec.wav",
+    "music": true,
+    "effects": true,
+    "speech_over_music": true,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Fantastic!",
+        "ru": "Фантастика!",
+        "start": 14.35,
+        "end": 15.8
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "The last sheep!",
+        "ru": "Последняя овечка!",
+        "start": 15.85,
+        "end": 17.35
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You did it!",
+        "ru": "У тебя получилось!",
+        "start": 17.4,
+        "end": 18.5
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "You are an exceptional contestant.",
+        "ru": "Ты потрясающий участник.",
+        "start": 18.7,
+        "end": 21.15
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Unfortunately, our show is nearly over.",
+        "ru": "К сожалению, наше шоу почти закончилось.",
+        "start": 21.5,
+        "end": 24.45
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Thanks to all my fans out there for staying with us through to the end.",
+        "ru": "Спасибо всем моим поклонникам за то, что были с нами до самого конца.",
+        "start": 24.75,
+        "end": 29.15
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "See you soon!",
+        "ru": "До скорых встреч!",
+        "start": 29.35,
+        "end": 30.8
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Huh? What's this?",
+        "ru": "А? Это ещё что такое?",
+        "start": 31.4,
+        "end": 33.15
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "What's Marvin the Martian doing here?",
+        "ru": "Что здесь делает марсианин Марвин?",
+        "start": 33.35,
+        "end": 36.05
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "This wasn't in the script!",
+        "ru": "Этого не было в сценарии!",
+        "start": 36.35,
+        "end": 38.25
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "That insignificant little Earthling.",
+        "ru": "Этот ничтожный мелкий землянин.",
+        "start": 49.2,
+        "end": 52.0
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "It looks like that ridiculous creature reached my planet because of a blunder you made, is that right?",
+        "ru": "Похоже, это нелепое создание попало на мою планету из-за твоей оплошности, так ведь?",
+        "start": 52.15,
+        "end": 58.7
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Mmm.",
+        "ru": "М-м.",
+        "start": 58.8,
+        "end": 59.8
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Well, let me tell you how your friend got here.",
+        "ru": "Что ж, позволь рассказать, как твой друг очутился здесь.",
+        "start": 60.3,
+        "end": 63.4
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "I was just getting ready to test my latest weapon, the PR-200,",
+        "ru": "Я как раз готовился испытать своё новейшее оружие — пи-эр двести,",
+        "start": 68.0,
+        "end": 73.2
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "a very practical tool which reduces any living species to one-tenth of its normal size.",
+        "ru": "весьма практичный инструмент, уменьшающий любое живое существо до одной десятой нормального размера.",
+        "start": 73.55,
+        "end": 79.4
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "For the experiment, I enlisted the help of a devoted member of my army.",
+        "ru": "Для эксперимента я привлёк верного бойца моей армии.",
+        "start": 80.1,
+        "end": 84.4
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "I was just about ready to test my invention, when suddenly an invader smashed into my water tank at full speed, and the whole tank collapsed all over my army.",
+        "ru": "Я уже был готов опробовать изобретение, как вдруг какой-то захватчик на полной скорости врезался в мой бак с водой, и весь резервуар рухнул прямо на мою армию.",
+        "start": 84.8,
+        "end": 97.4
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "The accursed invader looked like a black sheep.",
+        "ru": "Проклятый захватчик был похож на чёрную овцу.",
+        "start": 106.4,
+        "end": 110.85
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "It was utter chaos, but after a super Martian effort and the help of my fantastic PR-200, I managed to get back most of my army.",
+        "ru": "Это был сущий хаос, но благодаря сверхусилиям марсианина и помощи моего фантастического пи-эр двести мне удалось вернуть большую часть моей армии.",
+        "start": 121.8,
+        "end": 133.4
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Isn't that delightful?",
+        "ru": "Разве это не прелестно?",
+        "start": 133.8,
+        "end": 135.5
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Wait, I haven't finished yet.",
+        "ru": "Погоди, я ещё не закончил.",
+        "start": 135.9,
+        "end": 138.0
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "My army is still incomplete.",
+        "ru": "Моя армия всё ещё не в полном сборе.",
+        "start": 138.6,
+        "end": 141.0
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "A somewhat rebellious unit has gotten themselves into a sticky situation, and it's risky to get them out.",
+        "ru": "Одно довольно непокорное подразделение влипло в неприятную историю, и вызволять их рискованно.",
+        "start": 141.3,
+        "end": 148.4
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "I, Marvin the Martian, don't plan on taking any unnecessary risks.",
+        "ru": "А я, марсианин Марвин, не намерен идти на ненужный риск.",
+        "start": 148.8,
+        "end": 154.8
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "It's up to you to repair the damage now, by returning to me my lost Instant Martians.",
+        "ru": "Теперь тебе придётся исправить ущерб и вернуть мне моих потерянных растворимых марсиан.",
+        "start": 155.3,
+        "end": 162.5
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Come, K-9!",
+        "ru": "Ко мне, Кей-найн!",
+        "start": 164.2,
+        "end": 165.6
+      },
+      {
+        "speaker": "Marvin the Martian",
+        "en": "Sit, boy.",
+        "ru": "Сидеть, дружок.",
+        "start": 165.8,
+        "end": 167.3
+      }
+    ],
+    "source_seconds": 208.7134375
+  },
+  {
+    "file": "be_01.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Who's responsible for this?",
+        "ru": "Кто за это отвечает?!",
+        "start": 0.18,
+        "end": 2.1
+      }
+    ],
+    "source_seconds": 3.2054375
+  },
+  {
+    "file": "be_02.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "Somebody get my agent on the phone! I can't work under these conditions!",
+        "ru": "Кто-нибудь, свяжите меня с моим агентом! Я не могу работать в таких условиях!",
+        "start": 0.1,
+        "end": 4.28
+      }
+    ],
+    "source_seconds": 5.0536875
+  },
+  {
+    "file": "be_03.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Daffy Duck",
+        "en": "All right.",
+        "ru": "Так, ладно.",
+        "start": 0.15,
+        "end": 0.85
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Who's the wise guy that replaced my microphone with this shaver?",
+        "ru": "Какой умник заменил мой микрофон этой бритвой?!",
+        "start": 1.0,
+        "end": 4.55
+      }
+    ],
+    "source_seconds": 5.894875
+  },
+  {
+    "file": "be_04.wav",
+    "music": false,
+    "effects": false,
+    "speech_over_music": false,
+    "notes": "",
+    "needs_review": false,
+    "segments": [
+      {
+        "speaker": "Nonverbal",
+        "en": "[laughing and sputtering]",
+        "ru": "",
+        "start": 0.05,
+        "end": 17.3
+      },
+      {
+        "speaker": "Daffy Duck",
+        "en": "Etcetera.",
+        "ru": "И так далее.",
+        "start": 17.4,
+        "end": 18.55
+      }
+    ],
+    "source_seconds": 19.092
+  }
+]

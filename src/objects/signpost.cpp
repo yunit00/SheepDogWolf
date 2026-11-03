@@ -531,7 +531,9 @@ void ChannelSign_AddToTutorial()
     if (!source) { Platform_Log("Channel sign: no rigid tutorial sign available"); return; }
     s32 page = PolyBatcher_AddImagePage(picture, 0);
     if (page < 0) return;
-    g_pPolyBin->texStateFlags[page] |= RSF_ZTEST;
+    // Inherit the world's depth test, like every other 3D texture page.
+    // Per-page RSF_ZTEST would be cleared after this material and disable
+    // depth testing for the remaining transparent plants in the same frame.
     ChannelSign *sign = new ChannelSign;
     sign->Init(source->record);
     sign->imagePage = page;

@@ -1,0 +1,18 @@
+{
+  "voice": "ballad",
+  "instructions": "Speak Russian. Male cartoon duck show host: bright medium-high nasal quacky timbre, energetic theatrical comic confidence. CLEAR natural lateral lisp on Russian с з ш ж sounds, slightly wet whistling consonants, but every word intelligible. Brisk and animated, never a calm audiobook narrator. Original cartoon duck character voice. Lateral duck lisp should be obvious and consistent, but every word clear. Brisk confident game-show host, comedic and animated, no screaming. Read only the input verbatim, with complete first/last syllables. No extras or effects. Длительность самой реплики — примерно 3.9 секунды. Произнеси весь текст, без пропусков. Короткая пауза перед первым и после последнего слова.",
+  "speed": 1.05,
+  "text": "Первым делом: как пользоваться камерой.",
+  "unit": {
+    "file": "txt_lvl_002.wav",
+    "source_file": "txt_lvl_002.wav",
+    "speaker": "Daffy Duck",
+    "text": "Первым делом: как пользоваться камерой.",
+    "start": 0.24,
+    "end": 4.18,
+    "source_seconds": 5.3905625,
+    "segments": [
+      0
+    ]
+  }
+}

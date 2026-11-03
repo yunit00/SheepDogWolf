@@ -1,0 +1,119 @@
+{
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "seconds": 46.4,
+  "script": {
+    "speaker": "Marvin the Martian",
+    "voice": "Charon",
+    "clips": [
+      {
+        "file": "cin_lvl_17_ob01.wav",
+        "source_file": "cin_lvl_17_ob01.wav",
+        "speaker": "Marvin the Martian",
+        "text": "Эти предметы «Икс» очень помогут вернуть моих растворимых марсиан. Если тебе удастся вернуть мне их всех, я доставлю тебя обратно на Землю — если ты действительно этого хочешь.",
+        "start": 0.08,
+        "end": 12.82,
+        "source_seconds": 13.3400625,
+        "segments": [
+          0,
+          1
+        ]
+      },
+      {
+        "file": "cin_lvl_17_ob02a.wav",
+        "source_file": "cin_lvl_17_ob02a.wav",
+        "speaker": "Marvin the Martian",
+        "text": "Некоторых всё ещё не хватает.",
+        "start": 0.08,
+        "end": 2.15,
+        "source_seconds": 2.606,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "cin_lvl_17_ob03a.wav",
+        "source_file": "cin_lvl_17_ob03a.wav",
+        "speaker": "Marvin the Martian",
+        "text": "Мне нужны все мои быстрорастворимые марсиане.",
+        "start": 0.38,
+        "end": 3.32,
+        "source_seconds": 3.8213125,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "cin_lvl_17_ob03b.wav",
+        "source_file": "cin_lvl_17_ob03b.wav",
+        "speaker": "Marvin the Martian",
+        "text": "Мне нужны все мои быстрорастворимые марсиане.",
+        "start": 0.28,
+        "end": 3.25,
+        "source_seconds": 3.9181875,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "cin_lvl_17_ob04a.wav",
+        "source_file": "cin_lvl_17_ob04a.wav",
+        "speaker": "Marvin the Martian",
+        "text": "Отличная работа! Теперь можно на борт.",
+        "start": 0.16,
+        "end": 2.52,
+        "source_seconds": 4.16,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "cin_lvl_ob04b.wav",
+        "source_file": "cin_lvl_ob04b.wav",
+        "speaker": "Marvin the Martian",
+        "text": "Отличная работа! Теперь можно на борт.",
+        "start": 0.18,
+        "end": 2.41,
+        "source_seconds": 3.948375,
+        "segments": [
+          0
+        ]
+      },
+      {
+        "file": "cin_mar_01.wav",
+        "source_file": "cin_mar_01.wav",
+        "speaker": "Marvin the Martian",
+        "text": "Чтобы поймать моих быстрорастворимых марсиан, тебе придётся использовать этот вакуумный компрессор. Когда быстрорастворимый марсианин окажется рядом с ним, включи компрессор пультом управления. Марсианина сожмёт и засосёт внутрь, а затем отправит ко мне по этой трубе. Разве не прелестно?",
+        "start": 0.45,
+        "end": 21.75,
+        "source_seconds": 22.8703125,
+        "segments": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "prompt": "Russian dubbing for a classic cartoon game. Male small Martian villain: soft nasal slightly metallic timbre, precise pedantic diction, dry comic menace, restrained theatricality. Calm but fairly brisk, no digital effects. Use the SAME character voice throughout. Speak every Russian sentence exactly and completely, no missing words. Brisk clear conversational rhythm, around 3 Russian words per second. No music, no sound effects, no introduction or conclusion. Read ONLY the Russian text of each entry below. Do not say entry numbers or labels. Leave TWO SECONDS of SILENCE between entries so the editor can split recordings. Do not say any separator words. Begin and end with a short silence.\n\n1. Эти предметы «Икс» очень помогут вернуть моих растворимых марсиан. Если тебе удастся вернуть мне их всех, я доставлю тебя обратно на Землю — если ты действительно этого хочешь.\n\n2. Некоторых всё ещё не хватает.\n\n3. Мне нужны все мои быстрорастворимые марсиане.\n\n4. Мне нужны все мои быстрорастворимые марсиане.\n\n5. Отличная работа! Теперь можно на борт.\n\n6. Отличная работа! Теперь можно на борт.\n\n7. Чтобы поймать моих быстрорастворимых марсиан, тебе придётся использовать этот вакуумный компрессор. Когда быстрорастворимый марсианин окажется рядом с ним, включи компрессор пультом управления. Марсианина сожмёт и засосёт внутрь, а затем отправит ко мне по этой трубе. Разве не прелестно?"
+  },
+  "usage": {
+    "promptTokenCount": 345,
+    "candidatesTokenCount": 1160,
+    "totalTokenCount": 1505,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 345
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 1160
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "status": "unreviewed"
+}
